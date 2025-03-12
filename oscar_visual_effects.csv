@@ -1,0 +1,419 @@
+movieTitle,releaseDate,categoryName,iteration,isWinner
+Wings,1927,Best Visual Effects,1st,yes
+Spawn of the North,1938,Best Visual Effects,11th,yes
+The Rains Came,1939,Best Visual Effects,12th,yes
+Gone with the Wind,1939,Best Visual Effects,12th,no
+Only Angels Have Wings,1939,Best Visual Effects,12th,no
+The Private Lives of Elizabeth,1939,Best Visual Effects,12th,no
+Essex,1939,Best Visual Effects,12th,no
+Topper Takes a Trip,1939,Best Visual Effects,12th,no
+Union Pacific,1939,Best Visual Effects,12th,no
+The Wizard of Oz,1939,Best Visual Effects,12th,no
+The Thief of Bagdad,1940,Best Visual Effects,13th,yes
+The Blue Bird,1940,Best Visual Effects,13th,no
+Boom Town,1940,Best Visual Effects,13th,no
+The Boys from Syracuse,1940,Best Visual Effects,13th,no
+Dr. Cyclops,1940,Best Visual Effects,13th,no
+Foreign Correspondent,1940,Best Visual Effects,13th,no
+The Invisible Man Returns,1940,Best Visual Effects,13th,no
+The Long Voyage Home,1940,Best Visual Effects,13th,no
+One Million B.C.,1940,Best Visual Effects,13th,no
+Rebecca,1940,Best Visual Effects,13th,no
+The Sea Hawk,1940,Best Visual Effects,13th,no
+Swiss Family Robinson,1940,Best Visual Effects,13th,no
+Typhoon,1940,Best Visual Effects,13th,no
+Women in War,1940,Best Visual Effects,13th,no
+I Wanted Wings,1941,Best Visual Effects,14th,yes
+Aloma of the South Seas,1941,Best Visual Effects,14th,no
+Dive Bomber[13],1941,Best Visual Effects,14th,no
+Flight Command,1941,Best Visual Effects,14th,no
+The Invisible Woman,1941,Best Visual Effects,14th,no
+The Sea Wolf,1941,Best Visual Effects,14th,no
+That Hamilton Woman,1941,Best Visual Effects,14th,no
+Topper Returns,1941,Best Visual Effects,14th,no
+A Yank in the R.A.F.,1941,Best Visual Effects,14th,no
+Reap the Wild Wind,1942,Best Visual Effects,15th,yes
+The Black Swan,1942,Best Visual Effects,15th,no
+Desperate Journey,1942,Best Visual Effects,15th,no
+Flying Tigers,1942,Best Visual Effects,15th,no
+Invisible Agent,1942,Best Visual Effects,15th,no
+Jungle Book,1942,Best Visual Effects,15th,no
+Mrs. Miniver,1942,Best Visual Effects,15th,no
+The Navy Comes Through,1942,Best Visual Effects,15th,no
+One of Our Aircraft Is Missing,1942,Best Visual Effects,15th,no
+The Pride of the Yankees,1942,Best Visual Effects,15th,no
+Crash Dive,1943,Best Visual Effects,16th,yes
+Air Force,1943,Best Visual Effects,16th,no
+Bombardier,1943,Best Visual Effects,16th,no
+The North Star,1943,Best Visual Effects,16th,no
+So Proudly We Hail!,1943,Best Visual Effects,16th,no
+Stand By for Action,1943,Best Visual Effects,16th,no
+Thirty Seconds Over Tokyo,1944,Best Visual Effects,17th,yes
+The Adventures of Mark Twain,1944,Best Visual Effects,17th,no
+Days of Glory,1944,Best Visual Effects,17th,no
+Secret Command,1944,Best Visual Effects,17th,no
+Since You Went Away,1944,Best Visual Effects,17th,no
+The Story of Dr. Wassell,1944,Best Visual Effects,17th,no
+Wilson,1944,Best Visual Effects,17th,no
+Wonder Man,1945,Best Visual Effects,18th,yes
+Captain Eddie,1945,Best Visual Effects,18th,no
+Spellbound,1945,Best Visual Effects,18th,no
+They Were Expendable,1945,Best Visual Effects,18th,no
+A Thousand,1945,Best Visual Effects,18th,no
+One Nights,1945,Best Visual Effects,18th,no
+Blithe Spirit,1946,Best Visual Effects,19th,yes
+A Stolen Life,1946,Best Visual Effects,19th,no
+Green Dolphin Street,1947,Best Visual Effects,20th,yes
+Unconquered,1947,Best Visual Effects,20th,no
+Portrait of Jennie,1948,Best Visual Effects,21st,yes
+Deep Waters,1948,Best Visual Effects,21st,no
+Mighty Joe Young,1949,Best Visual Effects,22nd,yes
+Tulsa,1949,Best Visual Effects,22nd,no
+Destination Moon,1950,Best Visual Effects,23rd,yes
+Samson,1950,Best Visual Effects,23rd,no
+Delilah,1950,Best Visual Effects,23rd,no
+When Worlds Collide,1951,Best Visual Effects,24th,yes
+Plymouth Adventure,1952,Best Visual Effects,25th,yes
+The War of the Worlds,1953,Best Visual Effects,26th,yes
+20,1954,Best Visual Effects,27th,yes
+000 Leagues Under the Sea,1954,Best Visual Effects,27th,yes
+Hell,1954,Best Visual Effects,27th,no
+High Water,1954,Best Visual Effects,27th,no
+Them!,1954,Best Visual Effects,27th,no
+The Bridges at Toko-Ri,1955,Best Visual Effects,28th,yes
+The Dam Busters,1955,Best Visual Effects,28th,no
+The Rains of Ranchipur,1955,Best Visual Effects,28th,no
+The Ten Commandments,1956,Best Visual Effects,29th,yes
+Forbidden Planet,1956,Best Visual Effects,29th,no
+The Enemy Below,1957,Best Visual Effects,30th,yes
+The Spirit of St. Louis,1957,Best Visual Effects,30th,no
+Tom Thumb,1958,Best Visual Effects,31st,yes
+Torpedo Run,1958,Best Visual Effects,31st,no
+Ben-Hur,1959,Best Visual Effects,32nd,yes
+Journey to the Center of the Earth,1959,Best Visual Effects,32nd,no
+The Time Machine,1960,Best Visual Effects,33rd,yes
+The Last Voyage,1960,Best Visual Effects,33rd,no
+Bill Warrington(visual);Vivian C. Greenham(audible),1961,Best Visual Effects,34th,yes
+The Absent-Minded Professor,1961,Best Visual Effects,34th,no
+Robert MacDonald(visual);Jacques Maumont(audible),1962,Best Visual Effects,35th,yes
+Mutiny on the Bounty,1962,Best Visual Effects,35th,no
+Cleopatra,1963,Best Visual Effects,36th,yes
+The Birds,1963,Best Visual Effects,36th,no
+Peter Ellenshaw,1964,Best Visual Effects,37th,yes
+Eustace Lycett,1964,Best Visual Effects,37th,yes
+andHamilton Luske,1964,Best Visual Effects,37th,yes
+7 Faces of Dr. Lao,1964,Best Visual Effects,37th,no
+John Stears,1965,Best Visual Effects,38th,yes
+The Greatest Story Ever Told,1965,Best Visual Effects,38th,no
+Art Cruickshank,1966,Best Visual Effects,39th,yes
+Hawaii,1966,Best Visual Effects,39th,no
+L. B. Abbott,1967,Best Visual Effects,40th,yes
+Tobruk,1967,Best Visual Effects,40th,no
+Stanley Kubrick,2001,Best Visual Effects,41st,yes
+Ice Station Zebra,2001,Best Visual Effects,41st,no
+Robbie Robertson,1969,Best Visual Effects,42nd,yes
+Krakatoa,1969,Best Visual Effects,42nd,no
+East of Java,1969,Best Visual Effects,42nd,no
+Tora! Tora! Tora!,1970,Best Visual Effects,43rd,yes
+Patton,1970,Best Visual Effects,43rd,no
+Bedknobs,1971,Best Visual Effects,44th,yes
+Broomsticks,1971,Best Visual Effects,44th,yes
+When Dinosaurs Ruled the Earth,1971,Best Visual Effects,44th,no
+The Poseidon Adventure,1972,Best Visual Effects,45th,yes
+Earthquake,1974,Best Visual Effects,47th,yes
+The Hindenburg,1975,Best Visual Effects,48th,yes
+King Kong,1976,Best Visual Effects,49th,yes
+L. B. Abbott,1976,Best Visual Effects,49th,yes
+Glen Robinson,1976,Best Visual Effects,49th,yes
+andMatthew Yuricich,1976,Best Visual Effects,49th,yes
+Star Wars,1977,Best Visual Effects,50th,yes
+Close Encounters of the Third Kind,1977,Best Visual Effects,50th,no
+Superman,1978,Best Visual Effects,51st,yes
+Alien,1979,Best Visual Effects,52nd,yes
+1941,1941,Best Visual Effects,52nd,no
+The Black Hole,1941,Best Visual Effects,52nd,no
+Moonraker,1941,Best Visual Effects,52nd,no
+Star Trek: The Motion Picture,1941,Best Visual Effects,52nd,no
+The Empire Strikes Back,1980,Best Visual Effects,53rd,yes
+Richard Edlund,1981,Best Visual Effects,54th,yes
+Kit West,1981,Best Visual Effects,54th,yes
+Bruce Nicholson,1981,Best Visual Effects,54th,yes
+andJoe Johnston,1981,Best Visual Effects,54th,yes
+Dragonslayer,1981,Best Visual Effects,54th,no
+Carlo Rambaldi,1982,Best Visual Effects,55th,yes
+Dennis Muren,1982,Best Visual Effects,55th,yes
+andKenneth F. Smith,1982,Best Visual Effects,55th,yes
+Blade Runner,1982,Best Visual Effects,55th,no
+Poltergeist,1982,Best Visual Effects,55th,no
+Richard Edlund,1983,Best Visual Effects,56th,yes
+Dennis Muren,1983,Best Visual Effects,56th,yes
+Ken Ralston,1983,Best Visual Effects,56th,yes
+andPhil Tippett,1983,Best Visual Effects,56th,yes
+Dennis Muren,1984,Best Visual Effects,57th,yes
+Michael J. McAlister,1984,Best Visual Effects,57th,yes
+Lorne Peterson,1984,Best Visual Effects,57th,yes
+andGeorge Gibbs,1984,Best Visual Effects,57th,yes
+2010,2010,Best Visual Effects,57th,no
+Ghostbusters,2010,Best Visual Effects,57th,no
+Ken Ralston,1985,Best Visual Effects,58th,yes
+Ralph McQuarrie,1985,Best Visual Effects,58th,yes
+Scott Farrar,1985,Best Visual Effects,58th,yes
+andDavid Berry,1985,Best Visual Effects,58th,yes
+Return to Oz,1985,Best Visual Effects,58th,no
+Young Sherlock Holmes,1985,Best Visual Effects,58th,no
+Robert Skotak,1986,Best Visual Effects,59th,yes
+Stan Winston,1986,Best Visual Effects,59th,yes
+John Richardson,1986,Best Visual Effects,59th,yes
+andSuzanne M. Benson,1986,Best Visual Effects,59th,yes
+Little Shop of Horrors,1986,Best Visual Effects,59th,no
+Poltergeist II: The Other Side,1986,Best Visual Effects,59th,no
+Dennis Muren,1987,Best Visual Effects,60th,yes
+William George,1987,Best Visual Effects,60th,yes
+Harley Jessup,1987,Best Visual Effects,60th,yes
+andKenneth F. Smith,1987,Best Visual Effects,60th,yes
+Predator,1987,Best Visual Effects,60th,no
+Ken Ralston,1988,Best Visual Effects,61st,yes
+Richard Williams,1988,Best Visual Effects,61st,yes
+Edward Jones,1988,Best Visual Effects,61st,yes
+andGeorge Gibbs,1988,Best Visual Effects,61st,yes
+Die Hard,1988,Best Visual Effects,61st,no
+Willow,1988,Best Visual Effects,61st,no
+John Bruno,1989,Best Visual Effects,62nd,yes
+Dennis Muren,1989,Best Visual Effects,62nd,yes
+Hoyt Yeatman,1989,Best Visual Effects,62nd,yes
+andDennis Skotak,1989,Best Visual Effects,62nd,yes
+The Adventures of Baron Munchausen,1989,Best Visual Effects,62nd,no
+Back to the Future Part II,1989,Best Visual Effects,62nd,no
+Total Recall,1990,Best Visual Effects,63rd,yes
+Dennis Muren,1991,Best Visual Effects,64th,yes
+Stan Winston,1991,Best Visual Effects,64th,yes
+Gene Warren Jr.,1991,Best Visual Effects,64th,yes
+andRobert Skotak,1991,Best Visual Effects,64th,yes
+Backdraft,1991,Best Visual Effects,64th,no
+Hook,1991,Best Visual Effects,64th,no
+Ken Ralston,1992,Best Visual Effects,65th,yes
+Doug Chiang,1992,Best Visual Effects,65th,yes
+Douglas Smythe,1992,Best Visual Effects,65th,yes
+andTom Woodruff Jr.,1992,Best Visual Effects,65th,yes
+Alien 3,1992,Best Visual Effects,65th,no
+Batman Returns,1992,Best Visual Effects,65th,no
+Dennis Muren,1993,Best Visual Effects,66th,yes
+Stan Winston,1993,Best Visual Effects,66th,yes
+Phil Tippett,1993,Best Visual Effects,66th,yes
+andMichael Lantieri,1993,Best Visual Effects,66th,yes
+Cliffhanger,1993,Best Visual Effects,66th,no
+The Nightmare Before Christmas,1993,Best Visual Effects,66th,no
+Ken Ralston,1994,Best Visual Effects,67th,yes
+George Murphy,1994,Best Visual Effects,67th,yes
+Stephen Rosenbaum,1994,Best Visual Effects,67th,yes
+andAllen Hall,1994,Best Visual Effects,67th,yes
+The Mask,1994,Best Visual Effects,67th,no
+True Lies,1994,Best Visual Effects,67th,no
+Scott E. Anderson,1995,Best Visual Effects,68th,yes
+Charles Gibson,1995,Best Visual Effects,68th,yes
+Neal Scanlan,1995,Best Visual Effects,68th,yes
+andJohn Cox,1995,Best Visual Effects,68th,yes
+Apollo 13,1995,Best Visual Effects,68th,no
+Volker Engel,1996,Best Visual Effects,69th,yes
+Douglas Smith,1996,Best Visual Effects,69th,yes
+Clay Pinney,1996,Best Visual Effects,69th,yes
+andJoseph Viskocil,1996,Best Visual Effects,69th,yes
+Dragonheart,1996,Best Visual Effects,69th,no
+Twister,1996,Best Visual Effects,69th,no
+Robert Legato,1997,Best Visual Effects,70th,yes
+Mark Lasoff,1997,Best Visual Effects,70th,yes
+Thomas L. Fisher,1997,Best Visual Effects,70th,yes
+andMichael Kanfer,1997,Best Visual Effects,70th,yes
+The Lost World: Jurassic Park,1997,Best Visual Effects,70th,no
+Starship Troopers,1997,Best Visual Effects,70th,no
+Joel Hynek,1998,Best Visual Effects,71st,yes
+Nicholas Brooks,1998,Best Visual Effects,71st,yes
+Stuart Robertson,1998,Best Visual Effects,71st,yes
+andKevin Mack,1998,Best Visual Effects,71st,yes
+Armageddon,1998,Best Visual Effects,71st,no
+Mighty Joe Young,1998,Best Visual Effects,71st,no
+John Gaeta,1999,Best Visual Effects,72nd,yes
+Janek Sirrs,1999,Best Visual Effects,72nd,yes
+Steve Courtley,1999,Best Visual Effects,72nd,yes
+andJon Thum,1999,Best Visual Effects,72nd,yes
+Star Wars: Episode I – The Phantom Menace,1999,Best Visual Effects,72nd,no
+Stuart Little,1999,Best Visual Effects,72nd,no
+Gladiator,2000,Best Visual Effects,73rd,yes
+Hollow Man,2000,Best Visual Effects,73rd,no
+The Perfect Storm,2000,Best Visual Effects,73rd,no
+Jim Rygiel,2001,Best Visual Effects,74th,yes
+Randall William Cook,2001,Best Visual Effects,74th,yes
+Richard Taylor,2001,Best Visual Effects,74th,yes
+andMark Stetson,2001,Best Visual Effects,74th,yes
+A.I. Artificial Intelligence,2001,Best Visual Effects,74th,no
+Pearl Harbor,2001,Best Visual Effects,74th,no
+Jim Rygiel,2002,Best Visual Effects,75th,yes
+Joe Letteri,2002,Best Visual Effects,75th,yes
+Randall William Cook,2002,Best Visual Effects,75th,yes
+andAlex Funke,2002,Best Visual Effects,75th,yes
+Spider-Man,2002,Best Visual Effects,75th,no
+Star Wars: Episode II – Attack of the Clones,2002,Best Visual Effects,75th,no
+Jim Rygiel,2003,Best Visual Effects,76th,yes
+Joe Letteri,2003,Best Visual Effects,76th,yes
+Randall William Cook,2003,Best Visual Effects,76th,yes
+andAlex Funke,2003,Best Visual Effects,76th,yes
+Master,2003,Best Visual Effects,76th,no
+Commander: The Far Side of the World,2003,Best Visual Effects,76th,no
+Pirates of the Caribbean: The Curse of the Black Pearl,2003,Best Visual Effects,76th,no
+John Dykstra,2004,Best Visual Effects,77th,yes
+Scott Stokdyk,2004,Best Visual Effects,77th,yes
+Anthony LaMolinara,2004,Best Visual Effects,77th,yes
+andJohn Frazier,2004,Best Visual Effects,77th,yes
+Harry Potter,2004,Best Visual Effects,77th,no
+the Prisoner of Azkaban,2004,Best Visual Effects,77th,no
+I,2004,Best Visual Effects,77th,no
+Robot,2004,Best Visual Effects,77th,no
+Joe Letteri,2005,Best Visual Effects,78th,yes
+Brian Van't Hul,2005,Best Visual Effects,78th,yes
+Christian Rivers,2005,Best Visual Effects,78th,yes
+andRichard Taylor,2005,Best Visual Effects,78th,yes
+The Chronicles of Narnia: The Lion,2005,Best Visual Effects,78th,no
+the Witch,2005,Best Visual Effects,78th,no
+the Wardrobe,2005,Best Visual Effects,78th,no
+War of the Worlds,2005,Best Visual Effects,78th,no
+John Knoll,2006,Best Visual Effects,79th,yes
+Hal Hickel,2006,Best Visual Effects,79th,yes
+Charles Gibson,2006,Best Visual Effects,79th,yes
+andAllen Hall,2006,Best Visual Effects,79th,yes
+Poseidon,2006,Best Visual Effects,79th,no
+Superman Returns,2006,Best Visual Effects,79th,no
+Michael L. Fink,2007,Best Visual Effects,80th,yes
+Bill Westenhofer,2007,Best Visual Effects,80th,yes
+Ben Morris,2007,Best Visual Effects,80th,yes
+andTrevor Wood,2007,Best Visual Effects,80th,yes
+Pirates of the Caribbean: At World's End,2007,Best Visual Effects,80th,no
+Transformers,2007,Best Visual Effects,80th,no
+Eric Barba,2008,Best Visual Effects,81st,yes
+Steve Preeg,2008,Best Visual Effects,81st,yes
+Burt Dalton,2008,Best Visual Effects,81st,yes
+andCraig Barron,2008,Best Visual Effects,81st,yes
+The Dark Knight,2008,Best Visual Effects,81st,no
+Iron Man,2008,Best Visual Effects,81st,no
+Joe Letteri,2009,Best Visual Effects,82nd,yes
+Stephen Rosenbaum,2009,Best Visual Effects,82nd,yes
+Richard Baneham,2009,Best Visual Effects,82nd,yes
+andAndrew R. Jones,2009,Best Visual Effects,82nd,yes
+District 9,2009,Best Visual Effects,82nd,no
+Star Trek,2009,Best Visual Effects,82nd,no
+Inception,2010,Best Visual Effects,83rd,yes
+Alice in Wonderland,2010,Best Visual Effects,83rd,no
+Harry Potter,2010,Best Visual Effects,83rd,no
+the Deathly Hallows – Part 1,2010,Best Visual Effects,83rd,no
+Hereafter,2010,Best Visual Effects,83rd,no
+Iron Man 2,2010,Best Visual Effects,83rd,no
+Robert Legato,2011,Best Visual Effects,84th,yes
+Joss Williams,2011,Best Visual Effects,84th,yes
+Ben Grossmann,2011,Best Visual Effects,84th,yes
+andAlex Henning,2011,Best Visual Effects,84th,yes
+Harry Potter,2011,Best Visual Effects,84th,no
+the Deathly Hallows – Part 2,2011,Best Visual Effects,84th,no
+Real Steel,2011,Best Visual Effects,84th,no
+Rise of the Planet of the Apes,2011,Best Visual Effects,84th,no
+Transformers: Dark of the Moon,2011,Best Visual Effects,84th,no
+Bill Westenhofer,2012,Best Visual Effects,85th,yes
+Guillaume Rocheron,2012,Best Visual Effects,85th,yes
+Erik-Jan de Boer,2012,Best Visual Effects,85th,yes
+andDonald R. Elliott,2012,Best Visual Effects,85th,yes
+The Hobbit: An Unexpected Journey,2012,Best Visual Effects,85th,no
+Marvel's The Avengers,2012,Best Visual Effects,85th,no
+Prometheus,2012,Best Visual Effects,85th,no
+Snow White,2012,Best Visual Effects,85th,no
+the Huntsman,2012,Best Visual Effects,85th,no
+Tim Webber,2013,Best Visual Effects,86th,yes
+Chris Lawrence,2013,Best Visual Effects,86th,yes
+Dave Shirk,2013,Best Visual Effects,86th,yes
+andNeil Corbould,2013,Best Visual Effects,86th,yes
+The Hobbit: The Desolation of Smaug,2013,Best Visual Effects,86th,no
+Iron Man 3,2013,Best Visual Effects,86th,no
+The Lone Ranger,2013,Best Visual Effects,86th,no
+Star Trek Into Darkness,2013,Best Visual Effects,86th,no
+Paul Franklin,2014,Best Visual Effects,87th,yes
+Andrew Lockley,2014,Best Visual Effects,87th,yes
+Ian Hunter,2014,Best Visual Effects,87th,yes
+andScott R. Fisher,2014,Best Visual Effects,87th,yes
+Captain America: The Winter Soldier,2014,Best Visual Effects,87th,no
+Dawn of the Planet of the Apes,2014,Best Visual Effects,87th,no
+Guardians of the Galaxy,2014,Best Visual Effects,87th,no
+X-Men: Days of Future Past,2014,Best Visual Effects,87th,no
+Mark Williams Ardington,2015,Best Visual Effects,88th,yes
+Sara Bennett,2015,Best Visual Effects,88th,yes
+Paul Norris,2015,Best Visual Effects,88th,yes
+andAndrew Whitehurst,2015,Best Visual Effects,88th,yes
+Mad Max: Fury Road,2015,Best Visual Effects,88th,no
+The Martian,2015,Best Visual Effects,88th,no
+The Revenant,2015,Best Visual Effects,88th,no
+Star Wars: The Force Awakens,2015,Best Visual Effects,88th,no
+Robert Legato,2016,Best Visual Effects,89th,yes
+Adam Valdez,2016,Best Visual Effects,89th,yes
+Andrew R. Jones,2016,Best Visual Effects,89th,yes
+andDan Lemmon,2016,Best Visual Effects,89th,yes
+Deepwater Horizon,2016,Best Visual Effects,89th,no
+Doctor Strange,2016,Best Visual Effects,89th,no
+Kubo,2016,Best Visual Effects,89th,no
+the Two Strings,2016,Best Visual Effects,89th,no
+Rogue One: A Star Wars Story,2016,Best Visual Effects,89th,no
+John Nelson,2049,Best Visual Effects,90th,yes
+Gerd Nefzer,2049,Best Visual Effects,90th,yes
+Paul Lambert,2049,Best Visual Effects,90th,yes
+andRichard R. Hoover,2049,Best Visual Effects,90th,yes
+Guardians of the Galaxy Vol. 2,2049,Best Visual Effects,90th,no
+Kong: Skull Island,2049,Best Visual Effects,90th,no
+Star Wars: The Last Jedi,2049,Best Visual Effects,90th,no
+War for the Planet of the Apes,2049,Best Visual Effects,90th,no
+Paul Lambert,2018,Best Visual Effects,91st,yes
+Ian Hunter,2018,Best Visual Effects,91st,yes
+Tristan Myles,2018,Best Visual Effects,91st,yes
+andJ. D. Schwalm,2018,Best Visual Effects,91st,yes
+Avengers: Infinity War,2018,Best Visual Effects,91st,no
+Christopher Robin,2018,Best Visual Effects,91st,no
+Ready Player One,2018,Best Visual Effects,91st,no
+Solo: A Star Wars Story,2018,Best Visual Effects,91st,no
+Guillaume Rocheron,1917,Best Visual Effects,92nd,yes
+Greg Butler,1917,Best Visual Effects,92nd,yes
+andDominic Tuohy,1917,Best Visual Effects,92nd,yes
+Avengers: Endgame,1917,Best Visual Effects,92nd,no
+The Irishman,1917,Best Visual Effects,92nd,no
+The Lion King,1917,Best Visual Effects,92nd,no
+Star Wars: The Rise of Skywalker,1917,Best Visual Effects,92nd,no
+Tenet,2020,Best Visual Effects,93rd,yes
+Love,2020,Best Visual Effects,93rd,no
+Monsters,2020,Best Visual Effects,93rd,no
+The Midnight Sky,2020,Best Visual Effects,93rd,no
+Mulan,2020,Best Visual Effects,93rd,no
+The One,2020,Best Visual Effects,93rd,no
+Only Ivan,2020,Best Visual Effects,93rd,no
+Paul Lambert,2021,Best Visual Effects,94th,yes
+Tristan Myles,2021,Best Visual Effects,94th,yes
+Brian Connor,2021,Best Visual Effects,94th,yes
+andGerd Nefzer,2021,Best Visual Effects,94th,yes
+Free Guy,2021,Best Visual Effects,94th,no
+No Time to Die,2021,Best Visual Effects,94th,no
+Shang-Chi,2021,Best Visual Effects,94th,no
+the Legend of the Ten Rings,2021,Best Visual Effects,94th,no
+Spider-Man: No Way Home,2021,Best Visual Effects,94th,no
+Joe Letteri,2022,Best Visual Effects,95th,yes
+Richard Baneham,2022,Best Visual Effects,95th,yes
+Eric Saindon,2022,Best Visual Effects,95th,yes
+andDaniel Barrett,2022,Best Visual Effects,95th,yes
+All Quiet on the Western Front,2022,Best Visual Effects,95th,no
+The Batman,2022,Best Visual Effects,95th,no
+Black Panther: Wakanda Forever,2022,Best Visual Effects,95th,no
+Top Gun: Maverick,2022,Best Visual Effects,95th,no
+Takashi Yamazaki,2023,Best Visual Effects,96th,yes
+Kiyoko Shibuya,2023,Best Visual Effects,96th,yes
+Masaki Takahashi,2023,Best Visual Effects,96th,yes
+andTatsuji Nojima,2023,Best Visual Effects,96th,yes
+The Creator,2023,Best Visual Effects,96th,no
+Guardians of the Galaxy Vol. 3,2023,Best Visual Effects,96th,no
+Mission: Impossible – Dead Reckoning Part One,2023,Best Visual Effects,96th,no
+Napoleon,2023,Best Visual Effects,96th,no
+Dune: Part Two,2024,Best Visual Effects,97th,yes
+Alien: Romulus,2024,Best Visual Effects,97th,no
+Better Man,2024,Best Visual Effects,97th,no
+Kingdom of the Planet of the Apes,2024,Best Visual Effects,97th,no
+Wicked,2024,Best Visual Effects,97th,no
