@@ -1,4 +1,4 @@
-movieTitle,releaseYear,productionCompany
+movieTitle,releaseYear,companyName
 Wings,1927,Paramount Famous Lasky Corporation
 Sunrise: A Song of Two Humans,1927,Fox Film Corporation
 The Last Command,1928,Paramount Famous Lasky Corp.
@@ -53,8 +53,7 @@ Holiday,1930,Pathé Exchange
 Little Caesar,1931,First National Pictures
 Smart Money,1931,Warner Bros.
 The Criminal Code,1931,Columbia Pictures
-The Doorway to Hell,1930,Warner Bros. Pictures
-The Doorway to Hell,1930,Inc.
+The Doorway to Hell,1930,Warner Bros. Pictures Inc.
 Whoopee!,1930,Samuel Goldwyn Productions
 Grand Hotel,1932,Metro-Goldwyn-Mayer
 Bad Girl,1931,Fox Film Corporation
@@ -81,7 +80,7 @@ Building a Building,1933,Walt Disney Productions
 Gold Diggers of 1933,1933,Warner Bros.
 Rasputin and the Empress,1932,Metro-Goldwyn-Mayer
 She Done Him Wrong,1933,Paramount Pictures
-Sign of the Cross,1932,Paramount Pictures
+The Sign of the Cross,1932,Paramount Pictures
 The Merry Old Soul,1933,Walter Lantz Productions
 When Ladies Meet,1933,Metro-Goldwyn-Mayer
 The Gay Divorcee,1934,RKO Radio Pictures
@@ -365,8 +364,7 @@ Sun Valley Serenade,1941,Twentieth Century Fox
 Sundown,1941,Walter Wanger Productions
 The Chocolate Soldier,1941,Metro-Goldwyn-Mayer
 The Maltese Falcon,1941,Warner Bros.
-All-American Co-Ed,1941,Hal Roach Studios
-All-American Co-Ed,1941,Inc.
+All-American Co-Ed,1941,Hal Roach Studios Inc.
 Aloma of the South Seas,1941,Paramount Pictures
 Buck Privates,1941,Universal Pictures
 Dive Bomber,1941,Warner Bros.
@@ -391,8 +389,7 @@ Down on the Farm,1941,Paramount Pictures
 Flight Command,1940,Metro-Goldwyn-Mayer
 Hiawatha's Rabbit Hunt,1941,Leon Schlesinger Productions
 Ice-Capades,1940,Republic Pictures
-King of the Zombies,1941,Sterling Productions
-King of the Zombies,1941,Inc.
+King of the Zombies,1941,Sterling Productions Inc.
 Las Vegas Nights,1941,Paramount Pictures
 Lydia,1941,London Films
 Meet John Doe,1941,Frank Capra Productions
@@ -443,8 +440,7 @@ The Battle of Midway,1942,United States Navy
 Random Harvest,1942,Metro-Goldwyn-Mayer
 The Talk of the Town,1942,Columbia Pictures
 Arabian Nights,1942,Walter Wanger presents
-Jungle Book,1942,Alexander Korda Films
-Jungle Book,1942,Inc.
+Jungle Book,1942,Alexander Korda Films Inc.
 The Magnificent Ambersons,1942,RKO Radio Pictures
 The Magnificent Ambersons,1942,Mercury Productions
 Wake Island,1942,Paramount Pictures
@@ -462,17 +458,14 @@ Blitz Wolf,1942,MGM Cartoons
 Desperate Journey,1942,Warner Bros.
 For Me and My Gal,1942,Metro-Goldwyn-Mayer
 Friendly Enemies,1942,Edward Small Productions
-George Washington Slept Here,1942,Warner Bros. Pictures
-George Washington Slept Here,1942,Inc.
+George Washington Slept Here,1942,Warner Bros. Pictures Inc.
 Hellzapoppin',1941,Mayfair Productions
 "Henry Browne, Farmer",1942,Republic Pictures
 "Henry Browne, Farmer",1942,United States Department of Agriculture
 I Married a Witch,1942,Paramount Pictures
 Inside Fighting China,1941,National Film Board of Canada
-Invisible Agent,1942,Universal Pictures Company
-Invisible Agent,1942,Inc.
-Invisible Agent,1942,Frank Lloyd Productions
-Invisible Agent,1942,Inc.
+Invisible Agent,1942,Universal Pictures Company Inc.
+Invisible Agent,1942,Frank Lloyd Productions Inc.
 It Started with Eve,1941,Universal Pictures
 It's Everybody's War,1942,20th Century Fox
 Joan of Paris,1942,RKO Radio Pictures
@@ -494,8 +487,7 @@ The Spoilers,1942,Frank Lloyd ProductionsCharles K. Feldman Group
 Tortilla Flat,1942,Metro-Goldwyn-Mayer
 Tulips Shall Grow,1942,George Pal Productions
 Youth on Parade,1942,Republic Pictures
-Casablanca,1942,Warner Bros. Pictures
-Casablanca,1942,Inc.
+Casablanca,1942,Warner Bros. Pictures Inc.
 Phantom of the Opera,1943,Universal Pictures
 For Whom the Bell Tolls,1943,Paramount Pictures
 The More the Merrier,1943,Columbia Pictures
@@ -591,7 +583,6 @@ The Merry Monahans,1944,Universal Pictures
 The Seventh Cross,1944,Metro-Goldwyn-Mayer
 The Story of Dr. Wassell,1944,Paramount Pictures
 The Uninvited,1944,Paramount Pictures
-The Uninvited,1944,Inc.
 The White Cliffs of Dover,1944,Metro-Goldwyn-Mayer
 The Woman of the Town,1943,Harry Sherman Productions
 Up in Mabel's Room,1944,Edward Small Productions
@@ -754,8 +745,7 @@ Tea for Two Hundred,1948,Walt Disney Productions
 The Loves of Carmen,1948,The Beckworth Corporation
 The Luck of the Irish,1948,20th Century Fox
 The Pirate,1948,Metro-Goldwyn-Mayer
-The Quiet One,1948,Film Documents
-The Quiet One,1948,Inc.
+The Quiet One,1948,Film Documents Inc.
 The Three Musketeers,1948,Metro-Goldwyn-Mayer
 Wet Blanket Policy,1948,Walter Lantz Productions
 All the King's Men,1949,Columbia Pictures
@@ -1101,8 +1091,7 @@ The Defiant Ones,1958,Lomitas Productions
 The Defiant Ones,1958,Curtleigh Productions
 Separate Tables,1958,Hecht-Hill-Lancaster Productions
 Separate Tables,1958,Clifton Productions
-I Want to Live!,1958,Figaro
-I Want to Live!,1958,Inc.
+I Want to Live!,1958,Figaro Inc.
 South Pacific,1958,South Pacific Enterprises
 The Big Country,1958,Anthony-Worldwide Productions
 White Wilderness,1958,Walt Disney Productions
@@ -1115,8 +1104,7 @@ Mon Oncle,1958,Film del Centauro
 Mon Oncle,1958,Cady-Films
 tom thumb,1958,Galaxy Pictures
 Cat on a Hot Tin Roof,1958,Avon Productions
-"Bell, Book and Candle",1958,Phoenix Productions
-"Bell, Book and Candle",1958,Inc.
+"Bell, Book and Candle",1958,Phoenix Productions Inc.
 Journey into Spring,1958,British Transport Films
 Vertigo,1958,Alfred J. Hitchcock Productions
 A Time to Love and a Time to Die,1958,Universal Pictures
@@ -1152,13 +1140,12 @@ Black Orpheus,1959,Gemma (Italy)
 Black Orpheus,1959,Tupan Filmes (Brazil)
 The Nun's Story,1959,Warner Bros.
 Anatomy of a Murder,1959,Carlyle Productions
-Journey to the Center of the Earth,1959,Cooga Mooga Film Productions
-Journey to the Center of the Earth,1959,Inc.Joseph M. Schenck Enterprises
-Journey to the Center of the Earth,1959,Inc.
+Journey to the Center of the Earth,1959,Cooga Mooga Film Productions Inc.
+Journey to the Center of the Earth,1959,Joseph M. Schenck Enterprises Inc.
 North by Northwest,1959,Metro-Goldwyn-Mayer
 "Suddenly, Last Summer",1959,Horizon Pictures
-The Big Fisherman,1959,Centurion Films
-The Big Fisherman,1959,Inc.Rowland V. Lee Production
+The Big Fisherman,1959,Centurion Films Inc.
+The Big Fisherman,1959,Rowland V. Lee Production
 Imitation of Life,1959,Universal-International
 On the Beach,1959,Lomitas Productions Inc.
 On the Beach,1959,Spinel Entertainment
@@ -1249,8 +1236,7 @@ Back Street,1961,Carrollton Inc.
 Ballad of a Soldier,1959,Mosfilm
 Beep Prepared,1961,Warner Bros. Cartoons
 Breaking the Language Barrier,1961,Lookout Mountain Air Force Station
-Claudelle Inglish,1962,Warner Bros. Pictures
-Claudelle Inglish,1962,Inc.
+Claudelle Inglish,1962,Warner Bros. Pictures Inc.
 General Della Rovere,1959,Zebra Film
 General Della Rovere,1959,Société Nouvelle des Etablissements Gaumont
 Immortal Love,1961,Shochiku
@@ -1310,8 +1296,7 @@ Lolita,1962,Ltd.
 Lolita,1962,Anya Pictures
 Lolita,1962,Transworld Pictures
 My Geisha,1962,Paramount Pictures Corporation
-My Geisha,1962,Sachiko Productions
-My Geisha,1962,Inc.
+My Geisha,1962,Sachiko Productions Inc.
 Now Hear This,1963,Warner Bros. Cartoons
 Phaedra,1962,Jorilie
 Phaedra,1962,Melinafilm
@@ -1356,8 +1341,7 @@ Terminus,1961,British Transport Films
 That's Me,1963,Pathé Contemporary Films
 That's Me,1963,Stuart Productions
 The Birds,1963,Alfred J. Hitchcock Productions
-The Caretakers,1963,Hall Bartlett Productions
-The Caretakers,1963,Inc.
+The Caretakers,1963,Hall Bartlett Productions Inc.
 The Great Escape,1963,The Mirisch Company
 The L-Shaped Room,1962,Romulus Films
 The Sword in the Stone,1963,Walt Disney Productions
@@ -1421,8 +1405,7 @@ The Visit,1964,P.E.C.F.
 The Visit,1964,Dear Film
 The Visit,1964,Deutsche Fox Film
 Where Love Has Gone,1964,Embassy Pictures
-The Sound of Music,1965,Argyle Enterprises
-The Sound of Music,1965,Inc.
+The Sound of Music,1965,Argyle Enterprises Inc.
 Doctor Zhivago,1965,Carlo Ponti Productions
 Doctor Zhivago,1965,Metro-Goldwyn-Mayer
 Darling,1965,Joseph Janni Production
@@ -1455,8 +1438,7 @@ The Pawnbroker,1964,Landau Company
 The Train,1964,Les Productions Artistes Associés
 The Train,1964,Les Films Ariane
 Those Magnificent Men in Their Flying Machines,1965,Twentieth Century-Fox Productions Ltd
-Time Piece,1965,Muppets
-Time Piece,1965,Inc.
+Time Piece,1965,Muppets Inc.
 What's New Pussycat?,1965,Famous Artists Productions
 What's New Pussycat?,1965,Famartists Productions S.A.
 A Man for All Seasons,1966,Highland Films
@@ -1476,8 +1458,6 @@ Georgy Girl,1966,Everglades Productions
 "The Russians Are Coming, the Russians Are Coming",1966,The Mirisch Corporation
 Gambit,1966,Universal Pictures
 The Gospel According to St. Matthew,1964,Arco Film
-The Gospel According to St. Matthew,1964,NULL
-Lux Compagnie Cinématographique,NULL,NULL
 The Professionals,1966,Pax Enterprises
 Blowup,1966,Metro-Goldwyn-Mayer
 Blowup,1966,Carlo Ponti Productions
@@ -1514,15 +1494,13 @@ The Dirty Dozen,1967,Kenneth Hyman
 Closely Watched Trains,1966,Barrandov Studios
 The Box,1967,Murakami-Wolf Productions
 The Redwoods,1967,King Screen Productions
-In Cold Blood,1967,Pax Enterprises
-In Cold Blood,1967,Inc.
+In Cold Blood,1967,Pax Enterprises Inc.
 A Time for Burning,1966,Quest Productions
 A Time for Burning,1966,Avernus Productions
 Banning,1967,Universal Pictures
 Barefoot in the Park,1967,Hal Wallis Productions
 Barefoot in the Park,1967,Nancy Enterprises Inc.
-Beach Red,1967,Theodora Productions
-Beach Red,1967,Inc.
+Beach Red,1967,Theodora Productions Inc.
 Divorce American Style,1967,Tandem Productions
 Far from the Madding Crowd,1967,Metro-Goldwyn-Mayer
 Festival,1967,Patchke Productions
@@ -1756,8 +1734,7 @@ The Last Detail,1973,Bright-Persky Associates
 Tom Sawyer,1973,Reader's Digest
 Last Tango in Paris,1972,Produzioni Europee Associati (PEA)
 Last Tango in Paris,1972,Les Productions Artistes Associés
-Serpico,1973,Artists Entertainments Complex
-Serpico,1973,Inc.
+Serpico,1973,Artists Entertainments Complex Inc.
 Serpico,1973,Produzion De Laurentiis International Manufacturing Company S.P.A.
 "Summer Wishes, Winter Dreams",1973,Rastar
 Always a New Beginning,1974,Goodell Motion Pictures
@@ -1803,8 +1780,7 @@ Blazing Saddles,1974,Crossbow Productions
 The Conversation,1974,The Directors Company
 The Little Prince,1974,Stanley Donen Films
 Young Frankenstein,1974,Gruskoff/Venture Films
-Young Frankenstein,1974,Crossbow Productions
-Young Frankenstein,1974,Inc.
+Young Frankenstein,1974,Crossbow Productions Inc.
 Young Frankenstein,1974,Jouer Limited
 Antonia: A Portrait of the Woman,1974,Rocky Mountain Films
 City Out of Wilderness,1974,United States Capitol Historical Society
@@ -2028,8 +2004,7 @@ Meteor,1979,Shaw Brothers
 Moonraker,1979,Eon Productions
 Moonraker,1979,Les Productions Artistes Associés
 The Amityville Horror,1979,Cinema 77
-The Amityville Horror,1979,Professional Films
-The Amityville Horror,1979,Inc.
+The Amityville Horror,1979,Professional Films Inc.
 The Champ,1979,Metro-Goldwyn-Mayer
 The Electric Horseman,1979,Universal Pictures
 The Electric Horseman,1979,Columbia Pictures
@@ -2237,8 +2212,7 @@ The Killing Fields,1984,Goldcrest Films
 The Killing Fields,1984,International Film Investors
 The Killing Fields,1984,Enigma Productions
 A Passage to India,1984,Thorn EMI Screen Entertainment
-A Passage to India,1984,Home Box Office
-A Passage to India,1984,Inc.
+A Passage to India,1984,Home Box Office Inc.
 Places in the Heart,1984,Delphi II Productions
 Indiana Jones and the Temple of Doom,1984,Lucasfilm Ltd.
 Charade,1984,Sheridan College
@@ -3596,7 +3570,7 @@ Minority Report,2002,Amblin Entertainment
 Minority Report,2002,Blue Tulip Productions
 Mt. Head,2002,Yamamura Animation
 My Big Fat Greek Wedding,2002,Gold Circle Films
-My Big Fat Greek Wedding,2002,Home Box Office
+My Big Fat Greek Wedding,2002,Home Box Office Inc.
 My Big Fat Greek Wedding,2002,MPH Entertainment
 My Big Fat Greek Wedding,2002,Playtone
 Spirit: Stallion of the Cimarron,2002,DreamWorks Animation
