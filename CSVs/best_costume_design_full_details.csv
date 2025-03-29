@@ -1,0 +1,534 @@
+firstName,lastName,movieTitle,releaseYear,categoryName,iteration,isWinner
+Roger,K. Furse,Hamlet,1948,Best Costume Design,21st,yes
+Irene,Lentz ,B.F.'s Daughter,1948,Best Costume Design,21st,no
+Dorothy,Jeakins,Joan of Arc,1948,Best Costume Design,21st,yes
+Barbara,Karinska,Joan of Arc,1948,Best Costume Design,21st,yes
+Edith,Head,The Emperor Waltz,1948,Best Costume Design,21st,no
+Gile,Steele,The Emperor Waltz,1948,Best Costume Design,21st,no
+Edith,Head,The Heiress,1949,Best Costume Design,22nd,yes
+Gile,Steele,The Heiress,1949,Best Costume Design,22nd,yes
+Vittorio,Nino Novarese,Prince of Foxes,1949,Best Costume Design,22nd,no
+Leah,Rhodes,Adventures of Don Juan,1949,Best Costume Design,22nd,yes
+William ,Travilla ,Adventures of Don Juan,1949,Best Costume Design,22nd,yes
+Marjorie,Best,Adventures of Don Juan,1949,Best Costume Design,22nd,yes
+Kay,Nelson,Mother Is a Freshman,1949,Best Costume Design,22nd,no
+Edith,Head,All About Eve,1949,Best Costume Design,22nd,yes
+Charles,LeMaire,All About Eve,1949,Best Costume Design,22nd,yes
+Jean,Louis,Born Yesterday,1949,Best Costume Design,22nd,no
+Walter,Plunkett,The Magnificent Yankee,1949,Best Costume Design,22nd,no
+Edith,Head,Samson and Delilah,1949,Best Costume Design,22nd,yes
+Dorothy,Jeakins,Samson and Delilah,1949,Best Costume Design,22nd,yes
+Elois,Jenssen,Samson and Delilah,1949,Best Costume Design,22nd,yes
+Gile,Steele,Samson and Delilah,1949,Best Costume Design,22nd,yes
+Gwen,Wakeling,Samson and Delilah,1949,Best Costume Design,22nd,yes
+Michael,Whittaker,The Black Rose,1949,Best Costume Design,22nd,no
+Walter,Plunkett,That Forsyte Woman,1949,Best Costume Design,22nd,no
+Arlington,Valles,That Forsyte Woman,1949,Best Costume Design,22nd,no
+Edith,Head,A Place in the Sun,1951,Best Costume Design,24th,yes
+Walter,Plunkett,Kind Lady,1951,Best Costume Design,24th,no
+Gile,Steele,Kind Lady,1951,Best Costume Design,24th,no
+Charles,LeMaire,The Model and the Marriage Broker,1951,Best Costume Design,24th,no
+Renié,Conley ,The Model and the Marriage Broker,1951,Best Costume Design,24th,no
+Edward,Stevenson,The Mudlark,1951,Best Costume Design,24th,no
+Margaret,Furse,The Mudlark,1951,Best Costume Design,24th,no
+Lucinda,Ballard,A Streetcar Named Desire,1951,Best Costume Design,24th,no
+Orry,Kelly,An American in Paris,1951,Best Costume Design,24th,yes
+Walter,Plunkett,An American in Paris,1951,Best Costume Design,24th,yes
+Irene,Sharaff,An American in Paris,1951,Best Costume Design,24th,yes
+Charles,LeMaire,David and Bathsheba,1951,Best Costume Design,24th,no
+Edward,Stevenson,David and Bathsheba,1951,Best Costume Design,24th,no
+Helen,Rose,The Great Caruso,1951,Best Costume Design,24th,no
+Gile,Steele,The Great Caruso,1951,Best Costume Design,24th,no
+Herschel,McCoy,Quo Vadis,1951,Best Costume Design,24th,no
+Hein,Heckroth,Tales of Hoffmann,1951,Best Costume Design,24th,no
+Helen,Rose,The Bad and the Beautiful,1952,Best Costume Design,25th,yes
+Jean,Louis,Affair in Trinidad,1952,Best Costume Design,25th,no
+Edith,Head,Carrie,1952,Best Costume Design,25th,no
+Charles,LeMaire,My Cousin Rachel,1952,Best Costume Design,25th,no
+Dorothy,Jeakins,My Cousin Rachel,1952,Best Costume Design,25th,no
+Sheila,O'Brien,Sudden Fear,1952,Best Costume Design,25th,no
+Marcel,Vertès,Moulin Rouge,1952,Best Costume Design,25th,yes
+Edith,Head,The Greatest Show on Earth,1952,Best Costume Design,25th,no
+Dorothy,Jeakins,The Greatest Show on Earth,1952,Best Costume Design,25th,no
+Miles,White,The Greatest Show on Earth,1952,Best Costume Design,25th,no
+Antoni,Clavé,Hans Christian Andersen,1952,Best Costume Design,25th,no
+Mary,Wills,Hans Christian Andersen,1952,Best Costume Design,25th,no
+Madame,Karinska,Hans Christian Andersen,1952,Best Costume Design,25th,no
+Helen,Rose,The Merry Widow,1952,Best Costume Design,25th,no
+Gile,Steele,The Merry Widow,1952,Best Costume Design,25th,no
+Charles,LeMaire,With a Song in My Heart,1952,Best Costume Design,25th,no
+Edith,Head,Roman Holiday,1953,Best Costume Design,26th,yes
+Walter,Plunkett,The Actress,1953,Best Costume Design,26th,no
+Helen,Rose,Dream Wife,1953,Best Costume Design,26th,no
+Herschel,McCoy,Dream Wife,1953,Best Costume Design,26th,no
+Jean,Louis,From Here to Eternity,1953,Best Costume Design,26th,no
+Charles,LeMaire,The President's Lady,1953,Best Costume Design,26th,no
+Renié,Conley ,The President's Lady,1953,Best Costume Design,26th,no
+Charles,LeMaire,The Robe,1953,Best Costume Design,26th,yes
+Emile,Santiago,The Robe,1953,Best Costume Design,26th,yes
+Mary,Ann Nyberg,The Band Wagon,1953,Best Costume Design,26th,no
+Irene,Sharaff,Call Me Madam,1953,Best Costume Design,26th,no
+Charles,LeMaire,How to Marry a Millionaire,1953,Best Costume Design,26th,no
+William ,Travilla,How to Marry a Millionaire,1953,Best Costume Design,26th,no
+Walter,Plunkett,Young Bess,1953,Best Costume Design,26th,no
+Edith,Head,Sabrina,1954,Best Costume Design,27th,yes
+Georges,Annenkov,The Earrings of Madame de...,1954,Best Costume Design,27th,no
+Rosine,Delamare,The Earrings of Madame de...,1954,Best Costume Design,27th,no
+Helen,Rose,Executive Suite,1954,Best Costume Design,27th,no
+Christian,Dior,Indiscretion of an American Wife,1954,Best Costume Design,27th,no
+Jean,Louis,It Should Happen to You,1954,Best Costume Design,27th,no
+Sanzo,Wada,Gate of Hell,1954,Best Costume Design,27th,yes
+Irene,Sharaff,Brigadoon,1954,Best Costume Design,27th,no
+Charles,LeMaire,Desiree,1954,Best Costume Design,27th,no
+René,Hubert,Desiree,1954,Best Costume Design,27th,no
+Jean,Louis,A Star Is Born,1954,Best Costume Design,27th,no
+Mary,Ann Nyberg,A Star Is Born,1954,Best Costume Design,27th,no
+Irene,Sharaff,A Star Is Born,1954,Best Costume Design,27th,no
+Charles,LeMaire,There's No Business Like Show Business,1954,Best Costume Design,27th,no
+William,Travilla,There's No Business Like Show Business,1954,Best Costume Design,27th,no
+Miles,White,There's No Business Like Show Business,1954,Best Costume Design,27th,no
+Helen,Rose,I'll Cry Tomorrow,1955,Best Costume Design,28th,yes
+Beatrice,Dawson,The Pickwick Papers,1955,Best Costume Design,28th,no
+Jean,Louis,Queen Bee,1955,Best Costume Design,28th,no
+Edith,Head,The Rose Tattoo,1955,Best Costume Design,28th,no
+Tadaoto,Kainosho,Ugetsu,1955,Best Costume Design,28th,no
+Charles,LeMaire,Love Is a Many-Splendored Thing,1955,Best Costume Design,28th,yes
+Irene,Sharaff,Guys and Dolls,1955,Best Costume Design,28th,no
+Helen,Rose,Interrupted Melody,1955,Best Costume Design,28th,no
+Edith,Head,To Catch a Thief,1955,Best Costume Design,28th,no
+Charles,LeMaire,The Virgin Queen,1955,Best Costume Design,28th,no
+Mary,Wills,The Virgin Queen,1955,Best Costume Design,28th,no
+Jean,Louis,The Solid Gold Cadillac,1956,Best Costume Design,29th,yes
+Kohei,Ezaki,Seven Samurai,1956,Best Costume Design,29th,no
+Helen,Rose,The Power and the Prize,1956,Best Costume Design,29th,no
+Edith,Head,The Proud and Profane,1956,Best Costume Design,29th,no
+Charles,LeMaire,Teenage Rebel,1956,Best Costume Design,29th,no
+Mary,Wills,Teenage Rebel,1956,Best Costume Design,29th,no
+Irene,Sharaff,The King and I,1956,Best Costume Design,29th,yes
+Miles,White,Around the World in 80 Days,1956,Best Costume Design,29th,no
+Moss,Mabry,Giant,1956,Best Costume Design,29th,no
+Marjorie,Best,Giant,1956,Best Costume Design,29th,no
+Edith,Head,The Ten Commandments,1956,Best Costume Design,29th,no
+Ralph,Jester,The Ten Commandments,1956,Best Costume Design,29th,no
+John,Jensen,The Ten Commandments,1956,Best Costume Design,29th,no
+Dorothy,Jeakins,The Ten Commandments,1956,Best Costume Design,29th,no
+Arnold,Friberg,The Ten Commandments,1956,Best Costume Design,29th,no
+Maria,De Matteis,War and Peace,1956,Best Costume Design,29th,no
+Orry,Kelly,Les Girls,1956,Best Costume Design,29th,yes
+Charles,LeMaire,An Affair to Remember,1956,Best Costume Design,29th,no
+Edith,Head,Funny Face,1956,Best Costume Design,29th,no
+Hubert,de Givenchy,Funny Face,1956,Best Costume Design,29th,no
+Jean,Louis,Pal Joey,1956,Best Costume Design,29th,no
+Walter,Plunkett,Raintree County,1956,Best Costume Design,29th,no
+Cecil,Beaton,Gigi,1958,Best Costume Design,31st,yes
+Jean,Louis,"Bell, Book and Candle",1958,Best Costume Design,31st,no
+Ralph,Jester,The Buccaneer,1958,Best Costume Design,31st,no
+Edith,Head,The Buccaneer,1958,Best Costume Design,31st,no
+John,Jensen,The Buccaneer,1958,Best Costume Design,31st,no
+Charles,LeMaire,A Certain Smile,1958,Best Costume Design,31st,no
+Mary,Wills,A Certain Smile,1958,Best Costume Design,31st,no
+Walter,Plunkett,Some Came Running,1958,Best Costume Design,31st,no
+Orry,Kelly,Some Like It Hot,1959,Best Costume Design,32nd,yes
+Edith,Head,Career,1959,Best Costume Design,32nd,no
+Charles,LeMaire,The Diary of Anne Frank,1959,Best Costume Design,32nd,no
+Mary,Wills,The Diary of Anne Frank,1959,Best Costume Design,32nd,no
+Helen,Rose,The Gazebo,1959,Best Costume Design,32nd,no
+Howard,Shoup,The Young Philadelphians,1959,Best Costume Design,32nd,no
+Elizabeth,Haffenden,Ben-Hur,1959,Best Costume Design,32nd,yes
+Adele,Palmer,The Best of Everything,1959,Best Costume Design,32nd,no
+Renié,Conley ,The Big Fisherman,1959,Best Costume Design,32nd,no
+Edith,Head,The Five Pennies,1959,Best Costume Design,32nd,no
+Irene,Sharaff,Porgy and Bess,1959,Best Costume Design,32nd,no
+Edith,Head,The Facts of Life,1959,Best Costume Design,32nd,yes
+Edward,Stevenson,The Facts of Life,1959,Best Costume Design,32nd,yes
+Howard,Shoup,The Rise and Fall of Legs Diamond,1959,Best Costume Design,32nd,no
+Bill,Thomas,Seven Thieves,1959,Best Costume Design,32nd,no
+Marik,Vos,The Virgin Spring,1959,Best Costume Design,32nd,no
+Arlington ,Valles,Spartacus,1959,Best Costume Design,32nd,yes
+Bill,Thomas,Spartacus,1959,Best Costume Design,32nd,yes
+Irene,Sharaff,Can-Can,1959,Best Costume Design,32nd,no
+Irene,Lentz ,Midnight Lace,1959,Best Costume Design,32nd,no
+Edith,Head,Pepe,1959,Best Costume Design,32nd,no
+Marjorie,Best,Sunrise at Campobello,1959,Best Costume Design,32nd,no
+Piero,Gherardi,La Dolce Vita,1961,Best Costume Design,34th,yes
+Dorothy,Jeakins,The Children's Hour,1961,Best Costume Design,34th,no
+Howard,Shoup,Claudelle Inglish,1961,Best Costume Design,34th,no
+Jean,Louis,Judgment at Nuremberg,1961,Best Costume Design,34th,no
+Yoshirō,Muraki,Yojimbo,1961,Best Costume Design,34th,no
+Irene,Sharaff,West Side Story,1961,Best Costume Design,34th,yes
+Bill,Thomas,Babes in Toyland,1961,Best Costume Design,34th,no
+Jean,Louis,Back Street,1961,Best Costume Design,34th,no
+Irene,Sharaff,Flower Drum Song,1961,Best Costume Design,34th,no
+Edith,Head,Pocketful of Miracles,1961,Best Costume Design,34th,no
+Walter,Plunkett,Pocketful of Miracles,1961,Best Costume Design,34th,no
+Norma,Koch,What Ever Happened to Baby Jane?,1962,Best Costume Design,35th,yes
+Don,Feld,Days of Wine and Roses,1962,Best Costume Design,35th,no
+Edith,Head,The Man Who Shot Liberty Valance,1962,Best Costume Design,35th,no
+Ruth,Morley,The Miracle Worker,1962,Best Costume Design,35th,no
+Mary,Wills,The Wonderful World of the Brothers Grimm,1962,Best Costume Design,35th,yes
+Bill,Thomas,Bon Voyage!,1962,Best Costume Design,35th,no
+Orry,Kelly,Gypsy,1962,Best Costume Design,35th,no
+Dorothy,Jeakins,The Music Man,1962,Best Costume Design,35th,no
+Edith,Head,My Geisha,1962,Best Costume Design,35th,no
+Piero,Gherardi,8½,1963,Best Costume Design,36th,yes
+Edith,Head,Love with the Proper Stranger,1963,Best Costume Design,36th,no
+William ,Travilla,The Stripper,1963,Best Costume Design,36th,no
+Bill,Thomas,Toys in the Attic,1963,Best Costume Design,36th,no
+Edith,Head,Wives and Lovers,1963,Best Costume Design,36th,no
+Renié,Conley ,Cleopatra,1963,Best Costume Design,36th,yes
+Vittorio,Nino Novarese,Cleopatra,1963,Best Costume Design,36th,yes
+Irene,Sharaff,Cleopatra,1963,Best Costume Design,36th,yes
+Donald,Brooks,The Cardinal,1963,Best Costume Design,36th,no
+Walter,Plunkett,How the West Was Won,1963,Best Costume Design,36th,no
+Piero,Tosi,The Leopard,1963,Best Costume Design,36th,no
+Edith,Head,A New Kind of Love,1963,Best Costume Design,36th,no
+Dorothy,Jeakins,The Night of the Iguana,1963,Best Costume Design,36th,yes
+Edith,Head,A House Is Not a Home,1963,Best Costume Design,36th,no
+Norma,Koch,"Hush...Hush, Sweet Charlotte",1963,Best Costume Design,36th,no
+Howard,Shoup,Kisses for My President,1963,Best Costume Design,36th,no
+René,Hubert,The Visit,1963,Best Costume Design,36th,no
+Cecil,Beaton,My Fair Lady,1963,Best Costume Design,36th,yes
+Margaret,Furse,Becket,1963,Best Costume Design,36th,no
+Tony,Walton,Mary Poppins,1963,Best Costume Design,36th,no
+Morton,Haack,The Unsinkable Molly Brown,1963,Best Costume Design,36th,no
+Edith,Head,What a Way to Go!,1963,Best Costume Design,36th,no
+Moss,Mabry,What a Way to Go!,1963,Best Costume Design,36th,no
+Julie,Harris,Darling,1965,Best Costume Design,38th,yes
+Moss,Mabry,Morituri,1965,Best Costume Design,38th,no
+Howard,Shoup,A Rage to Live,1965,Best Costume Design,38th,no
+Jean,Louis,Ship of Fools,1965,Best Costume Design,38th,no
+Bill,Thomas,Ship of Fools,1965,Best Costume Design,38th,no
+Edith,Head,The Slender Thread,1965,Best Costume Design,38th,no
+Phyllis,Dalton,Doctor Zhivago,1965,Best Costume Design,38th,yes
+Vittorio,Nino Novarese,The Agony and the Ecstasy,1965,Best Costume Design,38th,no
+Marjorie,Best,The Greatest Story Ever Told,1965,Best Costume Design,38th,no
+Vittorio,Nino Novarese,The Greatest Story Ever Told,1965,Best Costume Design,38th,no
+Edith,Head,Inside Daisy Clover,1965,Best Costume Design,38th,no
+Bill,Thomas,Inside Daisy Clover,1965,Best Costume Design,38th,no
+Dorothy,Jeakins,The Sound of Music,1965,Best Costume Design,38th,no
+Irene,Sharaff,Who's Afraid of Virginia Woolf?,1966,Best Costume Design,39th,yes
+Danilo,Donati,The Gospel According to St. Matthew,1966,Best Costume Design,39th,no
+Helen,Rose,Mister Buddwing,1966,Best Costume Design,39th,no
+Jocelyn,Rickards,Morgan!,1966,Best Costume Design,39th,no
+Elizabeth,Haffenden,A Man for All Seasons,1966,Best Costume Design,39th,yes
+Joan,Bridge,A Man for All Seasons,1966,Best Costume Design,39th,yes
+Jean,Louis,Gambit,1966,Best Costume Design,39th,no
+Piero,Gherardi,Juliet of the Spirits,1966,Best Costume Design,39th,no
+Dorothy,Jeakins,Hawaii,1966,Best Costume Design,39th,no
+Edith,Head,The Oscar,1966,Best Costume Design,39th,no
+John,Truscott,Camelot,1967,Best Costume Design,40th,yes
+Theadora,Van Runkle,Bonnie and Clyde,1967,Best Costume Design,40th,no
+Bill,Thomas,The Happiest Millionaire,1967,Best Costume Design,40th,no
+Danilo,Donati,The Taming of the Shrew,1967,Best Costume Design,40th,no
+Irene,Sharaff,The Taming of the Shrew,1967,Best Costume Design,40th,no
+Jean,Louis,Thoroughly Modern Millie,1967,Best Costume Design,40th,no
+Danilo,Donati,Romeo and Juliet,1968,Best Costume Design,41st,yes
+Margaret,Furse,The Lion in Winter,1968,Best Costume Design,41st,no
+Phyllis,Dalton,Oliver!,1968,Best Costume Design,41st,no
+Morton,Haack,Planet of the Apes,1968,Best Costume Design,41st,no
+Donald,Brooks,Star!,1968,Best Costume Design,41st,no
+Margaret,Furse,Anne of the Thousand Days,1969,Best Costume Design,42nd,yes
+Ray,Aghayan,"Gaily, Gaily",1969,Best Costume Design,42nd,no
+Irene,Sharaff,"Hello, Dolly!",1969,Best Costume Design,42nd,no
+Edith,Head,Sweet Charity,1969,Best Costume Design,42nd,no
+Donald,Feld,"They Shoot Horses, Don't They?",1969,Best Costume Design,42nd,no
+Vittorio,Nino Novarese,Cromwell,1970,Best Costume Design,43rd,yes
+Edith,Head,Airport,1970,Best Costume Design,43rd,no
+Jack,Bear,Darling Lili,1970,Best Costume Design,43rd,no
+Donald,Brooks,Darling Lili,1970,Best Costume Design,43rd,no
+Bill,Thomas,The Hawaiians,1970,Best Costume Design,43rd,no
+Margaret,Furse,Scrooge,1970,Best Costume Design,43rd,no
+Yvonne,Blake,Nicholas and Alexandra,1971,Best Costume Design,44th,yes
+Antonio,Castillo,Nicholas and Alexandra,1971,Best Costume Design,44th,yes
+Bill,Thomas,Bedknobs and Broomsticks,1971,Best Costume Design,44th,no
+Piero,Tosi,Death in Venice,1971,Best Costume Design,44th,no
+Margaret,Furse,"Mary, Queen of Scots",1971,Best Costume Design,44th,no
+Morton,Haack,What's the Matter with Helen?,1971,Best Costume Design,44th,no
+Anthony,Powell,Travels with My Aunt,1972,Best Costume Design,45th,yes
+Anna,Hill Johnstone,The Godfather,1972,Best Costume Design,45th,no
+Ray,Aghayan,Lady Sings the Blues,1972,Best Costume Design,45th,no
+Norma,Koch,Lady Sings the Blues,1972,Best Costume Design,45th,no
+Bob,Mackie,Lady Sings the Blues,1972,Best Costume Design,45th,no
+Paul,Zastupnevich,The Poseidon Adventure,1972,Best Costume Design,45th,no
+Anthony,Mendleson,Young Winston,1972,Best Costume Design,45th,no
+Edith,Head,The Sting,1973,Best Costume Design,46th,yes
+Marik,Vos,Cries and Whispers,1973,Best Costume Design,46th,no
+Piero,Tosi,Ludwig,1973,Best Costume Design,46th,no
+Donald,Feld,Tom Sawyer,1973,Best Costume Design,46th,no
+Dorothy,Jeakins,The Way We Were,1973,Best Costume Design,46th,no
+Moss,Mabry,The Way We Were,1973,Best Costume Design,46th,no
+Theoni,V. Aldredge,The Great Gatsby,1974,Best Costume Design,47th,yes
+Anthea,Sylbert,Chinatown,1974,Best Costume Design,47th,no
+John,Furniss,Daisy Miller,1974,Best Costume Design,47th,no
+Theadora,Van Runkle,The Godfather Part II,1974,Best Costume Design,47th,no
+Tony,Walton,Murder on the Orient Express,1974,Best Costume Design,47th,no
+Milena,Canonero,Barry Lyndon,1975,Best Costume Design,48th,yes
+Ulla-Britt,Söderlund,Barry Lyndon,1975,Best Costume Design,48th,yes
+Yvonne,Blake,The Four Musketeers,1975,Best Costume Design,48th,no
+Ron,Talsky,The Four Musketeers,1975,Best Costume Design,48th,no
+Ray,Aghayan,Funny Lady,1975,Best Costume Design,48th,no
+Bob,Mackie,Funny Lady,1975,Best Costume Design,48th,no
+Karin,Erskine,The Magic Flute,1975,Best Costume Design,48th,no
+Henny,Noremark,The Magic Flute,1975,Best Costume Design,48th,no
+Edith,Head,The Man Who Would Be King,1975,Best Costume Design,48th,no
+Danilo,Donati,Fellini's Casanova,1976,Best Costume Design,49th,yes
+William,Ware Theiss,Bound for Glory,1976,Best Costume Design,49th,no
+Anthony,Mendleson,The Incredible Sarah,1976,Best Costume Design,49th,no
+Mary,Wills,The Passover Plot,1976,Best Costume Design,49th,no
+Alan,Barrett,The Seven-Per-Cent Solution,1976,Best Costume Design,49th,no
+John,Mollo,Star Wars,1977,Best Costume Design,50th,yes
+Edith,Head,Airport '77,1977,Best Costume Design,50th,no
+Burton,Miller,Airport '77,1977,Best Costume Design,50th,no
+Anthea,Sylbert,Julia,1977,Best Costume Design,50th,no
+Florence,Klotz,A Little Night Music,1977,Best Costume Design,50th,no
+Irene,Sharaff,The Other Side of Midnight,1977,Best Costume Design,50th,no
+Anthony,Powell,Death on the Nile,1978,Best Costume Design,51st,yes
+Renié,Conley ,Caravans,1978,Best Costume Design,51st,no
+Patricia,Norris,Days of Heaven,1978,Best Costume Design,51st,no
+Paul,Zastupnevich,The Swarm,1978,Best Costume Design,51st,no
+Tony,Walton,The Wiz,1978,Best Costume Design,51st,no
+Albert,Wolsky,All That Jazz,1979,Best Costume Design,52nd,yes
+Shirley,Ann Russell,Agatha,1979,Best Costume Design,52nd,no
+William,Ware Theiss,Butch and Sundance: The Early Days,1979,Best Costume Design,52nd,no
+Ambra,Danon,La Cage aux Folles,1979,Best Costume Design,52nd,no
+Piero,Tosi,La Cage aux Folles,1979,Best Costume Design,52nd,no
+Judy,Moorcroft,The Europeans,1979,Best Costume Design,52nd,no
+Anthony,Powell,Tess,1980,Best Costume Design,53rd,yes
+Patricia,Norris,The Elephant Man,1980,Best Costume Design,53rd,no
+Anna,Senior,My Brilliant Career,1980,Best Costume Design,53rd,no
+Jean-Pierre,Dorleac,Somewhere in Time,1980,Best Costume Design,53rd,no
+Paul,Zastupnevich,When Time Ran Out,1980,Best Costume Design,53rd,no
+Milena,Canonero,Chariots of Fire,1981,Best Costume Design,54th,yes
+Tom,Rand,The French Lieutenant's Woman,1981,Best Costume Design,54th,no
+Bob,Mackie,Pennies from Heaven,1981,Best Costume Design,54th,no
+Anna,Hill Johnstone,Ragtime,1981,Best Costume Design,54th,no
+Shirley,Ann Russell,Reds,1981,Best Costume Design,54th,no
+Bhanu,Athaiya,Gandhi,1982,Best Costume Design,55th,yes
+John,Mollo,Gandhi,1982,Best Costume Design,55th,yes
+Albert,Wolsky,Sophie's Choice,1982,Best Costume Design,55th,no
+Piero,Tosi,La Traviata,1982,Best Costume Design,55th,no
+Elois,Jenssen,Tron,1982,Best Costume Design,55th,no
+Rosanna,Norton,Tron,1982,Best Costume Design,55th,no
+Patricia,Norris,Victor/Victoria,1982,Best Costume Design,55th,no
+Marik,Vos-Lundh,Fanny and Alexander,1983,Best Costume Design,56th,yes
+Joe,I. Tompkins,Cross Creek,1983,Best Costume Design,56th,no
+William,Ware Theiss,Heart Like a Wheel,1983,Best Costume Design,56th,no
+Anne-Marie,Marchand,The Return of Martin Guerre,1983,Best Costume Design,56th,no
+Santo,Loquasto,Zelig,1983,Best Costume Design,56th,no
+Theodor,Pištěk,Amadeus,1984,Best Costume Design,57th,yes
+Patricia,Norris,2010,1984,Best Costume Design,57th,no
+Jenny,Beavan,The Bostonians,1984,Best Costume Design,57th,no
+John,Bright,The Bostonians,1984,Best Costume Design,57th,no
+Judy,Moorcroft,A Passage to India,1984,Best Costume Design,57th,no
+Ann,Roth,Places in the Heart,1984,Best Costume Design,57th,no
+Emi,Wada,Ran,1985,Best Costume Design,58th,yes
+Aggie,Guerard Rodgers,The Color Purple,1985,Best Costume Design,58th,no
+Albert,Wolsky,The Journey of Natty Gann,1985,Best Costume Design,58th,no
+Milena,Canonero,Out of Africa,1985,Best Costume Design,58th,no
+Donald,Feld,Prizzi's Honor,1985,Best Costume Design,58th,no
+Jenny,Beavan,A Room with a View,1986,Best Costume Design,59th,yes
+John,Bright,A Room with a View,1986,Best Costume Design,59th,yes
+Enrico,Sabbatini,The Mission,1986,Best Costume Design,59th,no
+Anna,Anni,Otello,1986,Best Costume Design,59th,no
+Maurizio,Millenotti,Otello,1986,Best Costume Design,59th,no
+Theadora,Van Runkle,Peggy Sue Got Married,1986,Best Costume Design,59th,no
+Anthony,Powell,Pirates,1986,Best Costume Design,59th,no
+James,Acheson,The Last Emperor,1987,Best Costume Design,60th,yes
+Dorothy,Jeakins,The Dead,1987,Best Costume Design,60th,no
+Bob,Ringwood,Empire of the Sun,1987,Best Costume Design,60th,no
+Jenny,Beavan,Maurice,1987,Best Costume Design,60th,no
+John,Bright,Maurice,1987,Best Costume Design,60th,no
+Marilyn,Vance-Straker,The Untouchables,1987,Best Costume Design,60th,no
+James,Acheson,Dangerous Liaisons,1988,Best Costume Design,61st,yes
+Deborah,Nadoolman,Coming to America,1988,Best Costume Design,61st,no
+Jane,Robinson,A Handful of Dust,1988,Best Costume Design,61st,no
+Patricia,Norris,Sunset,1988,Best Costume Design,61st,no
+Milena,Canonero,Tucker: The Man and His Dream,1988,Best Costume Design,61st,no
+Phyllis,Dalton,Henry V,1989,Best Costume Design,62nd,yes
+Gabriella,Pescucci,The Adventures of Baron Munchausen,1989,Best Costume Design,62nd,no
+Elizabeth,McBride,Driving Miss Daisy,1989,Best Costume Design,62nd,no
+Joe,I. Tompkins,Harlem Nights,1989,Best Costume Design,62nd,no
+Theodor,Pištěk,Valmont,1989,Best Costume Design,62nd,no
+Franca,Squarciapino,Cyrano de Bergerac,1990,Best Costume Design,63rd,yes
+Gloria,Gresham,Avalon,1990,Best Costume Design,63rd,no
+Elsa,Zamparelli,Dances with Wolves,1990,Best Costume Design,63rd,no
+Milena,Canonero,Dick Tracy,1990,Best Costume Design,63rd,no
+Maurizio,Millenotti,Hamlet,1990,Best Costume Design,63rd,no
+Albert,Wolsky,Bugsy,1991,Best Costume Design,64th,yes
+Ruth,Myers,The Addams Family,1991,Best Costume Design,64th,no
+Richard,Hornung,Barton Fink,1991,Best Costume Design,64th,no
+Anthony,Powell,Hook,1991,Best Costume Design,64th,no
+Corinne,Jorry,Madame Bovary,1991,Best Costume Design,64th,no
+Eiko,Ishioka,Bram Stoker's Dracula,1992,Best Costume Design,65th,yes
+Sheena,Napier,Enchanted April,1992,Best Costume Design,65th,no
+Jenny,Beavan,Howards End,1992,Best Costume Design,65th,no
+John,Bright,Howards End,1992,Best Costume Design,65th,no
+Ruth,E. Carter,Malcolm X,1992,Best Costume Design,65th,no
+Albert,Wolsky,Toys,1992,Best Costume Design,65th,no
+Gabriella,Pescucci,The Age of Innocence,1993,Best Costume Design,66th,yes
+Sandy,Powell,Orlando,1993,Best Costume Design,66th,no
+Janet,Patterson,The Piano,1993,Best Costume Design,66th,no
+Jenny,Beavan,The Remains of the Day,1993,Best Costume Design,66th,no
+John,Bright,The Remains of the Day,1993,Best Costume Design,66th,no
+Anna,B. Sheppard,Schindler's List,1993,Best Costume Design,66th,no
+Tim,Chappel,"The Adventures of Priscilla, Queen of the Desert",1994,Best Costume Design,67th,yes
+Lizzy,Gardiner,"The Adventures of Priscilla, Queen of the Desert",1994,Best Costume Design,67th,yes
+Jeffrey,Kurland,Bullets over Broadway,1994,Best Costume Design,67th,no
+Colleen,Atwood,Little Women,1994,Best Costume Design,67th,no
+April,Ferry,Maverick,1994,Best Costume Design,67th,no
+Moidele,Bickel,Queen Margot,1994,Best Costume Design,67th,no
+James,Acheson,Restoration,1995,Best Costume Design,68th,yes
+Julie,Weiss,12 Monkeys,1995,Best Costume Design,68th,no
+Charles,Knode,Braveheart,1995,Best Costume Design,68th,no
+Shuna,Harwood,Richard III,1995,Best Costume Design,68th,no
+Jenny,Beavan,Sense and Sensibility,1995,Best Costume Design,68th,no
+John,Bright,Sense and Sensibility,1995,Best Costume Design,68th,no
+Ann,Roth,The English Patient,1996,Best Costume Design,69th,yes
+Paul,Brown,Angels & Insects,1996,Best Costume Design,69th,no
+Ruth,Myers,Emma,1996,Best Costume Design,69th,no
+Alexandra,Byrne,Hamlet,1996,Best Costume Design,69th,no
+Janet,Patterson,The Portrait of a Lady,1996,Best Costume Design,69th,no
+Deborah,Lynn Scott,Titanic,1997,Best Costume Design,70th,yes
+Ruth,E. Carter,Amistad,1997,Best Costume Design,70th,no
+Dante,Ferretti,Kundun,1997,Best Costume Design,70th,no
+Janet,Patterson,Oscar and Lucinda,1997,Best Costume Design,70th,no
+Sandy,Powell,The Wings of the Dove,1997,Best Costume Design,70th,no
+Sandy,Powell,Shakespeare in Love,1998,Best Costume Design,71st,yes
+Colleen,Atwood,Beloved,1998,Best Costume Design,71st,no
+Alexandra,Byrne,Elizabeth,1998,Best Costume Design,71st,no
+Judianna,Makovsky,Pleasantville,1998,Best Costume Design,71st,no
+Sandy,Powell,Velvet Goldmine,1998,Best Costume Design,71st,no
+Lindy,Hemming,Topsy-Turvy,1999,Best Costume Design,72nd,yes
+Jenny,Beavan,Anna and the King,1999,Best Costume Design,72nd,no
+Colleen,Atwood,Sleepy Hollow,1999,Best Costume Design,72nd,no
+Gary,Jones,The Talented Mr. Ripley,1999,Best Costume Design,72nd,no
+Ann,Roth,The Talented Mr. Ripley,1999,Best Costume Design,72nd,no
+Milena,Canonero,Titus,1999,Best Costume Design,72nd,no
+Janty,Yates,Gladiator,2000,Best Costume Design,73rd,yes
+Anthony,Powell,102 Dalmatians,2000,Best Costume Design,73rd,no
+Tim,Yip,"Crouching Tiger, Hidden Dragon",2000,Best Costume Design,73rd,no
+Rita,Ryack,How the Grinch Stole Christmas,2000,Best Costume Design,73rd,no
+Jacqueline,West,Quills,2000,Best Costume Design,73rd,no
+Catherine,Martin,Moulin Rouge!,2001,Best Costume Design,74th,yes
+Angus,Strathie,Moulin Rouge!,2001,Best Costume Design,74th,yes
+Milena,Canonero,The Affair of the Necklace,2001,Best Costume Design,74th,no
+Jenny,Beavan,Gosford Park,2001,Best Costume Design,74th,no
+Judianna,Makovsky,Harry Potter and the Sorcerer's Stone,2001,Best Costume Design,74th,no
+Ngila,Dickson,The Lord of the Rings: The Fellowship of the Ring,2001,Best Costume Design,74th,no
+Richard,Taylor,The Lord of the Rings: The Fellowship of the Ring,2001,Best Costume Design,74th,no
+Colleen,Atwood,Chicago,2002,Best Costume Design,75th,yes
+Julie,Weiss,Frida,2002,Best Costume Design,75th,no
+Sandy,Powell,Gangs of New York,2002,Best Costume Design,75th,no
+Ann,Roth,The Hours,2002,Best Costume Design,75th,no
+Anna,B. Sheppard,The Pianist,2002,Best Costume Design,75th,no
+Ngila,Dickson,The Lord of the Rings: The Return of the King,2003,Best Costume Design,76th,yes
+Richard,Taylor,The Lord of the Rings: The Return of the King,2003,Best Costume Design,76th,yes
+Ngila,Dickson,The Last Samurai,2003,Best Costume Design,76th,no
+Wendy,Stites,Master and Commander: The Far Side of the World,2003,Best Costume Design,76th,no
+Judianna,Makovsky,Seabiscuit,2003,Best Costume Design,76th,no
+Sandy,Powell,The Aviator,2004,Best Costume Design,77th,yes
+Alexandra,Byrne,Finding Neverland,2004,Best Costume Design,77th,no
+Colleen,Atwood,Lemony Snicket's A Series of Unfortunate Events,2004,Best Costume Design,77th,no
+Sharen,Davis,Ray,2004,Best Costume Design,77th,no
+Bob,Ringwood,Troy,2004,Best Costume Design,77th,no
+Colleen,Atwood,Memoirs of a Geisha,2005,Best Costume Design,78th,yes
+Gabriella,Pescucci,Charlie and the Chocolate Factory,2005,Best Costume Design,78th,no
+Sandy,Powell,Mrs Henderson Presents,2005,Best Costume Design,78th,no
+Jacqueline,Durran,Pride & Prejudice,2005,Best Costume Design,78th,no
+Arianne,Phillips,Walk the Line,2005,Best Costume Design,78th,no
+Milena,Canonero,Marie Antoinette,2006,Best Costume Design,79th,yes
+Chung,Man Yee,Curse of the Golden Flower,2006,Best Costume Design,79th,no
+Patricia,Field,The Devil Wears Prada,2006,Best Costume Design,79th,no
+Sharen,Davis,Dreamgirls,2006,Best Costume Design,79th,no
+Consolata,Boyle,The Queen,2006,Best Costume Design,79th,no
+Alexandra,Byrne,Elizabeth: The Golden Age,2007,Best Costume Design,80th,yes
+Albert,Wolsky,Across the Universe,2007,Best Costume Design,80th,no
+Jacqueline,Durran,Atonement,2007,Best Costume Design,80th,no
+Marit,Allen,La Vie en Rose,2007,Best Costume Design,80th,no
+Colleen,Atwood,Sweeney Todd: The Demon Barber of Fleet Street,2007,Best Costume Design,80th,no
+Michael,O'Connor,The Duchess,2008,Best Costume Design,81st,yes
+Catherine,Martin,Australia,2008,Best Costume Design,81st,no
+Jacqueline,West,The Curious Case of Benjamin Button,2008,Best Costume Design,81st,no
+Danny,Glicker,Milk,2008,Best Costume Design,81st,no
+Albert,Wolsky,Revolutionary Road,2008,Best Costume Design,81st,no
+Sandy,Powell,The Young Victoria,2009,Best Costume Design,82nd,yes
+Janet,Patterson,Bright Star,2009,Best Costume Design,82nd,no
+Catherine,Leterrier,Coco Before Chanel,2009,Best Costume Design,82nd,no
+Colleen,Atwood,Nine,2009,Best Costume Design,82nd,no
+Colleen,Atwood,Alice in Wonderland,2010,Best Costume Design,83rd,yes
+Antonella,Cannarozzi,I Am Love,2010,Best Costume Design,83rd,no
+Jenny,Beavan,The King's Speech,2010,Best Costume Design,83rd,no
+Sandy,Powell,The Tempest,2010,Best Costume Design,83rd,no
+Mary,Zophres,True Grit,2010,Best Costume Design,83rd,no
+Mark,Bridges,The Artist,2011,Best Costume Design,84th,yes
+Lisy,Christl,Anonymous,2011,Best Costume Design,84th,no
+Sandy,Powell,Hugo,2011,Best Costume Design,84th,no
+Michael,O'Connor,Jane Eyre,2011,Best Costume Design,84th,no
+Arianne,Phillips,W.E.,2011,Best Costume Design,84th,no
+Jacqueline,Durran,Anna Karenina,2012,Best Costume Design,85th,yes
+Paco,Delgado,Les Misérables,2012,Best Costume Design,85th,no
+Joanna,Johnston,Lincoln,2012,Best Costume Design,85th,no
+Eiko,Ishioka,Mirror Mirror,2012,Best Costume Design,85th,no
+Colleen,Atwood,Snow White and the Huntsman,2012,Best Costume Design,85th,no
+Catherine,Martin,The Great Gatsby,2013,Best Costume Design,86th,yes
+Michael,Wilkinson,American Hustle,2013,Best Costume Design,86th,no
+William,Chang Suk Ping,The Grandmaster,2013,Best Costume Design,86th,no
+Michael,O'Connor,The Invisible Woman,2013,Best Costume Design,86th,no
+Patricia,Norris,12 Years a Slave,2013,Best Costume Design,86th,no
+Milena,Canonero,The Grand Budapest Hotel,2014,Best Costume Design,87th,yes
+Mark,Bridges,Inherent Vice,2014,Best Costume Design,87th,no
+Colleen,Atwood,Into the Woods,2014,Best Costume Design,87th,no
+Anna,B. Sheppard,Maleficent,2014,Best Costume Design,87th,no
+Jacqueline,Durran,Mr. Turner,2014,Best Costume Design,87th,no
+Jenny,Beavan,Mad Max: Fury Road,2015,Best Costume Design,88th,yes
+Sandy,Powell,Carol,2015,Best Costume Design,88th,no
+Paco,Delgado,The Danish Girl,2015,Best Costume Design,88th,no
+Jacqueline,West,The Revenant,2015,Best Costume Design,88th,no
+Colleen,Atwood,Fantastic Beasts and Where to Find Them,2016,Best Costume Design,89th,yes
+Joanna,Johnston,Allied,2016,Best Costume Design,89th,no
+Consolata,Boyle,Florence Foster Jenkins,2016,Best Costume Design,89th,no
+Madeline,Fontaine,Jackie,2016,Best Costume Design,89th,no
+Mary,Zophres,La La Land,2016,Best Costume Design,89th,no
+Mark,Bridges,Phantom Thread,2017,Best Costume Design,90th,yes
+Jacqueline,Durran,Beauty and the Beast,2017,Best Costume Design,90th,no
+Luis,Sequeira,The Shape of Water,2017,Best Costume Design,90th,no
+Consolata,Boyle,Victoria & Abdul,2017,Best Costume Design,90th,no
+Ruth,E. Carter,Black Panther,2018,Best Costume Design,91st,yes
+Mary,Zophres,The Ballad of Buster Scruggs,2018,Best Costume Design,91st,no
+Sandy,Powell,The Favourite,2018,Best Costume Design,91st,no
+Alexandra,Byrne,Mary Queen of Scots,2018,Best Costume Design,91st,no
+Jacqueline,Durran,Little Women,2019,Best Costume Design,92nd,yes
+Sandy,Powell,The Irishman,2019,Best Costume Design,92nd,no
+Christopher,Peterson,The Irishman,2019,Best Costume Design,92nd,no
+Mayes,C. Rubeo,Jojo Rabbit,2019,Best Costume Design,92nd,no
+Mark,Bridges,Joker,2019,Best Costume Design,92nd,no
+Arianne,Phillips,Once Upon a Time in Hollywood,2019,Best Costume Design,92nd,no
+Ann,Roth,Ma Rainey's Black Bottom,2020,Best Costume Design,93rd,yes
+Alexandra,Byrne,Emma,2020,Best Costume Design,93rd,no
+Trish,Summerville,Mank,2020,Best Costume Design,93rd,no
+Bina,Daigeler,Mulan,2020,Best Costume Design,93rd,no
+Massimo,Cantini Parrini,Pinocchio,2020,Best Costume Design,93rd,no
+Jenny,Beavan,Cruella,2021,Best Costume Design,94th,yes
+Massimo,Cantini Parrini,Cyrano,2021,Best Costume Design,94th,no
+Jacqueline,Durran,Cyrano,2021,Best Costume Design,94th,no
+Jacqueline,West,Dune,2021,Best Costume Design,94th,no
+Bob,Morgan,Dune,2021,Best Costume Design,94th,no
+Luis,Sequeira,Nightmare Alley,2021,Best Costume Design,94th,no
+Paul,Tazewell,West Side Story,2021,Best Costume Design,94th,no
+Ruth,E. Carter,Black Panther: Wakanda Forever,2022,Best Costume Design,95th,yes
+Mary,Zophres,Babylon,2022,Best Costume Design,95th,no
+Catherine,Martin,Elvis,2022,Best Costume Design,95th,no
+Shirley,Kurata,Everything Everywhere All at Once,2022,Best Costume Design,95th,no
+Jenny,Beavan,Mrs. Harris Goes to Paris,2022,Best Costume Design,95th,no
+Holly,Waddington,Poor Things,2023,Best Costume Design,96th,yes
+Jacqueline,Durran,Barbie,2023,Best Costume Design,96th,no
+Jacqueline,West,Killers of the Flower Moon,2023,Best Costume Design,96th,no
+Janty,Yates,Napoleon,2023,Best Costume Design,96th,no
+Dave,Crossman,Napoleon,2023,Best Costume Design,96th,no
+Ellen,Mirojnick,Oppenheimer,2023,Best Costume Design,96th,no
+Paul,Tazewell,Wicked,2024,Best Costume Design,97th,yes
+Arianne,Phillips,A Complete Unknown,2024,Best Costume Design,97th,no
+Lisy,Christl,Conclave,2024,Best Costume Design,97th,no
+Janty,Yates,Gladiator II,2024,Best Costume Design,97th,no
+Dave,Crossman,Gladiator II,2024,Best Costume Design,97th,no
+Linda,Muir,Nosferatu,2024,Best Costume Design,97th,no

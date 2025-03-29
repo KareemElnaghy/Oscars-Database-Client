@@ -1,0 +1,398 @@
+firstName,lastName,movieTitle,releaseYear,categoryName,iteration,isWinner
+Walt,Disney,Flowers and Trees,1931,Best Animated Short Film,5th,yes
+Leon,Schlesinger,It's Got Me Again!,1931,Best Animated Short Film,5th,no
+Walt,Disney,Mickey's Orphans,1931,Best Animated Short Film,5th,no
+Walt,Disney,Three Little Pigs,1932,Best Animated Short Film,6th,yes
+Walt,Disney,Building a Building,1932,Best Animated Short Film,6th,no
+Walter,Lantz,The Merry Old Soul,1932,Best Animated Short Film,6th,no
+Walt,Disney,The Tortoise and the Hare,1934,Best Animated Short Film,7th,yes
+Charles,Mintz,Holiday Land,1934,Best Animated Short Film,7th,no
+Walter,Lantz,Jolly Little Elves,1934,Best Animated Short Film,7th,no
+Walt,Disney,Three Orphan Kittens,1935,Best Animated Short Film,8th,yes
+Harman-Ising,,The Calico Dragon,1935,Best Animated Short Film,8th,no
+Walt,Disney,Who Killed Cock Robin?,1935,Best Animated Short Film,8th,no
+Walt,Disney,The Country Cousin,1936,Best Animated Short Film,9th,yes
+Harman-Ising,,The Old Mill Pond,1936,Best Animated Short Film,9th,no
+Max,Fleischer,Popeye the Sailor Meets Sindbad the Sailor,1936,Best Animated Short Film,9th,no
+Walt,Disney,The Old Mill,1937,Best Animated Short Film,10th,yes
+Max,Fleischer,Educated Fish,1937,Best Animated Short Film,10th,no
+Charles,Mintz,Little Match Girl,1937,Best Animated Short Film,10th,no
+Walt,Disney,Ferdinand the Bull,1938,Best Animated Short Film,11th,yes
+Walt,Disney,Brave Little Tailor,1938,Best Animated Short Film,11th,no
+Max,Fleischer,Hunky and Spunky,1938,Best Animated Short Film,11th,no
+Walt,Disney,Mother Goose Goes Hollywood,1938,Best Animated Short Film,11th,no
+Walt,Disney,The Ugly Duckling,1939,Best Animated Short Film,12th,yes
+Leon,Schlesinger,Detouring America,1939,Best Animated Short Film,12th,no
+Harman-Ising,,Peace on Earth,1939,Best Animated Short Film,12th,no
+Walt,Disney,The Pointer,1939,Best Animated Short Film,12th,no
+Fred,Quimby,The Milky Way,1940,Best Animated Short Film,13th,yes
+Fred,Quimby,Puss Gets the Boot,1940,Best Animated Short Film,13th,no
+Leon,Schlesinger,A Wild Hare,1940,Best Animated Short Film,13th,no
+Walt,Disney,Lend a Paw,1941,Best Animated Short Film,14th,yes
+Walter,Lantz,"Boogie Woogie Bugle Boy of Company ""B""",1941,Best Animated Short Film,14th,no
+Leon,Schlesinger,Hiawatha's Rabbit Hunt,1941,Best Animated Short Film,14th,no
+Fred,Quimby,The Night Before Christmas,1941,Best Animated Short Film,14th,no
+Leon,Schlesinger,Rhapsody in Rivets,1941,Best Animated Short Film,14th,no
+George,Pal,Rhythm in the Ranks,1941,Best Animated Short Film,14th,no
+Fred,Quimby,The Rookie Bear,1941,Best Animated Short Film,14th,no
+Max,Fleischer,Superman,1941,Best Animated Short Film,14th,no
+Walt,Disney,Truant Officer Donald,1941,Best Animated Short Film,14th,no
+Walt,Disney,Der Fuehrer's Face,1942,Best Animated Short Film,15th,yes
+Paul,Terry,"All Out for ""V""",1942,Best Animated Short Film,15th,no
+Fred,Quimby,Blitz Wolf,1942,Best Animated Short Film,15th,no
+Walter,Lantz,Juke Box Jamboree,1942,Best Animated Short Film,15th,no
+Leon,Schlesinger,Pigs in a Polka,1942,Best Animated Short Film,15th,no
+George,Pal,Tulips Shall Grow,1942,Best Animated Short Film,15th,no
+Fred,Quimby,The Yankee Doodle Mouse,1943,Best Animated Short Film,16th,yes
+George,Pal,The 500 Hats of Bartholomew Cubbins,1943,Best Animated Short Film,16th,no
+Walter,Lantz,The Dizzy Acrobat,1943,Best Animated Short Film,16th,no
+Leon,Schlesinger,Greetings Bait,1943,Best Animated Short Film,16th,no
+Dave,Fleischer,Imagination,1943,Best Animated Short Film,16th,no
+Walt,Disney,Reason and Emotion,1943,Best Animated Short Film,16th,no
+Fred,Quimby,Mouse Trouble,1944,Best Animated Short Film,17th,yes
+George,Pal,And to Think That I Saw It on Mulberry Street,1944,Best Animated Short Film,17th,no
+Hugh,McCollum,"Dog, Cat and Canary",1944,Best Animated Short Film,17th,no
+Walter,Lantz,Fish Fry,1944,Best Animated Short Film,17th,no
+Walt,Disney,How to Play Football,1944,Best Animated Short Film,17th,no
+Paul,Terry,"My Boy, Johnny",1944,Best Animated Short Film,17th,no
+Leon,Schlesinger,Swooner Crooner,1944,Best Animated Short Film,17th,no
+Fred,Quimby,Quiet Please!,1945,Best Animated Short Film,18th,yes
+Walt,Disney,Donald's Crime,1945,Best Animated Short Film,18th,no
+George,Pal,Jasper and the Beanstalk,1945,Best Animated Short Film,18th,no
+Edward,Selzer,Life with Feathers,1945,Best Animated Short Film,18th,no
+Paul,Terry,Mighty Mouse in Gypsy Life,1945,Best Animated Short Film,18th,no
+Walter,Lantz,The Poet and Peasant,1945,Best Animated Short Film,18th,no
+Fred,Quimby,The Cat Concerto,1946,Best Animated Short Film,19th,yes
+George,Pal,John Henry and the Inky-Poo,1946,Best Animated Short Film,19th,no
+Walter,Lantz,Musical Moments from Chopin,1946,Best Animated Short Film,19th,no
+Walt,Disney,Squatter's Rights,1946,Best Animated Short Film,19th,no
+Edward,Selzer,Walky Talky Hawky,1946,Best Animated Short Film,19th,no
+Edward,Selzer,Tweetie Pie,1947,Best Animated Short Film,20th,yes
+Walt,Disney,Chip an' Dale,1947,Best Animated Short Film,20th,no
+Fred,Quimby,Dr. Jekyll and Mr. Mouse,1947,Best Animated Short Film,20th,no
+Walt,Disney,Pluto's Blue Note,1947,Best Animated Short Film,20th,no
+George,Pal,Tubby the Tuba,1947,Best Animated Short Film,20th,no
+Fred,Quimby,The Little Orphan,1948,Best Animated Short Film,21st,yes
+Walt,Disney,Mickey and the Seal,1948,Best Animated Short Film,21st,no
+Edward,Selzer,Mouse Wreckers,1948,Best Animated Short Film,21st,no
+United,Productions of America,Robin Hoodlum,1948,Best Animated Short Film,21st,no
+Walt,Disney,Tea for Two Hundred,1948,Best Animated Short Film,21st,no
+Edward,Selzer,For Scent-imental Reasons,1949,Best Animated Short Film,22nd,yes
+Fred,Quimby,Hatch Up Your Troubles,1949,Best Animated Short Film,22nd,no
+Stephen,Bosustow,Magic Fluke,1949,Best Animated Short Film,22nd,no
+Walt,Disney,Toy Tinkers,1949,Best Animated Short Film,22nd,no
+Stephen,Bosustow,Gerald McBoing-Boing,1950,Best Animated Short Film,23rd,yes
+Fred,Quimby,Jerry's Cousin,1950,Best Animated Short Film,23rd,no
+Stephen,Bosustow,Trouble Indemnity,1950,Best Animated Short Film,23rd,no
+Fred,Quimby,The Two Mouseketeers,1951,Best Animated Short Film,24th,yes
+Walt,Disney,Lambert the Sheepish Lion,1951,Best Animated Short Film,24th,no
+Stephen,Bosustow,Rooty Toot Toot,1951,Best Animated Short Film,24th,no
+Fred,Quimby,Johann Mouse,1952,Best Animated Short Film,25th,yes
+Stephen,Bosustow,Madeline,1952,Best Animated Short Film,25th,no
+Tom,Daly,Romance of Transportation,1952,Best Animated Short Film,25th,no
+Walt,Disney,"Toot, Whistle, Plunk and Boom",1953,Best Animated Short Film,26th,yes
+Stephen,Bosustow,Christopher Crumpet,1953,Best Animated Short Film,26th,no
+Edward,Selzer,From A to Z-Z-Z-Z,1953,Best Animated Short Film,26th,no
+Stephen,Bosustow,When Magoo Flew,1954,Best Animated Short Film,27th,yes
+Walter,Lantz,Crazy Mixed Up Pup,1954,Best Animated Short Film,27th,no
+Walt,Disney,Pigs Is Pigs,1954,Best Animated Short Film,27th,no
+Edward,Selzer,Sandy Claws,1954,Best Animated Short Film,27th,no
+Fred,Quimby,"Touché, Pussy Cat!",1954,Best Animated Short Film,27th,no
+Edward,Selzer,Speedy Gonzales,1955,Best Animated Short Film,28th,yes
+Fred,Quimby,Good Will to Men,1955,Best Animated Short Film,28th,no
+William,Hanna,Good Will to Men,1955,Best Animated Short Film,28th,no
+Joseph,Barbera,Good Will to Men,1955,Best Animated Short Film,28th,no
+Walter,Lantz,The Legend of Rockabye Point,1955,Best Animated Short Film,28th,no
+Walt,Disney,No Hunting,1955,Best Animated Short Film,28th,no
+Stephen,Bosustow,Magoo's Puddle Jumper,1956,Best Animated Short Film,29th,yes
+Edward,Selzer,Birds Anonymous,1957,Best Animated Short Film,30th,yes
+William,Hanna,One Droopy Knight,1957,Best Animated Short Film,30th,no
+Joseph,Barbera,One Droopy Knight,1957,Best Animated Short Film,30th,no
+Stephen,Bosustow,Trees and Jamaica Daddy,1957,Best Animated Short Film,30th,no
+Walt,Disney,The Truth About Mother Goose,1957,Best Animated Short Film,30th,no
+John,W. Burton,Knighty Knight Bugs,1958,Best Animated Short Film,31st,yes
+Walt,Disney,Paul Bunyan,1958,Best Animated Short Film,31st,no
+John,Hubley,Moonbird,1959,Best Animated Short Film,32nd,yes
+John,W. Burton,Mexicali Shmoes,1959,Best Animated Short Film,32nd,no
+Walt,Disney,Noah's Ark,1959,Best Animated Short Film,32nd,no
+Ernest,Pintoff,The Violinist,1959,Best Animated Short Film,32nd,no
+William,L. Snyder,Munro,1960,Best Animated Short Film,33rd,yes
+Walt,Disney,Goliath II,1960,Best Animated Short Film,33rd,no
+Warner,Bros.,High Note,1960,Best Animated Short Film,33rd,no
+Zagreb,Film,Ersatz,1961,Best Animated Short Film,34th,yes
+Walt,Disney,Aquamania,1961,Best Animated Short Film,34th,no
+Chuck,Jones,Beep Prepared,1961,Best Animated Short Film,34th,no
+Friz,Freleng,The Pied Piper of Guadalupe,1961,Best Animated Short Film,34th,no
+Faith,,The Hole,1962,Best Animated Short Film,35th,yes
+John,Hubley,The Hole,1962,Best Animated Short Film,35th,yes
+Jules,Engel,Icarus Montgolfier Wright,1962,Best Animated Short Film,35th,no
+Warner,Bros.,Now Hear This,1962,Best Animated Short Film,35th,no
+William,L. Snyder,Self Defense—For Cowards,1962,Best Animated Short Film,35th,no
+Walt,Disney,A Symposium on Popular Songs,1962,Best Animated Short Film,35th,no
+Ernest,Pintoff,The Critic,1963,Best Animated Short Film,36th,yes
+John,Halas,Automania 2000,1963,Best Animated Short Film,36th,no
+Dušan,Vukotić,The Game (Igra),1963,Best Animated Short Film,36th,no
+Tom,Daly,My Financial Career,1963,Best Animated Short Film,36th,no
+Colin,Low,My Financial Career,1963,Best Animated Short Film,36th,no
+Carmen,D'Avino,Pianissimo,1963,Best Animated Short Film,36th,no
+David,H. DePatie,The Pink Phink,1964,Best Animated Short Film,37th,yes
+Friz,Freleng,The Pink Phink,1964,Best Animated Short Film,37th,yes
+National,Film Board of Canada,Christmas Cracker,1964,Best Animated Short Film,37th,no
+William,L. Snyder,Here's Nudnik,1964,Best Animated Short Film,37th,no
+Chuck,Jones,The Dot and the Line,1965,Best Animated Short Film,38th,yes
+Eli,Noyes,Clay or The Origin of Species,1965,Best Animated Short Film,38th,no
+Emanuele,Luzzati,The Thieving Magpie,1965,Best Animated Short Film,38th,no
+Faith,,A Herb Alpert and the Tijuana Brass Double Feature,1966,Best Animated Short Film,39th,yes
+John,Hubley,A Herb Alpert and the Tijuana Brass Double Feature,1966,Best Animated Short Film,39th,yes
+Wolf,Koenig,The Drag,1966,Best Animated Short Film,39th,no
+Robert,Verrall,The Drag,1966,Best Animated Short Film,39th,no
+David,H. DePatie,The Pink Blueprint,1966,Best Animated Short Film,39th,no
+Friz,Freleng,The Pink Blueprint,1966,Best Animated Short Film,39th,no
+Fred,Wolf,The Box,1967,Best Animated Short Film,40th,yes
+Robert,Verrall,What on Earth!,1967,Best Animated Short Film,40th,no
+Wolf,Koenig,What on Earth!,1967,Best Animated Short Film,40th,no
+Walt,Disney,Winnie the Pooh and the Blustery Day,1968,Best Animated Short Film,41st,yes
+Wolf,Koenig,The House That Jack Built,1968,Best Animated Short Film,41st,no
+Jimmy,Murakami,The Magic Pear Tree,1968,Best Animated Short Film,41st,no
+Faith,,Windy Day,1968,Best Animated Short Film,41st,no
+John,Hubley,Windy Day,1968,Best Animated Short Film,41st,no
+Ward,Kimball,It's Tough to Be a Bird,1969,Best Animated Short Film,42nd,yes
+Faith,,Of Men and Demons,1969,Best Animated Short Film,42nd,no
+John,Hubley,Of Men and Demons,1969,Best Animated Short Film,42nd,no
+Ryan,Larkin,Walking,1969,Best Animated Short Film,42nd,no
+Dale,Case,The Further Adventures of Uncle Sam,1970,Best Animated Short Film,43rd,no
+Ted,Petok,The Crunch Bird,1971,Best Animated Short Film,44th,yes
+Michael,Mills,Evolution,1971,Best Animated Short Film,44th,no
+Gerald,Potterton,The Selfish Giant,1971,Best Animated Short Film,44th,no
+Richard,Williams,A Christmas Carol,1972,Best Animated Short Film,45th,yes
+Bob,Godfrey,Kama Sutra Rides Again,1972,Best Animated Short Film,45th,no
+Nedeljko,Dragić,Tup Tup,1972,Best Animated Short Film,45th,no
+Frank,Mouris,Frank Film,1973,Best Animated Short Film,46th,yes
+Emanuele,Luzzati,Pulcinella,1973,Best Animated Short Film,46th,no
+Bob,Gardiner,Closed Mondays,1974,Best Animated Short Film,47th,yes
+Will,Vinton,Closed Mondays,1974,Best Animated Short Film,47th,yes
+Robert,Verrall,The Family That Dwelt Apart,1974,Best Animated Short Film,47th,no
+Peter,Foldes,Hunger,1974,Best Animated Short Film,47th,no
+René,Jodoin,Hunger,1974,Best Animated Short Film,47th,no
+Faith,,Voyage to Next,1974,Best Animated Short Film,47th,no
+John,Hubley,Voyage to Next,1974,Best Animated Short Film,47th,no
+Wolfgang,Reitherman,Winnie the Pooh and Tigger Too,1974,Best Animated Short Film,47th,no
+Bob,Godfrey,Great,1975,Best Animated Short Film,48th,yes
+Robert,Swarthe,Kick Me,1975,Best Animated Short Film,48th,no
+René,Jodoin,Monsieur Pointu,1975,Best Animated Short Film,48th,no
+Bernard,Longpré,Monsieur Pointu,1975,Best Animated Short Film,48th,no
+Marcell,Jankovics,Sisyphus,1975,Best Animated Short Film,48th,no
+Suzanne,Baker,Leisure,1976,Best Animated Short Film,49th,yes
+Caroline,Leaf,The Street,1976,Best Animated Short Film,49th,no
+Co,Hoedeman,The Sand Castle,1977,Best Animated Short Film,50th,yes
+Ishu,Patel,The Bead Game,1977,Best Animated Short Film,50th,no
+Faith,,A Doonesbury Special,1977,Best Animated Short Film,50th,no
+John,Hubley,A Doonesbury Special,1977,Best Animated Short Film,50th,no
+Garry,Trudeau,A Doonesbury Special,1977,Best Animated Short Film,50th,no
+Robert,Grossman,Jimmy the C,1977,Best Animated Short Film,50th,no
+Eunice,Macaulay,Special Delivery,1978,Best Animated Short Film,51st,yes
+John,Weldon,Special Delivery,1978,Best Animated Short Film,51st,yes
+Will,Vinton,Rip Van Winkle,1978,Best Animated Short Film,51st,no
+Derek,Lamb,Every Child,1979,Best Animated Short Film,52nd,yes
+Bob,Godfrey,Dream Doll,1979,Best Animated Short Film,52nd,no
+Zlatko,Grgić,Dream Doll,1979,Best Animated Short Film,52nd,no
+Paul,Fierlinger,It's So Nice to Have a Wolf Around the House,1979,Best Animated Short Film,52nd,no
+Ferenc,Rofusz,The Fly,1980,Best Animated Short Film,53rd,yes
+Frédéric,Back,All Nothing,1980,Best Animated Short Film,53rd,no
+Michael,Mills,History of the World in Three Minutes Flat,1980,Best Animated Short Film,53rd,no
+Frédéric,Back,Crac,1981,Best Animated Short Film,54th,yes
+Will,Vinton,The Creation,1981,Best Animated Short Film,54th,no
+Janet,Perlman,The Tender Tale of Cinderella Penguin,1981,Best Animated Short Film,54th,no
+Zbigniew,Rybczyński,Tango,1982,Best Animated Short Film,55th,yes
+Will,Vinton,The Great Cognito,1982,Best Animated Short Film,55th,no
+John,Coates,The Snowman,1982,Best Animated Short Film,55th,no
+Dianne,Jackson,The Snowman,1982,Best Animated Short Film,55th,no
+Burny,Mattinson,Mickey's Christmas Carol,1983,Best Animated Short Film,56th,no
+Jon,Minnis,Charade,1984,Best Animated Short Film,57th,yes
+Morton,Schindel,Doctor DeSoto,1984,Best Animated Short Film,57th,no
+Michael,Sporn,Doctor DeSoto,1984,Best Animated Short Film,57th,no
+Ishu,Patel,Paradise,1984,Best Animated Short Film,57th,no
+Cilia,van Dijk,Anna & Bella,1985,Best Animated Short Film,58th,yes
+Richard,Condie,The Big Snit,1985,Best Animated Short Film,58th,no
+Michael,Scott,The Big Snit,1985,Best Animated Short Film,58th,no
+Alison,Snowden,Second Class Mail,1985,Best Animated Short Film,58th,no
+John,Lasseter,Luxo Jr.,1986,Best Animated Short Film,59th,no
+Bill,Reeves,Luxo Jr.,1986,Best Animated Short Film,59th,no
+Frédéric,Back,The Man Who Planted Trees,1987,Best Animated Short Film,60th,yes
+Eunice,Macaulay,George and Rosemary,1987,Best Animated Short Film,60th,no
+Bill,Plympton,Your Face,1987,Best Animated Short Film,60th,no
+John,Lasseter,Tin Toy,1988,Best Animated Short Film,61st,yes
+Bill,Reeves,Tin Toy,1988,Best Animated Short Film,61st,yes
+Cordell,Barker,The Cat Came Back,1988,Best Animated Short Film,61st,no
+Bill,Kroyer,Technological Threat,1988,Best Animated Short Film,61st,no
+Wolfgang,,Balance,1989,Best Animated Short Film,62nd,yes
+Christoph,Lauenstein,Balance,1989,Best Animated Short Film,62nd,yes
+Aleksandr,Petrov,The Cow,1989,Best Animated Short Film,62nd,no
+Mark,Baker,The Hill Farm,1989,Best Animated Short Film,62nd,no
+Nick,Park,Creature Comforts,1990,Best Animated Short Film,63rd,yes
+Bruno,Bozzetto,Grasshoppers,1990,Best Animated Short Film,63rd,no
+Christopher,Hinton,Blackfly,1991,Best Animated Short Film,64th,no
+Wendy,Tilby,Strings,1991,Best Animated Short Film,64th,no
+Joan,C. Gratz,Mona Lisa Descending a Staircase,1992,Best Animated Short Film,65th,yes
+Peter,Lord,Adam,1992,Best Animated Short Film,65th,no
+Michaela,Pavlátová,"Reci, Reci, Reci...",1992,Best Animated Short Film,65th,no
+Paul,Berry,The Sandman,1992,Best Animated Short Film,65th,no
+Barry,Purves,Screen Play,1992,Best Animated Short Film,65th,no
+Nick,Park,The Wrong Trousers,1993,Best Animated Short Film,66th,yes
+Frédéric,Back,The Mighty River,1993,Best Animated Short Film,66th,no
+Bob,Godfrey,Small Talk,1993,Best Animated Short Film,66th,no
+Mark,Baker,The Village,1993,Best Animated Short Film,66th,no
+David,Fine,Bob's Birthday,1994,Best Animated Short Film,67th,yes
+Alison,Snowden,Bob's Birthday,1994,Best Animated Short Film,67th,yes
+David,Stoten,The Big Story,1994,Best Animated Short Film,67th,no
+Tim,Watts,The Big Story,1994,Best Animated Short Film,67th,no
+Michaël,Dudok de Wit,The Monk and the Fish,1994,Best Animated Short Film,67th,no
+Erica,Russell,Triangle,1994,Best Animated Short Film,67th,no
+Nick,Park,A Close Shave,1995,Best Animated Short Film,68th,yes
+John,R. Dilworth,The Chicken from Outer Space,1995,Best Animated Short Film,68th,no
+Chris,Landreth,The End,1995,Best Animated Short Film,68th,no
+Chris,Bailey,Runaway Brain,1995,Best Animated Short Film,68th,no
+Thomas,Stellmach,Quest,1996,Best Animated Short Film,69th,yes
+Richard,Condie,La Salla,1996,Best Animated Short Film,69th,no
+Peter,Lord,Wat's Pig,1996,Best Animated Short Film,69th,no
+Jan,Pinkava,Geri's Game,1997,Best Animated Short Film,70th,yes
+Joanna,Quinn,Famous Fred,1997,Best Animated Short Film,70th,no
+Aleksandr,Petrov,The Mermaid,1997,Best Animated Short Film,70th,no
+Sylvain,Chomet,The Old Lady and the Pigeons,1997,Best Animated Short Film,70th,no
+Chris,Wedge,Bunny,1998,Best Animated Short Film,71st,yes
+Jonathan,Myerson,The Canterbury Tales,1998,Best Animated Short Film,71st,no
+Mark,Baker,Jolly Roger,1998,Best Animated Short Film,71st,no
+Mark,Osborne,More,1998,Best Animated Short Film,71st,no
+Karsten,Kiilerich,When Life Departs,1998,Best Animated Short Film,71st,no
+Aleksandr,Petrov,The Old Man and the Sea,1999,Best Animated Short Film,72nd,yes
+Paul,Driessen,3 Misses,1999,Best Animated Short Film,72nd,no
+Torill,Kove,My Grandmother Ironed the King's Shirts,1999,Best Animated Short Film,72nd,no
+Wendy,Tilby and Amanda Forbis,When the Day Breaks,1999,Best Animated Short Film,72nd,no
+Michaël,Dudok de Wit,Father and Daughter,2000,Best Animated Short Film,73rd,yes
+Don,Hertzfeldt,Rejected,2000,Best Animated Short Film,73rd,no
+Ralph,Eggleston,For the Birds,2001,Best Animated Short Film,74th,yes
+Ruairí,Robinson,Fifty Percent Grey,2001,Best Animated Short Film,74th,no
+Cordell,Barker,Strange Invaders,2001,Best Animated Short Film,74th,no
+Tomek,Baginski,The Cathedral,2002,Best Animated Short Film,75th,no
+Pete,Docter,Mike's New Car,2002,Best Animated Short Film,75th,no
+Kōji,Yamamura,Mt. Head,2002,Best Animated Short Film,75th,no
+Adam,Elliot,Harvie Krumpet,2003,Best Animated Short Film,76th,yes
+Bud,Luckey,Boundin',2003,Best Animated Short Film,76th,no
+Roy,E. Disney,Destino,2003,Best Animated Short Film,76th,no
+Dominique,Monféry,Destino,2003,Best Animated Short Film,76th,no
+Carlos,Saldanha,Gone Nutty,2003,Best Animated Short Film,76th,no
+Chris,Hinton,Nibbles,2003,Best Animated Short Film,76th,no
+Chris,Landreth,Ryan,2004,Best Animated Short Film,77th,yes
+Jeff,Fowler,Gopher Broke,2004,Best Animated Short Film,77th,no
+Tim,Miller,Gopher Broke,2004,Best Animated Short Film,77th,no
+Bill,Plympton,Guard Dog,2004,Best Animated Short Film,77th,no
+Mike,Gabriel,Lorenzo,2004,Best Animated Short Film,77th,no
+John,Canemaker,The Moon and the Son: An Imagined Conversation,2005,Best Animated Short Film,78th,yes
+Shane,Acker,9,2005,Best Animated Short Film,78th,no
+Mark,Andrews,One Man Band,2005,Best Animated Short Film,78th,no
+Torill,Kove,The Danish Poet,2006,Best Animated Short Film,79th,yes
+Gary,Rydstrom,Lifted,2006,Best Animated Short Film,79th,no
+Roger,Allers,The Little Matchgirl,2006,Best Animated Short Film,79th,no
+Don,Hahn,The Little Matchgirl,2006,Best Animated Short Film,79th,no
+Géza,M. Tóth,Maestro,2006,Best Animated Short Film,79th,no
+Chris,Renaud,No Time for Nuts,2006,Best Animated Short Film,79th,no
+Mike,Thurmeier,No Time for Nuts,2006,Best Animated Short Film,79th,no
+Suzie,Templeton,Peter & the Wolf,2007,Best Animated Short Film,80th,yes
+Hugh,Welchman,Peter & the Wolf,2007,Best Animated Short Film,80th,yes
+Chris,Lavis,Madame Tutli-Putli,2007,Best Animated Short Film,80th,no
+Maciek,Szczerbowski,Madame Tutli-Putli,2007,Best Animated Short Film,80th,no
+Aleksandr,Petrov,My Love,2007,Best Animated Short Film,80th,no
+Kunio,Katō,La Maison en Petits Cubes,2008,Best Animated Short Film,81st,yes
+Konstantin,Bronzit,Lavatory – Lovestory,2008,Best Animated Short Film,81st,no
+Emud,Mokhberi,Oktapodi,2008,Best Animated Short Film,81st,no
+Doug,Sweetland,Presto,2008,Best Animated Short Film,81st,no
+Darragh,O'Connell,Granny O'Grimm's Sleeping Beauty,2009,Best Animated Short Film,82nd,no
+Nicky,Phelan,Granny O'Grimm's Sleeping Beauty,2009,Best Animated Short Film,82nd,no
+Nick,Park,A Matter of Loaf and Death,2009,Best Animated Short Film,82nd,no
+Shaun,Tan,The Lost Thing,2010,Best Animated Short Film,83rd,yes
+Teddy,Newton,Day & Night,2010,Best Animated Short Film,83rd,no
+Max,Lang,The Gruffalo,2010,Best Animated Short Film,83rd,no
+Geefwee,Boedoe,Let's Pollute,2010,Best Animated Short Film,83rd,no
+William,Joyce,The Fantastic Flying Books of Mr. Morris Lessmore,2011,Best Animated Short Film,84th,yes
+Brandon,Oldenburg,The Fantastic Flying Books of Mr. Morris Lessmore,2011,Best Animated Short Film,84th,yes
+Enrico,Casarosa,La Luna,2011,Best Animated Short Film,84th,no
+Sue,Goffe,A Morning Stroll,2011,Best Animated Short Film,84th,no
+Grant,Orchard,A Morning Stroll,2011,Best Animated Short Film,84th,no
+Patrick,Doyon,Sunday,2011,Best Animated Short Film,84th,no
+Amanda,Forbis & Wendy Tilby,Wild Life,2011,Best Animated Short Film,84th,no
+John,Kahrs,Paperman,2012,Best Animated Short Film,85th,yes
+PES,,Fresh Guacamole,2012,Best Animated Short Film,85th,no
+Fodhla,Cronin O'Reilly,Head Over Heels,2012,Best Animated Short Film,85th,no
+Timothy,Reckart,Head Over Heels,2012,Best Animated Short Film,85th,no
+David,Silverman,The Longest Daycare,2012,Best Animated Short Film,85th,no
+Laurent,Witz,Mr Hublot,2013,Best Animated Short Film,86th,yes
+Alexandre,Espigares,Mr Hublot,2013,Best Animated Short Film,86th,yes
+Daniel,Sousa,Feral,2013,Best Animated Short Film,86th,no
+Dan,Golden,Feral,2013,Best Animated Short Film,86th,no
+Lauren,MacMullan,Get a Horse!,2013,Best Animated Short Film,86th,no
+Dorothy,McKim,Get a Horse!,2013,Best Animated Short Film,86th,no
+Shuhei,Morita,Possessions,2013,Best Animated Short Film,86th,no
+Max,Lang,Room on the Broom,2013,Best Animated Short Film,86th,no
+Jan,Lachauer,Room on the Broom,2013,Best Animated Short Film,86th,no
+Patrick,Osborne,Feast,2014,Best Animated Short Film,87th,yes
+Kristina,Reed,Feast,2014,Best Animated Short Film,87th,yes
+Dice,Tsutsumi,The Dam Keeper,2014,Best Animated Short Film,87th,no
+Torill,Kove,Me and My Moulton,2014,Best Animated Short Film,87th,no
+Pato,Escala Pierart,Bear Story,2015,Best Animated Short Film,88th,yes
+Gabriel,Osorio Vargas,Bear Story,2015,Best Animated Short Film,88th,yes
+Imogen,Sutton,Prologue,2015,Best Animated Short Film,88th,no
+Richard,Williams,Prologue,2015,Best Animated Short Film,88th,no
+Sanjay,Patel,Sanjay's Super Team,2015,Best Animated Short Film,88th,no
+Nicole,Paradis Grindle,Sanjay's Super Team,2015,Best Animated Short Film,88th,no
+Konstantin,Bronzit,We Can't Live Without Cosmos,2015,Best Animated Short Film,88th,no
+Don,Hertzfeldt,World of Tomorrow,2015,Best Animated Short Film,88th,no
+Alan,Barillaro,Piper,2016,Best Animated Short Film,89th,yes
+Marc,Sondheimer,Piper,2016,Best Animated Short Film,89th,yes
+Theodore,Ushev,Blind Vaysha,2016,Best Animated Short Film,89th,no
+Andrew,Coats,Borrowed Time,2016,Best Animated Short Film,89th,no
+Lou,Hamou-Lhadj,Borrowed Time,2016,Best Animated Short Film,89th,no
+Cara,Speller,Pear Cider and Cigarettes,2016,Best Animated Short Film,89th,no
+Robert,Valley,Pear Cider and Cigarettes,2016,Best Animated Short Film,89th,no
+Patrick,Osborne,Pearl,2016,Best Animated Short Film,89th,no
+Glen,Keane,Dear Basketball,2017,Best Animated Short Film,90th,yes
+Kobe,Bryant,Dear Basketball,2017,Best Animated Short Film,90th,yes
+Victor,Caire,Garden Party,2017,Best Animated Short Film,90th,no
+Gabriel,Grapperon,Garden Party,2017,Best Animated Short Film,90th,no
+Dave,Mullins,Lou,2017,Best Animated Short Film,90th,no
+Dana,Murray,Lou,2017,Best Animated Short Film,90th,no
+Ru,Kuwahata,Negative Space,2017,Best Animated Short Film,90th,no
+Max,Porter,Negative Space,2017,Best Animated Short Film,90th,no
+Jakob,Schuh,Revolting Rhymes,2017,Best Animated Short Film,90th,no
+Jan,Lachauer,Revolting Rhymes,2017,Best Animated Short Film,90th,no
+Domee,Shi,Bao,2018,Best Animated Short Film,91st,yes
+David,Fine,Animal Behaviour,2018,Best Animated Short Film,91st,no
+Alison,Snowden,Animal Behaviour,2018,Best Animated Short Film,91st,no
+Andrew,Chesworth,One Small Step,2018,Best Animated Short Film,91st,no
+Trevor,Jimenez,Weekends,2018,Best Animated Short Film,91st,no
+Matthew,A. Cherry,Hair Love,2019,Best Animated Short Film,92nd,yes
+Karen,Rupert Toliver,Hair Love,2019,Best Animated Short Film,92nd,yes
+Daria,Kashcheeva,Daughter,2019,Best Animated Short Film,92nd,no
+Rosana,Sullivan,Kitbull,2019,Best Animated Short Film,92nd,no
+Siqi,Song,Sister,2019,Best Animated Short Film,92nd,no
+Michael,Govier,If Anything Happens I Love You,2020,Best Animated Short Film,93rd,no
+Will,McCormack,If Anything Happens I Love You,2020,Best Animated Short Film,93rd,no
+Madeline,Sharafian,Burrow,2020,Best Animated Short Film,93rd,no
+Erick,Oh,Opera,2020,Best Animated Short Film,93rd,no
+Alberto,Mielgo,The Windshield Wiper,2021,Best Animated Short Film,94th,no
+Joanna,Quinn,Affairs of the Art,2021,Best Animated Short Film,94th,no
+Charlie,Mackesy,"The Boy, the Mole, the Fox and the Horse",2022,Best Animated Short Film,95th,no
+Matthew,Freud,"The Boy, the Mole, the Fox and the Horse",2022,Best Animated Short Film,95th,no
+Amanda,Forbis & Wendy Tilby,The Flying Sailor,2022,Best Animated Short Film,95th,no
+João,Gonzalez,Ice Merchants,2022,Best Animated Short Film,95th,no
+Sara,Gunnarsdóttir,My Year of Dicks,2022,Best Animated Short Film,95th,no
+Pamela,Ribon,My Year of Dicks,2022,Best Animated Short Film,95th,no
+Lachlan,Pendragon,An Ostrich Told Me the World Is Fake and I Think I Believe It,2022,Best Animated Short Film,95th,no
+Dave,Mullins,War Is Over! Inspired by the Music of John & Yoko,2023,Best Animated Short Film,96th,no
+Brad,Booker,War Is Over! Inspired by the Music of John & Yoko,2023,Best Animated Short Film,96th,no
+Tal,Kantor,Letter to a Pig,2023,Best Animated Short Film,96th,no
+Amit,R. Gicelter,Letter to a Pig,2023,Best Animated Short Film,96th,no
+Jared,Hess and Jerusha Hess,Ninety-Five Senses,2023,Best Animated Short Film,96th,no
+Stéphanie,Clément,Pachyderme,2023,Best Animated Short Film,96th,no
+Daisuke,Nishio,Magic Candies,2024,Best Animated Short Film,97th,no
+Nina,Gantz,Wander to Wonder,2024,Best Animated Short Film,97th,no
+Loïc,Espuche,Yuck!,2024,Best Animated Short Film,97th,no

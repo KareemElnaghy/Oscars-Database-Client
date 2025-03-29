@@ -1,0 +1,583 @@
+firstName,lastName,movieTitle,releaseYear,categoryName,iteration,isWinner
+Conrad,A. Nervig,Eskimo,1934,Best Film Editing,7th,yes
+Anne,Bauchens,Cleopatra,1934,Best Film Editing,7th,no
+Gene,Milford,One Night of Love,1934,Best Film Editing,7th,no
+Ralph,Dawson,A Midsummer Night's Dream,1935,Best Film Editing,8th,yes
+Robert,J. Kern,David Copperfield,1935,Best Film Editing,8th,no
+George,Hively,The Informer,1935,Best Film Editing,8th,no
+Barbara,McLean,Les Misérables,1935,Best Film Editing,8th,no
+Ellsworth,Hoagland,The Lives of a Bengal Lancer,1935,Best Film Editing,8th,no
+Margaret,Booth,Mutiny on the Bounty,1935,Best Film Editing,8th,no
+Ralph,Dawson,Anthony Adverse,1936,Best Film Editing,9th,yes
+Edward,Curtiss,Come and Get It,1936,Best Film Editing,9th,no
+William,S. Gray,The Great Ziegfeld,1936,Best Film Editing,9th,no
+Barbara,McLean,Lloyd's of London,1936,Best Film Editing,9th,no
+Conrad,A. Nervig,A Tale of Two Cities,1936,Best Film Editing,9th,no
+Otto,Meyer,Theodora Goes Wild,1936,Best Film Editing,9th,no
+Gene,Havlick,Lost Horizon,1937,Best Film Editing,10th,yes
+Gene,Milford,Lost Horizon,1937,Best Film Editing,10th,yes
+Al,Clark,The Awful Truth,1937,Best Film Editing,10th,no
+Elmo,Veron,Captains Courageous,1937,Best Film Editing,10th,no
+Basil,Wrangell,The Good Earth,1937,Best Film Editing,10th,no
+Bernard,W. Burton,One Hundred Men and a Girl,1937,Best Film Editing,10th,no
+Ralph,Dawson,The Adventures of Robin Hood,1938,Best Film Editing,11th,yes
+Barbara,McLean,Alexander's Ragtime Band,1938,Best Film Editing,11th,no
+Tom,Held,The Great Waltz,1938,Best Film Editing,11th,no
+Gene,Havlick,You Can't Take It with You,1938,Best Film Editing,11th,no
+Hal,C. Kern,Gone with the Wind,1939,Best Film Editing,12th,yes
+James,E. Newcom,Gone with the Wind,1939,Best Film Editing,12th,yes
+Charles,Frend,"Goodbye, Mr. Chips",1939,Best Film Editing,12th,no
+Gene,Havlick,Mr. Smith Goes to Washington,1939,Best Film Editing,12th,no
+Al,Clark,Mr. Smith Goes to Washington,1939,Best Film Editing,12th,no
+Barbara,McLean,The Rains Came,1939,Best Film Editing,12th,no
+Otho,Lovering,Stagecoach,1939,Best Film Editing,12th,no
+Dorothy,Spencer,Stagecoach,1939,Best Film Editing,12th,no
+Anne,Bauchens,North West Mounted Police,1940,Best Film Editing,13th,yes
+Robert,L. Simpson,The Grapes of Wrath,1940,Best Film Editing,13th,no
+Warren,Low,The Letter,1940,Best Film Editing,13th,no
+Sherman,Todd,The Long Voyage Home,1940,Best Film Editing,13th,no
+Hal,C. Kern,Rebecca,1940,Best Film Editing,13th,no
+William,Holmes,Sergeant York,1941,Best Film Editing,14th,yes
+Robert,Wise,Citizen Kane,1941,Best Film Editing,14th,no
+Harold,F. Kress,Dr. Jekyll and Mr. Hyde,1941,Best Film Editing,14th,no
+James,B. Clark,How Green Was My Valley,1941,Best Film Editing,14th,no
+Daniel,Mandell,The Little Foxes,1941,Best Film Editing,14th,no
+Daniel,Mandell,The Pride of the Yankees,1942,Best Film Editing,15th,yes
+Harold,F. Kress,Mrs. Miniver,1942,Best Film Editing,15th,no
+Otto,Meyer,The Talk of the Town,1942,Best Film Editing,15th,no
+Walter,Thompson,This Above All,1942,Best Film Editing,15th,no
+George,Amy,Yankee Doodle Dandy,1942,Best Film Editing,15th,no
+George,Amy,Air Force,1943,Best Film Editing,16th,yes
+Owen,Marks,Casablanca,1943,Best Film Editing,16th,no
+Doane,Harrison,Five Graves to Cairo,1943,Best Film Editing,16th,no
+Sherman,Todd,For Whom the Bell Tolls,1943,Best Film Editing,16th,no
+John,F. Link Sr.,For Whom the Bell Tolls,1943,Best Film Editing,16th,no
+Barbara,McLean,The Song of Bernadette,1943,Best Film Editing,16th,no
+Barbara,McLean,Wilson,1944,Best Film Editing,17th,yes
+LeRoy,Stone,Going My Way,1944,Best Film Editing,17th,no
+Owen,Marks,Janie,1944,Best Film Editing,17th,no
+Roland,Gross,None but the Lonely Heart,1944,Best Film Editing,17th,no
+Hal,C. Kern,Since You Went Away,1944,Best Film Editing,17th,no
+James,E. Newcom,Since You Went Away,1944,Best Film Editing,17th,no
+Robert,J. Kern,National Velvet,1945,Best Film Editing,18th,yes
+Harry,Marker,The Bells of St. Mary's,1945,Best Film Editing,18th,no
+Doane,Harrison,The Lost Weekend,1945,Best Film Editing,18th,no
+George,Amy,"Objective, Burma!",1945,Best Film Editing,18th,no
+Charles,Nelson,A Song to Remember,1945,Best Film Editing,18th,no
+Daniel,Mandell,The Best Years of Our Lives,1946,Best Film Editing,19th,yes
+William,Hornbeck,It's a Wonderful Life,1946,Best Film Editing,19th,no
+William,A. Lyon,The Jolson Story,1946,Best Film Editing,19th,no
+Arthur,Hilton,The Killers,1946,Best Film Editing,19th,no
+Harold,F. Kress,The Yearling,1946,Best Film Editing,19th,no
+Francis,Lyon,Body and Soul,1947,Best Film Editing,20th,yes
+Robert,Parrish,Body and Soul,1947,Best Film Editing,20th,yes
+Monica,Collingwood,The Bishop's Wife,1947,Best Film Editing,20th,no
+Harmon,Jones,Gentleman's Agreement,1947,Best Film Editing,20th,no
+George,White,Green Dolphin Street,1947,Best Film Editing,20th,no
+Fergus,McDonell,Odd Man Out,1947,Best Film Editing,20th,no
+Paul,Weatherwax,The Naked City,1948,Best Film Editing,21st,yes
+Frank,Sullivan,Joan of Arc,1948,Best Film Editing,21st,no
+David,Weisbart,Johnny Belinda,1948,Best Film Editing,21st,no
+Christian,Nyby,Red River,1948,Best Film Editing,21st,no
+Reginald,Mills,The Red Shoes,1948,Best Film Editing,21st,no
+Harry,W. Gerstad,Champion,1949,Best Film Editing,22nd,yes
+Robert,Parrish,All the King's Men,1949,Best Film Editing,22nd,no
+Al,Clark,All the King's Men,1949,Best Film Editing,22nd,no
+John,Dunning,Battleground,1949,Best Film Editing,22nd,no
+Richard,L. Van Enger,Sands of Iwo Jima,1949,Best Film Editing,22nd,no
+Frederic,Knudtson,The Window,1949,Best Film Editing,22nd,no
+Ralph,E. Winters,King Solomon's Mines,1950,Best Film Editing,23rd,yes
+Conrad,A. Nervig,King Solomon's Mines,1950,Best Film Editing,23rd,yes
+Barbara,McLean,All About Eve,1950,Best Film Editing,23rd,no
+James,E. Newcom,Annie Get Your Gun,1950,Best Film Editing,23rd,no
+Arthur,P. Schmidt,Sunset Boulevard,1950,Best Film Editing,23rd,no
+Doane,Harrison,Sunset Boulevard,1950,Best Film Editing,23rd,no
+Oswald,Hafenrichter,The Third Man,1950,Best Film Editing,23rd,no
+William,Hornbeck,A Place in the Sun,1951,Best Film Editing,24th,yes
+Adrienne,Fazan,An American in Paris,1951,Best Film Editing,24th,no
+Dorothy,Spencer,Decision Before Dawn,1951,Best Film Editing,24th,no
+Ralph,E. Winters,Quo Vadis,1951,Best Film Editing,24th,no
+Chester,Schaeffer,The Well,1951,Best Film Editing,24th,no
+Elmo,Williams,High Noon,1952,Best Film Editing,25th,yes
+Harry,W. Gerstad,High Noon,1952,Best Film Editing,25th,yes
+Warren,Low,"Come Back, Little Sheba",1952,Best Film Editing,25th,no
+William,Austin,Flat Top,1952,Best Film Editing,25th,no
+Anne,Bauchens,The Greatest Show on Earth,1952,Best Film Editing,25th,no
+Ralph,Kemplen,Moulin Rouge,1952,Best Film Editing,25th,no
+William,A. Lyon,From Here to Eternity,1953,Best Film Editing,26th,yes
+Irvine,"""Cotton"" Warburton",Crazylegs,1953,Best Film Editing,26th,no
+Otto,Ludwig,The Moon Is Blue,1953,Best Film Editing,26th,no
+Robert,Swink,Roman Holiday,1953,Best Film Editing,26th,no
+Everett,Douglas,The War of the Worlds,1953,Best Film Editing,26th,no
+Gene,Milford,On the Waterfront,1954,Best Film Editing,27th,yes
+Elmo,Williams,"20,000 Leagues Under the Sea",1954,Best Film Editing,27th,no
+William,A. Lyon,The Caine Mutiny,1954,Best Film Editing,27th,no
+Henry,Batista,The Caine Mutiny,1954,Best Film Editing,27th,no
+Ralph,Dawson,The High and the Mighty,1954,Best Film Editing,27th,no
+Ralph,E. Winters,Seven Brides for Seven Brothers,1954,Best Film Editing,27th,no
+Charles,Nelson,Picnic,1955,Best Film Editing,28th,yes
+William,A. Lyon,Picnic,1955,Best Film Editing,28th,yes
+Ferris,Webster,Blackboard Jungle,1955,Best Film Editing,28th,no
+Alma,Macrorie,The Bridges at Toko-Ri,1955,Best Film Editing,28th,no
+Gene,Ruggiero,Oklahoma!,1955,Best Film Editing,28th,no
+George,Boemler,Oklahoma!,1955,Best Film Editing,28th,no
+Warren,Low,The Rose Tattoo,1955,Best Film Editing,28th,no
+Gene,Ruggiero,Around the World in 80 Days,1956,Best Film Editing,29th,yes
+Paul,Weatherwax,Around the World in 80 Days,1956,Best Film Editing,29th,yes
+Merrill,G. White,The Brave One,1956,Best Film Editing,29th,no
+William,Hornbeck,Giant,1956,Best Film Editing,29th,no
+Philip,W. Anderson,Giant,1956,Best Film Editing,29th,no
+Fred,Bohanan,Giant,1956,Best Film Editing,29th,no
+Albert,Akst,Somebody Up There Likes Me,1956,Best Film Editing,29th,no
+Anne,Bauchens,The Ten Commandments,1956,Best Film Editing,29th,no
+Peter,Taylor,The Bridge on the River Kwai,1957,Best Film Editing,30th,yes
+Warren,Low,Gunfight at the O.K. Corral,1957,Best Film Editing,30th,no
+Viola,Lawrence,Pal Joey,1957,Best Film Editing,30th,no
+Jerome,Thoms,Pal Joey,1957,Best Film Editing,30th,no
+Arthur,P. Schmidt,Sayonara,1957,Best Film Editing,30th,no
+Philip,W. Anderson,Sayonara,1957,Best Film Editing,30th,no
+Daniel,Mandell,Witness for the Prosecution,1957,Best Film Editing,30th,no
+Adrienne,Fazan,Gigi,1958,Best Film Editing,31st,yes
+William,H. Ziegler,Auntie Mame,1958,Best Film Editing,31st,no
+William,A. Lyon,Cowboy,1958,Best Film Editing,31st,no
+Al,Clark,Cowboy,1958,Best Film Editing,31st,no
+Frederic,Knudtson,The Defiant Ones,1958,Best Film Editing,31st,no
+William,Hornbeck,I Want to Live!,1958,Best Film Editing,31st,no
+Ralph,E. Winters,Ben-Hur,1959,Best Film Editing,32nd,yes
+John,D. Dunning,Ben-Hur,1959,Best Film Editing,32nd,yes
+Louis,R. Loeffler,Anatomy of a Murder,1959,Best Film Editing,32nd,no
+George,Tomasini,North by Northwest,1959,Best Film Editing,32nd,no
+Walter,Thompson,The Nun's Story,1959,Best Film Editing,32nd,no
+Frederic,Knudtson,On the Beach,1959,Best Film Editing,32nd,no
+Daniel,Mandell,The Apartment,1960,Best Film Editing,33rd,yes
+Stuart,Gilmore,The Alamo,1960,Best Film Editing,33rd,no
+Frederic,Knudtson,Inherit the Wind,1960,Best Film Editing,33rd,no
+Viola,Lawrence,Pepe,1960,Best Film Editing,33rd,no
+Al,Clark,Pepe,1960,Best Film Editing,33rd,no
+Robert,Lawrence,Spartacus,1960,Best Film Editing,33rd,no
+Thomas,Stanford,West Side Story,1961,Best Film Editing,34th,yes
+William,H. Reynolds,Fanny,1961,Best Film Editing,34th,no
+Alan,Osbiston,The Guns of Navarone,1961,Best Film Editing,34th,no
+Frederic,Knudtson,Judgment at Nuremberg,1961,Best Film Editing,34th,no
+Philip,W. Anderson,The Parent Trap,1961,Best Film Editing,34th,no
+Anne,V. Coates,Lawrence of Arabia,1962,Best Film Editing,35th,yes
+Samuel,E. Beetley,The Longest Day,1962,Best Film Editing,35th,no
+Ferris,Webster,The Manchurian Candidate,1962,Best Film Editing,35th,no
+William,H. Ziegler,The Music Man,1962,Best Film Editing,35th,no
+John,McSweeney Jr.,Mutiny on the Bounty,1962,Best Film Editing,35th,no
+Harold,F. Kress,How the West Was Won,1963,Best Film Editing,36th,yes
+Louis,R. Loeffler,The Cardinal,1963,Best Film Editing,36th,no
+Dorothy,Spencer,Cleopatra,1963,Best Film Editing,36th,no
+Ferris,Webster,The Great Escape,1963,Best Film Editing,36th,no
+Frederic,Knudtson,"It's a Mad, Mad, Mad, Mad World",1963,Best Film Editing,36th,no
+posthumously,,"It's a Mad, Mad, Mad, Mad World",1963,Best Film Editing,36th,no
+Robert,C. Jones,"It's a Mad, Mad, Mad, Mad World",1963,Best Film Editing,36th,no
+Gene,Fowler Jr.,"It's a Mad, Mad, Mad, Mad World",1963,Best Film Editing,36th,no
+Cotton,Warburton,Mary Poppins,1964,Best Film Editing,37th,yes
+Anne,V. Coates,Becket,1964,Best Film Editing,37th,no
+Ted,J. Kent,Father Goose,1964,Best Film Editing,37th,no
+Michael,Luciano,"Hush...Hush, Sweet Charlotte",1964,Best Film Editing,37th,no
+William,H. Ziegler,My Fair Lady,1964,Best Film Editing,37th,no
+William,H. Reynolds,The Sound of Music,1965,Best Film Editing,38th,yes
+Charles,Nelson,Cat Ballou,1965,Best Film Editing,38th,no
+Norman,Savage,Doctor Zhivago,1965,Best Film Editing,38th,no
+Michael,Luciano,The Flight of the Phoenix,1965,Best Film Editing,38th,no
+Ralph,E. Winters,The Great Race,1965,Best Film Editing,38th,no
+Fredric,Steinkamp,Grand Prix,1966,Best Film Editing,39th,yes
+Henry,Berman,Grand Prix,1966,Best Film Editing,39th,yes
+Stewart,Linder,Grand Prix,1966,Best Film Editing,39th,yes
+Frank,Santillo,Grand Prix,1966,Best Film Editing,39th,yes
+William,B. Murphy,Fantastic Voyage,1966,Best Film Editing,39th,no
+Hal,Ashby,"The Russians Are Coming, the Russians Are Coming",1966,Best Film Editing,39th,no
+J.,Terry Williams,"The Russians Are Coming, the Russians Are Coming",1966,Best Film Editing,39th,no
+William,H. Reynolds,The Sand Pebbles,1966,Best Film Editing,39th,no
+Sam,O'Steen,Who's Afraid of Virginia Woolf?,1966,Best Film Editing,39th,no
+Hal,Ashby,In the Heat of the Night,1967,Best Film Editing,40th,yes
+Frank,P. Keller,Beach Red,1967,Best Film Editing,40th,no
+Michael,Luciano,The Dirty Dozen,1967,Best Film Editing,40th,no
+Samuel,E. Beetley,Doctor Dolittle,1967,Best Film Editing,40th,no
+Marjorie,Fowler,Doctor Dolittle,1967,Best Film Editing,40th,no
+Robert,C. Jones,Guess Who's Coming to Dinner,1967,Best Film Editing,40th,no
+Frank,P. Keller,Bullitt,1968,Best Film Editing,41st,yes
+Robert,Swink,Funny Girl,1968,Best Film Editing,41st,no
+Maury,Winetrobe,Funny Girl,1968,Best Film Editing,41st,no
+William,Sands,Funny Girl,1968,Best Film Editing,41st,no
+Frank,Bracht,The Odd Couple,1968,Best Film Editing,41st,no
+Ralph,Kemplen,Oliver!,1968,Best Film Editing,41st,no
+Fred,R. Feitshans Jr.,Wild in the Streets,1968,Best Film Editing,41st,no
+Eve,Newman,Wild in the Streets,1968,Best Film Editing,41st,no
+Françoise,Bonnot,Z,1969,Best Film Editing,42nd,yes
+William,H. Reynolds,"Hello, Dolly!",1969,Best Film Editing,42nd,no
+Hugh,A. Robertson,Midnight Cowboy,1969,Best Film Editing,42nd,no
+William,A. Lyon,The Secret of Santa Vittoria,1969,Best Film Editing,42nd,no
+Earle,Herdan,The Secret of Santa Vittoria,1969,Best Film Editing,42nd,no
+Fredric,Steinkamp,"They Shoot Horses, Don't They?",1969,Best Film Editing,42nd,no
+Hugh,S. Fowler,Patton,1970,Best Film Editing,43rd,yes
+Stuart,Gilmore,Airport,1970,Best Film Editing,43rd,no
+Danford,B. Greene,M*A*S*H,1970,Best Film Editing,43rd,no
+James,E. Newcom,Tora! Tora! Tora!,1970,Best Film Editing,43rd,no
+Pembroke,J. Herring,Tora! Tora! Tora!,1970,Best Film Editing,43rd,no
+Inoue,Chikaya,Tora! Tora! Tora!,1970,Best Film Editing,43rd,no
+Thelma,Schoonmaker,Woodstock,1970,Best Film Editing,43rd,no
+Gerald,B. Greenberg,The French Connection,1971,Best Film Editing,44th,yes
+Stuart,Gilmore,The Andromeda Strain,1971,Best Film Editing,44th,no
+posthumously,,The Andromeda Strain,1971,Best Film Editing,44th,no
+John,W. Holmes,The Andromeda Strain,1971,Best Film Editing,44th,no
+Bill,Butler,A Clockwork Orange,1971,Best Film Editing,44th,no
+Ralph,E. Winters,Kotch,1971,Best Film Editing,44th,no
+Folmar,Blangsted,Summer of '42,1971,Best Film Editing,44th,no
+David,Bretherton,Cabaret,1972,Best Film Editing,45th,yes
+Tom,Priestley,Deliverance,1972,Best Film Editing,45th,no
+William,H. Reynolds,The Godfather,1972,Best Film Editing,45th,no
+Peter,Zinner,The Godfather,1972,Best Film Editing,45th,no
+Frank,P. Keller,The Hot Rock,1972,Best Film Editing,45th,no
+Fred,W. Berger,The Hot Rock,1972,Best Film Editing,45th,no
+Harold,F. Kress,The Poseidon Adventure,1972,Best Film Editing,45th,no
+William,H. Reynolds,The Sting,1973,Best Film Editing,46th,yes
+Verna,Fields,American Graffiti,1973,Best Film Editing,46th,no
+Marcia,Lucas,American Graffiti,1973,Best Film Editing,46th,no
+Ralph,Kemplen,The Day of the Jackal,1973,Best Film Editing,46th,no
+Jordan,Leondopoulos,The Exorcist,1973,Best Film Editing,46th,no
+Bud,S. Smith,The Exorcist,1973,Best Film Editing,46th,no
+Evan,A. Lottman,The Exorcist,1973,Best Film Editing,46th,no
+Frank,P. Keller,Jonathan Livingston Seagull,1973,Best Film Editing,46th,no
+James,Galloway,Jonathan Livingston Seagull,1973,Best Film Editing,46th,no
+Harold,F. Kress,The Towering Inferno,1974,Best Film Editing,47th,yes
+Carl,Kress,The Towering Inferno,1974,Best Film Editing,47th,yes
+John,C. Howard,Blazing Saddles,1974,Best Film Editing,47th,no
+Danford,B. Greene,Blazing Saddles,1974,Best Film Editing,47th,no
+Sam,O'Steen,Chinatown,1974,Best Film Editing,47th,no
+Dorothy,Spencer,Earthquake,1974,Best Film Editing,47th,no
+Michael,Luciano,The Longest Yard,1974,Best Film Editing,47th,no
+Verna,Fields,Jaws,1975,Best Film Editing,48th,yes
+Dede,Allen,Dog Day Afternoon,1975,Best Film Editing,48th,no
+Russell,Lloyd,The Man Who Would Be King,1975,Best Film Editing,48th,no
+Richard,Chew,One Flew Over the Cuckoo's Nest,1975,Best Film Editing,48th,no
+Lynzee,Klingman,One Flew Over the Cuckoo's Nest,1975,Best Film Editing,48th,no
+Sheldon,Kahn,One Flew Over the Cuckoo's Nest,1975,Best Film Editing,48th,no
+Fredric,Steinkamp,Three Days of the Condor,1975,Best Film Editing,48th,no
+Don,Guidice,Three Days of the Condor,1975,Best Film Editing,48th,no
+Richard,Halsey,Rocky,1976,Best Film Editing,49th,yes
+Scott,Conrad,Rocky,1976,Best Film Editing,49th,yes
+Robert,L. Wolfe,All the President's Men,1976,Best Film Editing,49th,no
+Robert,C. Jones,Bound for Glory,1976,Best Film Editing,49th,no
+Pembroke,J. Herring,Bound for Glory,1976,Best Film Editing,49th,no
+Alan,Heim,Network,1976,Best Film Editing,49th,no
+Eve,Newman,Two-Minute Warning,1976,Best Film Editing,49th,no
+Walter,Hannemann,Two-Minute Warning,1976,Best Film Editing,49th,no
+Paul,Hirsch,Star Wars,1977,Best Film Editing,50th,yes
+Marcia,Lucas,Star Wars,1977,Best Film Editing,50th,yes
+Richard,Chew,Star Wars,1977,Best Film Editing,50th,yes
+Michael,Kahn,Close Encounters of the Third Kind,1977,Best Film Editing,50th,no
+Walter,Murch,Julia,1977,Best Film Editing,50th,no
+Walter,Hannemann,Smokey and the Bandit,1977,Best Film Editing,50th,no
+Angelo,Ross,Smokey and the Bandit,1977,Best Film Editing,50th,no
+William,H. Reynolds,The Turning Point,1977,Best Film Editing,50th,no
+Peter,Zinner,The Deer Hunter,1978,Best Film Editing,51st,yes
+Robert,E. Swink,The Boys from Brazil,1978,Best Film Editing,51st,no
+Don,Zimmerman,Coming Home,1978,Best Film Editing,51st,no
+Gerry,Hambling,Midnight Express,1978,Best Film Editing,51st,no
+Stuart,Baird,Superman,1978,Best Film Editing,51st,no
+Alan,Heim,All That Jazz,1979,Best Film Editing,52nd,yes
+Richard,Marks,Apocalypse Now,1979,Best Film Editing,52nd,no
+Walter,Murch,Apocalypse Now,1979,Best Film Editing,52nd,no
+Gerald,B. Greenberg,Apocalypse Now,1979,Best Film Editing,52nd,no
+Lisa,Fruchtman,Apocalypse Now,1979,Best Film Editing,52nd,no
+Robert,Dalva,The Black Stallion,1979,Best Film Editing,52nd,no
+Gerald,B. Greenberg,Kramer vs. Kramer,1979,Best Film Editing,52nd,no
+Robert,L. Wolfe,The Rose,1979,Best Film Editing,52nd,no
+Carroll,Timothy O'Meara,The Rose,1979,Best Film Editing,52nd,no
+Thelma,Schoonmaker,Raging Bull,1980,Best Film Editing,53rd,yes
+Arthur,Schmidt,Coal Miner's Daughter,1980,Best Film Editing,53rd,no
+David,Blewitt,The Competition,1980,Best Film Editing,53rd,no
+Anne,V. Coates,The Elephant Man,1980,Best Film Editing,53rd,no
+Gerry,Hambling,Fame,1980,Best Film Editing,53rd,no
+Michael,Kahn,Raiders of the Lost Ark,1981,Best Film Editing,54th,yes
+Terry,Rawlings,Chariots of Fire,1981,Best Film Editing,54th,no
+John,Bloom,The French Lieutenant's Woman,1981,Best Film Editing,54th,no
+Robert,L. Wolfe,On Golden Pond,1981,Best Film Editing,54th,no
+posthumously,,On Golden Pond,1981,Best Film Editing,54th,no
+Dede,Allen,Reds,1981,Best Film Editing,54th,no
+Craig,McKay,Reds,1981,Best Film Editing,54th,no
+John,Bloom,Gandhi,1982,Best Film Editing,55th,yes
+Hannes,Nikel,Das Boot,1982,Best Film Editing,55th,no
+Carol,Littleton,E.T. the Extra-Terrestrial,1982,Best Film Editing,55th,no
+Peter,Zinner,An Officer and a Gentleman,1982,Best Film Editing,55th,no
+Fredric,Steinkamp,Tootsie,1982,Best Film Editing,55th,no
+William,Steinkamp,Tootsie,1982,Best Film Editing,55th,no
+Glenn,Farr,The Right Stuff,1983,Best Film Editing,56th,yes
+Lisa,Fruchtman,The Right Stuff,1983,Best Film Editing,56th,yes
+Stephen,A. Rotter,The Right Stuff,1983,Best Film Editing,56th,yes
+Douglas,Stewart,The Right Stuff,1983,Best Film Editing,56th,yes
+Tom,Rolf,The Right Stuff,1983,Best Film Editing,56th,yes
+Frank,Morriss,Blue Thunder,1983,Best Film Editing,56th,no
+Edward,M. Abroms,Blue Thunder,1983,Best Film Editing,56th,no
+Bud,S. Smith,Flashdance,1983,Best Film Editing,56th,no
+Walt,Mulconery,Flashdance,1983,Best Film Editing,56th,no
+Sam,O'Steen,Silkwood,1983,Best Film Editing,56th,no
+Richard,Marks,Terms of Endearment,1983,Best Film Editing,56th,no
+Jim,Clark,The Killing Fields,1984,Best Film Editing,57th,yes
+Nena,Danevic,Amadeus,1984,Best Film Editing,57th,no
+Michael,Chandler,Amadeus,1984,Best Film Editing,57th,no
+Barry,Malkin,The Cotton Club,1984,Best Film Editing,57th,no
+Robert,Q. Lovett,The Cotton Club,1984,Best Film Editing,57th,no
+David,Lean,A Passage to India,1984,Best Film Editing,57th,no
+Donn,Cambern,Romancing the Stone,1984,Best Film Editing,57th,no
+Frank,Morriss,Romancing the Stone,1984,Best Film Editing,57th,no
+Thom,Noble,Witness,1985,Best Film Editing,58th,yes
+John,Bloom,A Chorus Line,1985,Best Film Editing,58th,no
+Fredric,Steinkamp,Out of Africa,1985,Best Film Editing,58th,no
+William,Steinkamp,Out of Africa,1985,Best Film Editing,58th,no
+Pembroke,J. Herring,Out of Africa,1985,Best Film Editing,58th,no
+Sheldon,Kahn,Out of Africa,1985,Best Film Editing,58th,no
+Rudi,Fehr,Prizzi's Honor,1985,Best Film Editing,58th,no
+Kaja,Fehr,Prizzi's Honor,1985,Best Film Editing,58th,no
+Henry,Richardson,Runaway Train,1985,Best Film Editing,58th,no
+Claire,Simpson,Platoon,1986,Best Film Editing,59th,yes
+Ray,Lovejoy,Aliens,1986,Best Film Editing,59th,no
+Susan,E. Morse,Hannah and Her Sisters,1986,Best Film Editing,59th,no
+Jim,Clark,The Mission,1986,Best Film Editing,59th,no
+Billy,Weber,Top Gun,1986,Best Film Editing,59th,no
+Chris,Lebenzon,Top Gun,1986,Best Film Editing,59th,no
+Gabriella,Cristiani,The Last Emperor,1987,Best Film Editing,60th,yes
+Richard,Marks,Broadcast News,1987,Best Film Editing,60th,no
+Michael,Kahn,Empire of the Sun,1987,Best Film Editing,60th,no
+Michael,Kahn,Fatal Attraction,1987,Best Film Editing,60th,no
+Peter,E. Berger,Fatal Attraction,1987,Best Film Editing,60th,no
+Frank,J. Urioste,RoboCop,1987,Best Film Editing,60th,no
+Arthur,Schmidt,Who Framed Roger Rabbit,1988,Best Film Editing,61st,yes
+Frank,J. Urioste,Die Hard,1988,Best Film Editing,61st,no
+John,F. Link,Die Hard,1988,Best Film Editing,61st,no
+Stuart,Baird,Gorillas in the Mist,1988,Best Film Editing,61st,no
+Gerry,Hambling,Mississippi Burning,1988,Best Film Editing,61st,no
+Stu,Linder,Rain Man,1988,Best Film Editing,61st,no
+David,Brenner,Born on the Fourth of July,1989,Best Film Editing,62nd,yes
+Joe,Hutshing,Born on the Fourth of July,1989,Best Film Editing,62nd,yes
+Noëlle,Boisson,The Bear,1989,Best Film Editing,62nd,no
+Mark,Warner,Driving Miss Daisy,1989,Best Film Editing,62nd,no
+William,Steinkamp,The Fabulous Baker Boys,1989,Best Film Editing,62nd,no
+Steven,Rosenblum,Glory,1989,Best Film Editing,62nd,no
+Neil,Travis,Dances with Wolves,1990,Best Film Editing,63rd,yes
+Walter,Murch,Ghost,1990,Best Film Editing,63rd,no
+Barry,Malkin,The Godfather Part III,1990,Best Film Editing,63rd,no
+Lisa,Fruchtman,The Godfather Part III,1990,Best Film Editing,63rd,no
+Walter,Murch,The Godfather Part III,1990,Best Film Editing,63rd,no
+Thelma,Schoonmaker,Goodfellas,1990,Best Film Editing,63rd,no
+Dennis,Virkler,The Hunt for Red October,1990,Best Film Editing,63rd,no
+John,Wright,The Hunt for Red October,1990,Best Film Editing,63rd,no
+Joe,Hutshing,JFK,1991,Best Film Editing,64th,yes
+Pietro,Scalia,JFK,1991,Best Film Editing,64th,yes
+Gerry,Hambling,The Commitments,1991,Best Film Editing,64th,no
+Craig,McKay,The Silence of the Lambs,1991,Best Film Editing,64th,no
+Conrad,Buff,Terminator 2: Judgment Day,1991,Best Film Editing,64th,no
+Mark,Goldblatt,Terminator 2: Judgment Day,1991,Best Film Editing,64th,no
+Richard,A. Harris,Terminator 2: Judgment Day,1991,Best Film Editing,64th,no
+Thom,Noble,Thelma & Louise,1991,Best Film Editing,64th,no
+Joel,Cox,Unforgiven,1992,Best Film Editing,65th,yes
+Frank,J. Urioste,Basic Instinct,1992,Best Film Editing,65th,no
+Kant,Pan,The Crying Game,1992,Best Film Editing,65th,no
+Robert,Leighton,A Few Good Men,1992,Best Film Editing,65th,no
+Geraldine,Peroni,The Player,1992,Best Film Editing,65th,no
+Michael,Kahn,Schindler's List,1993,Best Film Editing,66th,yes
+Dennis,Virkler,The Fugitive,1993,Best Film Editing,66th,no
+David,Finfer,The Fugitive,1993,Best Film Editing,66th,no
+Dean,Goodhill,The Fugitive,1993,Best Film Editing,66th,no
+Don,Brochu,The Fugitive,1993,Best Film Editing,66th,no
+Richard,Nord,The Fugitive,1993,Best Film Editing,66th,no
+Dov,Hoenig,The Fugitive,1993,Best Film Editing,66th,no
+Anne,V. Coates,In the Line of Fire,1993,Best Film Editing,66th,no
+Gerry,Hambling,In the Name of the Father,1993,Best Film Editing,66th,no
+Veronika,Jenet,The Piano,1993,Best Film Editing,66th,no
+Arthur,Schmidt,Forrest Gump,1994,Best Film Editing,67th,yes
+Frederick,Marx,Hoop Dreams,1994,Best Film Editing,67th,no
+Steve,James,Hoop Dreams,1994,Best Film Editing,67th,no
+Sally,Menke,Pulp Fiction,1994,Best Film Editing,67th,no
+Richard,Francis-Bruce,The Shawshank Redemption,1994,Best Film Editing,67th,no
+John,Wright,Speed,1994,Best Film Editing,67th,no
+Mike,Hill,Apollo 13,1995,Best Film Editing,68th,yes
+Daniel,P. Hanley,Apollo 13,1995,Best Film Editing,68th,yes
+Marcus,D'Arcy,Babe,1995,Best Film Editing,68th,no
+Jay,Friedkin,Babe,1995,Best Film Editing,68th,no
+Steven,Rosenblum,Braveheart,1995,Best Film Editing,68th,no
+Chris,Lebenzon,Crimson Tide,1995,Best Film Editing,68th,no
+Richard,Francis-Bruce,Seven,1995,Best Film Editing,68th,no
+Walter,Murch,The English Patient,1996,Best Film Editing,69th,yes
+Gerry,Hambling,Evita,1996,Best Film Editing,69th,no
+Roderick,Jaynes,Fargo,1996,Best Film Editing,69th,no
+Joe,Hutshing,Jerry Maguire,1996,Best Film Editing,69th,no
+Pip,Karmel,Shine,1996,Best Film Editing,69th,no
+Conrad,Buff,Titanic,1997,Best Film Editing,70th,yes
+James,Cameron,Titanic,1997,Best Film Editing,70th,yes
+Richard,A. Harris,Titanic,1997,Best Film Editing,70th,yes
+Richard,Francis-Bruce,Air Force One,1997,Best Film Editing,70th,no
+Richard,Marks,As Good as It Gets,1997,Best Film Editing,70th,no
+Pietro,Scalia,Good Will Hunting,1997,Best Film Editing,70th,no
+Peter,Honess,L.A. Confidential,1997,Best Film Editing,70th,no
+Michael,Kahn,Saving Private Ryan,1998,Best Film Editing,71st,yes
+Simona,Paggi,Life Is Beautiful,1998,Best Film Editing,71st,no
+Anne,V. Coates,Out of Sight,1998,Best Film Editing,71st,no
+David,Gamble,Shakespeare in Love,1998,Best Film Editing,71st,no
+Billy,Weber,The Thin Red Line,1998,Best Film Editing,71st,no
+Leslie,Jones,The Thin Red Line,1998,Best Film Editing,71st,no
+Saar,Klein,The Thin Red Line,1998,Best Film Editing,71st,no
+Zach,Staenberg,The Matrix,1999,Best Film Editing,72nd,yes
+Tariq,Anwar,American Beauty,1999,Best Film Editing,72nd,no
+Christopher,Greenbury,American Beauty,1999,Best Film Editing,72nd,no
+Lisa,Zeno Churgin,The Cider House Rules,1999,Best Film Editing,72nd,no
+William,Goldenberg,The Insider,1999,Best Film Editing,72nd,no
+Paul,Rubell,The Insider,1999,Best Film Editing,72nd,no
+David,Rosenbloom,The Insider,1999,Best Film Editing,72nd,no
+Andrew,Mondshein,The Sixth Sense,1999,Best Film Editing,72nd,no
+Stephen,Mirrione,Traffic,2000,Best Film Editing,73rd,yes
+Joe,Hutshing,Almost Famous,2000,Best Film Editing,73rd,no
+Saar,Klein,Almost Famous,2000,Best Film Editing,73rd,no
+Tim,Squyres,"Crouching Tiger, Hidden Dragon",2000,Best Film Editing,73rd,no
+Pietro,Scalia,Gladiator,2000,Best Film Editing,73rd,no
+Dede,Allen,Wonder Boys,2000,Best Film Editing,73rd,no
+Pietro,Scalia,Black Hawk Down,2001,Best Film Editing,74th,yes
+Mike,Hill,A Beautiful Mind,2001,Best Film Editing,74th,no
+Daniel,P. Hanley,A Beautiful Mind,2001,Best Film Editing,74th,no
+John,Gilbert,The Lord of the Rings: The Fellowship of the Ring,2001,Best Film Editing,74th,no
+Dody,Dorn,Memento,2001,Best Film Editing,74th,no
+Jill,Bilcock,Moulin Rouge!,2001,Best Film Editing,74th,no
+Martin,Walsh,Chicago,2002,Best Film Editing,75th,yes
+Thelma,Schoonmaker,Gangs of New York,2002,Best Film Editing,75th,no
+Peter,Boyle,The Hours,2002,Best Film Editing,75th,no
+Michael,Horton,The Lord of the Rings: The Two Towers,2002,Best Film Editing,75th,no
+Hervé,de Luze,The Pianist,2002,Best Film Editing,75th,no
+Jamie,Selkirk,The Lord of the Rings: The Return of the King,2003,Best Film Editing,76th,yes
+Daniel,Rezende,City of God,2003,Best Film Editing,76th,no
+Walter,Murch,Cold Mountain,2003,Best Film Editing,76th,no
+Lee,Smith,Master and Commander: The Far Side of the World,2003,Best Film Editing,76th,no
+William,Goldenberg,Seabiscuit,2003,Best Film Editing,76th,no
+Thelma,Schoonmaker,The Aviator,2004,Best Film Editing,77th,yes
+Jim,Miller,Collateral,2004,Best Film Editing,77th,no
+Paul,Rubell,Collateral,2004,Best Film Editing,77th,no
+Matt,Chessé,Finding Neverland,2004,Best Film Editing,77th,no
+Joel,Cox,Million Dollar Baby,2004,Best Film Editing,77th,no
+Paul,Hirsch,Ray,2004,Best Film Editing,77th,no
+Hughes,Winborne,Crash,2005,Best Film Editing,78th,yes
+Mike,Hill,Cinderella Man,2005,Best Film Editing,78th,no
+Dan,Hanley,Cinderella Man,2005,Best Film Editing,78th,no
+Claire,Simpson,The Constant Gardener,2005,Best Film Editing,78th,no
+Michael,Kahn,Munich,2005,Best Film Editing,78th,no
+Michael,McCusker,Walk the Line,2005,Best Film Editing,78th,no
+Thelma,Schoonmaker,The Departed,2006,Best Film Editing,79th,yes
+Douglas,Crise,Babel,2006,Best Film Editing,79th,no
+Stephen,Mirrione,Babel,2006,Best Film Editing,79th,no
+Steven,Rosenblum,Blood Diamond,2006,Best Film Editing,79th,no
+Alfonso,Cuarón,Children of Men,2006,Best Film Editing,79th,no
+Alex,Rodríguez,Children of Men,2006,Best Film Editing,79th,no
+Clare,Douglas,United 93,2006,Best Film Editing,79th,no
+Richard,Pearson,United 93,2006,Best Film Editing,79th,no
+Christopher,Rouse,United 93,2006,Best Film Editing,79th,no
+Christopher,Rouse,The Bourne Ultimatum,2007,Best Film Editing,80th,yes
+Juliette,Welfling,The Diving Bell and the Butterfly,2007,Best Film Editing,80th,no
+Jay,Cassidy,Into the Wild,2007,Best Film Editing,80th,no
+Roderick,Jaynes,No Country for Old Men,2007,Best Film Editing,80th,no
+Dylan,Tichenor,There Will Be Blood,2007,Best Film Editing,80th,no
+Chris,Dickens,Slumdog Millionaire,2008,Best Film Editing,81st,yes
+Kirk,Baxter,The Curious Case of Benjamin Button,2008,Best Film Editing,81st,no
+Angus,Wall,The Curious Case of Benjamin Button,2008,Best Film Editing,81st,no
+Lee,Smith,The Dark Knight,2008,Best Film Editing,81st,no
+Mike,Hill,Frost/Nixon,2008,Best Film Editing,81st,no
+Dan,Hanley,Frost/Nixon,2008,Best Film Editing,81st,no
+Elliot,Graham,Milk,2008,Best Film Editing,81st,no
+Bob,Murawski,The Hurt Locker,2009,Best Film Editing,82nd,yes
+Chris,Innis,The Hurt Locker,2009,Best Film Editing,82nd,yes
+Stephen,Rivkin,Avatar,2009,Best Film Editing,82nd,no
+John,Refoua,Avatar,2009,Best Film Editing,82nd,no
+James,Cameron,Avatar,2009,Best Film Editing,82nd,no
+Julian,Clarke,District 9,2009,Best Film Editing,82nd,no
+Sally,Menke,Inglourious Basterds,2009,Best Film Editing,82nd,no
+Joe,Klotz,Precious: Based on the Novel 'Push' by Sapphire,2009,Best Film Editing,82nd,no
+Angus,Wall,The Social Network,2010,Best Film Editing,83rd,yes
+Kirk,Baxter,The Social Network,2010,Best Film Editing,83rd,yes
+Jon,Harris,127 Hours,2010,Best Film Editing,83rd,no
+Andrew,Weisblum,Black Swan,2010,Best Film Editing,83rd,no
+Pamela,Martin,The Fighter,2010,Best Film Editing,83rd,no
+Tariq,Anwar,The King's Speech,2010,Best Film Editing,83rd,no
+Kirk,Baxter,The Girl with the Dragon Tattoo,2011,Best Film Editing,84th,yes
+Angus,Wall,The Girl with the Dragon Tattoo,2011,Best Film Editing,84th,yes
+Anne-Sophie,Bion,The Artist,2011,Best Film Editing,84th,no
+Michel,Hazanavicius,The Artist,2011,Best Film Editing,84th,no
+Kevin,Tent,The Descendants,2011,Best Film Editing,84th,no
+Thelma,Schoonmaker,Hugo,2011,Best Film Editing,84th,no
+Christopher,Tellefsen,Moneyball,2011,Best Film Editing,84th,no
+William,Goldenberg,Argo,2012,Best Film Editing,85th,yes
+Tim,Squyres,Life of Pi,2012,Best Film Editing,85th,no
+Michael,Kahn,Lincoln,2012,Best Film Editing,85th,no
+Jay,Cassidy,Silver Linings Playbook,2012,Best Film Editing,85th,no
+Crispin,Struthers,Silver Linings Playbook,2012,Best Film Editing,85th,no
+Dylan,Tichenor,Zero Dark Thirty,2012,Best Film Editing,85th,no
+William,Goldenberg,Zero Dark Thirty,2012,Best Film Editing,85th,no
+Alfonso,Cuarón,Gravity,2013,Best Film Editing,86th,yes
+Mark,Sanger,Gravity,2013,Best Film Editing,86th,yes
+Joe,Walker,12 Years a Slave,2013,Best Film Editing,86th,no
+Jay,Cassidy,American Hustle,2013,Best Film Editing,86th,no
+Crispin,Struthers,American Hustle,2013,Best Film Editing,86th,no
+Alan,Baumgarten,American Hustle,2013,Best Film Editing,86th,no
+Christopher,Rouse,Captain Phillips,2013,Best Film Editing,86th,no
+John,Mac McMurphy,Dallas Buyers Club,2013,Best Film Editing,86th,no
+Martin,Pensa,Dallas Buyers Club,2013,Best Film Editing,86th,no
+Tom,Cross,Whiplash,2014,Best Film Editing,87th,yes
+Joel,Cox,American Sniper,2014,Best Film Editing,87th,no
+Gary,D. Roach,American Sniper,2014,Best Film Editing,87th,no
+Sandra,Adair,Boyhood,2014,Best Film Editing,87th,no
+Barney,Pilling,The Grand Budapest Hotel,2014,Best Film Editing,87th,no
+William,Goldenberg,The Imitation Game,2014,Best Film Editing,87th,no
+Margaret,Sixel,Mad Max: Fury Road,2015,Best Film Editing,88th,yes
+Hank,Corwin,The Big Short,2015,Best Film Editing,88th,no
+Stephen,Mirrione,The Revenant,2015,Best Film Editing,88th,no
+Tom,McArdle,Spotlight,2015,Best Film Editing,88th,no
+Maryann,Brandon,Star Wars: The Force Awakens,2015,Best Film Editing,88th,no
+Mary,Jo Markey,Star Wars: The Force Awakens,2015,Best Film Editing,88th,no
+John,Gilbert,Hacksaw Ridge,2016,Best Film Editing,89th,yes
+Joe,Walker,Arrival,2016,Best Film Editing,89th,no
+Jake,Roberts,Hell or High Water,2016,Best Film Editing,89th,no
+Tom,Cross,La La Land,2016,Best Film Editing,89th,no
+Nat,Sanders,Moonlight,2016,Best Film Editing,89th,no
+Joi,McMillon,Moonlight,2016,Best Film Editing,89th,no
+Lee,Smith,Dunkirk,2017,Best Film Editing,90th,yes
+Paul,Machliss,Baby Driver,2017,Best Film Editing,90th,no
+Jonathan,Amos,Baby Driver,2017,Best Film Editing,90th,no
+Tatiana,S. Riegel,"I, Tonya",2017,Best Film Editing,90th,no
+Sidney,Wolinsky,The Shape of Water,2017,Best Film Editing,90th,no
+Jon,Gregory,"Three Billboards Outside Ebbing, Missouri",2017,Best Film Editing,90th,no
+John,Ottman,Bohemian Rhapsody,2018,Best Film Editing,91st,yes
+Barry,Alexander Brown,BlacKkKlansman,2018,Best Film Editing,91st,no
+Yorgos,Mavropsaridis,The Favourite,2018,Best Film Editing,91st,no
+Hank,Corwin,Vice,2018,Best Film Editing,91st,no
+Michael,McCusker,Ford v Ferrari,2019,Best Film Editing,92nd,yes
+Andrew,Buckland,Ford v Ferrari,2019,Best Film Editing,92nd,yes
+Thelma,Schoonmaker,The Irishman,2019,Best Film Editing,92nd,no
+Tom,Eagles,Jojo Rabbit,2019,Best Film Editing,92nd,no
+Jeff,Groth,Joker,2019,Best Film Editing,92nd,no
+Yang,Jin-mo,Parasite,2019,Best Film Editing,92nd,no
+Mikkel,E. G. Nielsen,Sound of Metal,2020,Best Film Editing,93rd,yes
+Yorgos,Lamprinos,The Father,2020,Best Film Editing,93rd,no
+Chloé,Zhao,Nomadland,2020,Best Film Editing,93rd,no
+Frédéric,Thoraval,Promising Young Woman,2020,Best Film Editing,93rd,no
+Alan,Baumgarten,The Trial of the Chicago 7,2020,Best Film Editing,93rd,no
+Joe,Walker,Dune,2021,Best Film Editing,94th,yes
+Hank,Corwin,Don't Look Up,2021,Best Film Editing,94th,no
+Pamela,Martin,King Richard,2021,Best Film Editing,94th,no
+Peter,Sciberras,The Power of the Dog,2021,Best Film Editing,94th,no
+Myron,Kerstein,"tick, tick... BOOM!",2021,Best Film Editing,94th,no
+Andrew,Weisblum,"tick, tick... BOOM!",2021,Best Film Editing,94th,no
+Paul,Rogers,Everything Everywhere All at Once,2022,Best Film Editing,95th,yes
+Mikkel,E. G. Nielsen,The Banshees of Inisherin,2022,Best Film Editing,95th,no
+Matt,Villa,Elvis,2022,Best Film Editing,95th,no
+Jonathan,Redmond,Elvis,2022,Best Film Editing,95th,no
+Monika,Willi,Tár,2022,Best Film Editing,95th,no
+Eddie,Hamilton,Top Gun: Maverick,2022,Best Film Editing,95th,no
+Jennifer,Lame,Oppenheimer,2023,Best Film Editing,96th,yes
+Laurent,Sénéchal,Anatomy of a Fall,2023,Best Film Editing,96th,no
+Kevin,Tent,The Holdovers,2023,Best Film Editing,96th,no
+Thelma,Schoonmaker,Killers of the Flower Moon,2023,Best Film Editing,96th,no
+Yorgos,Mavropsaridis,Poor Things,2023,Best Film Editing,96th,no
+Sean,Baker,Anora,2024,Best Film Editing,97th,yes
+Dávid,Jancsó,The Brutalist,2024,Best Film Editing,97th,no
+Nick,Emerson,Conclave,2024,Best Film Editing,97th,no
+Juliette,Welfling,Emilia Pérez,2024,Best Film Editing,97th,no
+Myron,Kerstein,Wicked,2024,Best Film Editing,97th,no

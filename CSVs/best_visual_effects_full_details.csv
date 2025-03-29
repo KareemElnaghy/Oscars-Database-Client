@@ -1,0 +1,881 @@
+firstName,lastName,movieTitle,releaseYear,categoryName,iteration,isWinner
+Roy,Pomeroy,Wings,1927,Best Visual Effects,1st,yes
+Gordon,Jennings,Spawn of the North,1938,Best Visual Effects,11th,yes
+Jan,Domela,Spawn of the North,1938,Best Visual Effects,11th,yes
+Farciot,Edouart,Spawn of the North,1938,Best Visual Effects,11th,yes
+Loyal,Griggs,Spawn of the North,1938,Best Visual Effects,11th,yes
+Loren,Ryder,Spawn of the North,1938,Best Visual Effects,11th,yes
+Louis,Mesenkop,Spawn of the North,1938,Best Visual Effects,11th,yes
+Fred,Sersen,The Rains Came,1939,Best Visual Effects,12th,yes
+E.,H. Hansen,The Rains Came,1939,Best Visual Effects,12th,yes
+Jack,Cosgrove,Gone with the Wind,1939,Best Visual Effects,12th,no
+Fred,Albin,Gone with the Wind,1939,Best Visual Effects,12th,no
+Arthur,Johns,Gone with the Wind,1939,Best Visual Effects,12th,no
+Roy,Davidson,Only Angels Have Wings,1939,Best Visual Effects,12th,no
+Edwin,C. Hahn,Only Angels Have Wings,1939,Best Visual Effects,12th,no
+Byron,Haskin,The Private Lives of Elizabeth and Essex,1939,Best Visual Effects,12th,no
+Nathan,Levinson,The Private Lives of Elizabeth and Essex,1939,Best Visual Effects,12th,no
+Roy,Seawright,Topper Takes a Trip,1939,Best Visual Effects,12th,no
+Farciot,Edouart,Union Pacific,1939,Best Visual Effects,12th,no
+Gordon,Jennings,Union Pacific,1939,Best Visual Effects,12th,no
+Loren,Ryder,Union Pacific,1939,Best Visual Effects,12th,no
+A.,Arnold Gillespie,The Wizard of Oz,1939,Best Visual Effects,12th,no
+Douglas,Shearer,The Wizard of Oz,1939,Best Visual Effects,12th,no
+Lawrence,Butler,The Thief of Bagdad,1940,Best Visual Effects,13th,yes
+Jack,Whitney,The Thief of Bagdad,1940,Best Visual Effects,13th,yes
+Fred,Sersen,The Blue Bird,1940,Best Visual Effects,13th,no
+E.,H. Hansen,The Blue Bird,1940,Best Visual Effects,13th,no
+A.,Arnold Gillespie,Boom Town,1940,Best Visual Effects,13th,no
+Douglas,Shearer,Boom Town,1940,Best Visual Effects,13th,no
+John,P. Fulton,The Boys from Syracuse,1940,Best Visual Effects,13th,no
+Bernard,B. Brown,The Boys from Syracuse,1940,Best Visual Effects,13th,no
+Joseph,Lapis,The Boys from Syracuse,1940,Best Visual Effects,13th,no
+Gordon,Jennings,Dr. Cyclops,1940,Best Visual Effects,13th,no
+Farciot,Edouart,Dr. Cyclops,1940,Best Visual Effects,13th,no
+Paul,Eagler,Foreign Correspondent,1940,Best Visual Effects,13th,no
+Thomas,T. Moulton,Foreign Correspondent,1940,Best Visual Effects,13th,no
+John,P. Fulton,The Invisible Man Returns,1940,Best Visual Effects,13th,no
+Bernard,B. Brown,The Invisible Man Returns,1940,Best Visual Effects,13th,no
+William,Hedgcock,The Invisible Man Returns,1940,Best Visual Effects,13th,no
+R.,T. Layton,The Long Voyage Home,1940,Best Visual Effects,13th,no
+R.,O. Binger,The Long Voyage Home,1940,Best Visual Effects,13th,no
+Thomas,T. Moulton,The Long Voyage Home,1940,Best Visual Effects,13th,no
+Roy,Seawright,One Million B.C.,1940,Best Visual Effects,13th,no
+Elmer,Raguse,One Million B.C.,1940,Best Visual Effects,13th,no
+Jack,Cosgrove,Rebecca,1940,Best Visual Effects,13th,no
+Arthur,Johns,Rebecca,1940,Best Visual Effects,13th,no
+Byron,Haskin,The Sea Hawk,1940,Best Visual Effects,13th,no
+Nathan,Levinson,The Sea Hawk,1940,Best Visual Effects,13th,no
+Vernon,L. Walker,Swiss Family Robinson,1940,Best Visual Effects,13th,no
+John,O. Aalberg,Swiss Family Robinson,1940,Best Visual Effects,13th,no
+Farciot,Edouart,Typhoon,1940,Best Visual Effects,13th,no
+Gordon,Jennings,Typhoon,1940,Best Visual Effects,13th,no
+Loren,Ryder,Typhoon,1940,Best Visual Effects,13th,no
+Howard,J. Lydecker,Women in War,1940,Best Visual Effects,13th,no
+William,Bradford,Women in War,1940,Best Visual Effects,13th,no
+Ellis,J. Thackery,Women in War,1940,Best Visual Effects,13th,no
+Herbert,Norsch,Women in War,1940,Best Visual Effects,13th,no
+Farciot,Edouart,I Wanted Wings,1941,Best Visual Effects,14th,yes
+Gordon,Jennings,I Wanted Wings,1941,Best Visual Effects,14th,yes
+Louis,Mesenkop,I Wanted Wings,1941,Best Visual Effects,14th,yes
+Farciot,Edouart,Aloma of the South Seas,1941,Best Visual Effects,14th,no
+Gordon,Jennings,Aloma of the South Seas,1941,Best Visual Effects,14th,no
+Louis,Mesenkop,Aloma of the South Seas,1941,Best Visual Effects,14th,no
+Byron,Haskin,Dive Bomber,1941,Best Visual Effects,14th,no
+Nathan,Levinson,Dive Bomber,1941,Best Visual Effects,14th,no
+A.,Arnold Gillespie,Flight Command,1941,Best Visual Effects,14th,no
+Douglas,Shearer,Flight Command,1941,Best Visual Effects,14th,no
+John,Fulton,The Invisible Woman,1941,Best Visual Effects,14th,no
+John,Hall,The Invisible Woman,1941,Best Visual Effects,14th,no
+Byron,Haskin,The Sea Wolf,1941,Best Visual Effects,14th,no
+Nathan,Levinson,The Sea Wolf,1941,Best Visual Effects,14th,no
+Lawrence,Butler,That Hamilton Woman,1941,Best Visual Effects,14th,no
+William,H. Wilmarth,That Hamilton Woman,1941,Best Visual Effects,14th,no
+Roy,Seawright,Topper Returns,1941,Best Visual Effects,14th,no
+Elmer,Raguse,Topper Returns,1941,Best Visual Effects,14th,no
+Fred,Sersen,A Yank in the R.A.F.,1941,Best Visual Effects,14th,no
+E.,H. Hansen,A Yank in the R.A.F.,1941,Best Visual Effects,14th,no
+Gordon,Jennings,Reap the Wild Wind,1942,Best Visual Effects,15th,yes
+Farciot,Edouart,Reap the Wild Wind,1942,Best Visual Effects,15th,yes
+William,Pereira,Reap the Wild Wind,1942,Best Visual Effects,15th,yes
+Louis,Mesenkop,Reap the Wild Wind,1942,Best Visual Effects,15th,yes
+Fred,Sersen,The Black Swan,1942,Best Visual Effects,15th,no
+Roger,Heman,The Black Swan,1942,Best Visual Effects,15th,no
+George,Leverett,The Black Swan,1942,Best Visual Effects,15th,no
+Byron,Haskin,Desperate Journey,1942,Best Visual Effects,15th,no
+Nathan,Levinson,Desperate Journey,1942,Best Visual Effects,15th,no
+Howard,Lydecker,Flying Tigers,1942,Best Visual Effects,15th,no
+Daniel,J. Bloomberg,Flying Tigers,1942,Best Visual Effects,15th,no
+John,Fulton,Invisible Agent,1942,Best Visual Effects,15th,no
+Bernard,B. Brown,Invisible Agent,1942,Best Visual Effects,15th,no
+Lawrence,Butler,Jungle Book,1942,Best Visual Effects,15th,no
+William,H. Wilmarth,Jungle Book,1942,Best Visual Effects,15th,no
+A.,Arnold Gillespie,Mrs. Miniver,1942,Best Visual Effects,15th,no
+Warren,Newcombe,Mrs. Miniver,1942,Best Visual Effects,15th,no
+Douglas,Shearer,Mrs. Miniver,1942,Best Visual Effects,15th,no
+Vernon,L. Walker,The Navy Comes Through,1942,Best Visual Effects,15th,no
+James,G. Stewart,The Navy Comes Through,1942,Best Visual Effects,15th,no
+Ronald,Neame,One of Our Aircraft Is Missing,1942,Best Visual Effects,15th,no
+C.,C. Stevens,One of Our Aircraft Is Missing,1942,Best Visual Effects,15th,no
+Jack,Cosgrove,The Pride of the Yankees,1942,Best Visual Effects,15th,no
+Ray,Binger,The Pride of the Yankees,1942,Best Visual Effects,15th,no
+Thomas,T. Moulton,The Pride of the Yankees,1942,Best Visual Effects,15th,no
+Fred,Sersen,Crash Dive,1943,Best Visual Effects,16th,yes
+Roger,Heman,Crash Dive,1943,Best Visual Effects,16th,yes
+Hans,Koenekamp,Air Force,1943,Best Visual Effects,16th,no
+Rex,Wimpy,Air Force,1943,Best Visual Effects,16th,no
+Nathan,Levinson,Air Force,1943,Best Visual Effects,16th,no
+Vernon,L. Walker,Bombardier,1943,Best Visual Effects,16th,no
+James,G. Stewart,Bombardier,1943,Best Visual Effects,16th,no
+Roy,Granville,Bombardier,1943,Best Visual Effects,16th,no
+Clarence,Slifer,The North Star,1943,Best Visual Effects,16th,no
+R.,O. Binger,The North Star,1943,Best Visual Effects,16th,no
+Thomas,T. Moulton,The North Star,1943,Best Visual Effects,16th,no
+Gordon,Jennings,So Proudly We Hail!,1943,Best Visual Effects,16th,no
+Farciot,Edouart,So Proudly We Hail!,1943,Best Visual Effects,16th,no
+George,Dutton,So Proudly We Hail!,1943,Best Visual Effects,16th,no
+A.,Arnold Gillespie,Stand By for Action,1943,Best Visual Effects,16th,no
+Donald,Jahraus,Stand By for Action,1943,Best Visual Effects,16th,no
+Michael,Steinore,Stand By for Action,1943,Best Visual Effects,16th,no
+A.,Arnold Gillespie,Thirty Seconds Over Tokyo,1944,Best Visual Effects,17th,yes
+Donald,Jahraus,Thirty Seconds Over Tokyo,1944,Best Visual Effects,17th,yes
+Warren,Newcombe,Thirty Seconds Over Tokyo,1944,Best Visual Effects,17th,yes
+Douglas,Shearer,Thirty Seconds Over Tokyo,1944,Best Visual Effects,17th,yes
+Paul,Detlefsen,The Adventures of Mark Twain,1944,Best Visual Effects,17th,no
+John,Crouse,The Adventures of Mark Twain,1944,Best Visual Effects,17th,no
+Nathan,Levinson,The Adventures of Mark Twain,1944,Best Visual Effects,17th,no
+Vernon,L. Walker,Days of Glory,1944,Best Visual Effects,17th,no
+James,G. Stewart,Days of Glory,1944,Best Visual Effects,17th,no
+Roy,Granville,Days of Glory,1944,Best Visual Effects,17th,no
+David,Allen,Secret Command,1944,Best Visual Effects,17th,no
+Ray,Cory,Secret Command,1944,Best Visual Effects,17th,no
+Robert,Wright,Secret Command,1944,Best Visual Effects,17th,no
+Russell,Malmgren,Secret Command,1944,Best Visual Effects,17th,no
+Harry,Kusnick,Secret Command,1944,Best Visual Effects,17th,no
+Jack,Cosgrove,Since You Went Away,1944,Best Visual Effects,17th,no
+Arthur,Johns,Since You Went Away,1944,Best Visual Effects,17th,no
+Farciot,Edouart,The Story of Dr. Wassell,1944,Best Visual Effects,17th,no
+Gordon,Jennings,The Story of Dr. Wassell,1944,Best Visual Effects,17th,no
+George,Dutton,The Story of Dr. Wassell,1944,Best Visual Effects,17th,no
+Fred,Sersen,Wilson,1944,Best Visual Effects,17th,no
+Roger,Heman,Wilson,1944,Best Visual Effects,17th,no
+John,P. Fulton,Wonder Man,1945,Best Visual Effects,18th,yes
+Arthur,Johns,Wonder Man,1945,Best Visual Effects,18th,yes
+Fred,Sersen,Captain Eddie,1945,Best Visual Effects,18th,no
+Sol,Halperin,Captain Eddie,1945,Best Visual Effects,18th,no
+Roger,Heman,Captain Eddie,1945,Best Visual Effects,18th,no
+Harry,Leonard,Captain Eddie,1945,Best Visual Effects,18th,no
+Jack,Cosgrove,Spellbound,1945,Best Visual Effects,18th,no
+A.,Arnold Gillespie,They Were Expendable,1945,Best Visual Effects,18th,no
+Donald,Jahraus,They Were Expendable,1945,Best Visual Effects,18th,no
+Robert,A. MacDonald,They Were Expendable,1945,Best Visual Effects,18th,no
+Michael,Steinore,They Were Expendable,1945,Best Visual Effects,18th,no
+Lawrence,W. Butler,A Thousand and One Nights,1945,Best Visual Effects,18th,no
+Ray,Bomba,A Thousand and One Nights,1945,Best Visual Effects,18th,no
+Thomas,Howard,Blithe Spirit,1946,Best Visual Effects,19th,yes
+William,McGann,A Stolen Life,1946,Best Visual Effects,19th,no
+Nathan,Levinson,A Stolen Life,1946,Best Visual Effects,19th,no
+A.,Arnold Gillespie,Green Dolphin Street,1947,Best Visual Effects,20th,yes
+Warren,Newcombe,Green Dolphin Street,1947,Best Visual Effects,20th,yes
+Douglas,Shearer,Green Dolphin Street,1947,Best Visual Effects,20th,yes
+Michael,Steinore,Green Dolphin Street,1947,Best Visual Effects,20th,yes
+Farciot,Edouart,Unconquered,1947,Best Visual Effects,20th,no
+Devereux,Jennings,Unconquered,1947,Best Visual Effects,20th,no
+Gordon,Jennings,Unconquered,1947,Best Visual Effects,20th,no
+W.,Wallace Kelley,Unconquered,1947,Best Visual Effects,20th,no
+Paul,Lerpae,Unconquered,1947,Best Visual Effects,20th,no
+George,Dutton,Unconquered,1947,Best Visual Effects,20th,no
+Paul,Eagler,Portrait of Jennie,1948,Best Visual Effects,21st,yes
+Joseph,McMillan Johnson,Portrait of Jennie,1948,Best Visual Effects,21st,yes
+Russell,Shearman,Portrait of Jennie,1948,Best Visual Effects,21st,yes
+Clarence,Slifer,Portrait of Jennie,1948,Best Visual Effects,21st,yes
+Charles,Freeman,Portrait of Jennie,1948,Best Visual Effects,21st,yes
+James,G. Stewart,Portrait of Jennie,1948,Best Visual Effects,21st,yes
+Ralph,Hammeras,Deep Waters,1948,Best Visual Effects,21st,no
+Fred,Sersen,Deep Waters,1948,Best Visual Effects,21st,no
+Edward,Snyder,Deep Waters,1948,Best Visual Effects,21st,no
+Roger,Heman,Deep Waters,1948,Best Visual Effects,21st,no
+John,Hench,"20,000 Leagues Under the Sea",1954,Best Visual Effects,27th,yes
+Joshua,Meador,"20,000 Leagues Under the Sea",1954,Best Visual Effects,27th,yes
+John,P. Fulton,The Ten Commandments,1956,Best Visual Effects,29th,yes
+A.,Arnold Gillespie,Forbidden Planet,1956,Best Visual Effects,29th,no
+Irving,G. Ries,Forbidden Planet,1956,Best Visual Effects,29th,no
+Wesley,C. Miller,Forbidden Planet,1956,Best Visual Effects,29th,no
+Walter,Rossi,The Enemy Below,1957,Best Visual Effects,30th,yes
+Louis,Lichtenfield,The Spirit of St. Louis,1957,Best Visual Effects,30th,no
+Tom,Howard,Tom Thumb,1958,Best Visual Effects,31st,yes
+A.,Arnold Gillespie,Torpedo Run,1958,Best Visual Effects,31st,no
+Harold,Humbrock,Torpedo Run,1958,Best Visual Effects,31st,no
+A.,Arnold Gillespie,Ben-Hur,1959,Best Visual Effects,32nd,yes
+Robert,MacDonald,Ben-Hur,1959,Best Visual Effects,32nd,yes
+Milo,B. Lory,Ben-Hur,1959,Best Visual Effects,32nd,yes
+L.,B. Abbott,Journey to the Center of the Earth,1959,Best Visual Effects,32nd,no
+James,B. Gordon,Journey to the Center of the Earth,1959,Best Visual Effects,32nd,no
+Carl,Faulkner,Journey to the Center of the Earth,1959,Best Visual Effects,32nd,no
+Gene,Warren,The Time Machine,1960,Best Visual Effects,33rd,yes
+Tim,Baar,The Time Machine,1960,Best Visual Effects,33rd,yes
+Augie,Lohman,The Last Voyage,1960,Best Visual Effects,33rd,no
+Bill,Warrington,The Guns of Navarone,1961,Best Visual Effects,34th,yes
+Vivian,C. Greenham,The Guns of Navarone,1961,Best Visual Effects,34th,yes
+Robert,A. Mattey,The Absent-Minded Professor,1961,Best Visual Effects,34th,no
+Eustace,Lycett,The Absent-Minded Professor,1961,Best Visual Effects,34th,no
+Robert,MacDonald,The Longest Day,1962,Best Visual Effects,35th,yes
+Jacques,Maumont,The Longest Day,1962,Best Visual Effects,35th,yes
+A.,Arnold Gillespie,Mutiny on the Bounty,1962,Best Visual Effects,35th,no
+Milo,B. Lory,Mutiny on the Bounty,1962,Best Visual Effects,35th,no
+Emil,Kosa Jr.,Cleopatra,1963,Best Visual Effects,36th,yes
+Ub,Iwerks,The Birds,1963,Best Visual Effects,36th,no
+Peter,Ellenshaw,Mary Poppins,1964,Best Visual Effects,37th,yes
+Eustace,Lycett,Mary Poppins,1964,Best Visual Effects,37th,yes
+Hamilton,Luske,Mary Poppins,1964,Best Visual Effects,37th,yes
+Jim,Danforth,7 Faces of Dr. Lao,1964,Best Visual Effects,37th,no
+John,Stears,Thunderball,1965,Best Visual Effects,38th,yes
+Joseph,McMillan Johnson,The Greatest Story Ever Told,1965,Best Visual Effects,38th,no
+Art,Cruickshank,Fantastic Voyage,1966,Best Visual Effects,39th,yes
+Linwood,G. Dunn,Hawaii,1966,Best Visual Effects,39th,no
+L.,B. Abbott,Doctor Dolittle,1967,Best Visual Effects,40th,yes
+Howard,A. Anderson Jr.,Tobruk,1967,Best Visual Effects,40th,no
+Albert,Whitlock,Tobruk,1967,Best Visual Effects,40th,no
+Stanley,Kubrick,2001: A Space Odyssey,1968,Best Visual Effects,41st,yes
+Hal,Millar,Ice Station Zebra,1968,Best Visual Effects,41st,no
+Joseph,McMillan Johnson,Ice Station Zebra,1968,Best Visual Effects,41st,no
+Robbie,Robertson,Marooned,1969,Best Visual Effects,42nd,yes
+Eugène,Lourié,"Krakatoa, East of Java",1969,Best Visual Effects,42nd,no
+Alex,Weldon,"Krakatoa, East of Java",1969,Best Visual Effects,42nd,no
+A.,D. Flowers,Tora! Tora! Tora!,1970,Best Visual Effects,43rd,yes
+L.,B. Abbott,Tora! Tora! Tora!,1970,Best Visual Effects,43rd,yes
+Alex,Weldon,Patton,1970,Best Visual Effects,43rd,no
+Alan,Maley,Bedknobs and Broomsticks,1971,Best Visual Effects,44th,yes
+Eustace,Lycett,Bedknobs and Broomsticks,1971,Best Visual Effects,44th,yes
+Danny,Lee,Bedknobs and Broomsticks,1971,Best Visual Effects,44th,yes
+Jim,Danforth,When Dinosaurs Ruled the Earth,1971,Best Visual Effects,44th,no
+Roger,Dicken,When Dinosaurs Ruled the Earth,1971,Best Visual Effects,44th,no
+L.,B. Abbott,The Poseidon Adventure,1972,Best Visual Effects,45th,yes
+A.,D. Flowers,The Poseidon Adventure,1972,Best Visual Effects,45th,yes
+Frank,Brendel,Earthquake,1974,Best Visual Effects,47th,yes
+Glen,Robinson,Earthquake,1974,Best Visual Effects,47th,yes
+Albert,Whitlock,Earthquake,1974,Best Visual Effects,47th,yes
+Albert,Whitlock,The Hindenburg,1975,Best Visual Effects,48th,yes
+Glen,Robinson,The Hindenburg,1975,Best Visual Effects,48th,yes
+Carlo,Rambaldi,King Kong,1976,Best Visual Effects,49th,yes
+Glen,Robinson,King Kong,1976,Best Visual Effects,49th,yes
+Frank,Van der Veer,King Kong,1976,Best Visual Effects,49th,yes
+L.,B. Abbott,Logan's Run,1976,Best Visual Effects,49th,yes
+Glen,Robinson,Logan's Run,1976,Best Visual Effects,49th,yes
+Matthew,Yuricich,Logan's Run,1976,Best Visual Effects,49th,yes
+John,Stears,Star Wars,1977,Best Visual Effects,50th,yes
+John,Dykstra,Star Wars,1977,Best Visual Effects,50th,yes
+Richard,Edlund,Star Wars,1977,Best Visual Effects,50th,yes
+Grant,McCune,Star Wars,1977,Best Visual Effects,50th,yes
+Robert,Blalack,Star Wars,1977,Best Visual Effects,50th,yes
+Roy,Arbogast,Close Encounters of the Third Kind,1977,Best Visual Effects,50th,no
+Douglas,Trumbull,Close Encounters of the Third Kind,1977,Best Visual Effects,50th,no
+Matthew,Yuricich,Close Encounters of the Third Kind,1977,Best Visual Effects,50th,no
+Greg,Jein,Close Encounters of the Third Kind,1977,Best Visual Effects,50th,no
+Richard,Yuricich,Close Encounters of the Third Kind,1977,Best Visual Effects,50th,no
+Les,Bowie,Superman,1978,Best Visual Effects,51st,yes
+Colin,Chilvers,Superman,1978,Best Visual Effects,51st,yes
+Denys,Coop,Superman,1978,Best Visual Effects,51st,yes
+Roy,Field,Superman,1978,Best Visual Effects,51st,yes
+Derek,Meddings,Superman,1978,Best Visual Effects,51st,yes
+Zoran,Perisic,Superman,1978,Best Visual Effects,51st,yes
+H.,R. Giger,Alien,1979,Best Visual Effects,52nd,yes
+Carlo,Rambaldi,Alien,1979,Best Visual Effects,52nd,yes
+Brian,Johnson,Alien,1979,Best Visual Effects,52nd,yes
+Nick,Allder,Alien,1979,Best Visual Effects,52nd,yes
+Dennis,Ayling,Alien,1979,Best Visual Effects,52nd,yes
+William,A. Fraker,1941,1979,Best Visual Effects,52nd,no
+A.,D. Flowers,1941,1979,Best Visual Effects,52nd,no
+Greg,Jein,1941,1979,Best Visual Effects,52nd,no
+Peter,Ellenshaw,The Black Hole,1979,Best Visual Effects,52nd,no
+Art,Cruickshank,The Black Hole,1979,Best Visual Effects,52nd,no
+Eustace,Lycett,The Black Hole,1979,Best Visual Effects,52nd,no
+Danny,Lee,The Black Hole,1979,Best Visual Effects,52nd,no
+Harrison,Ellenshaw,The Black Hole,1979,Best Visual Effects,52nd,no
+Joe,Hale,The Black Hole,1979,Best Visual Effects,52nd,no
+Derek,Meddings,Moonraker,1979,Best Visual Effects,52nd,no
+John,Evans,Moonraker,1979,Best Visual Effects,52nd,no
+Douglas,Trumbull,Star Trek: The Motion Picture,1979,Best Visual Effects,52nd,no
+John,Dykstra,Star Trek: The Motion Picture,1979,Best Visual Effects,52nd,no
+Richard,Yuricich,Star Trek: The Motion Picture,1979,Best Visual Effects,52nd,no
+Robert,Swarthe,Star Trek: The Motion Picture,1979,Best Visual Effects,52nd,no
+David,K. Stewart,Star Trek: The Motion Picture,1979,Best Visual Effects,52nd,no
+Grant,McCune,Star Trek: The Motion Picture,1979,Best Visual Effects,52nd,no
+Brian,Johnson,The Empire Strikes Back,1980,Best Visual Effects,53rd,yes
+Richard,Edlund,The Empire Strikes Back,1980,Best Visual Effects,53rd,yes
+Dennis,Muren,The Empire Strikes Back,1980,Best Visual Effects,53rd,yes
+Bruce,Nicholson,The Empire Strikes Back,1980,Best Visual Effects,53rd,yes
+Richard,Edlund,Raiders of the Lost Ark,1981,Best Visual Effects,54th,yes
+Kit,West,Raiders of the Lost Ark,1981,Best Visual Effects,54th,yes
+Bruce,Nicholson,Raiders of the Lost Ark,1981,Best Visual Effects,54th,yes
+Joe,Johnston,Raiders of the Lost Ark,1981,Best Visual Effects,54th,yes
+Dennis,Muren,Dragonslayer,1981,Best Visual Effects,54th,no
+Phil,Tippett,Dragonslayer,1981,Best Visual Effects,54th,no
+Ken,Ralston,Dragonslayer,1981,Best Visual Effects,54th,no
+Brian,Johnson,Dragonslayer,1981,Best Visual Effects,54th,no
+Carlo,Rambaldi,E.T. the Extra-Terrestrial,1982,Best Visual Effects,55th,yes
+Dennis,Muren,E.T. the Extra-Terrestrial,1982,Best Visual Effects,55th,yes
+Kenneth,F. Smith,E.T. the Extra-Terrestrial,1982,Best Visual Effects,55th,yes
+Douglas,Trumbull,Blade Runner,1982,Best Visual Effects,55th,no
+Richard,Yuricich,Blade Runner,1982,Best Visual Effects,55th,no
+David,Dryer,Blade Runner,1982,Best Visual Effects,55th,no
+Richard,Edlund,Poltergeist,1982,Best Visual Effects,55th,no
+Michael,Wood,Poltergeist,1982,Best Visual Effects,55th,no
+Bruce,Nicholson,Poltergeist,1982,Best Visual Effects,55th,no
+Richard,Edlund,Return of the Jedi,1983,Best Visual Effects,56th,yes
+Dennis,Muren,Return of the Jedi,1983,Best Visual Effects,56th,yes
+Ken,Ralston,Return of the Jedi,1983,Best Visual Effects,56th,yes
+Phil,Tippett,Return of the Jedi,1983,Best Visual Effects,56th,yes
+Dennis,Muren,Indiana Jones and the Temple of Doom,1984,Best Visual Effects,57th,yes
+Michael,J. McAlister,Indiana Jones and the Temple of Doom,1984,Best Visual Effects,57th,yes
+Lorne,Peterson,Indiana Jones and the Temple of Doom,1984,Best Visual Effects,57th,yes
+George,Gibbs,Indiana Jones and the Temple of Doom,1984,Best Visual Effects,57th,yes
+Richard,Edlund,2010,1984,Best Visual Effects,57th,no
+Neil,Krepela,2010,1984,Best Visual Effects,57th,no
+George,Jenson,2010,1984,Best Visual Effects,57th,no
+Mark,Stetson,2010,1984,Best Visual Effects,57th,no
+Richard,Edlund,Ghostbusters,1984,Best Visual Effects,57th,no
+John,Bruno,Ghostbusters,1984,Best Visual Effects,57th,no
+Mark,Vargo,Ghostbusters,1984,Best Visual Effects,57th,no
+Chuck,Gaspar,Ghostbusters,1984,Best Visual Effects,57th,no
+Ken,Ralston,Cocoon,1985,Best Visual Effects,58th,yes
+Ralph,McQuarrie,Cocoon,1985,Best Visual Effects,58th,yes
+Scott,Farrar,Cocoon,1985,Best Visual Effects,58th,yes
+David,Berry,Cocoon,1985,Best Visual Effects,58th,yes
+Will,Vinton,Return to Oz,1985,Best Visual Effects,58th,no
+Ian,Wingrove,Return to Oz,1985,Best Visual Effects,58th,no
+Zoran,Perisic,Return to Oz,1985,Best Visual Effects,58th,no
+Michael,Lloyd,Return to Oz,1985,Best Visual Effects,58th,no
+Dennis,Muren,Young Sherlock Holmes,1985,Best Visual Effects,58th,no
+Kit,West,Young Sherlock Holmes,1985,Best Visual Effects,58th,no
+John,R. Ellis,Young Sherlock Holmes,1985,Best Visual Effects,58th,no
+David,W. Allen,Young Sherlock Holmes,1985,Best Visual Effects,58th,no
+Robert,Skotak,Aliens,1986,Best Visual Effects,59th,yes
+Stan,Winston,Aliens,1986,Best Visual Effects,59th,yes
+John,Richardson,Aliens,1986,Best Visual Effects,59th,yes
+Suzanne,M. Benson,Aliens,1986,Best Visual Effects,59th,yes
+Lyle,Conway,Little Shop of Horrors,1986,Best Visual Effects,59th,no
+Bran,Ferren,Little Shop of Horrors,1986,Best Visual Effects,59th,no
+Martin,Gutteridge,Little Shop of Horrors,1986,Best Visual Effects,59th,no
+Richard,Edlund,Poltergeist II: The Other Side,1986,Best Visual Effects,59th,no
+John,Bruno,Poltergeist II: The Other Side,1986,Best Visual Effects,59th,no
+Garry,Waller,Poltergeist II: The Other Side,1986,Best Visual Effects,59th,no
+Bill,Neil,Poltergeist II: The Other Side,1986,Best Visual Effects,59th,no
+Dennis,Muren,Innerspace,1987,Best Visual Effects,60th,yes
+William,George,Innerspace,1987,Best Visual Effects,60th,yes
+Harley,Jessup,Innerspace,1987,Best Visual Effects,60th,yes
+Kenneth,F. Smith,Innerspace,1987,Best Visual Effects,60th,yes
+Joel,Hynek,Predator,1987,Best Visual Effects,60th,no
+Richard,Greenberg,Predator,1987,Best Visual Effects,60th,no
+Stan,Winston,Predator,1987,Best Visual Effects,60th,no
+Ken,Ralston,Who Framed Roger Rabbit,1988,Best Visual Effects,61st,yes
+Richard,Williams,Who Framed Roger Rabbit,1988,Best Visual Effects,61st,yes
+Edward,Jones,Who Framed Roger Rabbit,1988,Best Visual Effects,61st,yes
+George,Gibbs,Who Framed Roger Rabbit,1988,Best Visual Effects,61st,yes
+Richard,Edlund,Die Hard,1988,Best Visual Effects,61st,no
+Al,DiSarro,Die Hard,1988,Best Visual Effects,61st,no
+Brent,Boates,Die Hard,1988,Best Visual Effects,61st,no
+Thaine,Morris,Die Hard,1988,Best Visual Effects,61st,no
+Dennis,Muren,Willow,1988,Best Visual Effects,61st,no
+Michael,J. McAlister,Willow,1988,Best Visual Effects,61st,no
+Phil,Tippett,Willow,1988,Best Visual Effects,61st,no
+John,Bruno,The Abyss,1989,Best Visual Effects,62nd,yes
+Dennis,Muren,The Abyss,1989,Best Visual Effects,62nd,yes
+Hoyt,Yeatman,The Abyss,1989,Best Visual Effects,62nd,yes
+Dennis,Skotak,The Abyss,1989,Best Visual Effects,62nd,yes
+Richard,Conway,The Adventures of Baron Munchausen,1989,Best Visual Effects,62nd,no
+Kent,Houston,The Adventures of Baron Munchausen,1989,Best Visual Effects,62nd,no
+Ken,Ralston,Back to the Future Part II,1989,Best Visual Effects,62nd,no
+Michael,Lantieri,Back to the Future Part II,1989,Best Visual Effects,62nd,no
+John,Bell,Back to the Future Part II,1989,Best Visual Effects,62nd,no
+Steve,Gawley,Back to the Future Part II,1989,Best Visual Effects,62nd,no
+Eric,Brevig,Total Recall,1990,Best Visual Effects,63rd,yes
+Rob,Bottin,Total Recall,1990,Best Visual Effects,63rd,yes
+Tim,McGovern,Total Recall,1990,Best Visual Effects,63rd,yes
+Alex,Funke,Total Recall,1990,Best Visual Effects,63rd,yes
+Dennis,Muren,Terminator 2: Judgment Day,1991,Best Visual Effects,64th,yes
+Stan,Winston,Terminator 2: Judgment Day,1991,Best Visual Effects,64th,yes
+Gene,Warren Jr.,Terminator 2: Judgment Day,1991,Best Visual Effects,64th,yes
+Robert,Skotak,Terminator 2: Judgment Day,1991,Best Visual Effects,64th,yes
+Mikael,Salomon,Backdraft,1991,Best Visual Effects,64th,no
+Allen,Hall,Backdraft,1991,Best Visual Effects,64th,no
+Clay,Pinney,Backdraft,1991,Best Visual Effects,64th,no
+Scott,Farrar,Backdraft,1991,Best Visual Effects,64th,no
+Eric,Brevig,Hook,1991,Best Visual Effects,64th,no
+Harley,Jessup,Hook,1991,Best Visual Effects,64th,no
+Mark,Sullivan,Hook,1991,Best Visual Effects,64th,no
+Michael,Lantieri,Hook,1991,Best Visual Effects,64th,no
+Ken,Ralston,Death Becomes Her,1992,Best Visual Effects,65th,yes
+Doug,Chiang,Death Becomes Her,1992,Best Visual Effects,65th,yes
+Douglas,Smythe,Death Becomes Her,1992,Best Visual Effects,65th,yes
+Tom,Woodruff Jr.,Death Becomes Her,1992,Best Visual Effects,65th,yes
+Richard,Edlund,Alien 3,1992,Best Visual Effects,65th,no
+Tom,Woodruff Jr.,Alien 3,1992,Best Visual Effects,65th,no
+George,Gibbs,Alien 3,1992,Best Visual Effects,65th,no
+Michael,L. Fink,Batman Returns,1992,Best Visual Effects,65th,no
+Craig,Barron,Batman Returns,1992,Best Visual Effects,65th,no
+John,Bruno,Batman Returns,1992,Best Visual Effects,65th,no
+Dennis,Skotak,Batman Returns,1992,Best Visual Effects,65th,no
+Dennis,Muren,Jurassic Park,1993,Best Visual Effects,66th,yes
+Stan,Winston,Jurassic Park,1993,Best Visual Effects,66th,yes
+Phil,Tippett,Jurassic Park,1993,Best Visual Effects,66th,yes
+Michael,Lantieri,Jurassic Park,1993,Best Visual Effects,66th,yes
+Neil,Krepela,Cliffhanger,1993,Best Visual Effects,66th,no
+John,Richardson,Cliffhanger,1993,Best Visual Effects,66th,no
+John,Bruno,Cliffhanger,1993,Best Visual Effects,66th,no
+Pete,Kozachik,The Nightmare Before Christmas,1993,Best Visual Effects,66th,no
+Ken,Ralston,Forrest Gump,1994,Best Visual Effects,67th,yes
+George,Murphy,Forrest Gump,1994,Best Visual Effects,67th,yes
+Stephen,Rosenbaum,Forrest Gump,1994,Best Visual Effects,67th,yes
+Allen,Hall,Forrest Gump,1994,Best Visual Effects,67th,yes
+Scott,Squires,The Mask,1994,Best Visual Effects,67th,no
+Steve,Williams,The Mask,1994,Best Visual Effects,67th,no
+Tom,Bertino,The Mask,1994,Best Visual Effects,67th,no
+Jon,Farhat,The Mask,1994,Best Visual Effects,67th,no
+John,Bruno,True Lies,1994,Best Visual Effects,67th,no
+Thomas,L. Fisher,True Lies,1994,Best Visual Effects,67th,no
+Jacques,Stroweis,True Lies,1994,Best Visual Effects,67th,no
+Patrick,McClung,True Lies,1994,Best Visual Effects,67th,no
+Scott,E. Anderson,Babe,1995,Best Visual Effects,68th,yes
+Charles,Gibson,Babe,1995,Best Visual Effects,68th,yes
+Neal,Scanlan,Babe,1995,Best Visual Effects,68th,yes
+John,Cox,Babe,1995,Best Visual Effects,68th,yes
+Robert,Legato,Apollo 13,1995,Best Visual Effects,68th,no
+Michael,Kanfer,Apollo 13,1995,Best Visual Effects,68th,no
+Leslie,Ekker,Apollo 13,1995,Best Visual Effects,68th,no
+Matt,Sweeney,Apollo 13,1995,Best Visual Effects,68th,no
+Volker,Engel,Independence Day,1996,Best Visual Effects,69th,yes
+Douglas,Smith,Independence Day,1996,Best Visual Effects,69th,yes
+Clay,Pinney,Independence Day,1996,Best Visual Effects,69th,yes
+Joseph,Viskocil,Independence Day,1996,Best Visual Effects,69th,yes
+Scott,Squires,Dragonheart,1996,Best Visual Effects,69th,no
+Phil,Tippett,Dragonheart,1996,Best Visual Effects,69th,no
+James,Straus,Dragonheart,1996,Best Visual Effects,69th,no
+Kit,West,Dragonheart,1996,Best Visual Effects,69th,no
+Stefen,Fangmeier,Twister,1996,Best Visual Effects,69th,no
+John,Frazier,Twister,1996,Best Visual Effects,69th,no
+Habib,Zargarpour,Twister,1996,Best Visual Effects,69th,no
+Henry,LaBounta,Twister,1996,Best Visual Effects,69th,no
+Robert,Legato,Titanic,1997,Best Visual Effects,70th,yes
+Mark,Lasoff,Titanic,1997,Best Visual Effects,70th,yes
+Thomas,L. Fisher,Titanic,1997,Best Visual Effects,70th,yes
+Michael,Kanfer,Titanic,1997,Best Visual Effects,70th,yes
+Dennis,Muren,The Lost World: Jurassic Park,1997,Best Visual Effects,70th,no
+Stan,Winston,The Lost World: Jurassic Park,1997,Best Visual Effects,70th,no
+Randal,M. Dutra,The Lost World: Jurassic Park,1997,Best Visual Effects,70th,no
+Michael,Lantieri,The Lost World: Jurassic Park,1997,Best Visual Effects,70th,no
+Phil,Tippett,Starship Troopers,1997,Best Visual Effects,70th,no
+Scott,E. Anderson,Starship Troopers,1997,Best Visual Effects,70th,no
+John,Richardson,Starship Troopers,1997,Best Visual Effects,70th,no
+Joel,Hynek,What Dreams May Come,1998,Best Visual Effects,71st,yes
+Nicholas,Brooks,What Dreams May Come,1998,Best Visual Effects,71st,yes
+Stuart,Robertson,What Dreams May Come,1998,Best Visual Effects,71st,yes
+Kevin,Mack,What Dreams May Come,1998,Best Visual Effects,71st,yes
+Richard,R. Hoover,Armageddon,1998,Best Visual Effects,71st,no
+Patrick,McClung,Armageddon,1998,Best Visual Effects,71st,no
+John,Frazier,Armageddon,1998,Best Visual Effects,71st,no
+Rick,Baker,Mighty Joe Young,1998,Best Visual Effects,71st,no
+Hoyt,Yeatman,Mighty Joe Young,1998,Best Visual Effects,71st,no
+Allen,Hall,Mighty Joe Young,1998,Best Visual Effects,71st,no
+Jim,Mitchell,Mighty Joe Young,1998,Best Visual Effects,71st,no
+John,Gaeta,The Matrix,1999,Best Visual Effects,72nd,yes
+Janek,Sirrs,The Matrix,1999,Best Visual Effects,72nd,yes
+Steve,Courtley,The Matrix,1999,Best Visual Effects,72nd,yes
+Jon,Thum,The Matrix,1999,Best Visual Effects,72nd,yes
+John,Knoll,Star Wars: Episode I – The Phantom Menace,1999,Best Visual Effects,72nd,no
+Dennis,Muren,Star Wars: Episode I – The Phantom Menace,1999,Best Visual Effects,72nd,no
+Scott,Squires,Star Wars: Episode I – The Phantom Menace,1999,Best Visual Effects,72nd,no
+Rob,Coleman,Star Wars: Episode I – The Phantom Menace,1999,Best Visual Effects,72nd,no
+John,Dykstra,Stuart Little,1999,Best Visual Effects,72nd,no
+Jerome,Chen,Stuart Little,1999,Best Visual Effects,72nd,no
+John,Nelson,Gladiator,2000,Best Visual Effects,73rd,yes
+Neil,Corbould,Gladiator,2000,Best Visual Effects,73rd,yes
+Tim,Burke,Gladiator,2000,Best Visual Effects,73rd,yes
+Rob,Harvey,Gladiator,2000,Best Visual Effects,73rd,yes
+Scott,E. Anderson,Hollow Man,2000,Best Visual Effects,73rd,no
+Craig,Hayes,Hollow Man,2000,Best Visual Effects,73rd,no
+Scott,Stokdyk,Hollow Man,2000,Best Visual Effects,73rd,no
+Stan,Parks,Hollow Man,2000,Best Visual Effects,73rd,no
+Stefen,Fangmeier,The Perfect Storm,2000,Best Visual Effects,73rd,no
+Habib,Zargarpour,The Perfect Storm,2000,Best Visual Effects,73rd,no
+John,Frazier,The Perfect Storm,2000,Best Visual Effects,73rd,no
+Walt,Conti,The Perfect Storm,2000,Best Visual Effects,73rd,no
+Jim,Rygiel,The Lord of the Rings: The Fellowship of the Ring,2001,Best Visual Effects,74th,yes
+Randall,William Cook,The Lord of the Rings: The Fellowship of the Ring,2001,Best Visual Effects,74th,yes
+Richard,Taylor,The Lord of the Rings: The Fellowship of the Ring,2001,Best Visual Effects,74th,yes
+Mark,Stetson,The Lord of the Rings: The Fellowship of the Ring,2001,Best Visual Effects,74th,yes
+Dennis,Muren,A.I. Artificial Intelligence,2001,Best Visual Effects,74th,no
+Scott,Farrar,A.I. Artificial Intelligence,2001,Best Visual Effects,74th,no
+Stan,Winston,A.I. Artificial Intelligence,2001,Best Visual Effects,74th,no
+Michael,Lantieri,A.I. Artificial Intelligence,2001,Best Visual Effects,74th,no
+Eric,Brevig,Pearl Harbor,2001,Best Visual Effects,74th,no
+John,Frazier,Pearl Harbor,2001,Best Visual Effects,74th,no
+Ed,Hirsh,Pearl Harbor,2001,Best Visual Effects,74th,no
+Ben,Snow,Pearl Harbor,2001,Best Visual Effects,74th,no
+Jim,Rygiel,The Lord of the Rings: The Two Towers,2002,Best Visual Effects,75th,yes
+Joe,Letteri,The Lord of the Rings: The Two Towers,2002,Best Visual Effects,75th,yes
+Randall,William Cook,The Lord of the Rings: The Two Towers,2002,Best Visual Effects,75th,yes
+Alex,Funke,The Lord of the Rings: The Two Towers,2002,Best Visual Effects,75th,yes
+John,Dykstra,Spider-Man,2002,Best Visual Effects,75th,no
+Scott,Stokdyk,Spider-Man,2002,Best Visual Effects,75th,no
+Anthony,LaMolinara,Spider-Man,2002,Best Visual Effects,75th,no
+John,Frazier,Spider-Man,2002,Best Visual Effects,75th,no
+Rob,Coleman,Star Wars: Episode II – Attack of the Clones,2002,Best Visual Effects,75th,no
+Pablo,Helman,Star Wars: Episode II – Attack of the Clones,2002,Best Visual Effects,75th,no
+John,Knoll,Star Wars: Episode II – Attack of the Clones,2002,Best Visual Effects,75th,no
+Ben,Snow,Star Wars: Episode II – Attack of the Clones,2002,Best Visual Effects,75th,no
+Jim,Rygiel,The Lord of the Rings: The Return of the King,2003,Best Visual Effects,76th,yes
+Joe,Letteri,The Lord of the Rings: The Return of the King,2003,Best Visual Effects,76th,yes
+Randall,William Cook,The Lord of the Rings: The Return of the King,2003,Best Visual Effects,76th,yes
+Alex,Funke,The Lord of the Rings: The Return of the King,2003,Best Visual Effects,76th,yes
+Dan,Sudick,Master and Commander: The Far Side of the World,2003,Best Visual Effects,76th,no
+Stefen,Fangmeier,Master and Commander: The Far Side of the World,2003,Best Visual Effects,76th,no
+Nathan,McGuinness,Master and Commander: The Far Side of the World,2003,Best Visual Effects,76th,no
+Robert,Stromberg,Master and Commander: The Far Side of the World,2003,Best Visual Effects,76th,no
+John,Knoll,Pirates of the Caribbean: The Curse of the Black Pearl,2003,Best Visual Effects,76th,no
+Hal,Hickel,Pirates of the Caribbean: The Curse of the Black Pearl,2003,Best Visual Effects,76th,no
+Charles,Gibson,Pirates of the Caribbean: The Curse of the Black Pearl,2003,Best Visual Effects,76th,no
+Terry,Frazee,Pirates of the Caribbean: The Curse of the Black Pearl,2003,Best Visual Effects,76th,no
+John,Dykstra,Spider-Man 2,2004,Best Visual Effects,77th,yes
+Scott,Stokdyk,Spider-Man 2,2004,Best Visual Effects,77th,yes
+Anthony,LaMolinara,Spider-Man 2,2004,Best Visual Effects,77th,yes
+John,Frazier,Spider-Man 2,2004,Best Visual Effects,77th,yes
+Roger,Guyett,Harry Potter and the Prisoner of Azkaban,2004,Best Visual Effects,77th,no
+Tim,Burke,Harry Potter and the Prisoner of Azkaban,2004,Best Visual Effects,77th,no
+John,Richardson,Harry Potter and the Prisoner of Azkaban,2004,Best Visual Effects,77th,no
+William,George,Harry Potter and the Prisoner of Azkaban,2004,Best Visual Effects,77th,no
+John,Nelson,"I, Robot",2004,Best Visual Effects,77th,no
+Andrew,R. Jones,"I, Robot",2004,Best Visual Effects,77th,no
+Erik,Nash,"I, Robot",2004,Best Visual Effects,77th,no
+Joe,Letteri,"I, Robot",2004,Best Visual Effects,77th,no
+Joe,Letteri,King Kong,2005,Best Visual Effects,78th,yes
+Brian,Van't Hul,King Kong,2005,Best Visual Effects,78th,yes
+Christian,Rivers,King Kong,2005,Best Visual Effects,78th,yes
+Richard,Taylor,King Kong,2005,Best Visual Effects,78th,yes
+Dean,Wright,"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",2005,Best Visual Effects,78th,no
+Bill,Westenhofer,"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",2005,Best Visual Effects,78th,no
+Jim,Berney,"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",2005,Best Visual Effects,78th,no
+Scott,Farrar,"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",2005,Best Visual Effects,78th,no
+Dennis,Muren,War of the Worlds,2005,Best Visual Effects,78th,no
+Pablo,Helman,War of the Worlds,2005,Best Visual Effects,78th,no
+Randal,M. Dutra,War of the Worlds,2005,Best Visual Effects,78th,no
+Dan,Sudick,War of the Worlds,2005,Best Visual Effects,78th,no
+John,Knoll,Pirates of the Caribbean: Dead Man's Chest,2006,Best Visual Effects,79th,yes
+Hal,Hickel,Pirates of the Caribbean: Dead Man's Chest,2006,Best Visual Effects,79th,yes
+Charles,Gibson,Pirates of the Caribbean: Dead Man's Chest,2006,Best Visual Effects,79th,yes
+Allen,Hall,Pirates of the Caribbean: Dead Man's Chest,2006,Best Visual Effects,79th,yes
+John,Frazier,Poseidon,2006,Best Visual Effects,79th,no
+Mark,Stetson,Superman Returns,2006,Best Visual Effects,79th,no
+Neil,Corbould,Superman Returns,2006,Best Visual Effects,79th,no
+Richard,R. Hoover,Superman Returns,2006,Best Visual Effects,79th,no
+Jon,Thum,Superman Returns,2006,Best Visual Effects,79th,no
+Michael,L. Fink,The Golden Compass,2007,Best Visual Effects,80th,yes
+Bill,Westenhofer,The Golden Compass,2007,Best Visual Effects,80th,yes
+Ben,Morris,The Golden Compass,2007,Best Visual Effects,80th,yes
+Trevor,Wood,The Golden Compass,2007,Best Visual Effects,80th,yes
+John,Knoll,Pirates of the Caribbean: At World's End,2007,Best Visual Effects,80th,no
+Hal,Hickel,Pirates of the Caribbean: At World's End,2007,Best Visual Effects,80th,no
+Charles,Gibson,Pirates of the Caribbean: At World's End,2007,Best Visual Effects,80th,no
+John,Frazier,Pirates of the Caribbean: At World's End,2007,Best Visual Effects,80th,no
+Scott,Farrar,Transformers,2007,Best Visual Effects,80th,no
+Scott,Benza,Transformers,2007,Best Visual Effects,80th,no
+Russell,Earl,Transformers,2007,Best Visual Effects,80th,no
+John,Frazier,Transformers,2007,Best Visual Effects,80th,no
+Eric,Barba,The Curious Case of Benjamin Button,2008,Best Visual Effects,81st,yes
+Steve,Preeg,The Curious Case of Benjamin Button,2008,Best Visual Effects,81st,yes
+Burt,Dalton,The Curious Case of Benjamin Button,2008,Best Visual Effects,81st,yes
+Craig,Barron,The Curious Case of Benjamin Button,2008,Best Visual Effects,81st,yes
+Nick,Davis,The Dark Knight,2008,Best Visual Effects,81st,no
+Chris,Corbould,The Dark Knight,2008,Best Visual Effects,81st,no
+Tim,Webber,The Dark Knight,2008,Best Visual Effects,81st,no
+Paul,Franklin,The Dark Knight,2008,Best Visual Effects,81st,no
+John,Nelson,Iron Man,2008,Best Visual Effects,81st,no
+Ben,Snow,Iron Man,2008,Best Visual Effects,81st,no
+Dan,Sudick,Iron Man,2008,Best Visual Effects,81st,no
+Shane,Mahan,Iron Man,2008,Best Visual Effects,81st,no
+Joe,Letteri,Avatar,2009,Best Visual Effects,82nd,yes
+Stephen,Rosenbaum,Avatar,2009,Best Visual Effects,82nd,yes
+Richard,Baneham,Avatar,2009,Best Visual Effects,82nd,yes
+Andrew,R. Jones,Avatar,2009,Best Visual Effects,82nd,yes
+Dan,Kaufman,District 9,2009,Best Visual Effects,82nd,no
+Peter,Muyzers,District 9,2009,Best Visual Effects,82nd,no
+Robert,Habros,District 9,2009,Best Visual Effects,82nd,no
+Matt,Aitken,District 9,2009,Best Visual Effects,82nd,no
+Roger,Guyett,Star Trek,2009,Best Visual Effects,82nd,no
+Russell,Earl,Star Trek,2009,Best Visual Effects,82nd,no
+Paul,Kavanagh,Star Trek,2009,Best Visual Effects,82nd,no
+Burt,Dalton,Star Trek,2009,Best Visual Effects,82nd,no
+Paul,Franklin,Inception,2010,Best Visual Effects,83rd,yes
+Chris,Corbould,Inception,2010,Best Visual Effects,83rd,yes
+Andrew,Lockley,Inception,2010,Best Visual Effects,83rd,yes
+Peter,Bebb,Inception,2010,Best Visual Effects,83rd,yes
+Ken,Ralston,Alice in Wonderland,2010,Best Visual Effects,83rd,no
+David,Schaub,Alice in Wonderland,2010,Best Visual Effects,83rd,no
+Carey,Villegas,Alice in Wonderland,2010,Best Visual Effects,83rd,no
+Sean,Phillips,Alice in Wonderland,2010,Best Visual Effects,83rd,no
+Tim,Burke,Harry Potter and the Deathly Hallows – Part 1,2010,Best Visual Effects,83rd,no
+John,Richardson,Harry Potter and the Deathly Hallows – Part 1,2010,Best Visual Effects,83rd,no
+Christian,Manz,Harry Potter and the Deathly Hallows – Part 1,2010,Best Visual Effects,83rd,no
+Nicolas,Aithadi,Harry Potter and the Deathly Hallows – Part 1,2010,Best Visual Effects,83rd,no
+Michael,Owens,Hereafter,2010,Best Visual Effects,83rd,no
+Bryan,Grill,Hereafter,2010,Best Visual Effects,83rd,no
+Stephan,Trojansky,Hereafter,2010,Best Visual Effects,83rd,no
+Joe,Farrell,Hereafter,2010,Best Visual Effects,83rd,no
+Janek,Sirrs,Iron Man 2,2010,Best Visual Effects,83rd,no
+Ben,Snow,Iron Man 2,2010,Best Visual Effects,83rd,no
+Ged,Wright,Iron Man 2,2010,Best Visual Effects,83rd,no
+Dan,Sudick,Iron Man 2,2010,Best Visual Effects,83rd,no
+Robert,Legato,Hugo,2011,Best Visual Effects,84th,yes
+Joss,Williams,Hugo,2011,Best Visual Effects,84th,yes
+Ben,Grossmann,Hugo,2011,Best Visual Effects,84th,yes
+Alex,Henning,Hugo,2011,Best Visual Effects,84th,yes
+Tim,Burke,Harry Potter and the Deathly Hallows – Part 2,2011,Best Visual Effects,84th,no
+David,Vickery,Harry Potter and the Deathly Hallows – Part 2,2011,Best Visual Effects,84th,no
+Greg,Butler,Harry Potter and the Deathly Hallows – Part 2,2011,Best Visual Effects,84th,no
+John,Richardson,Harry Potter and the Deathly Hallows – Part 2,2011,Best Visual Effects,84th,no
+Erik,Nash,Real Steel,2011,Best Visual Effects,84th,no
+John,Rosengrant,Real Steel,2011,Best Visual Effects,84th,no
+Dan,Taylor,Real Steel,2011,Best Visual Effects,84th,no
+Swen,Gillberg,Real Steel,2011,Best Visual Effects,84th,no
+Joe,Letteri,Rise of the Planet of the Apes,2011,Best Visual Effects,84th,no
+Dan,Lemmon,Rise of the Planet of the Apes,2011,Best Visual Effects,84th,no
+R.,Christopher White,Rise of the Planet of the Apes,2011,Best Visual Effects,84th,no
+Daniel,Barrett,Rise of the Planet of the Apes,2011,Best Visual Effects,84th,no
+Scott,Farrar,Transformers: Dark of the Moon,2011,Best Visual Effects,84th,no
+Scott,Benza,Transformers: Dark of the Moon,2011,Best Visual Effects,84th,no
+Matthew,E. Butler,Transformers: Dark of the Moon,2011,Best Visual Effects,84th,no
+John,Frazier,Transformers: Dark of the Moon,2011,Best Visual Effects,84th,no
+Bill,Westenhofer,Life of Pi,2012,Best Visual Effects,85th,yes
+Guillaume,Rocheron,Life of Pi,2012,Best Visual Effects,85th,yes
+Erik-Jan,de Boer,Life of Pi,2012,Best Visual Effects,85th,yes
+Donald,R. Elliott,Life of Pi,2012,Best Visual Effects,85th,yes
+Joe,Letteri,The Hobbit: An Unexpected Journey,2012,Best Visual Effects,85th,no
+Eric,Saindon,The Hobbit: An Unexpected Journey,2012,Best Visual Effects,85th,no
+David,Clayton,The Hobbit: An Unexpected Journey,2012,Best Visual Effects,85th,no
+R.,Christopher White,The Hobbit: An Unexpected Journey,2012,Best Visual Effects,85th,no
+Janek,Sirrs,Marvel's The Avengers,2012,Best Visual Effects,85th,no
+Jeff,White,Marvel's The Avengers,2012,Best Visual Effects,85th,no
+Guy,Williams,Marvel's The Avengers,2012,Best Visual Effects,85th,no
+Dan,Sudick,Marvel's The Avengers,2012,Best Visual Effects,85th,no
+Richard,Stammers,Prometheus,2012,Best Visual Effects,85th,no
+Trevor,Wood,Prometheus,2012,Best Visual Effects,85th,no
+Charley,Henley,Prometheus,2012,Best Visual Effects,85th,no
+Martin,Hill,Prometheus,2012,Best Visual Effects,85th,no
+Cedric,Nicolas-Troyan,Snow White and the Huntsman,2012,Best Visual Effects,85th,no
+Neil,Corbould,Snow White and the Huntsman,2012,Best Visual Effects,85th,no
+Tim,Webber,Gravity,2013,Best Visual Effects,86th,yes
+Chris,Lawrence,Gravity,2013,Best Visual Effects,86th,yes
+Dave,Shirk,Gravity,2013,Best Visual Effects,86th,yes
+Neil,Corbould,Gravity,2013,Best Visual Effects,86th,yes
+Joe,Letteri,The Hobbit: The Desolation of Smaug,2013,Best Visual Effects,86th,no
+Eric,Saindon,The Hobbit: The Desolation of Smaug,2013,Best Visual Effects,86th,no
+David,Clayton,The Hobbit: The Desolation of Smaug,2013,Best Visual Effects,86th,no
+Eric,Reynolds,The Hobbit: The Desolation of Smaug,2013,Best Visual Effects,86th,no
+Christopher,Townsend,Iron Man 3,2013,Best Visual Effects,86th,no
+Guy,Williams,Iron Man 3,2013,Best Visual Effects,86th,no
+Erik,Nash,Iron Man 3,2013,Best Visual Effects,86th,no
+Dan,Sudick,Iron Man 3,2013,Best Visual Effects,86th,no
+Tim,Alexander,The Lone Ranger,2013,Best Visual Effects,86th,no
+Gary,Brozenich,The Lone Ranger,2013,Best Visual Effects,86th,no
+Edson,Williams,The Lone Ranger,2013,Best Visual Effects,86th,no
+John,Frazier,The Lone Ranger,2013,Best Visual Effects,86th,no
+Roger,Guyett,Star Trek Into Darkness,2013,Best Visual Effects,86th,no
+Patrick,Tubach,Star Trek Into Darkness,2013,Best Visual Effects,86th,no
+Ben,Grossmann,Star Trek Into Darkness,2013,Best Visual Effects,86th,no
+Burt,Dalton,Star Trek Into Darkness,2013,Best Visual Effects,86th,no
+Paul,Franklin,Interstellar,2014,Best Visual Effects,87th,yes
+Andrew,Lockley,Interstellar,2014,Best Visual Effects,87th,yes
+Ian,Hunter,Interstellar,2014,Best Visual Effects,87th,yes
+Scott,R. Fisher,Interstellar,2014,Best Visual Effects,87th,yes
+Dan,DeLeeuw,Captain America: The Winter Soldier,2014,Best Visual Effects,87th,no
+Russell,Earl,Captain America: The Winter Soldier,2014,Best Visual Effects,87th,no
+Bryan,Grill,Captain America: The Winter Soldier,2014,Best Visual Effects,87th,no
+Dan,Sudick,Captain America: The Winter Soldier,2014,Best Visual Effects,87th,no
+Joe,Letteri,Dawn of the Planet of the Apes,2014,Best Visual Effects,87th,no
+Dan,Lemmon,Dawn of the Planet of the Apes,2014,Best Visual Effects,87th,no
+Daniel,Barrett,Dawn of the Planet of the Apes,2014,Best Visual Effects,87th,no
+Erik,Winquist,Dawn of the Planet of the Apes,2014,Best Visual Effects,87th,no
+Stéphane,Ceretti,Guardians of the Galaxy,2014,Best Visual Effects,87th,no
+Nicolas,Aithadi,Guardians of the Galaxy,2014,Best Visual Effects,87th,no
+Jonathan,Fawkner,Guardians of the Galaxy,2014,Best Visual Effects,87th,no
+Paul,Corbould,Guardians of the Galaxy,2014,Best Visual Effects,87th,no
+Richard,Stammers,X-Men: Days of Future Past,2014,Best Visual Effects,87th,no
+Lou,Pecora,X-Men: Days of Future Past,2014,Best Visual Effects,87th,no
+Tim,Crosbie,X-Men: Days of Future Past,2014,Best Visual Effects,87th,no
+Cameron,Waldbauer,X-Men: Days of Future Past,2014,Best Visual Effects,87th,no
+Mark,Williams Ardington,Ex Machina,2015,Best Visual Effects,88th,yes
+Sara,Bennett,Ex Machina,2015,Best Visual Effects,88th,yes
+Paul,Norris,Ex Machina,2015,Best Visual Effects,88th,yes
+Andrew,Whitehurst,Ex Machina,2015,Best Visual Effects,88th,yes
+Andrew,Jackson,Mad Max: Fury Road,2015,Best Visual Effects,88th,no
+Dan,Oliver,Mad Max: Fury Road,2015,Best Visual Effects,88th,no
+Andy,Williams,Mad Max: Fury Road,2015,Best Visual Effects,88th,no
+Tom,Wood,Mad Max: Fury Road,2015,Best Visual Effects,88th,no
+Anders,Langlands,The Martian,2015,Best Visual Effects,88th,no
+Chris,Lawrence,The Martian,2015,Best Visual Effects,88th,no
+Richard,Stammers,The Martian,2015,Best Visual Effects,88th,no
+Steven,Warner,The Martian,2015,Best Visual Effects,88th,no
+Richard,McBride,The Revenant,2015,Best Visual Effects,88th,no
+Matt,Shumway,The Revenant,2015,Best Visual Effects,88th,no
+Jason,Smith,The Revenant,2015,Best Visual Effects,88th,no
+Cameron,Waldbauer,The Revenant,2015,Best Visual Effects,88th,no
+Chris,Corbould,Star Wars: The Force Awakens,2015,Best Visual Effects,88th,no
+Roger,Guyett,Star Wars: The Force Awakens,2015,Best Visual Effects,88th,no
+Patrick,Tubach,Star Wars: The Force Awakens,2015,Best Visual Effects,88th,no
+Neal,Scanlan,Star Wars: The Force Awakens,2015,Best Visual Effects,88th,no
+Robert,Legato,The Jungle Book,2016,Best Visual Effects,89th,yes
+Adam,Valdez,The Jungle Book,2016,Best Visual Effects,89th,yes
+Andrew,R. Jones,The Jungle Book,2016,Best Visual Effects,89th,yes
+Dan,Lemmon,The Jungle Book,2016,Best Visual Effects,89th,yes
+Craig,Hammack,Deepwater Horizon,2016,Best Visual Effects,89th,no
+Jason,Snell,Deepwater Horizon,2016,Best Visual Effects,89th,no
+Jason,Billington,Deepwater Horizon,2016,Best Visual Effects,89th,no
+Burt,Dalton,Deepwater Horizon,2016,Best Visual Effects,89th,no
+Stéphane,Ceretti,Doctor Strange,2016,Best Visual Effects,89th,no
+Richard,Bluff,Doctor Strange,2016,Best Visual Effects,89th,no
+Vincent,Cirelli,Doctor Strange,2016,Best Visual Effects,89th,no
+Paul,Corbould,Doctor Strange,2016,Best Visual Effects,89th,no
+Steve,Emerson,Kubo and the Two Strings,2016,Best Visual Effects,89th,no
+Oliver,Jones,Kubo and the Two Strings,2016,Best Visual Effects,89th,no
+Brian,McLean,Kubo and the Two Strings,2016,Best Visual Effects,89th,no
+Brad,Schiff,Kubo and the Two Strings,2016,Best Visual Effects,89th,no
+John,Knoll,Rogue One: A Star Wars Story,2016,Best Visual Effects,89th,no
+Mohen,Leo,Rogue One: A Star Wars Story,2016,Best Visual Effects,89th,no
+Hal,Hickel,Rogue One: A Star Wars Story,2016,Best Visual Effects,89th,no
+Neil,Corbould,Rogue One: A Star Wars Story,2016,Best Visual Effects,89th,no
+John,Nelson,Blade Runner 2049,2017,Best Visual Effects,90th,yes
+Gerd,Nefzer,Blade Runner 2049,2017,Best Visual Effects,90th,yes
+Paul,Lambert,Blade Runner 2049,2017,Best Visual Effects,90th,yes
+Richard,R. Hoover,Blade Runner 2049,2017,Best Visual Effects,90th,yes
+Christopher,Townsend,Guardians of the Galaxy Vol. 2,2017,Best Visual Effects,90th,no
+Guy,Williams,Guardians of the Galaxy Vol. 2,2017,Best Visual Effects,90th,no
+Jonathan,Fawkner,Guardians of the Galaxy Vol. 2,2017,Best Visual Effects,90th,no
+Dan,Sudick,Guardians of the Galaxy Vol. 2,2017,Best Visual Effects,90th,no
+Stephen,Rosenbaum,Kong: Skull Island,2017,Best Visual Effects,90th,no
+Jeff,White,Kong: Skull Island,2017,Best Visual Effects,90th,no
+Scott,Benza,Kong: Skull Island,2017,Best Visual Effects,90th,no
+Mike,Meinardus,Kong: Skull Island,2017,Best Visual Effects,90th,no
+Ben,Morris,Star Wars: The Last Jedi,2017,Best Visual Effects,90th,no
+Mike,Mulholland,Star Wars: The Last Jedi,2017,Best Visual Effects,90th,no
+Neal,Scanlan,Star Wars: The Last Jedi,2017,Best Visual Effects,90th,no
+Chris,Corbould,Star Wars: The Last Jedi,2017,Best Visual Effects,90th,no
+Joe,Letteri,War for the Planet of the Apes,2017,Best Visual Effects,90th,no
+Daniel,Barrett,War for the Planet of the Apes,2017,Best Visual Effects,90th,no
+Dan,Lemmon,War for the Planet of the Apes,2017,Best Visual Effects,90th,no
+Joel,Whist,War for the Planet of the Apes,2017,Best Visual Effects,90th,no
+Paul,Lambert,First Man,2018,Best Visual Effects,91st,yes
+Ian,Hunter,First Man,2018,Best Visual Effects,91st,yes
+Tristan,Myles,First Man,2018,Best Visual Effects,91st,yes
+J.,D. Schwalm,First Man,2018,Best Visual Effects,91st,yes
+Dan,DeLeeuw,Avengers: Infinity War,2018,Best Visual Effects,91st,no
+Kelly,Port,Avengers: Infinity War,2018,Best Visual Effects,91st,no
+Russell,Earl,Avengers: Infinity War,2018,Best Visual Effects,91st,no
+Dan,Sudick,Avengers: Infinity War,2018,Best Visual Effects,91st,no
+Chris,Lawrence,Christopher Robin,2018,Best Visual Effects,91st,no
+Mike,Eames,Christopher Robin,2018,Best Visual Effects,91st,no
+Chris,Corbould,Christopher Robin,2018,Best Visual Effects,91st,no
+Roger,Guyett,Ready Player One,2018,Best Visual Effects,91st,no
+Grady,Cofer,Ready Player One,2018,Best Visual Effects,91st,no
+Matthew,E. Butler,Ready Player One,2018,Best Visual Effects,91st,no
+David,Shirk,Ready Player One,2018,Best Visual Effects,91st,no
+Rob,Bredow,Solo: A Star Wars Story,2018,Best Visual Effects,91st,no
+Patrick,Tubach,Solo: A Star Wars Story,2018,Best Visual Effects,91st,no
+Neal,Scanlan,Solo: A Star Wars Story,2018,Best Visual Effects,91st,no
+Dominic,Tuohy,Solo: A Star Wars Story,2018,Best Visual Effects,91st,no
+Guillaume,Rocheron,1917,2019,Best Visual Effects,92nd,yes
+Greg,Butler,1917,2019,Best Visual Effects,92nd,yes
+Dominic,Tuohy,1917,2019,Best Visual Effects,92nd,yes
+Dan,DeLeeuw,Avengers: Endgame,2019,Best Visual Effects,92nd,no
+Russell,Earl,Avengers: Endgame,2019,Best Visual Effects,92nd,no
+Matt,Aitken,Avengers: Endgame,2019,Best Visual Effects,92nd,no
+Dan,Sudick,Avengers: Endgame,2019,Best Visual Effects,92nd,no
+Pablo,Helman,The Irishman,2019,Best Visual Effects,92nd,no
+Leandro,Estebecorena,The Irishman,2019,Best Visual Effects,92nd,no
+Nelson,Sepulveda-Fauser,The Irishman,2019,Best Visual Effects,92nd,no
+Stephane,Grabli,The Irishman,2019,Best Visual Effects,92nd,no
+Robert,Legato,The Lion King,2019,Best Visual Effects,92nd,no
+Adam,Valdez,The Lion King,2019,Best Visual Effects,92nd,no
+Andrew,R. Jones,The Lion King,2019,Best Visual Effects,92nd,no
+Elliot,Newman,The Lion King,2019,Best Visual Effects,92nd,no
+Roger,Guyett,Star Wars: The Rise of Skywalker,2019,Best Visual Effects,92nd,no
+Neal,Scanlan,Star Wars: The Rise of Skywalker,2019,Best Visual Effects,92nd,no
+Patrick,Tubach,Star Wars: The Rise of Skywalker,2019,Best Visual Effects,92nd,no
+Dominic,Tuohy,Star Wars: The Rise of Skywalker,2019,Best Visual Effects,92nd,no
+Andrew,Jackson,Tenet,2020,Best Visual Effects,93rd,yes
+David,Lee,Tenet,2020,Best Visual Effects,93rd,yes
+Andrew,Lockley,Tenet,2020,Best Visual Effects,93rd,yes
+Scott,Fisher,Tenet,2020,Best Visual Effects,93rd,yes
+Matt,Sloan,Love and Monsters,2020,Best Visual Effects,93rd,no
+Genevieve,Camilleri,Love and Monsters,2020,Best Visual Effects,93rd,no
+Matt,Everitt,Love and Monsters,2020,Best Visual Effects,93rd,no
+Brian,Cox,Love and Monsters,2020,Best Visual Effects,93rd,no
+Matt,Kasmir,The Midnight Sky,2020,Best Visual Effects,93rd,no
+Chris,Lawrence,The Midnight Sky,2020,Best Visual Effects,93rd,no
+Max,Solomon,The Midnight Sky,2020,Best Visual Effects,93rd,no
+David,Watkins,The Midnight Sky,2020,Best Visual Effects,93rd,no
+Sean,Andrew Faden,Mulan,2020,Best Visual Effects,93rd,no
+Anders,Langlands,Mulan,2020,Best Visual Effects,93rd,no
+Seth,Maury,Mulan,2020,Best Visual Effects,93rd,no
+Steve,Ingram,Mulan,2020,Best Visual Effects,93rd,no
+Nick,Davis,The One and Only Ivan,2020,Best Visual Effects,93rd,no
+Santiago,Colomo Martínez,The One and Only Ivan,2020,Best Visual Effects,93rd,no
+Paul,Lambert,Dune,2021,Best Visual Effects,94th,yes
+Tristan,Myles,Dune,2021,Best Visual Effects,94th,yes
+Brian,Connor,Dune,2021,Best Visual Effects,94th,yes
+Gerd,Nefzer,Dune,2021,Best Visual Effects,94th,yes
+Swen,Gillberg,Free Guy,2021,Best Visual Effects,94th,no
+Bryan,Grill,Free Guy,2021,Best Visual Effects,94th,no
+Nikos,Kalaitzidis,Free Guy,2021,Best Visual Effects,94th,no
+Dan,Sudick,Free Guy,2021,Best Visual Effects,94th,no
+Charlie,Noble,No Time to Die,2021,Best Visual Effects,94th,no
+Joel,Green,No Time to Die,2021,Best Visual Effects,94th,no
+Jonathan,Fawkner,No Time to Die,2021,Best Visual Effects,94th,no
+Chris,Corbould,No Time to Die,2021,Best Visual Effects,94th,no
+Christopher,Townsend,Shang-Chi and the Legend of the Ten Rings,2021,Best Visual Effects,94th,no
+Joe,Farrell,Shang-Chi and the Legend of the Ten Rings,2021,Best Visual Effects,94th,no
+Sean,Noel Walker,Shang-Chi and the Legend of the Ten Rings,2021,Best Visual Effects,94th,no
+Dan,Oliver,Shang-Chi and the Legend of the Ten Rings,2021,Best Visual Effects,94th,no
+Kelly,Port,Spider-Man: No Way Home,2021,Best Visual Effects,94th,no
+Chris,Waegner,Spider-Man: No Way Home,2021,Best Visual Effects,94th,no
+Scott,Edelstein,Spider-Man: No Way Home,2021,Best Visual Effects,94th,no
+Dan,Sudick,Spider-Man: No Way Home,2021,Best Visual Effects,94th,no
+Joe,Letteri,Avatar: The Way of Water,2022,Best Visual Effects,95th,yes
+Richard,Baneham,Avatar: The Way of Water,2022,Best Visual Effects,95th,yes
+Eric,Saindon,Avatar: The Way of Water,2022,Best Visual Effects,95th,yes
+Daniel,Barrett,Avatar: The Way of Water,2022,Best Visual Effects,95th,yes
+Frank,Petzold,All Quiet on the Western Front,2022,Best Visual Effects,95th,no
+Viktor,Müller,All Quiet on the Western Front,2022,Best Visual Effects,95th,no
+Markus,Frank,All Quiet on the Western Front,2022,Best Visual Effects,95th,no
+Kamil,Jafar,All Quiet on the Western Front,2022,Best Visual Effects,95th,no
+Dan,Lemmon,The Batman,2022,Best Visual Effects,95th,no
+Russell,Earl,The Batman,2022,Best Visual Effects,95th,no
+Anders,Langlands,The Batman,2022,Best Visual Effects,95th,no
+Dominic,Tuohy,The Batman,2022,Best Visual Effects,95th,no
+Geoffrey,Baumann,Black Panther: Wakanda Forever,2022,Best Visual Effects,95th,no
+Craig,Hammack,Black Panther: Wakanda Forever,2022,Best Visual Effects,95th,no
+R.,Christopher White,Black Panther: Wakanda Forever,2022,Best Visual Effects,95th,no
+Dan,Sudick,Black Panther: Wakanda Forever,2022,Best Visual Effects,95th,no
+Ryan,Tudhope,Top Gun: Maverick,2022,Best Visual Effects,95th,no
+Seth,Hill,Top Gun: Maverick,2022,Best Visual Effects,95th,no
+Bryan,Litson,Top Gun: Maverick,2022,Best Visual Effects,95th,no
+Scott,R. Fisher,Top Gun: Maverick,2022,Best Visual Effects,95th,no
+Takashi,Yamazaki,Godzilla Minus One,2023,Best Visual Effects,96th,yes
+Kiyoko,Shibuya,Godzilla Minus One,2023,Best Visual Effects,96th,yes
+Masaki,Takahashi,Godzilla Minus One,2023,Best Visual Effects,96th,yes
+Tatsuji,Nojima,Godzilla Minus One,2023,Best Visual Effects,96th,yes
+Jay,Cooper,The Creator,2023,Best Visual Effects,96th,no
+Ian,Comley,The Creator,2023,Best Visual Effects,96th,no
+Andrew,Roberts,The Creator,2023,Best Visual Effects,96th,no
+Neil,Corbould,The Creator,2023,Best Visual Effects,96th,no
+Stéphane,Ceretti,Guardians of the Galaxy Vol. 3,2023,Best Visual Effects,96th,no
+Alexis,Wajsbrot,Guardians of the Galaxy Vol. 3,2023,Best Visual Effects,96th,no
+Guy,Williams,Guardians of the Galaxy Vol. 3,2023,Best Visual Effects,96th,no
+Theo,Bialek,Guardians of the Galaxy Vol. 3,2023,Best Visual Effects,96th,no
+Alex,Wuttke,Mission: Impossible – Dead Reckoning Part One,2023,Best Visual Effects,96th,no
+Simone,Coco,Mission: Impossible – Dead Reckoning Part One,2023,Best Visual Effects,96th,no
+Jeff,Sutherland,Mission: Impossible – Dead Reckoning Part One,2023,Best Visual Effects,96th,no
+Neil,Corbould,Mission: Impossible – Dead Reckoning Part One,2023,Best Visual Effects,96th,no
+Charley,Henley,Napoleon,2023,Best Visual Effects,96th,no
+Luc-Ewen,Martin-Fenouillet,Napoleon,2023,Best Visual Effects,96th,no
+Simone,Coco,Napoleon,2023,Best Visual Effects,96th,no
+Neil,Corbould,Napoleon,2023,Best Visual Effects,96th,no
+Paul,Lambert,Dune: Part Two,2024,Best Visual Effects,97th,yes
+Stephen,James,Dune: Part Two,2024,Best Visual Effects,97th,yes
+Rhys,Salcombe,Dune: Part Two,2024,Best Visual Effects,97th,yes
+Gerd,Nefzer,Dune: Part Two,2024,Best Visual Effects,97th,yes
+Eric,Barba,Alien: Romulus,2024,Best Visual Effects,97th,no
+Nelson,Sepulveda-Fauser,Alien: Romulus,2024,Best Visual Effects,97th,no
+Daniel,Macarin,Alien: Romulus,2024,Best Visual Effects,97th,no
+Shane,Mahan,Alien: Romulus,2024,Best Visual Effects,97th,no
+Luke,Millar,Better Man,2024,Best Visual Effects,97th,no
+David,Clayton,Better Man,2024,Best Visual Effects,97th,no
+Keith,Herft,Better Man,2024,Best Visual Effects,97th,no
+Peter,Stubbs,Better Man,2024,Best Visual Effects,97th,no
+Erik,Winquist,Kingdom of the Planet of the Apes,2024,Best Visual Effects,97th,no
+Stephen,Unterfranz,Kingdom of the Planet of the Apes,2024,Best Visual Effects,97th,no
+Paul,Story,Kingdom of the Planet of the Apes,2024,Best Visual Effects,97th,no
+Rodney,Burke,Kingdom of the Planet of the Apes,2024,Best Visual Effects,97th,no
+Pablo,Helman,Wicked,2024,Best Visual Effects,97th,no
+Jonathan,Fawkner,Wicked,2024,Best Visual Effects,97th,no
+David,Shirk,Wicked,2024,Best Visual Effects,97th,no
+Paul,Corbould,Wicked,2024,Best Visual Effects,97th,no

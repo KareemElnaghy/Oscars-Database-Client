@@ -1,0 +1,651 @@
+firstName,lastName,movieTitle,releaseYear,categoryName,iteration,isWinner
+Preston,Sturges,The Great McGinty,1940,Best Original Screenplay,13th,yes
+Ben,Hecht,Angels Over Broadway,1940,Best Original Screenplay,13th,no
+John,Huston,Dr. Ehrlich's Magic Bullet,1940,Best Original Screenplay,13th,no
+Charles,Bennett,Foreign Correspondent,1940,Best Original Screenplay,13th,no
+Joan,Harrison,Foreign Correspondent,1940,Best Original Screenplay,13th,no
+Charlie,Chaplin,The Great Dictator,1940,Best Original Screenplay,13th,no
+Herman,J. Mankiewicz,Citizen Kane,1941,Best Original Screenplay,14th,yes
+Orson,Welles,Citizen Kane,1941,Best Original Screenplay,14th,yes
+Norman,Krasna,The Devil and Miss Jones,1941,Best Original Screenplay,14th,no
+Harry,Chandlee,Sergeant York,1941,Best Original Screenplay,14th,no
+John,Huston,Sergeant York,1941,Best Original Screenplay,14th,no
+Howard,Koch,Sergeant York,1941,Best Original Screenplay,14th,no
+Karl,Tunberg,"Tall, Dark and Handsome",1941,Best Original Screenplay,14th,no
+Darrell,Ware,"Tall, Dark and Handsome",1941,Best Original Screenplay,14th,no
+Paul,Jarrico,"Tom, Dick and Harry",1941,Best Original Screenplay,14th,no
+Ring,Lardner Jr.,Woman of the Year,1942,Best Original Screenplay,15th,yes
+Michael,Kanin,Woman of the Year,1942,Best Original Screenplay,15th,yes
+Michael,Powell,One of Our Aircraft Is Missing,1942,Best Original Screenplay,15th,no
+Emeric,Pressburger,One of Our Aircraft Is Missing,1942,Best Original Screenplay,15th,no
+Frank,Butler,Road to Morocco,1942,Best Original Screenplay,15th,no
+Don,Hartman,Road to Morocco,1942,Best Original Screenplay,15th,no
+W.,R. Burnett,Wake Island,1942,Best Original Screenplay,15th,no
+Frank,Butler,Wake Island,1942,Best Original Screenplay,15th,no
+George,Oppenheimer,The War Against Mrs. Hadley,1942,Best Original Screenplay,15th,no
+Norman,Krasna,Princess O'Rourke,1943,Best Original Screenplay,16th,yes
+Dudley,Nichols,Air Force,1943,Best Original Screenplay,16th,no
+Noël,Coward,In Which We Serve,1943,Best Original Screenplay,16th,no
+Lillian,Hellman,The North Star,1943,Best Original Screenplay,16th,no
+Allan,Scott,So Proudly We Hail!,1943,Best Original Screenplay,16th,no
+Lamar,Trotti,Wilson,1944,Best Original Screenplay,17th,yes
+Preston,Sturges,Hail the Conquering Hero,1944,Best Original Screenplay,17th,no
+Richard,Connell,Two Girls and a Sailor,1944,Best Original Screenplay,17th,no
+Gladys,Lehman,Two Girls and a Sailor,1944,Best Original Screenplay,17th,no
+Jerome,Cady,Wing and a Prayer,1944,Best Original Screenplay,17th,no
+Richard,Schweizer,Marie-Louise,1945,Best Original Screenplay,18th,yes
+Philip,Yordan,Dillinger,1945,Best Original Screenplay,18th,no
+Myles,Connolly,Music for Millions,1945,Best Original Screenplay,18th,no
+Harry,Kurnitz,"What Next, Corporal Hargrove?",1945,Best Original Screenplay,18th,no
+Muriel,,The Seventh Veil,1946,Best Original Screenplay,19th,yes
+Sydney,Box,The Seventh Veil,1946,Best Original Screenplay,19th,yes
+Raymond,Chandler,The Blue Dahlia,1946,Best Original Screenplay,19th,no
+Jacques,Prévert,Children of Paradise,1946,Best Original Screenplay,19th,no
+Ben,Hecht,Notorious,1946,Best Original Screenplay,19th,no
+Melvin,Frank,Road to Utopia,1946,Best Original Screenplay,19th,no
+Norman,Panama,Road to Utopia,1946,Best Original Screenplay,19th,no
+Sidney,Sheldon,The Bachelor and the Bobby-Soxer,1947,Best Original Screenplay,20th,yes
+Abraham,Polonsky,Body and Soul,1947,Best Original Screenplay,20th,no
+Ruth,Gordon,A Double Life,1947,Best Original Screenplay,20th,no
+Garson,Kanin,A Double Life,1947,Best Original Screenplay,20th,no
+Charlie,Chaplin,Monsieur Verdoux,1947,Best Original Screenplay,20th,no
+Sergio,Amidei,Shoeshine,1947,Best Original Screenplay,20th,no
+Adolfo,Franci,Shoeshine,1947,Best Original Screenplay,20th,no
+Cesare,Giulio Viola,Shoeshine,1947,Best Original Screenplay,20th,no
+Cesare,Zavattini,Shoeshine,1947,Best Original Screenplay,20th,no
+Robert,Pirosh,Battleground,1949,Best Original Screenplay,22nd,yes
+Sidney,Buchman,Jolson Sings Again,1949,Best Original Screenplay,22nd,no
+Sergio,Amidei,Paisan,1949,Best Original Screenplay,22nd,no
+Federico,Fellini,Paisan,1949,Best Original Screenplay,22nd,no
+Alfred,Hayes,Paisan,1949,Best Original Screenplay,22nd,no
+Marcello,Pagliero,Paisan,1949,Best Original Screenplay,22nd,no
+Roberto,Rossellini,Paisan,1949,Best Original Screenplay,22nd,no
+T.,E. B. Clarke,Passport to Pimlico,1949,Best Original Screenplay,22nd,no
+Helen,Levitt,The Quiet One,1949,Best Original Screenplay,22nd,no
+Janice,Loeb,The Quiet One,1949,Best Original Screenplay,22nd,no
+Sidney,Meyers,The Quiet One,1949,Best Original Screenplay,22nd,no
+Charles,Brackett,Sunset Boulevard,1950,Best Original Screenplay,23rd,yes
+D.,M. Marshman Jr.,Sunset Boulevard,1950,Best Original Screenplay,23rd,yes
+Billy,Wilder,Sunset Boulevard,1950,Best Original Screenplay,23rd,yes
+Ruth,Gordon,Adam's Rib,1950,Best Original Screenplay,23rd,no
+Garson,Kanin,Adam's Rib,1950,Best Original Screenplay,23rd,no
+Virginia,Kellogg,Caged,1950,Best Original Screenplay,23rd,no
+Bernard,C. Schoenfeld,Caged,1950,Best Original Screenplay,23rd,no
+Carl,Foreman,The Men,1950,Best Original Screenplay,23rd,no
+Joseph,L. Mankiewicz,No Way Out,1950,Best Original Screenplay,23rd,no
+Lesser,Samuels,No Way Out,1950,Best Original Screenplay,23rd,no
+Alan,Jay Lerner,An American in Paris,1951,Best Original Screenplay,24th,yes
+Walter,Newman,Ace in the Hole,1951,Best Original Screenplay,24th,no
+Lesser,Samuels,Ace in the Hole,1951,Best Original Screenplay,24th,no
+Billy,Wilder,Ace in the Hole,1951,Best Original Screenplay,24th,no
+Philip,Dunne,David and Bathsheba,1951,Best Original Screenplay,24th,no
+Robert,Pirosh,Go for Broke!,1951,Best Original Screenplay,24th,no
+Clarence,Greene,The Well,1951,Best Original Screenplay,24th,no
+Russell,Rouse,The Well,1951,Best Original Screenplay,24th,no
+T.,E. B. Clarke,The Lavender Hill Mob,1952,Best Original Screenplay,25th,yes
+Sydney,Boehm,The Atomic City,1952,Best Original Screenplay,25th,no
+Terence,Rattigan,Breaking the Sound Barrier,1952,Best Original Screenplay,25th,no
+Ruth,Gordon,Pat and Mike,1952,Best Original Screenplay,25th,no
+Garson,Kanin,Pat and Mike,1952,Best Original Screenplay,25th,no
+John,Steinbeck,Viva Zapata!,1952,Best Original Screenplay,25th,no
+Charles,Brackett,Titanic,1953,Best Original Screenplay,26th,yes
+Richard,L. Breen,Titanic,1953,Best Original Screenplay,26th,yes
+Walter,Reisch,Titanic,1953,Best Original Screenplay,26th,yes
+Betty,Comden,The Band Wagon,1953,Best Original Screenplay,26th,no
+Adolph,Green,The Band Wagon,1953,Best Original Screenplay,26th,no
+Richard,Murphy,The Desert Rats,1953,Best Original Screenplay,26th,no
+Harold,Jack Bloom,The Naked Spur,1953,Best Original Screenplay,26th,no
+Sam,Rolfe,The Naked Spur,1953,Best Original Screenplay,26th,no
+Millard,Kaufman,Take the High Ground!,1953,Best Original Screenplay,26th,no
+Budd,Schulberg,On the Waterfront,1954,Best Original Screenplay,27th,yes
+Joseph,L. Mankiewicz,The Barefoot Contessa,1954,Best Original Screenplay,27th,no
+William,Rose,Genevieve,1954,Best Original Screenplay,27th,no
+Oscar,Brodney,The Glenn Miller Story,1954,Best Original Screenplay,27th,no
+Valentine,Davies,The Glenn Miller Story,1954,Best Original Screenplay,27th,no
+Melvin,Frank,Knock on Wood,1954,Best Original Screenplay,27th,no
+Norman,Panama,Knock on Wood,1954,Best Original Screenplay,27th,no
+Sonya,Levien,Interrupted Melody,1955,Best Original Screenplay,28th,yes
+William,Ludwig,Interrupted Melody,1955,Best Original Screenplay,28th,yes
+Emmet,Lavery,The Court-Martial of Billy Mitchell,1955,Best Original Screenplay,28th,no
+Milton,Sperling,The Court-Martial of Billy Mitchell,1955,Best Original Screenplay,28th,no
+Betty,Comden,It's Always Fair Weather,1955,Best Original Screenplay,28th,no
+Adolph,Green,It's Always Fair Weather,1955,Best Original Screenplay,28th,no
+Henri,Marquet,Mr. Hulot's Holiday,1955,Best Original Screenplay,28th,no
+Jacques,Tati,Mr. Hulot's Holiday,1955,Best Original Screenplay,28th,no
+Melville,Shavelson,The Seven Little Foys,1955,Best Original Screenplay,28th,no
+Jack,Rose,The Seven Little Foys,1955,Best Original Screenplay,28th,no
+Albert,Lamorisse,The Red Balloon,1956,Best Original Screenplay,29th,yes
+Robert,Lewin,The Bold and the Brave,1956,Best Original Screenplay,29th,no
+Andrew,L. Stone,Julie,1956,Best Original Screenplay,29th,no
+Federico,Fellini,La Strada,1956,Best Original Screenplay,29th,no
+Tullio,Pinelli,La Strada,1956,Best Original Screenplay,29th,no
+William,Rose,The Ladykillers,1956,Best Original Screenplay,29th,no
+George,Wells,Designing Woman,1957,Best Original Screenplay,30th,yes
+Leonard,Gershe,Funny Face,1957,Best Original Screenplay,30th,no
+Robert,Campbell,Man of a Thousand Faces,1957,Best Original Screenplay,30th,no
+Ivan,Goff,Man of a Thousand Faces,1957,Best Original Screenplay,30th,no
+Ben,Roberts,Man of a Thousand Faces,1957,Best Original Screenplay,30th,no
+Ralph,Wheelwright,Man of a Thousand Faces,1957,Best Original Screenplay,30th,no
+Dudley,Nichols,The Tin Star,1957,Best Original Screenplay,30th,no
+Federico,Fellini,I Vitelloni,1957,Best Original Screenplay,30th,no
+Ennio,Flaiano,I Vitelloni,1957,Best Original Screenplay,30th,no
+Tullio,Pinelli,I Vitelloni,1957,Best Original Screenplay,30th,no
+Nedrick,Young,The Defiant Ones,1958,Best Original Screenplay,31st,yes
+Harold,Jacob Smith,The Defiant Ones,1958,Best Original Screenplay,31st,yes
+[note,2],The Defiant Ones,1958,Best Original Screenplay,31st,yes
+Paddy,Chayefsky,The Goddess,1958,Best Original Screenplay,31st,no
+Melville,Shavelson,Houseboat,1958,Best Original Screenplay,31st,no
+Jack,Rose,Houseboat,1958,Best Original Screenplay,31st,no
+William,Bowers,The Sheepman,1958,Best Original Screenplay,31st,no
+James,Edward Grant,The Sheepman,1958,Best Original Screenplay,31st,no
+Fay,Kanin,Teacher's Pet,1958,Best Original Screenplay,31st,no
+Michael,Kanin,Teacher's Pet,1958,Best Original Screenplay,31st,no
+Stanley,Shapiro,Pillow Talk,1959,Best Original Screenplay,32nd,yes
+Maurice,Richlin,Pillow Talk,1959,Best Original Screenplay,32nd,yes
+Clarence,Greene,Pillow Talk,1959,Best Original Screenplay,32nd,yes
+Russell,Rouse,Pillow Talk,1959,Best Original Screenplay,32nd,yes
+Marcel,Moussy,The 400 Blows,1959,Best Original Screenplay,32nd,no
+François,Truffaut,The 400 Blows,1959,Best Original Screenplay,32nd,no
+Ernest,Lehman,North by Northwest,1959,Best Original Screenplay,32nd,no
+Paul,King,Operation Petticoat,1959,Best Original Screenplay,32nd,no
+Ingmar,Bergman,Wild Strawberries,1959,Best Original Screenplay,32nd,no
+I.,A. L. Diamond,The Apartment,1960,Best Original Screenplay,33rd,yes
+Billy,Wilder,The Apartment,1960,Best Original Screenplay,33rd,yes
+Bryan,Forbes,The Angry Silence,1960,Best Original Screenplay,33rd,no
+Michael,Craig,The Angry Silence,1960,Best Original Screenplay,33rd,no
+Richard,Gregson,The Angry Silence,1960,Best Original Screenplay,33rd,no
+Melvin,Frank,The Facts of Life,1960,Best Original Screenplay,33rd,no
+Norman,Panama,The Facts of Life,1960,Best Original Screenplay,33rd,no
+Marguerite,Duras,"Hiroshima, Mon Amour",1960,Best Original Screenplay,33rd,no
+Jules,Dassin,Never on Sunday,1960,Best Original Screenplay,33rd,no
+William,Inge,Splendor in the Grass,1961,Best Original Screenplay,34th,yes
+Grigory,Chukhray,Ballad of a Soldier,1961,Best Original Screenplay,34th,no
+Valentin,Yezhov,Ballad of a Soldier,1961,Best Original Screenplay,34th,no
+Sergio,Amidei,General Della Rovere,1961,Best Original Screenplay,34th,no
+Indro,Montanelli,General Della Rovere,1961,Best Original Screenplay,34th,no
+Federico,Fellini,La Dolce Vita,1961,Best Original Screenplay,34th,no
+Ennio,Flaiano,La Dolce Vita,1961,Best Original Screenplay,34th,no
+Tullio,Pinelli,La Dolce Vita,1961,Best Original Screenplay,34th,no
+Brunello,Rondi,La Dolce Vita,1961,Best Original Screenplay,34th,no
+Paul,Henning,Lover Come Back,1961,Best Original Screenplay,34th,no
+Stanley,Shapiro,Lover Come Back,1961,Best Original Screenplay,34th,no
+Ennio,De Concini,Divorce Italian Style,1962,Best Original Screenplay,35th,yes
+Pietro,Germi,Divorce Italian Style,1962,Best Original Screenplay,35th,yes
+Alfredo,Giannetti,Divorce Italian Style,1962,Best Original Screenplay,35th,yes
+Charles,Kaufman,Freud,1962,Best Original Screenplay,35th,no
+Wolfgang,Reinhardt,Freud,1962,Best Original Screenplay,35th,no
+Alain,Robbe-Grillet,Last Year at Marienbad,1962,Best Original Screenplay,35th,no
+Nate,Monaster,That Touch of Mink,1962,Best Original Screenplay,35th,no
+Stanley,Shapiro,That Touch of Mink,1962,Best Original Screenplay,35th,no
+Ingmar,Bergman,Through a Glass Darkly,1962,Best Original Screenplay,35th,no
+James,R. Webb,How the West Was Won,1963,Best Original Screenplay,36th,yes
+Elia,Kazan,America America,1963,Best Original Screenplay,36th,no
+Federico,Fellini,8½,1963,Best Original Screenplay,36th,no
+Ennio,Flaiano,8½,1963,Best Original Screenplay,36th,no
+Tullio,Pinelli,8½,1963,Best Original Screenplay,36th,no
+Brunello,Rondi,8½,1963,Best Original Screenplay,36th,no
+Carlo,Bernari,The Four Days of Naples,1963,Best Original Screenplay,36th,no
+Pasquale,Festa Campanile,The Four Days of Naples,1963,Best Original Screenplay,36th,no
+Massimo,Franciosa,The Four Days of Naples,1963,Best Original Screenplay,36th,no
+Nanni,Loy,The Four Days of Naples,1963,Best Original Screenplay,36th,no
+Vasco,Pratolini,The Four Days of Naples,1963,Best Original Screenplay,36th,no
+Arnold,Schulman,Love with the Proper Stranger,1963,Best Original Screenplay,36th,no
+Peter,Stone,Father Goose,1964,Best Original Screenplay,37th,yes
+Frank,Tarloff,Father Goose,1964,Best Original Screenplay,37th,yes
+S.,H. Barnett,Father Goose,1964,Best Original Screenplay,37th,yes
+Alun,Owen,A Hard Day's Night,1964,Best Original Screenplay,37th,no
+Orville,H. Hampton,"One Potato, Two Potato",1964,Best Original Screenplay,37th,no
+Age,,The Organizer,1964,Best Original Screenplay,37th,no
+Mario,Monicelli,The Organizer,1964,Best Original Screenplay,37th,no
+Furio,Scarpelli,The Organizer,1964,Best Original Screenplay,37th,no
+Daniel,Boulanger,That Man from Rio,1964,Best Original Screenplay,37th,no
+Philippe,de Broca,That Man from Rio,1964,Best Original Screenplay,37th,no
+Ariane,Mnouchkine,That Man from Rio,1964,Best Original Screenplay,37th,no
+Jean-Paul,Rappeneau,That Man from Rio,1964,Best Original Screenplay,37th,no
+Frederic,Raphael,Darling,1965,Best Original Screenplay,38th,yes
+Age,,Casanova 70,1965,Best Original Screenplay,38th,no
+Suso,Cecchi d'Amico,Casanova 70,1965,Best Original Screenplay,38th,no
+Tonino,Guerra,Casanova 70,1965,Best Original Screenplay,38th,no
+Mario,Monicelli,Casanova 70,1965,Best Original Screenplay,38th,no
+Furio,Scarpelli,Casanova 70,1965,Best Original Screenplay,38th,no
+Ken,Annakin,Those Magnificent Men in Their Flying Machines,1965,Best Original Screenplay,38th,no
+Jack,Davies,Those Magnificent Men in Their Flying Machines,1965,Best Original Screenplay,38th,no
+Jacques,Demy,The Umbrellas of Cherbourg,1965,Best Original Screenplay,38th,no
+Claude,Lelouch,A Man and a Woman,1966,Best Original Screenplay,39th,yes
+Pierre,Uytterhoeven,A Man and a Woman,1966,Best Original Screenplay,39th,yes
+Michelangelo,Antonioni,Blowup,1966,Best Original Screenplay,39th,no
+Edward,Bond,Blowup,1966,Best Original Screenplay,39th,no
+Tonino,Guerra,Blowup,1966,Best Original Screenplay,39th,no
+I.,A. L. Diamond,The Fortune Cookie,1966,Best Original Screenplay,39th,no
+Billy,Wilder,The Fortune Cookie,1966,Best Original Screenplay,39th,no
+Robert,Ardrey,Khartoum,1966,Best Original Screenplay,39th,no
+William,Rose,Guess Who's Coming to Dinner,1967,Best Original Screenplay,40th,yes
+Robert,Benton,Bonnie and Clyde,1967,Best Original Screenplay,40th,no
+David,Newman,Bonnie and Clyde,1967,Best Original Screenplay,40th,no
+Norman,Lear,Divorce American Style,1967,Best Original Screenplay,40th,no
+Robert,Kaufman,Divorce American Style,1967,Best Original Screenplay,40th,no
+Jorge,Semprún,La Guerre Est Finie,1967,Best Original Screenplay,40th,no
+Frederic,Raphael,Two for the Road,1967,Best Original Screenplay,40th,no
+Mel,Brooks,The Producers,1968,Best Original Screenplay,41st,yes
+Gillo,Pontecorvo,The Battle of Algiers,1968,Best Original Screenplay,41st,no
+Franco,Solinas,The Battle of Algiers,1968,Best Original Screenplay,41st,no
+John,Cassavetes,Faces,1968,Best Original Screenplay,41st,no
+Peter,Ustinov,Hot Millions,1968,Best Original Screenplay,41st,no
+Ira,Wallach,Hot Millions,1968,Best Original Screenplay,41st,no
+Arthur,C. Clarke,2001: A Space Odyssey,1968,Best Original Screenplay,41st,no
+Stanley,Kubrick,2001: A Space Odyssey,1968,Best Original Screenplay,41st,no
+William,Goldman,Butch Cassidy and the Sundance Kid,1969,Best Original Screenplay,42nd,yes
+Paul,Mazursky,Bob & Carol & Ted & Alice,1969,Best Original Screenplay,42nd,no
+Larry,Tucker,Bob & Carol & Ted & Alice,1969,Best Original Screenplay,42nd,no
+Nicola,Badalucco,The Damned,1969,Best Original Screenplay,42nd,no
+Enrico,Medioli,The Damned,1969,Best Original Screenplay,42nd,no
+Luchino,Visconti,The Damned,1969,Best Original Screenplay,42nd,no
+Peter,Fonda,Easy Rider,1969,Best Original Screenplay,42nd,no
+Dennis,Hopper,Easy Rider,1969,Best Original Screenplay,42nd,no
+Terry,Southern,Easy Rider,1969,Best Original Screenplay,42nd,no
+Walon,Green,The Wild Bunch,1969,Best Original Screenplay,42nd,no
+Sam,Peckinpah,The Wild Bunch,1969,Best Original Screenplay,42nd,no
+Roy,N. Sickner,The Wild Bunch,1969,Best Original Screenplay,42nd,no
+Francis,Ford Coppola,Patton,1970,Best Original Screenplay,43rd,yes
+Edmund,H. North,Patton,1970,Best Original Screenplay,43rd,yes
+Carole,Eastman,Five Easy Pieces,1970,Best Original Screenplay,43rd,no
+Bob,Rafelson,Five Easy Pieces,1970,Best Original Screenplay,43rd,no
+Norman,Wexler,Joe,1970,Best Original Screenplay,43rd,no
+Erich,Segal,Love Story,1970,Best Original Screenplay,43rd,no
+Éric,Rohmer,My Night at Maud's,1970,Best Original Screenplay,43rd,no
+Paddy,Chayefsky,The Hospital,1971,Best Original Screenplay,44th,yes
+Elio,Petri,Investigation of a Citizen Above Suspicion,1971,Best Original Screenplay,44th,no
+Ugo,Pirro,Investigation of a Citizen Above Suspicion,1971,Best Original Screenplay,44th,no
+Andy,,Klute,1971,Best Original Screenplay,44th,no
+Herman,Raucher,Summer of '42,1971,Best Original Screenplay,44th,no
+Penelope,Gilliatt,Sunday Bloody Sunday,1971,Best Original Screenplay,44th,no
+Jeremy,Larner,The Candidate,1972,Best Original Screenplay,45th,yes
+Luis,Buñuel,The Discreet Charm of the Bourgeoisie,1972,Best Original Screenplay,45th,no
+Jean-Claude,Carrière,The Discreet Charm of the Bourgeoisie,1972,Best Original Screenplay,45th,no
+Chris,Clark,Lady Sings the Blues,1972,Best Original Screenplay,45th,no
+Suzanne,de Passe,Lady Sings the Blues,1972,Best Original Screenplay,45th,no
+Louis,Malle,Murmur of the Heart,1972,Best Original Screenplay,45th,no
+Carl,Foreman,Young Winston,1972,Best Original Screenplay,45th,no
+David,S. Ward,The Sting,1973,Best Original Screenplay,46th,yes
+Willard,Huyck,American Graffiti,1973,Best Original Screenplay,46th,no
+George,Lucas,American Graffiti,1973,Best Original Screenplay,46th,no
+Gloria,Katz,American Graffiti,1973,Best Original Screenplay,46th,no
+Ingmar,Bergman,Cries and Whispers,1973,Best Original Screenplay,46th,no
+Steve,Shagan,Save the Tiger,1973,Best Original Screenplay,46th,no
+Melvin,Frank,A Touch of Class,1973,Best Original Screenplay,46th,no
+Jack,Rose,A Touch of Class,1973,Best Original Screenplay,46th,no
+Robert,Towne,Chinatown,1974,Best Original Screenplay,47th,yes
+Robert,Getchell,Alice Doesn't Live Here Anymore,1974,Best Original Screenplay,47th,no
+Francis,Ford Coppola,The Conversation,1974,Best Original Screenplay,47th,no
+Jean-Louis,Richard,Day for Night,1974,Best Original Screenplay,47th,no
+Suzanne,Schiffman,Day for Night,1974,Best Original Screenplay,47th,no
+François,Truffaut,Day for Night,1974,Best Original Screenplay,47th,no
+Josh,Greenfeld,Harry and Tonto,1974,Best Original Screenplay,47th,no
+Paul,Mazursky,Harry and Tonto,1974,Best Original Screenplay,47th,no
+Frank,Pierson,Dog Day Afternoon,1975,Best Original Screenplay,48th,yes
+Federico,Fellini,Amarcord,1975,Best Original Screenplay,48th,no
+Tonino,Guerra,Amarcord,1975,Best Original Screenplay,48th,no
+Claude,Lelouch,And Now My Love,1975,Best Original Screenplay,48th,no
+Pierre,Uytterhoeven,And Now My Love,1975,Best Original Screenplay,48th,no
+Ted,Allan,Lies My Father Told Me,1975,Best Original Screenplay,48th,no
+Robert,Towne,Shampoo,1975,Best Original Screenplay,48th,no
+Warren,Beatty,Shampoo,1975,Best Original Screenplay,48th,no
+Paddy,Chayefsky,Network,1976,Best Original Screenplay,49th,yes
+Jean-Charles,Tacchella,"Cousin, Cousine",1976,Best Original Screenplay,49th,no
+Daniele,Thompson,"Cousin, Cousine",1976,Best Original Screenplay,49th,no
+Walter,Bernstein,The Front,1976,Best Original Screenplay,49th,no
+Sylvester,Stallone,Rocky,1976,Best Original Screenplay,49th,no
+Lina,Wertmüller,Seven Beauties,1976,Best Original Screenplay,49th,no
+Woody,Allen,Annie Hall,1977,Best Original Screenplay,50th,yes
+Marshall,Brickman,Annie Hall,1977,Best Original Screenplay,50th,yes
+Neil,Simon,The Goodbye Girl,1977,Best Original Screenplay,50th,no
+Robert,Benton,The Late Show,1977,Best Original Screenplay,50th,no
+George,Lucas,Star Wars,1977,Best Original Screenplay,50th,no
+Arthur,Laurents,The Turning Point,1977,Best Original Screenplay,50th,no
+Robert,C. Jones,Coming Home,1978,Best Original Screenplay,51st,yes
+Waldo,Salt,Coming Home,1978,Best Original Screenplay,51st,yes
+Nancy,Dowd,Coming Home,1978,Best Original Screenplay,51st,yes
+Ingmar,Bergman,Autumn Sonata,1978,Best Original Screenplay,51st,no
+Deric,Washburn,The Deer Hunter,1978,Best Original Screenplay,51st,no
+Michael,Cimino,The Deer Hunter,1978,Best Original Screenplay,51st,no
+Quinn,Redeker,The Deer Hunter,1978,Best Original Screenplay,51st,no
+Woody,Allen,Interiors,1978,Best Original Screenplay,51st,no
+Paul,Mazursky,An Unmarried Woman,1978,Best Original Screenplay,51st,no
+Steve,Tesich,Breaking Away,1979,Best Original Screenplay,52nd,yes
+Robert,Alan Aurthur,All That Jazz,1979,Best Original Screenplay,52nd,no
+Bob,Fosse,All That Jazz,1979,Best Original Screenplay,52nd,no
+Valerie,Curtin,...And Justice for All.,1979,Best Original Screenplay,52nd,no
+Barry,Levinson,...And Justice for All.,1979,Best Original Screenplay,52nd,no
+James,Bridges,The China Syndrome,1979,Best Original Screenplay,52nd,no
+T.,S. Cook,The China Syndrome,1979,Best Original Screenplay,52nd,no
+Mike,Gray,The China Syndrome,1979,Best Original Screenplay,52nd,no
+Woody,Allen,Manhattan,1979,Best Original Screenplay,52nd,no
+Marshall,Brickman,Manhattan,1979,Best Original Screenplay,52nd,no
+Bo,Goldman,Melvin and Howard,1980,Best Original Screenplay,53rd,yes
+W.,D. Richter,Brubaker,1980,Best Original Screenplay,53rd,no
+Arthur,A. Ross,Brubaker,1980,Best Original Screenplay,53rd,no
+Christopher,Gore,Fame,1980,Best Original Screenplay,53rd,no
+Jean,Gruault,Mon oncle d'Amérique,1980,Best Original Screenplay,53rd,no
+Nancy,Meyers,Private Benjamin,1980,Best Original Screenplay,53rd,no
+Harvey,Miller,Private Benjamin,1980,Best Original Screenplay,53rd,no
+Charles,Shyer,Private Benjamin,1980,Best Original Screenplay,53rd,no
+Colin,Welland,Chariots of Fire,1981,Best Original Screenplay,54th,yes
+Kurt,Luedtke,Absence of Malice,1981,Best Original Screenplay,54th,no
+Steve,Gordon,Arthur,1981,Best Original Screenplay,54th,no
+John,Guare,Atlantic City,1981,Best Original Screenplay,54th,no
+Trevor,Griffiths,Reds,1981,Best Original Screenplay,54th,no
+Warren,Beatty,Reds,1981,Best Original Screenplay,54th,no
+John,Briley,Gandhi,1982,Best Original Screenplay,55th,yes
+Barry,Levinson,Diner,1982,Best Original Screenplay,55th,no
+Melissa,Mathison,E.T. the Extra-Terrestrial,1982,Best Original Screenplay,55th,no
+Douglas,Day Stewart,An Officer and a Gentleman,1982,Best Original Screenplay,55th,no
+Larry,Gelbart,Tootsie,1982,Best Original Screenplay,55th,no
+Murray,Schisgal,Tootsie,1982,Best Original Screenplay,55th,no
+Don,McGuire,Tootsie,1982,Best Original Screenplay,55th,no
+Horton,Foote,Tender Mercies,1983,Best Original Screenplay,56th,yes
+Barbara,Benedek,The Big Chill,1983,Best Original Screenplay,56th,no
+Lawrence,Kasdan,The Big Chill,1983,Best Original Screenplay,56th,no
+Ingmar,Bergman,Fanny and Alexander,1983,Best Original Screenplay,56th,no
+Alice,Arlen,Silkwood,1983,Best Original Screenplay,56th,no
+Nora,Ephron,Silkwood,1983,Best Original Screenplay,56th,no
+Lawrence,Lasker,WarGames,1983,Best Original Screenplay,56th,no
+Walter,Parkes,WarGames,1983,Best Original Screenplay,56th,no
+Robert,Benton,Places in the Heart,1984,Best Original Screenplay,57th,yes
+Daniel,Petrie Jr.,Beverly Hills Cop,1984,Best Original Screenplay,57th,no
+Danilo,Bach,Beverly Hills Cop,1984,Best Original Screenplay,57th,no
+Woody,Allen,Broadway Danny Rose,1984,Best Original Screenplay,57th,no
+Gregory,Nava,El Norte,1984,Best Original Screenplay,57th,no
+Anna,Thomas,El Norte,1984,Best Original Screenplay,57th,no
+Bruce,Jay Friedman,Splash,1984,Best Original Screenplay,57th,no
+Lowell,Ganz,Splash,1984,Best Original Screenplay,57th,no
+Babaloo,Mandel,Splash,1984,Best Original Screenplay,57th,no
+Brian,Grazer,Splash,1984,Best Original Screenplay,57th,no
+William,Kelley,Witness,1985,Best Original Screenplay,58th,yes
+Earl,W. Wallace,Witness,1985,Best Original Screenplay,58th,yes
+Pamela,Wallace,Witness,1985,Best Original Screenplay,58th,yes
+Bob,Gale,Back to the Future,1985,Best Original Screenplay,58th,no
+Robert,Zemeckis,Back to the Future,1985,Best Original Screenplay,58th,no
+Terry,Gilliam,Brazil,1985,Best Original Screenplay,58th,no
+Charles,McKeown,Brazil,1985,Best Original Screenplay,58th,no
+Tom,Stoppard,Brazil,1985,Best Original Screenplay,58th,no
+Aída,Bortnik,The Official Story,1985,Best Original Screenplay,58th,no
+Luis,Puenzo,The Official Story,1985,Best Original Screenplay,58th,no
+Woody,Allen,The Purple Rose of Cairo,1985,Best Original Screenplay,58th,no
+Woody,Allen,Hannah and Her Sisters,1986,Best Original Screenplay,59th,yes
+John,Cornell,Crocodile Dundee,1986,Best Original Screenplay,59th,no
+Paul,Hogan,Crocodile Dundee,1986,Best Original Screenplay,59th,no
+Ken,Shadie,Crocodile Dundee,1986,Best Original Screenplay,59th,no
+Hanif,Kureishi,My Beautiful Laundrette,1986,Best Original Screenplay,59th,no
+Oliver,Stone,Platoon,1986,Best Original Screenplay,59th,no
+Richard,Boyle,Salvador,1986,Best Original Screenplay,59th,no
+John,Patrick Shanley,Moonstruck,1987,Best Original Screenplay,60th,yes
+Louis,Malle,"Au Revoir Les Enfants (Goodbye, Children)",1987,Best Original Screenplay,60th,no
+James,L. Brooks,Broadcast News,1987,Best Original Screenplay,60th,no
+John,Boorman,Hope and Glory,1987,Best Original Screenplay,60th,no
+Woody,Allen,Radio Days,1987,Best Original Screenplay,60th,no
+Ronald,Bass,Rain Man,1988,Best Original Screenplay,61st,yes
+Barry,Morrow,Rain Man,1988,Best Original Screenplay,61st,yes
+Gary,Ross,Big,1988,Best Original Screenplay,61st,no
+Anne,Spielberg,Big,1988,Best Original Screenplay,61st,no
+Ron,Shelton,Bull Durham,1988,Best Original Screenplay,61st,no
+John,Cleese,A Fish Called Wanda,1988,Best Original Screenplay,61st,no
+Charles,Crichton,A Fish Called Wanda,1988,Best Original Screenplay,61st,no
+Naomi,Foner Gyllenhaal,Running on Empty,1988,Best Original Screenplay,61st,no
+Tom,Schulman,Dead Poets Society,1989,Best Original Screenplay,62nd,yes
+Woody,Allen,Crimes and Misdemeanors,1989,Best Original Screenplay,62nd,no
+Spike,Lee,Do the Right Thing,1989,Best Original Screenplay,62nd,no
+Steven,Soderbergh,"Sex, Lies, and Videotape",1989,Best Original Screenplay,62nd,no
+Nora,Ephron,When Harry Met Sally...,1989,Best Original Screenplay,62nd,no
+Bruce,Joel Rubin,Ghost,1990,Best Original Screenplay,63rd,yes
+Woody,Allen,Alice,1990,Best Original Screenplay,63rd,no
+Barry,Levinson,Avalon,1990,Best Original Screenplay,63rd,no
+Peter,Weir,Green Card,1990,Best Original Screenplay,63rd,no
+Whit,Stillman,Metropolitan,1990,Best Original Screenplay,63rd,no
+Callie,Khouri,Thelma & Louise,1991,Best Original Screenplay,64th,yes
+John,Singleton,Boyz n the Hood,1991,Best Original Screenplay,64th,no
+James,Toback,Bugsy,1991,Best Original Screenplay,64th,no
+Richard,LaGravenese,The Fisher King,1991,Best Original Screenplay,64th,no
+Lawrence,Kasdan,Grand Canyon,1991,Best Original Screenplay,64th,no
+Neil,Jordan,The Crying Game,1992,Best Original Screenplay,65th,yes
+Woody,Allen,Husbands and Wives,1992,Best Original Screenplay,65th,no
+Nick,Enright,Lorenzo's Oil,1992,Best Original Screenplay,65th,no
+George,Miller,Lorenzo's Oil,1992,Best Original Screenplay,65th,no
+John,Sayles,Passion Fish,1992,Best Original Screenplay,65th,no
+David,Peoples,Unforgiven,1992,Best Original Screenplay,65th,no
+Jane,Campion,The Piano,1993,Best Original Screenplay,66th,yes
+Gary,Ross,Dave,1993,Best Original Screenplay,66th,no
+Jeff,Maguire,In the Line of Fire,1993,Best Original Screenplay,66th,no
+Ron,Nyswaner,Philadelphia,1993,Best Original Screenplay,66th,no
+Nora,Ephron,Sleepless in Seattle,1993,Best Original Screenplay,66th,no
+David,S. Ward,Sleepless in Seattle,1993,Best Original Screenplay,66th,no
+Quentin,Tarantino,Pulp Fiction,1994,Best Original Screenplay,67th,yes
+Roger,Avary,Pulp Fiction,1994,Best Original Screenplay,67th,yes
+Woody,Allen,Bullets over Broadway,1994,Best Original Screenplay,67th,no
+Douglas,McGrath,Bullets over Broadway,1994,Best Original Screenplay,67th,no
+Richard,Curtis,Four Weddings and a Funeral,1994,Best Original Screenplay,67th,no
+Peter,Jackson,Heavenly Creatures,1994,Best Original Screenplay,67th,no
+Frances,Walsh,Heavenly Creatures,1994,Best Original Screenplay,67th,no
+Krzysztof,Kieślowski,Three Colours: Red,1994,Best Original Screenplay,67th,no
+Krzysztof,Piesiewicz,Three Colours: Red,1994,Best Original Screenplay,67th,no
+Christopher,McQuarrie,The Usual Suspects,1995,Best Original Screenplay,68th,yes
+Randall,Wallace,Braveheart,1995,Best Original Screenplay,68th,no
+Woody,Allen,Mighty Aphrodite,1995,Best Original Screenplay,68th,no
+Stephen,J. Rivele,Nixon,1995,Best Original Screenplay,68th,no
+Oliver,Stone,Nixon,1995,Best Original Screenplay,68th,no
+Christopher,Wilkinson,Nixon,1995,Best Original Screenplay,68th,no
+Joel,Cohen,Toy Story,1995,Best Original Screenplay,68th,no
+Alec,Sokolow,Toy Story,1995,Best Original Screenplay,68th,no
+Andrew,Stanton,Toy Story,1995,Best Original Screenplay,68th,no
+Joss,Whedon,Toy Story,1995,Best Original Screenplay,68th,no
+Pete,Docter,Toy Story,1995,Best Original Screenplay,68th,no
+John,Lasseter,Toy Story,1995,Best Original Screenplay,68th,no
+Joe,Ranft,Toy Story,1995,Best Original Screenplay,68th,no
+Coen,Brothers,Fargo,1996,Best Original Screenplay,69th,yes
+Cameron,Crowe,Jerry Maguire,1996,Best Original Screenplay,69th,no
+John,Sayles,Lone Star,1996,Best Original Screenplay,69th,no
+Mike,Leigh,Secrets & Lies,1996,Best Original Screenplay,69th,no
+Jan,Sardi,Shine,1996,Best Original Screenplay,69th,no
+Scott,Hicks,Shine,1996,Best Original Screenplay,69th,no
+Ben,Affleck,Good Will Hunting,1997,Best Original Screenplay,70th,yes
+Matt,Damon,Good Will Hunting,1997,Best Original Screenplay,70th,yes
+Mark,Andrus,As Good as It Gets,1997,Best Original Screenplay,70th,no
+James,L. Brooks,As Good as It Gets,1997,Best Original Screenplay,70th,no
+Paul,Thomas Anderson,Boogie Nights,1997,Best Original Screenplay,70th,no
+Woody,Allen,Deconstructing Harry,1997,Best Original Screenplay,70th,no
+Simon,Beaufoy,The Full Monty,1997,Best Original Screenplay,70th,no
+Marc,Norman,Shakespeare in Love,1998,Best Original Screenplay,71st,yes
+Tom,Stoppard,Shakespeare in Love,1998,Best Original Screenplay,71st,yes
+Warren,Beatty,Bulworth,1998,Best Original Screenplay,71st,no
+Jeremy,Pikser,Bulworth,1998,Best Original Screenplay,71st,no
+Roberto,Benigni,Life Is Beautiful,1998,Best Original Screenplay,71st,no
+Vincenzo,Cerami,Life Is Beautiful,1998,Best Original Screenplay,71st,no
+Robert,Rodat,Saving Private Ryan,1998,Best Original Screenplay,71st,no
+Andrew,Niccol,The Truman Show,1998,Best Original Screenplay,71st,no
+Alan,Ball,American Beauty,1999,Best Original Screenplay,72nd,yes
+Charlie,Kaufman,Being John Malkovich,1999,Best Original Screenplay,72nd,no
+Paul,Thomas Anderson,Magnolia,1999,Best Original Screenplay,72nd,no
+M.,Night Shyamalan,The Sixth Sense,1999,Best Original Screenplay,72nd,no
+Mike,Leigh,Topsy-Turvy,1999,Best Original Screenplay,72nd,no
+Cameron,Crowe,Almost Famous,2000,Best Original Screenplay,73rd,yes
+Lee,Hall,Billy Elliot,2000,Best Original Screenplay,73rd,no
+Susannah,Grant,Erin Brockovich,2000,Best Original Screenplay,73rd,no
+David,Franzoni,Gladiator,2000,Best Original Screenplay,73rd,no
+John,Logan,Gladiator,2000,Best Original Screenplay,73rd,no
+William,Nicholson,Gladiator,2000,Best Original Screenplay,73rd,no
+Kenneth,Lonergan,You Can Count on Me,2000,Best Original Screenplay,73rd,no
+Julian,Fellowes,Gosford Park,2001,Best Original Screenplay,74th,yes
+Jean-Pierre,Jeunet,Amélie,2001,Best Original Screenplay,74th,no
+Christopher,Nolan,Memento,2001,Best Original Screenplay,74th,no
+Jonathan,Nolan,Memento,2001,Best Original Screenplay,74th,no
+Wes,Anderson,The Royal Tenenbaums,2001,Best Original Screenplay,74th,no
+Owen,Wilson,The Royal Tenenbaums,2001,Best Original Screenplay,74th,no
+Pedro,Almodóvar,Talk to Her,2002,Best Original Screenplay,75th,yes
+Todd,Haynes,Far from Heaven,2002,Best Original Screenplay,75th,no
+Jay,Cocks,Gangs of New York,2002,Best Original Screenplay,75th,no
+Kenneth,Lonergan,Gangs of New York,2002,Best Original Screenplay,75th,no
+Steven,Zaillian,Gangs of New York,2002,Best Original Screenplay,75th,no
+Nia,Vardalos,My Big Fat Greek Wedding,2002,Best Original Screenplay,75th,no
+Alfonso,,Y Tu Mamá También,2002,Best Original Screenplay,75th,no
+Carlos,Cuarón,Y Tu Mamá También,2002,Best Original Screenplay,75th,no
+Sofia,Coppola,Lost in Translation,2003,Best Original Screenplay,76th,yes
+Denys,Arcand,The Barbarian Invasions,2003,Best Original Screenplay,76th,no
+Steven,Knight,Dirty Pretty Things,2003,Best Original Screenplay,76th,no
+Bob,Peterson,Finding Nemo,2003,Best Original Screenplay,76th,no
+David,Reynolds,Finding Nemo,2003,Best Original Screenplay,76th,no
+Andrew,Stanton,Finding Nemo,2003,Best Original Screenplay,76th,no
+Jim,,In America,2003,Best Original Screenplay,76th,no
+Kirsten,,In America,2003,Best Original Screenplay,76th,no
+Charlie,Kaufman,Eternal Sunshine of the Spotless Mind,2004,Best Original Screenplay,77th,yes
+Pierre,Bismuth,Eternal Sunshine of the Spotless Mind,2004,Best Original Screenplay,77th,yes
+Michel,Gondry,Eternal Sunshine of the Spotless Mind,2004,Best Original Screenplay,77th,yes
+John,Logan,The Aviator,2004,Best Original Screenplay,77th,no
+Terry,George,Hotel Rwanda,2004,Best Original Screenplay,77th,no
+Keir,Pearson,Hotel Rwanda,2004,Best Original Screenplay,77th,no
+Brad,Bird,The Incredibles,2004,Best Original Screenplay,77th,no
+Mike,Leigh,Vera Drake,2004,Best Original Screenplay,77th,no
+Paul,Haggis,Crash,2005,Best Original Screenplay,78th,yes
+Bobby,Moresco,Crash,2005,Best Original Screenplay,78th,yes
+George,Clooney,"Good Night, and Good Luck",2005,Best Original Screenplay,78th,no
+Grant,Heslov,"Good Night, and Good Luck",2005,Best Original Screenplay,78th,no
+Woody,Allen,Match Point,2005,Best Original Screenplay,78th,no
+Noah,Baumbach,The Squid and the Whale,2005,Best Original Screenplay,78th,no
+Stephen,Gaghan,Syriana,2005,Best Original Screenplay,78th,no
+Michael,Arndt,Little Miss Sunshine,2006,Best Original Screenplay,79th,yes
+Guillermo,Arriaga,Babel,2006,Best Original Screenplay,79th,no
+Iris,Yamashita,Letters from Iwo Jima,2006,Best Original Screenplay,79th,no
+Paul,Haggis,Letters from Iwo Jima,2006,Best Original Screenplay,79th,no
+Guillermo,del Toro,Pan's Labyrinth,2006,Best Original Screenplay,79th,no
+Peter,Morgan,The Queen,2006,Best Original Screenplay,79th,no
+Diablo,Cody,Juno,2007,Best Original Screenplay,80th,yes
+Nancy,Oliver,Lars and the Real Girl,2007,Best Original Screenplay,80th,no
+Tony,Gilroy,Michael Clayton,2007,Best Original Screenplay,80th,no
+Brad,Bird,Ratatouille,2007,Best Original Screenplay,80th,no
+Jim,Capobianco,Ratatouille,2007,Best Original Screenplay,80th,no
+Jan,Pinkava,Ratatouille,2007,Best Original Screenplay,80th,no
+Tamara,Jenkins,The Savages,2007,Best Original Screenplay,80th,no
+Dustin,Lance Black,Milk,2008,Best Original Screenplay,81st,yes
+Courtney,Hunt,Frozen River,2008,Best Original Screenplay,81st,no
+Mike,Leigh,Happy-Go-Lucky,2008,Best Original Screenplay,81st,no
+Martin,McDonagh,In Bruges,2008,Best Original Screenplay,81st,no
+Jim,Reardon,WALL-E,2008,Best Original Screenplay,81st,no
+Andrew,Stanton,WALL-E,2008,Best Original Screenplay,81st,no
+Pete,Docter,WALL-E,2008,Best Original Screenplay,81st,no
+Mark,Boal,The Hurt Locker,2009,Best Original Screenplay,82nd,yes
+Quentin,Tarantino,Inglourious Basterds,2009,Best Original Screenplay,82nd,no
+Alessandro,Camon,The Messenger,2009,Best Original Screenplay,82nd,no
+Oren,Moverman,The Messenger,2009,Best Original Screenplay,82nd,no
+Coen,Brothers,A Serious Man,2009,Best Original Screenplay,82nd,no
+Pete,Docter,Up,2009,Best Original Screenplay,82nd,no
+Bob,Peterson,Up,2009,Best Original Screenplay,82nd,no
+Tom,McCarthy,Up,2009,Best Original Screenplay,82nd,no
+David,Seidler,The King's Speech,2010,Best Original Screenplay,83rd,yes
+Mike,Leigh,Another Year,2010,Best Original Screenplay,83rd,no
+Scott,Silver,The Fighter,2010,Best Original Screenplay,83rd,no
+Christopher,Nolan,Inception,2010,Best Original Screenplay,83rd,no
+Stuart,Blumberg,The Kids Are All Right,2010,Best Original Screenplay,83rd,no
+Lisa,Cholodenko,The Kids Are All Right,2010,Best Original Screenplay,83rd,no
+Woody,Allen,Midnight in Paris,2011,Best Original Screenplay,84th,yes
+Michel,Hazanavicius,The Artist,2011,Best Original Screenplay,84th,no
+Annie,Mumolo,Bridesmaids,2011,Best Original Screenplay,84th,no
+Kristen,Wiig,Bridesmaids,2011,Best Original Screenplay,84th,no
+J.,C. Chandor,Margin Call,2011,Best Original Screenplay,84th,no
+Asghar,Farhadi,A Separation,2011,Best Original Screenplay,84th,no
+Quentin,Tarantino,Django Unchained,2012,Best Original Screenplay,85th,yes
+Michael,Haneke,Amour,2012,Best Original Screenplay,85th,no
+John,Gatins,Flight,2012,Best Original Screenplay,85th,no
+Wes,Anderson,Moonrise Kingdom,2012,Best Original Screenplay,85th,no
+Roman,Coppola,Moonrise Kingdom,2012,Best Original Screenplay,85th,no
+Mark,Boal,Zero Dark Thirty,2012,Best Original Screenplay,85th,no
+Spike,Jonze,Her,2013,Best Original Screenplay,86th,yes
+David,O. Russell,American Hustle,2013,Best Original Screenplay,86th,no
+Eric,Warren Singer,American Hustle,2013,Best Original Screenplay,86th,no
+Woody,Allen,Blue Jasmine,2013,Best Original Screenplay,86th,no
+Craig,Borten,Dallas Buyers Club,2013,Best Original Screenplay,86th,no
+Melisa,Wallack,Dallas Buyers Club,2013,Best Original Screenplay,86th,no
+Bob,Nelson,Nebraska,2013,Best Original Screenplay,86th,no
+Armando,Bo,Birdman,2014,Best Original Screenplay,87th,yes
+Alexander,Dinelaris Jr.,Birdman,2014,Best Original Screenplay,87th,yes
+Nicolás,Giacobone,Birdman,2014,Best Original Screenplay,87th,yes
+Alejandro,G. Iñárritu,Birdman,2014,Best Original Screenplay,87th,yes
+Richard,Linklater,Boyhood,2014,Best Original Screenplay,87th,no
+E.,Max Frye,Foxcatcher,2014,Best Original Screenplay,87th,no
+Dan,Futterman,Foxcatcher,2014,Best Original Screenplay,87th,no
+Wes,Anderson,The Grand Budapest Hotel,2014,Best Original Screenplay,87th,no
+Hugo,Guinness,The Grand Budapest Hotel,2014,Best Original Screenplay,87th,no
+Dan,Gilroy,Nightcrawler,2014,Best Original Screenplay,87th,no
+Josh,Singer,Spotlight,2015,Best Original Screenplay,88th,yes
+Tom,McCarthy,Spotlight,2015,Best Original Screenplay,88th,yes
+Matt,Charman,Bridge of Spies,2015,Best Original Screenplay,88th,no
+Coen,Brothers,Bridge of Spies,2015,Best Original Screenplay,88th,no
+Alex,Garland,Ex Machina,2015,Best Original Screenplay,88th,no
+Josh,Cooley,Inside Out,2015,Best Original Screenplay,88th,no
+Pete,Docter,Inside Out,2015,Best Original Screenplay,88th,no
+Meg,LeFauve,Inside Out,2015,Best Original Screenplay,88th,no
+Ronnie,del Carmen,Inside Out,2015,Best Original Screenplay,88th,no
+Andrea,Berloff,Straight Outta Compton,2015,Best Original Screenplay,88th,no
+Jonathan,Herman,Straight Outta Compton,2015,Best Original Screenplay,88th,no
+S.,Leigh Savidge,Straight Outta Compton,2015,Best Original Screenplay,88th,no
+Alan,Wenkus,Straight Outta Compton,2015,Best Original Screenplay,88th,no
+Kenneth,Lonergan,Manchester by the Sea,2016,Best Original Screenplay,89th,yes
+Taylor,Sheridan,Hell or High Water,2016,Best Original Screenplay,89th,no
+Damien,Chazelle,La La Land,2016,Best Original Screenplay,89th,no
+Efthimis,Filippou,The Lobster,2016,Best Original Screenplay,89th,no
+Yorgos,Lanthimos,The Lobster,2016,Best Original Screenplay,89th,no
+Mike,Mills,20th Century Women,2016,Best Original Screenplay,89th,no
+Jordan,Peele,Get Out,2017,Best Original Screenplay,90th,yes
+Emily,V. Gordon,The Big Sick,2017,Best Original Screenplay,90th,no
+Kumail,Nanjiani,The Big Sick,2017,Best Original Screenplay,90th,no
+Greta,Gerwig,Lady Bird,2017,Best Original Screenplay,90th,no
+Guillermo,del Toro,The Shape of Water,2017,Best Original Screenplay,90th,no
+Vanessa,Taylor,The Shape of Water,2017,Best Original Screenplay,90th,no
+Martin,McDonagh,"Three Billboards Outside Ebbing, Missouri",2017,Best Original Screenplay,90th,no
+Peter,Farrelly,Green Book,2018,Best Original Screenplay,91st,yes
+Nick,Vallelonga,Green Book,2018,Best Original Screenplay,91st,yes
+Tony,McNamara,The Favourite,2018,Best Original Screenplay,91st,no
+Paul,Schrader,First Reformed,2018,Best Original Screenplay,91st,no
+Alfonso,Cuarón,Roma,2018,Best Original Screenplay,91st,no
+Adam,McKay,Vice,2018,Best Original Screenplay,91st,no
+Bong,Joon-ho,Parasite,2019,Best Original Screenplay,92nd,yes
+Han,Jin-won,Parasite,2019,Best Original Screenplay,92nd,yes
+Rian,Johnson,Knives Out,2019,Best Original Screenplay,92nd,no
+Noah,Baumbach,Marriage Story,2019,Best Original Screenplay,92nd,no
+Sam,Mendes,1917,2019,Best Original Screenplay,92nd,no
+Krysty,Wilson-Cairns,1917,2019,Best Original Screenplay,92nd,no
+Quentin,Tarantino,Once Upon a Time in Hollywood,2019,Best Original Screenplay,92nd,no
+Emerald,Fennell,Promising Young Woman,2020,Best Original Screenplay,93rd,yes
+Will,Berson,Judas and the Black Messiah,2020,Best Original Screenplay,93rd,no
+Shaka,King,Judas and the Black Messiah,2020,Best Original Screenplay,93rd,no
+Keith,,Judas and the Black Messiah,2020,Best Original Screenplay,93rd,no
+Kenny,Lucas,Judas and the Black Messiah,2020,Best Original Screenplay,93rd,no
+Lee,Isaac Chung,Minari,2020,Best Original Screenplay,93rd,no
+Darius,Marder,Sound of Metal,2020,Best Original Screenplay,93rd,no
+Derek,Cianfrance,Sound of Metal,2020,Best Original Screenplay,93rd,no
+Aaron,Sorkin,The Trial of the Chicago 7,2020,Best Original Screenplay,93rd,no
+Kenneth,Branagh,Belfast,2021,Best Original Screenplay,94th,yes
+Adam,McKay,Don't Look Up,2021,Best Original Screenplay,94th,no
+David,Sirota,Don't Look Up,2021,Best Original Screenplay,94th,no
+Zach,Baylin,King Richard,2021,Best Original Screenplay,94th,no
+Paul,Thomas Anderson,Licorice Pizza,2021,Best Original Screenplay,94th,no
+Joachim,Trier,The Worst Person in the World,2021,Best Original Screenplay,94th,no
+Eskil,Vogt,The Worst Person in the World,2021,Best Original Screenplay,94th,no
+Daniel,Kwan and Daniel Scheinert,Everything Everywhere All at Once,2022,Best Original Screenplay,95th,yes
+Martin,McDonagh,The Banshees of Inisherin,2022,Best Original Screenplay,95th,no
+Tony,Kushner,The Fabelmans,2022,Best Original Screenplay,95th,no
+Steven,Spielberg,The Fabelmans,2022,Best Original Screenplay,95th,no
+Todd,Field,Tár,2022,Best Original Screenplay,95th,no
+Ruben,Östlund,Triangle of Sadness,2022,Best Original Screenplay,95th,no
+Arthur,Harari,Anatomy of a Fall,2023,Best Original Screenplay,96th,yes
+Justine,Triet,Anatomy of a Fall,2023,Best Original Screenplay,96th,yes
+David,Hemingson,The Holdovers,2023,Best Original Screenplay,96th,no
+Bradley,Cooper,Maestro,2023,Best Original Screenplay,96th,no
+Josh,Singer,Maestro,2023,Best Original Screenplay,96th,no
+Samy,Burch,May December,2023,Best Original Screenplay,96th,no
+Alex,Mechanik,May December,2023,Best Original Screenplay,96th,no
+Celine,Song,Past Lives,2023,Best Original Screenplay,96th,no
+Sean,Baker,Anora,2024,Best Original Screenplay,97th,yes
+Brady,Corbet,The Brutalist,2024,Best Original Screenplay,97th,no
+Mona,Fastvold,The Brutalist,2024,Best Original Screenplay,97th,no
+Jesse,Eisenberg,A Real Pain,2024,Best Original Screenplay,97th,no
+Moritz,Binder,September 5,2024,Best Original Screenplay,97th,no
+Tim,Fehlbaum,September 5,2024,Best Original Screenplay,97th,no
+Coralie,Fargeat,The Substance,2024,Best Original Screenplay,97th,no

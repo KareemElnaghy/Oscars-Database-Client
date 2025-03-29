@@ -1,0 +1,1547 @@
+firstName,lastName,movieTitle,releaseYear,categoryName,iteration,isWinner
+William,Menzies,The Dove,1927,Best Production Design,1st,yes
+William,Menzies,Tempest,1928,Best Production Design,1st,yes
+Harry,Oliver,7th Heaven,1927,Best Production Design,1st,no
+Rochus,Gliese,Sunrise: A Song of Two Humans,1927,Best Production Design,1st,no
+Cedric,Gibbons,The Bridge of San Luis Rey,1928,Best Production Design,2nd,yes
+William,Cameron Menzies,Alibi,1928,Best Production Design,2nd,no
+Mitchell,Leisen,Dynamite,1928,Best Production Design,2nd,no
+Hans,Dreier,The Patriot,1928,Best Production Design,2nd,no
+Harry,Oliver,Street Angel,1928,Best Production Design,2nd,no
+William,Cameron Menzies,Bulldog Drummond,1929,Best Production Design,3rd,no
+Hans,Dreier,The Love Parade,1929,Best Production Design,3rd,no
+Jack,Okey,Sally,1929,Best Production Design,3rd,no
+Hans,Dreier,The Vagabond King,1929,Best Production Design,3rd,no
+Max,Rée,Cimarron,1930,Best Production Design,4th,yes
+Stephen,Goosson,Just Imagine,1930,Best Production Design,4th,no
+Ralph,Hammeras,Just Imagine,1930,Best Production Design,4th,no
+Hans,Dreier,Morocco,1930,Best Production Design,4th,no
+Anton,Grot,Svengali,1930,Best Production Design,4th,no
+Richard,Day,Whoopee!,1930,Best Production Design,4th,no
+Gordon,Wiles,Transatlantic,1931,Best Production Design,5th,yes
+Richard,Day,Arrowsmith,1931,Best Production Design,5th,no
+Lazare,Meerson,À Nous la Liberté,1931,Best Production Design,5th,no
+William,S. Darling,Cavalcade,1932,Best Production Design,6th,yes
+Hans,Dreier,A Farewell to Arms,1932,Best Production Design,6th,no
+Roland,Anderson,A Farewell to Arms,1932,Best Production Design,6th,no
+Cedric,Gibbons,When Ladies Meet,1932,Best Production Design,6th,no
+Cedric,Gibbons,The Merry Widow,1934,Best Production Design,7th,yes
+Fredric,Hope,The Merry Widow,1934,Best Production Design,7th,yes
+Richard,Day,The Affairs of Cellini,1934,Best Production Design,7th,no
+Van,Nest Polglase,The Gay Divorcee,1934,Best Production Design,7th,no
+Carroll,Clark,The Gay Divorcee,1934,Best Production Design,7th,no
+Richard,Day,The Dark Angel,1935,Best Production Design,8th,yes
+Hans,Dreier,The Lives of a Bengal Lancer,1935,Best Production Design,8th,no
+Roland,Anderson,The Lives of a Bengal Lancer,1935,Best Production Design,8th,no
+Carroll,Clark,Top Hat,1935,Best Production Design,8th,no
+Van,Nest Polglase,Top Hat,1935,Best Production Design,8th,no
+Richard,Day,Dodsworth,1936,Best Production Design,9th,yes
+Anton,Grot,Anthony Adverse,1936,Best Production Design,9th,no
+Cedric,Gibbons,The Great Ziegfeld,1936,Best Production Design,9th,no
+Eddie,Imazu,The Great Ziegfeld,1936,Best Production Design,9th,no
+Edwin,B. Willis,The Great Ziegfeld,1936,Best Production Design,9th,no
+William,S. Darling,Lloyd's of London,1936,Best Production Design,9th,no
+Albert,S. D'Agostino,The Magnificent Brute,1936,Best Production Design,9th,no
+Jack,Otterson,The Magnificent Brute,1936,Best Production Design,9th,no
+Cedric,Gibbons,Romeo and Juliet,1936,Best Production Design,9th,no
+Fredric,Hope,Romeo and Juliet,1936,Best Production Design,9th,no
+Edwin,B. Willis,Romeo and Juliet,1936,Best Production Design,9th,no
+Perry,Ferguson,Winterset,1936,Best Production Design,9th,no
+Stephen,Goosson,Lost Horizon,1937,Best Production Design,10th,yes
+Cedric,Gibbons,Conquest,1937,Best Production Design,10th,no
+William,A. Horning,Conquest,1937,Best Production Design,10th,no
+Carroll,Clark,A Damsel in Distress,1937,Best Production Design,10th,no
+Richard,Day,Dead End,1937,Best Production Design,10th,no
+Wiard,Ihnen,Every Day's a Holiday,1937,Best Production Design,10th,no
+Anton,Grot,The Life of Emile Zola,1937,Best Production Design,10th,no
+John,Victor Mackay,Manhattan Merry-Go-Round,1937,Best Production Design,10th,no
+Lyle,R. Wheeler,The Prisoner of Zenda,1937,Best Production Design,10th,no
+Hans,Dreier,Souls at Sea,1937,Best Production Design,10th,no
+Roland,Anderson,Souls at Sea,1937,Best Production Design,10th,no
+Alexander,Toluboff,Walter Wanger's Vogues of 1938,1937,Best Production Design,10th,no
+William,S. Darling,Wee Willie Winkie,1937,Best Production Design,10th,no
+David,S. Hall,Wee Willie Winkie,1937,Best Production Design,10th,no
+Jack,Otterson,You're a Sweetheart,1937,Best Production Design,10th,no
+Carl,Jules Weyl,The Adventures of Robin Hood,1938,Best Production Design,11th,yes
+Lyle,R. Wheeler,The Adventures of Tom Sawyer,1938,Best Production Design,11th,no
+Bernard,Herzbrun,Alexander's Ragtime Band,1938,Best Production Design,11th,no
+Boris,Leven,Alexander's Ragtime Band,1938,Best Production Design,11th,no
+Alexander,Toluboff,Algiers,1938,Best Production Design,11th,no
+Van,Nest Polglase,Carefree,1938,Best Production Design,11th,no
+Richard,Day,The Goldwyn Follies,1938,Best Production Design,11th,no
+Stephen,Goosson,Holiday,1938,Best Production Design,11th,no
+Lionel,Banks,Holiday,1938,Best Production Design,11th,no
+Hans,Dreier,If I Were King,1938,Best Production Design,11th,no
+John,B. Goodman,If I Were King,1938,Best Production Design,11th,no
+Jack,Otterson,Mad About Music,1938,Best Production Design,11th,no
+Cedric,Gibbons,Marie Antoinette,1938,Best Production Design,11th,no
+Charles,D. Hall,Merrily We Live,1938,Best Production Design,11th,no
+Lyle,R. Wheeler,Gone with the Wind,1939,Best Production Design,12th,yes
+Hans,Dreier,Beau Geste,1939,Best Production Design,12th,no
+Robert,Odell,Beau Geste,1939,Best Production Design,12th,no
+Charles,D. Hall,Captain Fury,1939,Best Production Design,12th,no
+Jack,Otterson,First Love,1939,Best Production Design,12th,no
+Martin,Obzina,First Love,1939,Best Production Design,12th,no
+Van,Nest Polglase,Love Affair,1939,Best Production Design,12th,no
+Alfred,Herman,Love Affair,1939,Best Production Design,12th,no
+John,Victor Mackay,Man of Conquest,1939,Best Production Design,12th,no
+Lionel,Banks,Mr. Smith Goes to Washington,1939,Best Production Design,12th,no
+Anton,Grot,The Private Lives of Elizabeth and Essex,1939,Best Production Design,12th,no
+William,S. Darling,The Rains Came,1939,Best Production Design,12th,no
+George,Dudley,The Rains Came,1939,Best Production Design,12th,no
+Alexander,Toluboff,Stagecoach,1939,Best Production Design,12th,no
+Cedric,Gibbons,The Wizard of Oz,1939,Best Production Design,12th,no
+William,A. Horning,The Wizard of Oz,1939,Best Production Design,12th,no
+James,Basevi,Wuthering Heights,1939,Best Production Design,12th,no
+Cedric,Gibbons,Pride and Prejudice,1940,Best Production Design,13th,yes
+Paul,Groesse,Pride and Prejudice,1940,Best Production Design,13th,yes
+Hans,Dreier,"Arise, My Love",1940,Best Production Design,13th,no
+Robert,Usher,"Arise, My Love",1940,Best Production Design,13th,no
+Lionel,Banks,Arizona,1940,Best Production Design,13th,no
+Robert,Peterson,Arizona,1940,Best Production Design,13th,no
+Jack,Otterson,The Boys from Syracuse,1940,Best Production Design,13th,no
+John,Victor Mackay,Dark Command,1940,Best Production Design,13th,no
+Alexander,Golitzen,Foreign Correspondent,1940,Best Production Design,13th,no
+Richard,Day,Lillian Russell,1940,Best Production Design,13th,no
+Joseph,C. Wright,Lillian Russell,1940,Best Production Design,13th,no
+Van,Nest Polglase,My Favorite Wife,1940,Best Production Design,13th,no
+Mark-Lee,Kirk,My Favorite Wife,1940,Best Production Design,13th,no
+John,DuCasse Schulze,"My Son, My Son!",1940,Best Production Design,13th,no
+Lewis,J. Rachmil,Our Town,1940,Best Production Design,13th,no
+Lyle,R. Wheeler,Rebecca,1940,Best Production Design,13th,no
+Anton,Grot,The Sea Hawk,1940,Best Production Design,13th,no
+James,Basevi,The Westerner,1940,Best Production Design,13th,no
+Vincent,Korda,The Thief of Bagdad,1940,Best Production Design,13th,yes
+Cedric,Gibbons,Bitter Sweet,1940,Best Production Design,13th,no
+John,S. Detlie,Bitter Sweet,1940,Best Production Design,13th,no
+Richard,Day,Down Argentine Way,1940,Best Production Design,13th,no
+Joseph,C. Wright,Down Argentine Way,1940,Best Production Design,13th,no
+Hans,Dreier,North West Mounted Police,1940,Best Production Design,13th,no
+Roland,Anderson,North West Mounted Police,1940,Best Production Design,13th,no
+Richard,Day,How Green Was My Valley,1941,Best Production Design,14th,yes
+Nathan,Juran,How Green Was My Valley,1941,Best Production Design,14th,yes
+Thomas,Little,How Green Was My Valley,1941,Best Production Design,14th,yes
+Perry,Ferguson,Citizen Kane,1941,Best Production Design,14th,no
+Van,Nest Polglase,Citizen Kane,1941,Best Production Design,14th,no
+A.,Roland Fields,Citizen Kane,1941,Best Production Design,14th,no
+Darrell,Silvera,Citizen Kane,1941,Best Production Design,14th,no
+Martin,Obzina,The Flame of New Orleans,1941,Best Production Design,14th,no
+Jack,Otterson,The Flame of New Orleans,1941,Best Production Design,14th,no
+Russell,A. Gausman,The Flame of New Orleans,1941,Best Production Design,14th,no
+Hans,Dreier,Hold Back the Dawn,1941,Best Production Design,14th,no
+Robert,Usher,Hold Back the Dawn,1941,Best Production Design,14th,no
+Samuel,M. Comer,Hold Back the Dawn,1941,Best Production Design,14th,no
+Lionel,Banks,Ladies in Retirement,1941,Best Production Design,14th,no
+George,Montgomery,Ladies in Retirement,1941,Best Production Design,14th,no
+Stephen,Goosson,The Little Foxes,1941,Best Production Design,14th,no
+Howard,Bristol,The Little Foxes,1941,Best Production Design,14th,no
+John,Hughes,Sergeant York,1941,Best Production Design,14th,no
+Fred,M. MacLean,Sergeant York,1941,Best Production Design,14th,no
+John,DuCasse Schulze,The Son of Monte Cristo,1941,Best Production Design,14th,no
+Edward,G. Boyle,The Son of Monte Cristo,1941,Best Production Design,14th,no
+Alexander,Golitzen,Sundown,1941,Best Production Design,14th,no
+Richard,Irvine,Sundown,1941,Best Production Design,14th,no
+Vincent,Korda,That Hamilton Woman,1941,Best Production Design,14th,no
+Julia,Heron,That Hamilton Woman,1941,Best Production Design,14th,no
+Cedric,Gibbons,When Ladies Meet,1941,Best Production Design,14th,no
+Randall,Duell,When Ladies Meet,1941,Best Production Design,14th,no
+Edwin,B. Willis,When Ladies Meet,1941,Best Production Design,14th,no
+Cedric,Gibbons,Blossoms in the Dust,1941,Best Production Design,14th,yes
+Urie,McCleary,Blossoms in the Dust,1941,Best Production Design,14th,yes
+Edwin,B. Willis,Blossoms in the Dust,1941,Best Production Design,14th,yes
+Richard,Day,Blood and Sand,1941,Best Production Design,14th,no
+Joseph,C. Wright,Blood and Sand,1941,Best Production Design,14th,no
+Thomas,Little,Blood and Sand,1941,Best Production Design,14th,no
+Raoul,Pene Du Bois,Louisiana Purchase,1941,Best Production Design,14th,no
+Stephen,Seymour,Louisiana Purchase,1941,Best Production Design,14th,no
+Richard,Day,This Above All,1942,Best Production Design,15th,yes
+Joseph,C. Wright,This Above All,1942,Best Production Design,15th,yes
+Thomas,Little,This Above All,1942,Best Production Design,15th,yes
+Max,Parker,George Washington Slept Here,1942,Best Production Design,15th,no
+Mark-Lee,Kirk,George Washington Slept Here,1942,Best Production Design,15th,no
+Casey,Roberts,George Washington Slept Here,1942,Best Production Design,15th,no
+Albert,S. D'Agostino,The Magnificent Ambersons,1942,Best Production Design,15th,no
+A.,Roland Fields,The Magnificent Ambersons,1942,Best Production Design,15th,no
+Darrell,Silvera,The Magnificent Ambersons,1942,Best Production Design,15th,no
+Perry,Ferguson,The Pride of the Yankees,1942,Best Production Design,15th,no
+Howard,Bristol,The Pride of the Yankees,1942,Best Production Design,15th,no
+Cedric,Gibbons,Random Harvest,1942,Best Production Design,15th,no
+Randall,Duell,Random Harvest,1942,Best Production Design,15th,no
+Edwin,B. Willis,Random Harvest,1942,Best Production Design,15th,no
+Jack,Moore,Random Harvest,1942,Best Production Design,15th,no
+Ralph,Berger,Silver Queen,1942,Best Production Design,15th,no
+Emile,Kuri,Silver Queen,1942,Best Production Design,15th,no
+John,B. Goodman,The Spoilers,1942,Best Production Design,15th,no
+Jack,Otterson,The Spoilers,1942,Best Production Design,15th,no
+Russell,A. Gausman,The Spoilers,1942,Best Production Design,15th,no
+Edward,Ray Robinson,The Spoilers,1942,Best Production Design,15th,no
+Hans,Dreier,"Take a Letter, Darling",1942,Best Production Design,15th,no
+Roland,Anderson,"Take a Letter, Darling",1942,Best Production Design,15th,no
+Samuel,M. Comer,"Take a Letter, Darling",1942,Best Production Design,15th,no
+Lionel,Banks,The Talk of the Town,1942,Best Production Design,15th,no
+Rudolph,Sternad,The Talk of the Town,1942,Best Production Design,15th,no
+Fay,Babcock,The Talk of the Town,1942,Best Production Design,15th,no
+Richard,Day,My Gal Sal,1942,Best Production Design,15th,yes
+Joseph,C. Wright,My Gal Sal,1942,Best Production Design,15th,yes
+Thomas,Little,My Gal Sal,1942,Best Production Design,15th,yes
+Alexander,Golitzen,Arabian Nights,1942,Best Production Design,15th,no
+Jack,Otterson,Arabian Nights,1942,Best Production Design,15th,no
+Russell,A. Gausman,Arabian Nights,1942,Best Production Design,15th,no
+Ira,S. Webb,Arabian Nights,1942,Best Production Design,15th,no
+Ted,Smith,Captains of the Clouds,1942,Best Production Design,15th,no
+Casey,Roberts,Captains of the Clouds,1942,Best Production Design,15th,no
+Vincent,Korda,Jungle Book,1942,Best Production Design,15th,no
+Julia,Heron,Jungle Book,1942,Best Production Design,15th,no
+Hans,Dreier,Reap the Wild Wind,1942,Best Production Design,15th,no
+Roland,Anderson,Reap the Wild Wind,1942,Best Production Design,15th,no
+George,Sawley,Reap the Wild Wind,1942,Best Production Design,15th,no
+James,Basevi,The Song of Bernadette,1943,Best Production Design,16th,yes
+William,S. Darling,The Song of Bernadette,1943,Best Production Design,16th,yes
+Thomas,Little,The Song of Bernadette,1943,Best Production Design,16th,yes
+Hans,Dreier,Five Graves to Cairo,1943,Best Production Design,16th,no
+Ernst,Fegté,Five Graves to Cairo,1943,Best Production Design,16th,no
+Bertram,C. Granger,Five Graves to Cairo,1943,Best Production Design,16th,no
+Albert,S. D'Agostino,Flight for Freedom,1943,Best Production Design,16th,no
+Carroll,Clark,Flight for Freedom,1943,Best Production Design,16th,no
+Darrell,Silvera,Flight for Freedom,1943,Best Production Design,16th,no
+Harley,Miller,Flight for Freedom,1943,Best Production Design,16th,no
+Cedric,Gibbons,Madame Curie,1943,Best Production Design,16th,no
+Paul,Groesse,Madame Curie,1943,Best Production Design,16th,no
+Edwin,B. Willis,Madame Curie,1943,Best Production Design,16th,no
+Hugh,Hunt,Madame Curie,1943,Best Production Design,16th,no
+Carl,Jules Weyl,Mission to Moscow,1943,Best Production Design,16th,no
+George,James Hopkins,Mission to Moscow,1943,Best Production Design,16th,no
+Perry,Ferguson,The North Star,1943,Best Production Design,16th,no
+Howard,Bristol,The North Star,1943,Best Production Design,16th,no
+Alexander,Golitzen,Phantom of the Opera,1943,Best Production Design,16th,yes
+John,B. Goodman,Phantom of the Opera,1943,Best Production Design,16th,yes
+Russell,A. Gausman,Phantom of the Opera,1943,Best Production Design,16th,yes
+Ira,S. Webb,Phantom of the Opera,1943,Best Production Design,16th,yes
+Hans,Dreier,For Whom the Bell Tolls,1943,Best Production Design,16th,no
+Haldane,Douglas,For Whom the Bell Tolls,1943,Best Production Design,16th,no
+Bertram,C. Granger,For Whom the Bell Tolls,1943,Best Production Design,16th,no
+James,Basevi,The Gang's All Here,1943,Best Production Design,16th,no
+Joseph,C. Wright,The Gang's All Here,1943,Best Production Design,16th,no
+Thomas,Little,The Gang's All Here,1943,Best Production Design,16th,no
+John,Hughes,This Is the Army,1943,Best Production Design,16th,no
+George,James Hopkins,This Is the Army,1943,Best Production Design,16th,no
+Cedric,Gibbons,Thousands Cheer,1943,Best Production Design,16th,no
+Daniel,Cathcart,Thousands Cheer,1943,Best Production Design,16th,no
+Edwin,B. Willis,Thousands Cheer,1943,Best Production Design,16th,no
+Jacques,Mersereau,Thousands Cheer,1943,Best Production Design,16th,no
+Cedric,Gibbons,Gaslight,1944,Best Production Design,17th,yes
+William,Ferrari,Gaslight,1944,Best Production Design,17th,yes
+Paul,Huldschinsky,Gaslight,1944,Best Production Design,17th,yes
+Edwin,B. Willis,Gaslight,1944,Best Production Design,17th,yes
+Lionel,Banks,Address Unknown,1944,Best Production Design,17th,no
+Walter,Holscher,Address Unknown,1944,Best Production Design,17th,no
+Joseph,Kish,Address Unknown,1944,Best Production Design,17th,no
+John,Hughes,The Adventures of Mark Twain,1944,Best Production Design,17th,no
+Fred,M. MacLean,The Adventures of Mark Twain,1944,Best Production Design,17th,no
+Perry,Ferguson,Casanova Brown,1944,Best Production Design,17th,no
+Julia,Heron,Casanova Brown,1944,Best Production Design,17th,no
+Lyle,R. Wheeler,Laura,1944,Best Production Design,17th,no
+Leland,Fuller,Laura,1944,Best Production Design,17th,no
+Thomas,Little,Laura,1944,Best Production Design,17th,no
+Hans,Dreier,No Time for Love,1944,Best Production Design,17th,no
+Robert,Usher,No Time for Love,1944,Best Production Design,17th,no
+Samuel,M. Comer,No Time for Love,1944,Best Production Design,17th,no
+Mark-Lee,Kirk,Since You Went Away,1944,Best Production Design,17th,no
+Victor,A. Gangelin,Since You Went Away,1944,Best Production Design,17th,no
+Albert,S. D'Agostino,Step Lively,1944,Best Production Design,17th,no
+Carroll,Clark,Step Lively,1944,Best Production Design,17th,no
+Darrell,Silvera,Step Lively,1944,Best Production Design,17th,no
+Claude,E. Carpenter,Step Lively,1944,Best Production Design,17th,no
+Wiard,Ihnen,Wilson,1944,Best Production Design,17th,yes
+Thomas,Little,Wilson,1944,Best Production Design,17th,yes
+John,B. Goodman,The Climax,1944,Best Production Design,17th,no
+Alexander,Golitzen,The Climax,1944,Best Production Design,17th,no
+Russell,A. Gausman,The Climax,1944,Best Production Design,17th,no
+Ira,S. Webb,The Climax,1944,Best Production Design,17th,no
+Lionel,Banks,Cover Girl,1944,Best Production Design,17th,no
+Cary,Odell,Cover Girl,1944,Best Production Design,17th,no
+Fay,Babcock,Cover Girl,1944,Best Production Design,17th,no
+Charles,Novi,The Desert Song,1944,Best Production Design,17th,no
+Jack,McConaghy,The Desert Song,1944,Best Production Design,17th,no
+Cedric,Gibbons,Kismet,1944,Best Production Design,17th,no
+Daniel,B. Cathcart,Kismet,1944,Best Production Design,17th,no
+Edwin,B. Willis,Kismet,1944,Best Production Design,17th,no
+Richard,Pefferle,Kismet,1944,Best Production Design,17th,no
+Hans,Dreier,Lady in the Dark,1944,Best Production Design,17th,no
+Raoul,Pene Du Bois,Lady in the Dark,1944,Best Production Design,17th,no
+Ray,Moyer,Lady in the Dark,1944,Best Production Design,17th,no
+Ernst,Fegté,The Princess and the Pirate,1944,Best Production Design,17th,no
+Howard,Bristol,The Princess and the Pirate,1944,Best Production Design,17th,no
+Wiard,Ihnen,Blood on the Sun,1945,Best Production Design,18th,yes
+A.,Roland Fields,Blood on the Sun,1945,Best Production Design,18th,yes
+Albert,S. D'Agostino,Experiment Perilous,1945,Best Production Design,18th,no
+Jack,Okey,Experiment Perilous,1945,Best Production Design,18th,no
+Darrell,Silvera,Experiment Perilous,1945,Best Production Design,18th,no
+Claude,E. Carpenter,Experiment Perilous,1945,Best Production Design,18th,no
+James,Basevi,The Keys of the Kingdom,1945,Best Production Design,18th,no
+William,S. Darling,The Keys of the Kingdom,1945,Best Production Design,18th,no
+Thomas,Little,The Keys of the Kingdom,1945,Best Production Design,18th,no
+Frank,E. Hughes,The Keys of the Kingdom,1945,Best Production Design,18th,no
+Hans,Dreier,Love Letters,1945,Best Production Design,18th,no
+Roland,Anderson,Love Letters,1945,Best Production Design,18th,no
+Samuel,M. Comer,Love Letters,1945,Best Production Design,18th,no
+Ray,Moyer,Love Letters,1945,Best Production Design,18th,no
+Cedric,Gibbons,The Picture of Dorian Gray,1945,Best Production Design,18th,no
+Hans,Peters,The Picture of Dorian Gray,1945,Best Production Design,18th,no
+Edwin,B. Willis,The Picture of Dorian Gray,1945,Best Production Design,18th,no
+John,Bonar,The Picture of Dorian Gray,1945,Best Production Design,18th,no
+Hugh,Hunt,The Picture of Dorian Gray,1945,Best Production Design,18th,no
+Hans,Dreier,Frenchman's Creek,1945,Best Production Design,18th,yes
+Ernst,Fegté,Frenchman's Creek,1945,Best Production Design,18th,yes
+Samuel,M. Comer,Frenchman's Creek,1945,Best Production Design,18th,yes
+Lyle,R. Wheeler,Leave Her to Heaven,1945,Best Production Design,18th,no
+Maurice,Ransford,Leave Her to Heaven,1945,Best Production Design,18th,no
+Thomas,Little,Leave Her to Heaven,1945,Best Production Design,18th,no
+Cedric,Gibbons,National Velvet,1945,Best Production Design,18th,no
+Urie,McCleary,National Velvet,1945,Best Production Design,18th,no
+Edwin,B. Willis,National Velvet,1945,Best Production Design,18th,no
+Mildred,Griffiths,National Velvet,1945,Best Production Design,18th,no
+Ted,Smith,San Antonio,1945,Best Production Design,18th,no
+Jack,McConaghy,San Antonio,1945,Best Production Design,18th,no
+Stephen,Goosson,A Thousand and One Nights,1945,Best Production Design,18th,no
+Rudolph,Sternad,A Thousand and One Nights,1945,Best Production Design,18th,no
+Frank,Tuttle,A Thousand and One Nights,1945,Best Production Design,18th,no
+William,S. Darling,Anna and the King of Siam,1946,Best Production Design,19th,yes
+Lyle,R. Wheeler,Anna and the King of Siam,1946,Best Production Design,19th,yes
+Thomas,Little,Anna and the King of Siam,1946,Best Production Design,19th,yes
+Frank,E. Hughes,Anna and the King of Siam,1946,Best Production Design,19th,yes
+Hans,Dreier,Kitty,1946,Best Production Design,19th,no
+Walter,H. Tyler,Kitty,1946,Best Production Design,19th,no
+Samuel,M. Comer,Kitty,1946,Best Production Design,19th,no
+Ray,Moyer,Kitty,1946,Best Production Design,19th,no
+Richard,Day,The Razor's Edge,1946,Best Production Design,19th,no
+Nathan,H. Juran,The Razor's Edge,1946,Best Production Design,19th,no
+Thomas,Little,The Razor's Edge,1946,Best Production Design,19th,no
+Paul,S. Fox,The Razor's Edge,1946,Best Production Design,19th,no
+Cedric,Gibbons,The Yearling,1946,Best Production Design,19th,yes
+Paul,Groesse,The Yearling,1946,Best Production Design,19th,yes
+Edwin,B. Willis,The Yearling,1946,Best Production Design,19th,yes
+John,Bryan,Caesar and Cleopatra,1946,Best Production Design,19th,no
+Wilfred,Shingleton,Great Expectations,1947,Best Production Design,20th,yes
+John,Bryan,Great Expectations,1947,Best Production Design,20th,yes
+Lyle,R. Wheeler,The Foxes of Harrow,1947,Best Production Design,20th,no
+Maurice,Ransford,The Foxes of Harrow,1947,Best Production Design,20th,no
+Thomas,Little,The Foxes of Harrow,1947,Best Production Design,20th,no
+Paul,S. Fox,The Foxes of Harrow,1947,Best Production Design,20th,no
+Alfred,Junge,Black Narcissus,1947,Best Production Design,20th,yes
+Robert,M. Haas,Life with Father,1947,Best Production Design,20th,no
+George,James Hopkins,Life with Father,1947,Best Production Design,20th,no
+Roger,K. Furse,Hamlet,1948,Best Production Design,21st,yes
+Carmen,Dillon,Hamlet,1948,Best Production Design,21st,yes
+Robert,M. Haas,Johnny Belinda,1948,Best Production Design,21st,no
+William,O. Wallace,Johnny Belinda,1948,Best Production Design,21st,no
+Hein,Heckroth,The Red Shoes,1948,Best Production Design,21st,yes
+Arthur,Lawson,The Red Shoes,1948,Best Production Design,21st,yes
+Richard,Day,Joan of Arc,1948,Best Production Design,21st,no
+Edwin,Casey Roberts,Joan of Arc,1948,Best Production Design,21st,no
+Joseph,Kish,Joan of Arc,1948,Best Production Design,21st,no
+Harry,Horner,The Heiress,1949,Best Production Design,22nd,yes
+John,Meehan,The Heiress,1949,Best Production Design,22nd,yes
+Emile,Kuri,The Heiress,1949,Best Production Design,22nd,yes
+Lyle,R. Wheeler,Come to the Stable,1949,Best Production Design,22nd,no
+Joseph,C. Wright,Come to the Stable,1949,Best Production Design,22nd,no
+Thomas,Little,Come to the Stable,1949,Best Production Design,22nd,no
+Paul,S. Fox,Come to the Stable,1949,Best Production Design,22nd,no
+Cedric,Gibbons,Madame Bovary,1949,Best Production Design,22nd,no
+Jack,Martin Smith,Madame Bovary,1949,Best Production Design,22nd,no
+Edwin,B. Willis,Madame Bovary,1949,Best Production Design,22nd,no
+Richard,A. Pefferle,Madame Bovary,1949,Best Production Design,22nd,no
+Cedric,Gibbons,Little Women,1949,Best Production Design,22nd,yes
+Paul,Groesse,Little Women,1949,Best Production Design,22nd,yes
+Edwin,B. Willis,Little Women,1949,Best Production Design,22nd,yes
+Jack,D. Moore,Little Women,1949,Best Production Design,22nd,yes
+Edward,Carrere,Adventures of Don Juan,1949,Best Production Design,22nd,no
+Lyle,Reifsnider,Adventures of Don Juan,1949,Best Production Design,22nd,no
+Jim,Morahan,Saraband,1949,Best Production Design,22nd,no
+William,Kellner,Saraband,1949,Best Production Design,22nd,no
+Michael,Relph,Saraband,1949,Best Production Design,22nd,no
+Hans,Dreier,Sunset Boulevard,1950,Best Production Design,23rd,yes
+John,Meehan,Sunset Boulevard,1950,Best Production Design,23rd,yes
+Samuel,M. Comer,Sunset Boulevard,1950,Best Production Design,23rd,yes
+Ray,Moyer,Sunset Boulevard,1950,Best Production Design,23rd,yes
+George,W. Davis,All About Eve,1950,Best Production Design,23rd,no
+Lyle,R. Wheeler,All About Eve,1950,Best Production Design,23rd,no
+Thomas,Little,All About Eve,1950,Best Production Design,23rd,no
+Walter,M. Scott,All About Eve,1950,Best Production Design,23rd,no
+Cedric,Gibbons,The Red Danube,1950,Best Production Design,23rd,no
+Hans,Peters,The Red Danube,1950,Best Production Design,23rd,no
+Edwin,B. Willis,The Red Danube,1950,Best Production Design,23rd,no
+Hugh,Hunt,The Red Danube,1950,Best Production Design,23rd,no
+Hans,Dreier,Samson and Delilah,1950,Best Production Design,23rd,yes
+Walter,H. Tyler,Samson and Delilah,1950,Best Production Design,23rd,yes
+Samuel,M. Comer,Samson and Delilah,1950,Best Production Design,23rd,yes
+Ray,Moyer,Samson and Delilah,1950,Best Production Design,23rd,yes
+Cedric,Gibbons,Annie Get Your Gun,1950,Best Production Design,23rd,no
+Paul,Groesse,Annie Get Your Gun,1950,Best Production Design,23rd,no
+Edwin,B. Willis,Annie Get Your Gun,1950,Best Production Design,23rd,no
+Richard,A. Pefferle,Annie Get Your Gun,1950,Best Production Design,23rd,no
+Ernst,Fegté,Destination Moon,1950,Best Production Design,23rd,no
+George,Sawley,Destination Moon,1950,Best Production Design,23rd,no
+Richard,Day,A Streetcar Named Desire,1951,Best Production Design,24th,yes
+George,James Hopkins,A Streetcar Named Desire,1951,Best Production Design,24th,yes
+Leland,Fuller,Fourteen Hours,1951,Best Production Design,24th,no
+Lyle,R. Wheeler,Fourteen Hours,1951,Best Production Design,24th,no
+Thomas,Little,Fourteen Hours,1951,Best Production Design,24th,no
+Fred,J. Rode,Fourteen Hours,1951,Best Production Design,24th,no
+John,DeCuir,The House on Telegraph Hill,1951,Best Production Design,24th,no
+Lyle,R. Wheeler,The House on Telegraph Hill,1951,Best Production Design,24th,no
+Paul,S. Fox,The House on Telegraph Hill,1951,Best Production Design,24th,no
+Thomas,Little,The House on Telegraph Hill,1951,Best Production Design,24th,no
+Jean,d'Eaubonne,La Ronde,1951,Best Production Design,24th,no
+Cedric,Gibbons,Too Young to Kiss,1951,Best Production Design,24th,no
+Paul,Groesse,Too Young to Kiss,1951,Best Production Design,24th,no
+Edwin,B. Willis,Too Young to Kiss,1951,Best Production Design,24th,no
+Jack,D. Moore,Too Young to Kiss,1951,Best Production Design,24th,no
+E.,Preston Ames,An American in Paris,1951,Best Production Design,24th,yes
+Cedric,Gibbons,An American in Paris,1951,Best Production Design,24th,yes
+Edwin,B. Willis,An American in Paris,1951,Best Production Design,24th,yes
+F.,Keogh Gleason,An American in Paris,1951,Best Production Design,24th,yes
+George,Davis,David and Bathsheba,1951,Best Production Design,24th,no
+Lyle,R. Wheeler,David and Bathsheba,1951,Best Production Design,24th,no
+Paul,S. Fox,David and Bathsheba,1951,Best Production Design,24th,no
+Thomas,Little,David and Bathsheba,1951,Best Production Design,24th,no
+Leland,Fuller,On the Riviera,1951,Best Production Design,24th,no
+Lyle,R. Wheeler,On the Riviera,1951,Best Production Design,24th,no
+Joseph,C. Wright,On the Riviera,1951,Best Production Design,24th,no
+Thomas,Little,On the Riviera,1951,Best Production Design,24th,no
+Walter,M. Scott,On the Riviera,1951,Best Production Design,24th,no
+Edward,Carfagno,Quo Vadis,1951,Best Production Design,24th,no
+Cedric,Gibbons,Quo Vadis,1951,Best Production Design,24th,no
+William,A. Horning,Quo Vadis,1951,Best Production Design,24th,no
+Hugh,Hunt,Quo Vadis,1951,Best Production Design,24th,no
+Hein,Heckroth,The Tales of Hoffmann,1951,Best Production Design,24th,no
+Edward,Carfagno,The Bad and the Beautiful,1952,Best Production Design,25th,yes
+Cedric,Gibbons,The Bad and the Beautiful,1952,Best Production Design,25th,yes
+F.,Keogh Gleason,The Bad and the Beautiful,1952,Best Production Design,25th,yes
+Edwin,B. Willis,The Bad and the Beautiful,1952,Best Production Design,25th,yes
+Roland,Anderson,Carrie,1952,Best Production Design,25th,no
+Hal,Pereira,Carrie,1952,Best Production Design,25th,no
+Emile,Kuri,Carrie,1952,Best Production Design,25th,no
+John,DeCuir,My Cousin Rachel,1952,Best Production Design,25th,no
+Lyle,R. Wheeler,My Cousin Rachel,1952,Best Production Design,25th,no
+Walter,M. Scott,My Cousin Rachel,1952,Best Production Design,25th,no
+So,Matsuyama,Rashomon,1952,Best Production Design,25th,no
+H.,Motsumoto,Rashomon,1952,Best Production Design,25th,no
+Leland,Fuller,Viva Zapata!,1952,Best Production Design,25th,no
+Lyle,R. Wheeler,Viva Zapata!,1952,Best Production Design,25th,no
+Claude,E. Carpenter,Viva Zapata!,1952,Best Production Design,25th,no
+Thomas,Little,Viva Zapata!,1952,Best Production Design,25th,no
+Paul,Sheriff,Moulin Rouge,1952,Best Production Design,25th,yes
+Marcel,Vertès,Moulin Rouge,1952,Best Production Design,25th,yes
+Antoni,Clavé,Hans Christian Andersen,1952,Best Production Design,25th,no
+Richard,Day,Hans Christian Andersen,1952,Best Production Design,25th,no
+Howard,Bristol,Hans Christian Andersen,1952,Best Production Design,25th,no
+Cedric,Gibbons,The Merry Widow,1952,Best Production Design,25th,no
+Paul,Groesse,The Merry Widow,1952,Best Production Design,25th,no
+Arthur,Krams,The Merry Widow,1952,Best Production Design,25th,no
+Edwin,B. Willis,The Merry Widow,1952,Best Production Design,25th,no
+Frank,Hotaling,The Quiet Man,1952,Best Production Design,25th,no
+John,McCarthy Jr.,The Quiet Man,1952,Best Production Design,25th,no
+Charles,S. Thompson,The Quiet Man,1952,Best Production Design,25th,no
+John,DeCuir,The Snows of Kilimanjaro,1952,Best Production Design,25th,no
+Lyle,R. Wheeler,The Snows of Kilimanjaro,1952,Best Production Design,25th,no
+Paul,S. Fox,The Snows of Kilimanjaro,1952,Best Production Design,25th,no
+Thomas,Little,The Snows of Kilimanjaro,1952,Best Production Design,25th,no
+Edward,Carfagno,Julius Caesar,1953,Best Production Design,26th,yes
+Cedric,Gibbons,Julius Caesar,1953,Best Production Design,26th,yes
+Hugh,Hunt,Julius Caesar,1953,Best Production Design,26th,yes
+Edwin,B. Willis,Julius Caesar,1953,Best Production Design,26th,yes
+Paul,Markwitz,Martin Luther,1953,Best Production Design,26th,no
+Fritz,Maurischat,Martin Luther,1953,Best Production Design,26th,no
+Leland,Fuller,The President's Lady,1953,Best Production Design,26th,no
+Lyle,R. Wheeler,The President's Lady,1953,Best Production Design,26th,no
+Paul,S. Fox,The President's Lady,1953,Best Production Design,26th,no
+Hal,Pereira,Roman Holiday,1953,Best Production Design,26th,no
+Walter,H. Tyler,Roman Holiday,1953,Best Production Design,26th,no
+Maurice,Ransford,Titanic,1953,Best Production Design,26th,no
+Lyle,R. Wheeler,Titanic,1953,Best Production Design,26th,no
+Stuart,Reiss,Titanic,1953,Best Production Design,26th,no
+George,Davis,The Robe,1953,Best Production Design,26th,yes
+Lyle,R. Wheeler,The Robe,1953,Best Production Design,26th,yes
+Paul,S. Fox,The Robe,1953,Best Production Design,26th,yes
+Walter,M. Scott,The Robe,1953,Best Production Design,26th,yes
+Alfred,Junge,Knights of the Round Table,1953,Best Production Design,26th,no
+Hans,Peters,Knights of the Round Table,1953,Best Production Design,26th,no
+John,Jarvis,Knights of the Round Table,1953,Best Production Design,26th,no
+Cedric,Gibbons,Lili,1953,Best Production Design,26th,no
+Paul,Groesse,Lili,1953,Best Production Design,26th,no
+Arthur,Krams,Lili,1953,Best Production Design,26th,no
+Edwin,B. Willis,Lili,1953,Best Production Design,26th,no
+E.,Preston Ames,The Story of Three Loves,1953,Best Production Design,26th,no
+Edward,Carfagno,The Story of Three Loves,1953,Best Production Design,26th,no
+Cedric,Gibbons,The Story of Three Loves,1953,Best Production Design,26th,no
+Gabriel,Scognamillo,The Story of Three Loves,1953,Best Production Design,26th,no
+F.,Keogh Gleason,The Story of Three Loves,1953,Best Production Design,26th,no
+Arthur,Krams,The Story of Three Loves,1953,Best Production Design,26th,no
+Jack,D. Moore,The Story of Three Loves,1953,Best Production Design,26th,no
+Edwin,B. Willis,The Story of Three Loves,1953,Best Production Design,26th,no
+Cedric,Gibbons,Young Bess,1953,Best Production Design,26th,no
+Urie,McCleary,Young Bess,1953,Best Production Design,26th,no
+Jack,D. Moore,Young Bess,1953,Best Production Design,26th,no
+Edwin,B. Willis,Young Bess,1953,Best Production Design,26th,no
+Richard,Day,On the Waterfront,1954,Best Production Design,27th,yes
+Roland,Anderson,The Country Girl,1954,Best Production Design,27th,no
+Hal,Pereira,The Country Girl,1954,Best Production Design,27th,no
+Samuel,M. Comer,The Country Girl,1954,Best Production Design,27th,no
+Grace,Gregory,The Country Girl,1954,Best Production Design,27th,no
+Cedric,Gibbons,Executive Suite,1954,Best Production Design,27th,no
+Edward,Carfagno,Executive Suite,1954,Best Production Design,27th,no
+Edwin,B. Willis,Executive Suite,1954,Best Production Design,27th,no
+Emile,Kuri,Executive Suite,1954,Best Production Design,27th,no
+Max,Ophüls,Le Plaisir,1954,Best Production Design,27th,no
+Hal,Pereira,Sabrina,1954,Best Production Design,27th,no
+Walter,H. Tyler,Sabrina,1954,Best Production Design,27th,no
+Samuel,M. Comer,Sabrina,1954,Best Production Design,27th,no
+Ray,Moyer,Sabrina,1954,Best Production Design,27th,no
+John,Meehan,"20,000 Leagues Under the Sea",1954,Best Production Design,27th,yes
+Emile,Kuri,"20,000 Leagues Under the Sea",1954,Best Production Design,27th,yes
+Cedric,Gibbons,Brigadoon,1954,Best Production Design,27th,no
+E.,Preston Ames,Brigadoon,1954,Best Production Design,27th,no
+Edwin,B. Willis,Brigadoon,1954,Best Production Design,27th,no
+F.,Keogh Gleason,Brigadoon,1954,Best Production Design,27th,no
+Lyle,R. Wheeler,Desiree,1954,Best Production Design,27th,no
+Leland,Fuller,Desiree,1954,Best Production Design,27th,no
+Walter,M. Scott,Desiree,1954,Best Production Design,27th,no
+Paul,S. Fox,Desiree,1954,Best Production Design,27th,no
+Hal,Pereira,Red Garters,1954,Best Production Design,27th,no
+Roland,Anderson,Red Garters,1954,Best Production Design,27th,no
+Samuel,M. Comer,Red Garters,1954,Best Production Design,27th,no
+Ray,Moyer,Red Garters,1954,Best Production Design,27th,no
+Malcolm,Bert,A Star Is Born,1954,Best Production Design,27th,no
+Gene,Allen,A Star Is Born,1954,Best Production Design,27th,no
+Irene,Sharaff,A Star Is Born,1954,Best Production Design,27th,no
+George,James Hopkins,A Star Is Born,1954,Best Production Design,27th,no
+Hal,Pereira,The Rose Tattoo,1955,Best Production Design,28th,yes
+Tambi,Larsen,The Rose Tattoo,1955,Best Production Design,28th,yes
+Samuel,M. Comer,The Rose Tattoo,1955,Best Production Design,28th,yes
+Arthur,Krams,The Rose Tattoo,1955,Best Production Design,28th,yes
+Cedric,Gibbons,Blackboard Jungle,1955,Best Production Design,28th,no
+Randall,Duell,Blackboard Jungle,1955,Best Production Design,28th,no
+Edwin,B. Willis,Blackboard Jungle,1955,Best Production Design,28th,no
+Henry,Grace,Blackboard Jungle,1955,Best Production Design,28th,no
+Cedric,Gibbons,I'll Cry Tomorrow,1955,Best Production Design,28th,no
+Malcolm,Brown,I'll Cry Tomorrow,1955,Best Production Design,28th,no
+Edwin,B. Willis,I'll Cry Tomorrow,1955,Best Production Design,28th,no
+Hugh,Hunt,I'll Cry Tomorrow,1955,Best Production Design,28th,no
+Joseph,C. Wright,The Man with the Golden Arm,1955,Best Production Design,28th,no
+Darrell,Silvera,The Man with the Golden Arm,1955,Best Production Design,28th,no
+Edward,S. Haworth,Marty,1955,Best Production Design,28th,no
+Walter,M. Simonds,Marty,1955,Best Production Design,28th,no
+Robert,Priestley,Marty,1955,Best Production Design,28th,no
+William,Flannery,Picnic,1955,Best Production Design,28th,yes
+Jo,Mielziner,Picnic,1955,Best Production Design,28th,yes
+Robert,Priestley,Picnic,1955,Best Production Design,28th,yes
+Lyle,R. Wheeler,Daddy Long Legs,1955,Best Production Design,28th,no
+John,DeCuir,Daddy Long Legs,1955,Best Production Design,28th,no
+Walter,M. Scott,Daddy Long Legs,1955,Best Production Design,28th,no
+Paul,S. Fox,Daddy Long Legs,1955,Best Production Design,28th,no
+Oliver,Smith,Guys and Dolls,1955,Best Production Design,28th,no
+Joseph,C. Wright,Guys and Dolls,1955,Best Production Design,28th,no
+Howard,Bristol,Guys and Dolls,1955,Best Production Design,28th,no
+Lyle,R. Wheeler,Love Is a Many-Splendored Thing,1955,Best Production Design,28th,no
+George,Davis,Love Is a Many-Splendored Thing,1955,Best Production Design,28th,no
+Walter,M. Scott,Love Is a Many-Splendored Thing,1955,Best Production Design,28th,no
+Jack,Stubbs,Love Is a Many-Splendored Thing,1955,Best Production Design,28th,no
+Hal,Pereira,To Catch a Thief,1955,Best Production Design,28th,no
+Joseph,McMillan Johnson,To Catch a Thief,1955,Best Production Design,28th,no
+Samuel,M. Comer,To Catch a Thief,1955,Best Production Design,28th,no
+Arthur,Krams,To Catch a Thief,1955,Best Production Design,28th,no
+Cedric,Gibbons,Somebody Up There Likes Me,1956,Best Production Design,29th,yes
+Malcolm,Brown,Somebody Up There Likes Me,1956,Best Production Design,29th,yes
+Edwin,B. Willis,Somebody Up There Likes Me,1956,Best Production Design,29th,yes
+F.,Keogh Gleason,Somebody Up There Likes Me,1956,Best Production Design,29th,yes
+So,Matsuyama,Seven Samurai,1956,Best Production Design,29th,no
+Hal,Pereira,The Proud and Profane,1956,Best Production Design,29th,no
+A.,Earl Hedrick,The Proud and Profane,1956,Best Production Design,29th,no
+Samuel,M. Comer,The Proud and Profane,1956,Best Production Design,29th,no
+Frank,R. McKelvy,The Proud and Profane,1956,Best Production Design,29th,no
+Ross,Bellah,The Solid Gold Cadillac,1956,Best Production Design,29th,no
+William,Kiernan,The Solid Gold Cadillac,1956,Best Production Design,29th,no
+Louis,Diage,The Solid Gold Cadillac,1956,Best Production Design,29th,no
+Lyle,R. Wheeler,Teenage Rebel,1956,Best Production Design,29th,no
+Jack,Martin Smith,Teenage Rebel,1956,Best Production Design,29th,no
+Walter,M. Scott,Teenage Rebel,1956,Best Production Design,29th,no
+Stuart,A. Reiss,Teenage Rebel,1956,Best Production Design,29th,no
+Lyle,R. Wheeler,The King and I,1956,Best Production Design,29th,yes
+John,DeCuir,The King and I,1956,Best Production Design,29th,yes
+Walter,M. Scott,The King and I,1956,Best Production Design,29th,yes
+Paul,S. Fox,The King and I,1956,Best Production Design,29th,yes
+James,W. Sullivan,Around the World in 80 Days,1956,Best Production Design,29th,no
+Ken,Adam,Around the World in 80 Days,1956,Best Production Design,29th,no
+Ross,J. Dowd,Around the World in 80 Days,1956,Best Production Design,29th,no
+Boris,Leven,Giant,1956,Best Production Design,29th,no
+Ralph,S. Hurst,Giant,1956,Best Production Design,29th,no
+Cedric,Gibbons,Lust for Life,1956,Best Production Design,29th,no
+Hans,Peters,Lust for Life,1956,Best Production Design,29th,no
+E.,Preston Ames,Lust for Life,1956,Best Production Design,29th,no
+Edwin,B. Willis,Lust for Life,1956,Best Production Design,29th,no
+F.,Keogh Gleason,Lust for Life,1956,Best Production Design,29th,no
+Walter,H. Tyler,The Ten Commandments,1956,Best Production Design,29th,no
+Albert,Nozaki,The Ten Commandments,1956,Best Production Design,29th,no
+Samuel,M. Comer,The Ten Commandments,1956,Best Production Design,29th,no
+Ray,Moyer,The Ten Commandments,1956,Best Production Design,29th,no
+Ted,Haworth,Sayonara,1957,Best Production Design,30th,yes
+Robert,Priestley,Sayonara,1957,Best Production Design,30th,yes
+Hal,Pereira,Funny Face,1957,Best Production Design,30th,no
+George,Davis,Funny Face,1957,Best Production Design,30th,no
+Samuel,M. Comer,Funny Face,1957,Best Production Design,30th,no
+Ray,Moyer,Funny Face,1957,Best Production Design,30th,no
+William,A. Horning,Les Girls,1957,Best Production Design,30th,no
+Gene,Allen,Les Girls,1957,Best Production Design,30th,no
+Edwin,B. Willis,Les Girls,1957,Best Production Design,30th,no
+Richard,Pefferle,Les Girls,1957,Best Production Design,30th,no
+Walter,Holscher,Pal Joey,1957,Best Production Design,30th,no
+William,Kiernan,Pal Joey,1957,Best Production Design,30th,no
+Louis,Diage,Pal Joey,1957,Best Production Design,30th,no
+William,A. Horning,Raintree County,1957,Best Production Design,30th,no
+Urie,McCleary,Raintree County,1957,Best Production Design,30th,no
+Edwin,B. Willis,Raintree County,1957,Best Production Design,30th,no
+Hugh,Hunt,Raintree County,1957,Best Production Design,30th,no
+William,A. Horning,Gigi,1958,Best Production Design,31st,yes
+E.,Preston Ames,Gigi,1958,Best Production Design,31st,yes
+Henry,Grace,Gigi,1958,Best Production Design,31st,yes
+F.,Keogh Gleason,Gigi,1958,Best Production Design,31st,yes
+Malcolm,Bert,Auntie Mame,1958,Best Production Design,31st,no
+George,James Hopkins,Auntie Mame,1958,Best Production Design,31st,no
+Cary,Odell,"Bell, Book and Candle",1958,Best Production Design,31st,no
+Louis,Diage,"Bell, Book and Candle",1958,Best Production Design,31st,no
+Lyle,R. Wheeler,A Certain Smile,1958,Best Production Design,31st,no
+John,DeCuir,A Certain Smile,1958,Best Production Design,31st,no
+Walter,M. Scott,A Certain Smile,1958,Best Production Design,31st,no
+Paul,S. Fox,A Certain Smile,1958,Best Production Design,31st,no
+Hal,Pereira,Vertigo,1958,Best Production Design,31st,no
+Henry,Bumstead,Vertigo,1958,Best Production Design,31st,no
+Samuel,M. Comer,Vertigo,1958,Best Production Design,31st,no
+Frank,McKelvy,Vertigo,1958,Best Production Design,31st,no
+Lyle,R. Wheeler,The Diary of Anne Frank,1959,Best Production Design,32nd,yes
+George,Davis,The Diary of Anne Frank,1959,Best Production Design,32nd,yes
+Walter,M. Scott,The Diary of Anne Frank,1959,Best Production Design,32nd,yes
+Stuart,A. Reiss,The Diary of Anne Frank,1959,Best Production Design,32nd,yes
+Hal,Pereira,Career,1959,Best Production Design,32nd,no
+Walter,H. Tyler,Career,1959,Best Production Design,32nd,no
+Samuel,M. Comer,Career,1959,Best Production Design,32nd,no
+Arthur,Krams,Career,1959,Best Production Design,32nd,no
+Carl,Anderson,The Last Angry Man,1959,Best Production Design,32nd,no
+William,Kiernan,The Last Angry Man,1959,Best Production Design,32nd,no
+Ted,Haworth,Some Like It Hot,1959,Best Production Design,32nd,no
+Edward,G. Boyle,Some Like It Hot,1959,Best Production Design,32nd,no
+Oliver,Messel,"Suddenly, Last Summer",1959,Best Production Design,32nd,no
+William,Kellner,"Suddenly, Last Summer",1959,Best Production Design,32nd,no
+Scott,Slimon,"Suddenly, Last Summer",1959,Best Production Design,32nd,no
+William,A. Horning,Ben-Hur,1959,Best Production Design,32nd,yes
+Edward,Carfagno,Ben-Hur,1959,Best Production Design,32nd,yes
+Hugh,Hunt,Ben-Hur,1959,Best Production Design,32nd,yes
+John,DeCuir,The Big Fisherman,1959,Best Production Design,32nd,no
+Julia,Heron,The Big Fisherman,1959,Best Production Design,32nd,no
+Lyle,R. Wheeler,Journey to the Center of the Earth,1959,Best Production Design,32nd,no
+Franz,Bachelin,Journey to the Center of the Earth,1959,Best Production Design,32nd,no
+Herman,A. Blumenthal,Journey to the Center of the Earth,1959,Best Production Design,32nd,no
+Walter,M. Scott,Journey to the Center of the Earth,1959,Best Production Design,32nd,no
+Joseph,Kish,Journey to the Center of the Earth,1959,Best Production Design,32nd,no
+William,A. Horning,North by Northwest,1959,Best Production Design,32nd,no
+Robert,F. Boyle,North by Northwest,1959,Best Production Design,32nd,no
+Merrill,Pye,North by Northwest,1959,Best Production Design,32nd,no
+Henry,Grace,North by Northwest,1959,Best Production Design,32nd,no
+Frank,McKelvy,North by Northwest,1959,Best Production Design,32nd,no
+Richard,H. Riedel,Pillow Talk,1959,Best Production Design,32nd,no
+Russell,A. Gausman,Pillow Talk,1959,Best Production Design,32nd,no
+Ruby,R. Levitt,Pillow Talk,1959,Best Production Design,32nd,no
+Alexandre,Trauner,The Apartment,1960,Best Production Design,33rd,yes
+Edward,G. Boyle,The Apartment,1960,Best Production Design,33rd,yes
+Joseph,McMillan Johnson,The Facts of Life,1960,Best Production Design,33rd,no
+Kenneth,A. Reid,The Facts of Life,1960,Best Production Design,33rd,no
+Ross,Dowd,The Facts of Life,1960,Best Production Design,33rd,no
+Joseph,Hurley,Psycho,1960,Best Production Design,33rd,no
+Robert,Clatworthy,Psycho,1960,Best Production Design,33rd,no
+George,Milo,Psycho,1960,Best Production Design,33rd,no
+Tom,Morahan,Sons and Lovers,1960,Best Production Design,33rd,no
+Lionel,Couch,Sons and Lovers,1960,Best Production Design,33rd,no
+Hal,Pereira,Visit to a Small Planet,1960,Best Production Design,33rd,no
+Walter,Tyler,Visit to a Small Planet,1960,Best Production Design,33rd,no
+Samuel,M. Comer,Visit to a Small Planet,1960,Best Production Design,33rd,no
+Arthur,Krams,Visit to a Small Planet,1960,Best Production Design,33rd,no
+Alexander,Golitzen,Spartacus,1960,Best Production Design,33rd,yes
+Eric,Orbom,Spartacus,1960,Best Production Design,33rd,yes
+Russell,A. Gausman,Spartacus,1960,Best Production Design,33rd,yes
+Julia,Heron,Spartacus,1960,Best Production Design,33rd,yes
+George,Davis,Cimarron,1960,Best Production Design,33rd,no
+Addison,Hehr,Cimarron,1960,Best Production Design,33rd,no
+Henry,Grace,Cimarron,1960,Best Production Design,33rd,no
+Hugh,Hunt,Cimarron,1960,Best Production Design,33rd,no
+Otto,Siegel,Cimarron,1960,Best Production Design,33rd,no
+Hal,Pereira,It Started in Naples,1960,Best Production Design,33rd,no
+Roland,Anderson,It Started in Naples,1960,Best Production Design,33rd,no
+Samuel,M. Comer,It Started in Naples,1960,Best Production Design,33rd,no
+Arrigo,Breschi,It Started in Naples,1960,Best Production Design,33rd,no
+Ted,Haworth,Pepe,1960,Best Production Design,33rd,no
+William,Kiernan,Pepe,1960,Best Production Design,33rd,no
+Edward,Carrere,Sunrise at Campobello,1960,Best Production Design,33rd,no
+George,James Hopkins,Sunrise at Campobello,1960,Best Production Design,33rd,no
+Harry,Horner,The Hustler,1961,Best Production Design,34th,yes
+Gene,Callahan,The Hustler,1961,Best Production Design,34th,yes
+Carroll,Clark,The Absent-Minded Professor,1961,Best Production Design,34th,no
+Emile,Kuri,The Absent-Minded Professor,1961,Best Production Design,34th,no
+Hal,Gausman,The Absent-Minded Professor,1961,Best Production Design,34th,no
+Fernando,Carrere,The Children's Hour,1961,Best Production Design,34th,no
+Edward,G. Boyle,The Children's Hour,1961,Best Production Design,34th,no
+Rudolph,Sternad,Judgment at Nuremberg,1961,Best Production Design,34th,no
+George,Milo,Judgment at Nuremberg,1961,Best Production Design,34th,no
+Piero,Gherardi,La Dolce Vita,1961,Best Production Design,34th,no
+Boris,Leven,West Side Story,1961,Best Production Design,34th,yes
+Victor,A. Gangelin,West Side Story,1961,Best Production Design,34th,yes
+Hal,Pereira,Breakfast at Tiffany's,1961,Best Production Design,34th,no
+Roland,Anderson,Breakfast at Tiffany's,1961,Best Production Design,34th,no
+Samuel,M. Comer,Breakfast at Tiffany's,1961,Best Production Design,34th,no
+Ray,Moyer,Breakfast at Tiffany's,1961,Best Production Design,34th,no
+Veniero,Colasanti,El Cid,1961,Best Production Design,34th,no
+John,Moore,El Cid,1961,Best Production Design,34th,no
+Alexander,Golitzen,Flower Drum Song,1961,Best Production Design,34th,no
+Joseph,C. Wright,Flower Drum Song,1961,Best Production Design,34th,no
+Howard,Bristol,Flower Drum Song,1961,Best Production Design,34th,no
+Hal,Pereira,Summer and Smoke,1961,Best Production Design,34th,no
+Walter,Tyler,Summer and Smoke,1961,Best Production Design,34th,no
+Samuel,M. Comer,Summer and Smoke,1961,Best Production Design,34th,no
+Arthur,Krams,Summer and Smoke,1961,Best Production Design,34th,no
+Alexander,Golitzen,To Kill a Mockingbird,1962,Best Production Design,35th,yes
+Henry,Bumstead,To Kill a Mockingbird,1962,Best Production Design,35th,yes
+Oliver,Emert,To Kill a Mockingbird,1962,Best Production Design,35th,yes
+Joseph,C. Wright,Days of Wine and Roses,1962,Best Production Design,35th,no
+George,James Hopkins,Days of Wine and Roses,1962,Best Production Design,35th,no
+Ted,Haworth,The Longest Day,1962,Best Production Design,35th,no
+Léon,Barsacq,The Longest Day,1962,Best Production Design,35th,no
+Vincent,Korda,The Longest Day,1962,Best Production Design,35th,no
+Gabriel,Béchir,The Longest Day,1962,Best Production Design,35th,no
+George,Davis,Period of Adjustment,1962,Best Production Design,35th,no
+Edward,Carfagno,Period of Adjustment,1962,Best Production Design,35th,no
+Henry,Grace,Period of Adjustment,1962,Best Production Design,35th,no
+Richard,Pefferle,Period of Adjustment,1962,Best Production Design,35th,no
+Hal,Pereira,The Pigeon That Took Rome,1962,Best Production Design,35th,no
+Roland,Anderson,The Pigeon That Took Rome,1962,Best Production Design,35th,no
+Samuel,M. Comer,The Pigeon That Took Rome,1962,Best Production Design,35th,no
+Frank,R. McKelvy,The Pigeon That Took Rome,1962,Best Production Design,35th,no
+John,Box,Lawrence of Arabia,1962,Best Production Design,35th,yes
+John,Stoll,Lawrence of Arabia,1962,Best Production Design,35th,yes
+Dario,Simoni,Lawrence of Arabia,1962,Best Production Design,35th,yes
+Paul,Groesse,The Music Man,1962,Best Production Design,35th,no
+George,James Hopkins,The Music Man,1962,Best Production Design,35th,no
+George,Davis,Mutiny on the Bounty,1962,Best Production Design,35th,no
+Joseph,McMillan Johnson,Mutiny on the Bounty,1962,Best Production Design,35th,no
+Henry,Grace,Mutiny on the Bounty,1962,Best Production Design,35th,no
+Hugh,Hunt,Mutiny on the Bounty,1962,Best Production Design,35th,no
+Alexander,Golitzen,That Touch of Mink,1962,Best Production Design,35th,no
+Robert,Clatworthy,That Touch of Mink,1962,Best Production Design,35th,no
+George,Milo,That Touch of Mink,1962,Best Production Design,35th,no
+George,Davis,The Wonderful World of the Brothers Grimm,1962,Best Production Design,35th,no
+Edward,Carfagno,The Wonderful World of the Brothers Grimm,1962,Best Production Design,35th,no
+Henry,Grace,The Wonderful World of the Brothers Grimm,1962,Best Production Design,35th,no
+Richard,Pefferle,The Wonderful World of the Brothers Grimm,1962,Best Production Design,35th,no
+Gene,Callahan,America America,1963,Best Production Design,36th,yes
+Piero,Gherardi,8½,1963,Best Production Design,36th,no
+Hal,Pereira,Hud,1963,Best Production Design,36th,no
+Tambi,Larsen,Hud,1963,Best Production Design,36th,no
+Samuel,M. Comer,Hud,1963,Best Production Design,36th,no
+Robert,R. Benton,Hud,1963,Best Production Design,36th,no
+Hal,Pereira,Love with the Proper Stranger,1963,Best Production Design,36th,no
+Roland,Anderson,Love with the Proper Stranger,1963,Best Production Design,36th,no
+Samuel,M. Comer,Love with the Proper Stranger,1963,Best Production Design,36th,no
+Grace,Gregory,Love with the Proper Stranger,1963,Best Production Design,36th,no
+George,Davis,Twilight of Honor,1963,Best Production Design,36th,no
+Paul,Groesse,Twilight of Honor,1963,Best Production Design,36th,no
+Henry,Grace,Twilight of Honor,1963,Best Production Design,36th,no
+Hugh,Hunt,Twilight of Honor,1963,Best Production Design,36th,no
+John,DeCuir,Cleopatra,1963,Best Production Design,36th,yes
+Jack,Martin Smith,Cleopatra,1963,Best Production Design,36th,yes
+Hilyard,M. Brown,Cleopatra,1963,Best Production Design,36th,yes
+Herman,A. Blumenthal,Cleopatra,1963,Best Production Design,36th,yes
+Elven,Webb,Cleopatra,1963,Best Production Design,36th,yes
+Maurice,Pelling,Cleopatra,1963,Best Production Design,36th,yes
+Boris,Juraga,Cleopatra,1963,Best Production Design,36th,yes
+Walter,M. Scott,Cleopatra,1963,Best Production Design,36th,yes
+Paul,S. Fox,Cleopatra,1963,Best Production Design,36th,yes
+Ray,Moyer,Cleopatra,1963,Best Production Design,36th,yes
+Lyle,R. Wheeler,The Cardinal,1963,Best Production Design,36th,no
+Gene,Callahan,The Cardinal,1963,Best Production Design,36th,no
+Hal,Pereira,Come Blow Your Horn,1963,Best Production Design,36th,no
+Roland,Anderson,Come Blow Your Horn,1963,Best Production Design,36th,no
+Samuel,M. Comer,Come Blow Your Horn,1963,Best Production Design,36th,no
+James,W. Payne,Come Blow Your Horn,1963,Best Production Design,36th,no
+George,Davis,How the West Was Won,1963,Best Production Design,36th,no
+William,Ferrari,How the West Was Won,1963,Best Production Design,36th,no
+Addison,Hehr,How the West Was Won,1963,Best Production Design,36th,no
+Henry,Grace,How the West Was Won,1963,Best Production Design,36th,no
+Don,Greenwood Jr.,How the West Was Won,1963,Best Production Design,36th,no
+Jack,Mills,How the West Was Won,1963,Best Production Design,36th,no
+Ralph,W. Brinton,Tom Jones,1963,Best Production Design,36th,no
+Jocelyn,Herbert,Tom Jones,1963,Best Production Design,36th,no
+Ted,Marshall,Tom Jones,1963,Best Production Design,36th,no
+Josie,MacAvin,Tom Jones,1963,Best Production Design,36th,no
+Vassilis,Photopoulos,Zorba the Greek,1964,Best Production Design,37th,yes
+George,Davis,The Americanization of Emily,1964,Best Production Design,37th,no
+Hans,Peters,The Americanization of Emily,1964,Best Production Design,37th,no
+Elliot,Scott,The Americanization of Emily,1964,Best Production Design,37th,no
+Henry,Grace,The Americanization of Emily,1964,Best Production Design,37th,no
+Robert,R. Benton,The Americanization of Emily,1964,Best Production Design,37th,no
+William,Glasgow,"Hush...Hush, Sweet Charlotte",1964,Best Production Design,37th,no
+Raphaël,Bretton,"Hush...Hush, Sweet Charlotte",1964,Best Production Design,37th,no
+Stephen,B. Grimes,The Night of the Iguana,1964,Best Production Design,37th,no
+Cary,Odell,Seven Days in May,1964,Best Production Design,37th,no
+Edward,G. Boyle,Seven Days in May,1964,Best Production Design,37th,no
+Gene,Allen,My Fair Lady,1964,Best Production Design,37th,yes
+Cecil,Beaton,My Fair Lady,1964,Best Production Design,37th,yes
+George,James Hopkins,My Fair Lady,1964,Best Production Design,37th,yes
+John,Bryan,Becket,1964,Best Production Design,37th,no
+Maurice,Carter,Becket,1964,Best Production Design,37th,no
+Patrick,McLoughlin,Becket,1964,Best Production Design,37th,no
+Robert,Cartwright,Becket,1964,Best Production Design,37th,no
+Carroll,Clark,Mary Poppins,1964,Best Production Design,37th,no
+William,H. Tuntke,Mary Poppins,1964,Best Production Design,37th,no
+Emile,Kuri,Mary Poppins,1964,Best Production Design,37th,no
+Hal,Gausman,Mary Poppins,1964,Best Production Design,37th,no
+George,Davis,The Unsinkable Molly Brown,1964,Best Production Design,37th,no
+E.,Preston Ames,The Unsinkable Molly Brown,1964,Best Production Design,37th,no
+Henry,Grace,The Unsinkable Molly Brown,1964,Best Production Design,37th,no
+Hugh,Hunt,The Unsinkable Molly Brown,1964,Best Production Design,37th,no
+Jack,Martin Smith,What a Way to Go!,1964,Best Production Design,37th,no
+Ted,Haworth,What a Way to Go!,1964,Best Production Design,37th,no
+Walter,M. Scott,What a Way to Go!,1964,Best Production Design,37th,no
+Stuart,A. Reiss,What a Way to Go!,1964,Best Production Design,37th,no
+Robert,Clatworthy,Ship of Fools,1965,Best Production Design,38th,yes
+Joseph,Kish,Ship of Fools,1965,Best Production Design,38th,yes
+Robert,Emmet Smith,King Rat,1965,Best Production Design,38th,no
+Frank,Tuttle,King Rat,1965,Best Production Design,38th,no
+George,Davis,A Patch of Blue,1965,Best Production Design,38th,no
+Urie,McCleary,A Patch of Blue,1965,Best Production Design,38th,no
+Henry,Grace,A Patch of Blue,1965,Best Production Design,38th,no
+Charles,S. Thompson,A Patch of Blue,1965,Best Production Design,38th,no
+Hal,Pereira,The Slender Thread,1965,Best Production Design,38th,no
+Jack,Poplin,The Slender Thread,1965,Best Production Design,38th,no
+Robert,R. Benton,The Slender Thread,1965,Best Production Design,38th,no
+Joseph,Kish,The Slender Thread,1965,Best Production Design,38th,no
+Hal,Pereira,The Spy Who Came In from the Cold,1965,Best Production Design,38th,no
+Tambi,Larsen,The Spy Who Came In from the Cold,1965,Best Production Design,38th,no
+Ted,Marshall,The Spy Who Came In from the Cold,1965,Best Production Design,38th,no
+Josie,MacAvin,The Spy Who Came In from the Cold,1965,Best Production Design,38th,no
+John,Box,Doctor Zhivago,1965,Best Production Design,38th,yes
+Terence,Marsh,Doctor Zhivago,1965,Best Production Design,38th,yes
+Dario,Simoni,Doctor Zhivago,1965,Best Production Design,38th,yes
+John,DeCuir,The Agony and the Ecstasy,1965,Best Production Design,38th,no
+Jack,Martin Smith,The Agony and the Ecstasy,1965,Best Production Design,38th,no
+Dario,Simoni,The Agony and the Ecstasy,1965,Best Production Design,38th,no
+Richard,Day,The Greatest Story Ever Told,1965,Best Production Design,38th,no
+William,Creber,The Greatest Story Ever Told,1965,Best Production Design,38th,no
+David,S. Hall,The Greatest Story Ever Told,1965,Best Production Design,38th,no
+Ray,Moyer,The Greatest Story Ever Told,1965,Best Production Design,38th,no
+Fred,M. MacLean,The Greatest Story Ever Told,1965,Best Production Design,38th,no
+Norman,Rockett,The Greatest Story Ever Told,1965,Best Production Design,38th,no
+Robert,Clatworthy,Inside Daisy Clover,1965,Best Production Design,38th,no
+George,James Hopkins,Inside Daisy Clover,1965,Best Production Design,38th,no
+Boris,Leven,The Sound of Music,1965,Best Production Design,38th,no
+Walter,M. Scott,The Sound of Music,1965,Best Production Design,38th,no
+Ruby,Levitt,The Sound of Music,1965,Best Production Design,38th,no
+Richard,Sylbert,Who's Afraid of Virginia Woolf?,1966,Best Production Design,39th,yes
+George,James Hopkins,Who's Afraid of Virginia Woolf?,1966,Best Production Design,39th,yes
+Robert,Luthardt,The Fortune Cookie,1966,Best Production Design,39th,no
+Edward,G. Boyle,The Fortune Cookie,1966,Best Production Design,39th,no
+Luigi,Scaccianoce,The Gospel According to St. Matthew,1966,Best Production Design,39th,no
+Willy,Holt,Is Paris Burning?,1966,Best Production Design,39th,no
+Marc,Frédérix,Is Paris Burning?,1966,Best Production Design,39th,no
+Pierre,Guffroy,Is Paris Burning?,1966,Best Production Design,39th,no
+George,Davis,Mister Buddwing,1966,Best Production Design,39th,no
+Paul,Groesse,Mister Buddwing,1966,Best Production Design,39th,no
+Henry,Grace,Mister Buddwing,1966,Best Production Design,39th,no
+Hugh,Hunt,Mister Buddwing,1966,Best Production Design,39th,no
+Jack,Martin Smith,Fantastic Voyage,1966,Best Production Design,39th,yes
+Dale,Hennesy,Fantastic Voyage,1966,Best Production Design,39th,yes
+Walter,M. Scott,Fantastic Voyage,1966,Best Production Design,39th,yes
+Stuart,A. Reiss,Fantastic Voyage,1966,Best Production Design,39th,yes
+Alexander,Golitzen,Gambit,1966,Best Production Design,39th,no
+George,C. Webb,Gambit,1966,Best Production Design,39th,no
+John,McCarthy Jr.,Gambit,1966,Best Production Design,39th,no
+John,P. Austin,Gambit,1966,Best Production Design,39th,no
+Piero,Gherardi,Juliet of the Spirits,1966,Best Production Design,39th,no
+Hal,Pereira,The Oscar,1966,Best Production Design,39th,no
+Arthur,Lonergan,The Oscar,1966,Best Production Design,39th,no
+Robert,R. Benton,The Oscar,1966,Best Production Design,39th,no
+James,W. Payne,The Oscar,1966,Best Production Design,39th,no
+Boris,Leven,The Sand Pebbles,1966,Best Production Design,39th,no
+Walter,M. Scott,The Sand Pebbles,1966,Best Production Design,39th,no
+John,Sturtevant,The Sand Pebbles,1966,Best Production Design,39th,no
+William,Kiernan,The Sand Pebbles,1966,Best Production Design,39th,no
+John,Truscott,Camelot,1967,Best Production Design,40th,yes
+Edward,Carrere,Camelot,1967,Best Production Design,40th,yes
+John,W. Brown,Camelot,1967,Best Production Design,40th,yes
+Mario,Chiari,Doctor Dolittle,1967,Best Production Design,40th,no
+Jack,Martin Smith,Doctor Dolittle,1967,Best Production Design,40th,no
+Ed,Graves,Doctor Dolittle,1967,Best Production Design,40th,no
+Walter,M. Scott,Doctor Dolittle,1967,Best Production Design,40th,no
+Stuart,A. Reiss,Doctor Dolittle,1967,Best Production Design,40th,no
+Robert,Clatworthy,Guess Who's Coming to Dinner,1967,Best Production Design,40th,no
+Frank,Tuttle,Guess Who's Coming to Dinner,1967,Best Production Design,40th,no
+Renzo,Mongiardino,The Taming of the Shrew,1967,Best Production Design,40th,no
+John,DeCuir,The Taming of the Shrew,1967,Best Production Design,40th,no
+Elven,Webb,The Taming of the Shrew,1967,Best Production Design,40th,no
+Giuseppe,Mariani,The Taming of the Shrew,1967,Best Production Design,40th,no
+Dario,Simoni,The Taming of the Shrew,1967,Best Production Design,40th,no
+Luigi,Gervasi,The Taming of the Shrew,1967,Best Production Design,40th,no
+Alexander,Golitzen,Thoroughly Modern Millie,1967,Best Production Design,40th,no
+George,C. Webb,Thoroughly Modern Millie,1967,Best Production Design,40th,no
+Howard,Bristol,Thoroughly Modern Millie,1967,Best Production Design,40th,no
+John,Box,Oliver!,1968,Best Production Design,41st,yes
+Terence,Marsh,Oliver!,1968,Best Production Design,41st,yes
+Vernon,Dixon,Oliver!,1968,Best Production Design,41st,yes
+Ken,Muggleston,Oliver!,1968,Best Production Design,41st,yes
+George,Davis,The Shoes of the Fisherman,1968,Best Production Design,41st,no
+Edward,Carfagno,The Shoes of the Fisherman,1968,Best Production Design,41st,no
+Boris,Leven,Star!,1968,Best Production Design,41st,no
+Walter,M. Scott,Star!,1968,Best Production Design,41st,no
+Howard,Bristol,Star!,1968,Best Production Design,41st,no
+Anthony,Masters,2001: A Space Odyssey,1968,Best Production Design,41st,no
+Harry,Lange,2001: A Space Odyssey,1968,Best Production Design,41st,no
+Ernest,Archer,2001: A Space Odyssey,1968,Best Production Design,41st,no
+Mikhail,Bogdanov,War and Peace,1968,Best Production Design,41st,no
+Gennady,Myasnikov,War and Peace,1968,Best Production Design,41st,no
+Georgi,Koshelev,War and Peace,1968,Best Production Design,41st,no
+Vladimir,Uvarov,War and Peace,1968,Best Production Design,41st,no
+John,DeCuir,"Hello, Dolly!",1969,Best Production Design,42nd,yes
+Jack,Martin Smith,"Hello, Dolly!",1969,Best Production Design,42nd,yes
+Herman,A. Blumenthal,"Hello, Dolly!",1969,Best Production Design,42nd,yes
+Walter,M. Scott,"Hello, Dolly!",1969,Best Production Design,42nd,yes
+George,James Hopkins,"Hello, Dolly!",1969,Best Production Design,42nd,yes
+Raphaël,Bretton,"Hello, Dolly!",1969,Best Production Design,42nd,yes
+Maurice,Carter,Anne of the Thousand Days,1969,Best Production Design,42nd,no
+Lionel,Couch,Anne of the Thousand Days,1969,Best Production Design,42nd,no
+Patrick,McLoughlin,Anne of the Thousand Days,1969,Best Production Design,42nd,no
+Robert,F. Boyle,"Gaily, Gaily",1969,Best Production Design,42nd,no
+George,B. Chan,"Gaily, Gaily",1969,Best Production Design,42nd,no
+Edward,G. Boyle,"Gaily, Gaily",1969,Best Production Design,42nd,no
+Carl,Biddiscombe,"Gaily, Gaily",1969,Best Production Design,42nd,no
+Alexander,Golitzen,Sweet Charity,1969,Best Production Design,42nd,no
+George,C. Webb,Sweet Charity,1969,Best Production Design,42nd,no
+Jack,D. Moore,Sweet Charity,1969,Best Production Design,42nd,no
+Harry,Horner,"They Shoot Horses, Don't They?",1969,Best Production Design,42nd,no
+Frank,R. McKelvy,"They Shoot Horses, Don't They?",1969,Best Production Design,42nd,no
+Urie,McCleary,Patton,1970,Best Production Design,43rd,yes
+Gil,Parrondo,Patton,1970,Best Production Design,43rd,yes
+Antonio,Mateos,Patton,1970,Best Production Design,43rd,yes
+Pierre-Louis,Thévenet,Patton,1970,Best Production Design,43rd,yes
+Alexander,Golitzen,Airport,1970,Best Production Design,43rd,no
+E.,Preston Ames,Airport,1970,Best Production Design,43rd,no
+Jack,D. Moore,Airport,1970,Best Production Design,43rd,no
+Mickey,S. Michaels,Airport,1970,Best Production Design,43rd,no
+Tambi,Larsen,The Molly Maguires,1970,Best Production Design,43rd,no
+Darrell,Silvera,The Molly Maguires,1970,Best Production Design,43rd,no
+Terence,Marsh,Scrooge,1970,Best Production Design,43rd,no
+Robert,Cartwright,Scrooge,1970,Best Production Design,43rd,no
+Pamela,Cornell,Scrooge,1970,Best Production Design,43rd,no
+Jack,Martin Smith,Tora! Tora! Tora!,1970,Best Production Design,43rd,no
+Yoshirō,Muraki,Tora! Tora! Tora!,1970,Best Production Design,43rd,no
+Richard,Day,Tora! Tora! Tora!,1970,Best Production Design,43rd,no
+Taizô,Kawashima,Tora! Tora! Tora!,1970,Best Production Design,43rd,no
+Walter,M. Scott,Tora! Tora! Tora!,1970,Best Production Design,43rd,no
+Norman,Rockett,Tora! Tora! Tora!,1970,Best Production Design,43rd,no
+Carl,Biddiscombe,Tora! Tora! Tora!,1970,Best Production Design,43rd,no
+John,Box,Nicholas and Alexandra,1971,Best Production Design,44th,yes
+Ernest,Archer,Nicholas and Alexandra,1971,Best Production Design,44th,yes
+Jack,Maxsted,Nicholas and Alexandra,1971,Best Production Design,44th,yes
+Gil,Parrondo,Nicholas and Alexandra,1971,Best Production Design,44th,yes
+Vernon,Dixon,Nicholas and Alexandra,1971,Best Production Design,44th,yes
+Boris,Leven,The Andromeda Strain,1971,Best Production Design,44th,no
+William,H. Tuntke,The Andromeda Strain,1971,Best Production Design,44th,no
+Ruby,Levitt,The Andromeda Strain,1971,Best Production Design,44th,no
+John,B. Mansbridge,Bedknobs and Broomsticks,1971,Best Production Design,44th,no
+Peter,Ellenshaw,Bedknobs and Broomsticks,1971,Best Production Design,44th,no
+Emile,Kuri,Bedknobs and Broomsticks,1971,Best Production Design,44th,no
+Hal,Gausman,Bedknobs and Broomsticks,1971,Best Production Design,44th,no
+Robert,F. Boyle,Fiddler on the Roof,1971,Best Production Design,44th,no
+Michael,Stringer,Fiddler on the Roof,1971,Best Production Design,44th,no
+Peter,Lamont,Fiddler on the Roof,1971,Best Production Design,44th,no
+Terence,Marsh,"Mary, Queen of Scots",1971,Best Production Design,44th,no
+Robert,Cartwright,"Mary, Queen of Scots",1971,Best Production Design,44th,no
+Peter,Howitt,"Mary, Queen of Scots",1971,Best Production Design,44th,no
+Rolf,Zehetbauer,Cabaret,1972,Best Production Design,45th,yes
+Hans,Jürgen Kiebach,Cabaret,1972,Best Production Design,45th,yes
+Herbert,Strabel,Cabaret,1972,Best Production Design,45th,yes
+Carl,Anderson,Lady Sings the Blues,1972,Best Production Design,45th,no
+Reg,Allen,Lady Sings the Blues,1972,Best Production Design,45th,no
+William,Creber,The Poseidon Adventure,1972,Best Production Design,45th,no
+Raphaël,Bretton,The Poseidon Adventure,1972,Best Production Design,45th,no
+John,Box,Travels with My Aunt,1972,Best Production Design,45th,no
+Gil,Parrondo,Travels with My Aunt,1972,Best Production Design,45th,no
+Robert,W. Laing,Travels with My Aunt,1972,Best Production Design,45th,no
+Donald,M. Ashton,Young Winston,1972,Best Production Design,45th,no
+Geoffrey,Drake,Young Winston,1972,Best Production Design,45th,no
+John,Graysmark,Young Winston,1972,Best Production Design,45th,no
+William,Hutchinson,Young Winston,1972,Best Production Design,45th,no
+Peter,James,Young Winston,1972,Best Production Design,45th,no
+Henry,Bumstead,The Sting,1973,Best Production Design,46th,yes
+James,W. Payne,The Sting,1973,Best Production Design,46th,yes
+Lorenzo,Mongiardino,"Brother Sun, Sister Moon",1973,Best Production Design,46th,no
+Gianni,Quaranta,"Brother Sun, Sister Moon",1973,Best Production Design,46th,no
+Carmelo,Patrono,"Brother Sun, Sister Moon",1973,Best Production Design,46th,no
+Bill,Malley,The Exorcist,1973,Best Production Design,46th,no
+Jerry,Wunderlich,The Exorcist,1973,Best Production Design,46th,no
+Philip,M. Jefferies,Tom Sawyer,1973,Best Production Design,46th,no
+Robert,De Vestel,Tom Sawyer,1973,Best Production Design,46th,no
+Stephen,B. Grimes,The Way We Were,1973,Best Production Design,46th,no
+William,Kiernan,The Way We Were,1973,Best Production Design,46th,no
+Dean,Tavoularis,The Godfather Part II,1974,Best Production Design,47th,yes
+Angelo,P. Graham,The Godfather Part II,1974,Best Production Design,47th,yes
+George,R. Nelson,The Godfather Part II,1974,Best Production Design,47th,yes
+Richard,Sylbert,Chinatown,1974,Best Production Design,47th,no
+W.,Stewart Campbell,Chinatown,1974,Best Production Design,47th,no
+Ruby,Levitt,Chinatown,1974,Best Production Design,47th,no
+Alexander,Golitzen,Earthquake,1974,Best Production Design,47th,no
+E.,Preston Ames,Earthquake,1974,Best Production Design,47th,no
+Frank,R. McKelvy,Earthquake,1974,Best Production Design,47th,no
+Peter,Ellenshaw,The Island at the Top of the World,1974,Best Production Design,47th,no
+John,B. Mansbridge,The Island at the Top of the World,1974,Best Production Design,47th,no
+Walter,Tyler,The Island at the Top of the World,1974,Best Production Design,47th,no
+Al,Roelofs,The Island at the Top of the World,1974,Best Production Design,47th,no
+Hal,Gausman,The Island at the Top of the World,1974,Best Production Design,47th,no
+William,Creber,The Towering Inferno,1974,Best Production Design,47th,no
+Ward,Preston,The Towering Inferno,1974,Best Production Design,47th,no
+Raphaël,Bretton,The Towering Inferno,1974,Best Production Design,47th,no
+Ken,Adam,Barry Lyndon,1975,Best Production Design,48th,yes
+Roy,Walker,Barry Lyndon,1975,Best Production Design,48th,yes
+Vernon,Dixon,Barry Lyndon,1975,Best Production Design,48th,yes
+Edward,Carfagno,The Hindenburg,1975,Best Production Design,48th,no
+Frank,R. McKelvy,The Hindenburg,1975,Best Production Design,48th,no
+Alexandre,Trauner,The Man Who Would Be King,1975,Best Production Design,48th,no
+Tony,Inglis,The Man Who Would Be King,1975,Best Production Design,48th,no
+Peter,James,The Man Who Would Be King,1975,Best Production Design,48th,no
+Richard,Sylbert,Shampoo,1975,Best Production Design,48th,no
+W.,Stewart Campbell,Shampoo,1975,Best Production Design,48th,no
+George,Gaines,Shampoo,1975,Best Production Design,48th,no
+Albert,Brenner,The Sunshine Boys,1975,Best Production Design,48th,no
+Marvin,March,The Sunshine Boys,1975,Best Production Design,48th,no
+George,Jenkins,All the President's Men,1976,Best Production Design,49th,yes
+George,Gaines,All the President's Men,1976,Best Production Design,49th,yes
+Elliot,Scott,The Incredible Sarah,1976,Best Production Design,49th,no
+Norman,Reynolds,The Incredible Sarah,1976,Best Production Design,49th,no
+Gene,Callahan,The Last Tycoon,1976,Best Production Design,49th,no
+Jack,T. Collis,The Last Tycoon,1976,Best Production Design,49th,no
+Jerry,Wunderlich,The Last Tycoon,1976,Best Production Design,49th,no
+Dale,Hennesy,Logan's Run,1976,Best Production Design,49th,no
+Robert,De Vestel,Logan's Run,1976,Best Production Design,49th,no
+Robert,F. Boyle,The Shootist,1976,Best Production Design,49th,no
+Arthur,Jeph Parker,The Shootist,1976,Best Production Design,49th,no
+John,Barry,Star Wars,1977,Best Production Design,50th,yes
+Norman,Reynolds,Star Wars,1977,Best Production Design,50th,yes
+Leslie,Dilley,Star Wars,1977,Best Production Design,50th,yes
+Roger,Christian,Star Wars,1977,Best Production Design,50th,yes
+George,C. Webb,Airport '77,1977,Best Production Design,50th,no
+Mickey,S. Michaels,Airport '77,1977,Best Production Design,50th,no
+Joe,Alves,Close Encounters of the Third Kind,1977,Best Production Design,50th,no
+Dan,Lomino,Close Encounters of the Third Kind,1977,Best Production Design,50th,no
+Phil,Abramson,Close Encounters of the Third Kind,1977,Best Production Design,50th,no
+Ken,Adam,The Spy Who Loved Me,1977,Best Production Design,50th,no
+Peter,Lamont,The Spy Who Loved Me,1977,Best Production Design,50th,no
+Hugh,Scaife,The Spy Who Loved Me,1977,Best Production Design,50th,no
+Albert,Brenner,The Turning Point,1977,Best Production Design,50th,no
+Marvin,March,The Turning Point,1977,Best Production Design,50th,no
+Paul,Sylbert,Heaven Can Wait,1978,Best Production Design,51st,yes
+Edwin,O'Donovan,Heaven Can Wait,1978,Best Production Design,51st,yes
+George,Gaines,Heaven Can Wait,1978,Best Production Design,51st,yes
+Dean,Tavoularis,The Brink's Job,1978,Best Production Design,51st,no
+Angelo,P. Graham,The Brink's Job,1978,Best Production Design,51st,no
+George,R. Nelson,The Brink's Job,1978,Best Production Design,51st,no
+Bruce,Kay,The Brink's Job,1978,Best Production Design,51st,no
+Albert,Brenner,California Suite,1978,Best Production Design,51st,no
+Marvin,March,California Suite,1978,Best Production Design,51st,no
+Mel,Bourne,Interiors,1978,Best Production Design,51st,no
+Daniel,Robert,Interiors,1978,Best Production Design,51st,no
+Tony,Walton,The Wiz,1978,Best Production Design,51st,no
+Philip,Rosenberg,The Wiz,1978,Best Production Design,51st,no
+Edward,Stewart,The Wiz,1978,Best Production Design,51st,no
+Robert,Drumheller,The Wiz,1978,Best Production Design,51st,no
+Philip,Rosenberg,All That Jazz,1979,Best Production Design,52nd,yes
+Tony,Walton,All That Jazz,1979,Best Production Design,52nd,yes
+Edward,Stewart,All That Jazz,1979,Best Production Design,52nd,yes
+Gary,J. Brink,All That Jazz,1979,Best Production Design,52nd,yes
+Michael,Seymour,Alien,1979,Best Production Design,52nd,no
+Leslie,Dilley,Alien,1979,Best Production Design,52nd,no
+Roger,Christian,Alien,1979,Best Production Design,52nd,no
+Ian,Whittaker,Alien,1979,Best Production Design,52nd,no
+Dean,Tavoularis,Apocalypse Now,1979,Best Production Design,52nd,no
+Angelo,P. Graham,Apocalypse Now,1979,Best Production Design,52nd,no
+George,R. Nelson,Apocalypse Now,1979,Best Production Design,52nd,no
+George,Jenkins,The China Syndrome,1979,Best Production Design,52nd,no
+Arthur,Jeph Parker,The China Syndrome,1979,Best Production Design,52nd,no
+Harold,Michelson,Star Trek: The Motion Picture,1979,Best Production Design,52nd,no
+Joe,Jennings,Star Trek: The Motion Picture,1979,Best Production Design,52nd,no
+Leon,Harris,Star Trek: The Motion Picture,1979,Best Production Design,52nd,no
+John,Vallone,Star Trek: The Motion Picture,1979,Best Production Design,52nd,no
+Linda,DeScenna,Star Trek: The Motion Picture,1979,Best Production Design,52nd,no
+Pierre,Guffroy,Tess,1980,Best Production Design,53rd,yes
+Jack,Stephens,Tess,1980,Best Production Design,53rd,yes
+John,W. Corso,Coal Miner's Daughter,1980,Best Production Design,53rd,no
+John,M. Dwyer,Coal Miner's Daughter,1980,Best Production Design,53rd,no
+Stuart,Craig,The Elephant Man,1980,Best Production Design,53rd,no
+Robert,Cartwright,The Elephant Man,1980,Best Production Design,53rd,no
+Hugh,Scaife,The Elephant Man,1980,Best Production Design,53rd,no
+Norman,Reynolds,Star Wars: Episode V – The Empire Strikes Back,1980,Best Production Design,53rd,no
+Leslie,Dilley,Star Wars: Episode V – The Empire Strikes Back,1980,Best Production Design,53rd,no
+Harry,Lange,Star Wars: Episode V – The Empire Strikes Back,1980,Best Production Design,53rd,no
+Alan,Tomkins,Star Wars: Episode V – The Empire Strikes Back,1980,Best Production Design,53rd,no
+Michael,D. Ford,Star Wars: Episode V – The Empire Strikes Back,1980,Best Production Design,53rd,no
+Yoshirō,Muraki,Kagemusha,1980,Best Production Design,53rd,no
+Norman,Reynolds,Raiders of the Lost Ark,1981,Best Production Design,54th,yes
+Leslie,Dilley,Raiders of the Lost Ark,1981,Best Production Design,54th,yes
+Michael,D. Ford,Raiders of the Lost Ark,1981,Best Production Design,54th,yes
+Assheton,Gorton,The French Lieutenant's Woman,1981,Best Production Design,54th,no
+Ann,Mollo,The French Lieutenant's Woman,1981,Best Production Design,54th,no
+Tambi,Larsen,Heaven's Gate,1981,Best Production Design,54th,no
+James,L. Berkey,Heaven's Gate,1981,Best Production Design,54th,no
+John,Graysmark,Ragtime,1981,Best Production Design,54th,no
+Patrizia,von Brandenstein,Ragtime,1981,Best Production Design,54th,no
+Tony,Reading,Ragtime,1981,Best Production Design,54th,no
+George,DeTitta Sr.,Ragtime,1981,Best Production Design,54th,no
+George,DeTitta Jr.,Ragtime,1981,Best Production Design,54th,no
+Peter,Howitt,Ragtime,1981,Best Production Design,54th,no
+Richard,Sylbert,Reds,1981,Best Production Design,54th,no
+Michael,Seirton,Reds,1981,Best Production Design,54th,no
+Stuart,Craig,Gandhi,1982,Best Production Design,55th,yes
+Robert,W. Laing,Gandhi,1982,Best Production Design,55th,yes
+Michael,Seirton,Gandhi,1982,Best Production Design,55th,yes
+Dale,Hennesy,Annie,1982,Best Production Design,55th,no
+Marvin,March,Annie,1982,Best Production Design,55th,no
+Lawrence,G. Paull,Blade Runner,1982,Best Production Design,55th,no
+David,L. Snyder,Blade Runner,1982,Best Production Design,55th,no
+Linda,DeScenna,Blade Runner,1982,Best Production Design,55th,no
+Franco,Zeffirelli,La Traviata,1982,Best Production Design,55th,no
+Gianni,Quaranta,La Traviata,1982,Best Production Design,55th,no
+Rodger,Maus,Victor/Victoria,1982,Best Production Design,55th,no
+Tim,Hutchinson,Victor/Victoria,1982,Best Production Design,55th,no
+William,Craig Smith,Victor/Victoria,1982,Best Production Design,55th,no
+Harry,Cordwell,Victor/Victoria,1982,Best Production Design,55th,no
+Anna,Asp,Fanny and Alexander,1983,Best Production Design,56th,yes
+Norman,Reynolds,Return of the Jedi,1983,Best Production Design,56th,no
+Fred,Hole,Return of the Jedi,1983,Best Production Design,56th,no
+James,L. Schoppe,Return of the Jedi,1983,Best Production Design,56th,no
+Michael,D. Ford,Return of the Jedi,1983,Best Production Design,56th,no
+Geoffrey,Kirkland,The Right Stuff,1983,Best Production Design,56th,no
+Richard,Lawrence,The Right Stuff,1983,Best Production Design,56th,no
+W.,Stewart Campbell,The Right Stuff,1983,Best Production Design,56th,no
+Peter,R. Romero,The Right Stuff,1983,Best Production Design,56th,no
+Jim,Poynter,The Right Stuff,1983,Best Production Design,56th,no
+George,R. Nelson,The Right Stuff,1983,Best Production Design,56th,no
+Polly,Platt,Terms of Endearment,1983,Best Production Design,56th,no
+Harold,Michelson,Terms of Endearment,1983,Best Production Design,56th,no
+Tom,Pedigo,Terms of Endearment,1983,Best Production Design,56th,no
+Anthony,Mondell,Terms of Endearment,1983,Best Production Design,56th,no
+Roy,Walker,Yentl,1983,Best Production Design,56th,no
+Leslie,Tomkins,Yentl,1983,Best Production Design,56th,no
+Tessa,Davies,Yentl,1983,Best Production Design,56th,no
+Patrizia,von Brandenstein,Amadeus,1984,Best Production Design,57th,yes
+Karel,Černý,Amadeus,1984,Best Production Design,57th,yes
+Albert,Brenner,2010,1984,Best Production Design,57th,no
+Rick,Simpson,2010,1984,Best Production Design,57th,no
+Richard,Sylbert,The Cotton Club,1984,Best Production Design,57th,no
+George,Gaines,The Cotton Club,1984,Best Production Design,57th,no
+Mel,Bourne,The Natural,1984,Best Production Design,57th,no
+Angelo,P. Graham,The Natural,1984,Best Production Design,57th,no
+Bruce,Weintraub,The Natural,1984,Best Production Design,57th,no
+John,Box,A Passage to India,1984,Best Production Design,57th,no
+Hugh,Scaife,A Passage to India,1984,Best Production Design,57th,no
+Stephen,B. Grimes,Out of Africa,1985,Best Production Design,58th,yes
+Josie,MacAvin,Out of Africa,1985,Best Production Design,58th,yes
+Norman,Garwood,Brazil,1985,Best Production Design,58th,no
+Maggie,Gray,Brazil,1985,Best Production Design,58th,no
+J.,Michael Riva,The Color Purple,1985,Best Production Design,58th,no
+Bo,Welch,The Color Purple,1985,Best Production Design,58th,no
+Linda,DeScenna,The Color Purple,1985,Best Production Design,58th,no
+Yoshirō,Muraki,Ran,1985,Best Production Design,58th,no
+Shinobu,Muraki,Ran,1985,Best Production Design,58th,no
+Stan,Jolley,Witness,1985,Best Production Design,58th,no
+John,H. Anderson,Witness,1985,Best Production Design,58th,no
+Gianni,Quaranta,A Room with a View,1986,Best Production Design,59th,yes
+Brian,Ackland-Snow,A Room with a View,1986,Best Production Design,59th,yes
+Brian,Savegar,A Room with a View,1986,Best Production Design,59th,yes
+Elio,Altramura,A Room with a View,1986,Best Production Design,59th,yes
+Peter,Lamont,Aliens,1986,Best Production Design,59th,no
+Crispian,Sallis,Aliens,1986,Best Production Design,59th,no
+Boris,Leven,The Color of Money,1986,Best Production Design,59th,no
+Karen,O'Hara,The Color of Money,1986,Best Production Design,59th,no
+Stuart,Wurtzel,Hannah and Her Sisters,1986,Best Production Design,59th,no
+Carol,Joffe,Hannah and Her Sisters,1986,Best Production Design,59th,no
+Stuart,Craig,The Mission,1986,Best Production Design,59th,no
+Jack,Stephens,The Mission,1986,Best Production Design,59th,no
+Ferdinando,Scarfiotti,The Last Emperor,1987,Best Production Design,60th,yes
+Bruno,Cesari,The Last Emperor,1987,Best Production Design,60th,yes
+Osvaldo,Desideri,The Last Emperor,1987,Best Production Design,60th,yes
+Norman,Reynolds,Empire of the Sun,1987,Best Production Design,60th,no
+Harry,Cordwell,Empire of the Sun,1987,Best Production Design,60th,no
+Anthony,Pratt,Hope and Glory,1987,Best Production Design,60th,no
+Joanne,Woollard,Hope and Glory,1987,Best Production Design,60th,no
+Santo,Loquasto,Radio Days,1987,Best Production Design,60th,no
+Carol,Joffe,Radio Days,1987,Best Production Design,60th,no
+Leslie,Bloom,Radio Days,1987,Best Production Design,60th,no
+George,DeTitta Jr.,Radio Days,1987,Best Production Design,60th,no
+Patrizia,von Brandenstein,The Untouchables,1987,Best Production Design,60th,no
+William,A. Elliott,The Untouchables,1987,Best Production Design,60th,no
+Hal,Gausman,The Untouchables,1987,Best Production Design,60th,no
+Stuart,Craig,Dangerous Liaisons,1988,Best Production Design,61st,yes
+Gérard,James,Dangerous Liaisons,1988,Best Production Design,61st,yes
+Albert,Brenner,Beaches,1988,Best Production Design,61st,no
+Garrett,Lewis,Beaches,1988,Best Production Design,61st,no
+Ida,Random,Rain Man,1988,Best Production Design,61st,no
+Linda,DeScenna,Rain Man,1988,Best Production Design,61st,no
+Dean,Tavoularis,Tucker: The Man and His Dream,1988,Best Production Design,61st,no
+Armin,Ganz,Tucker: The Man and His Dream,1988,Best Production Design,61st,no
+Elliot,Scott,Who Framed Roger Rabbit,1988,Best Production Design,61st,no
+Peter,Howitt,Who Framed Roger Rabbit,1988,Best Production Design,61st,no
+Anton,Furst,Batman,1989,Best Production Design,62nd,yes
+Peter,Young,Batman,1989,Best Production Design,62nd,yes
+Leslie,Dilley,The Abyss,1989,Best Production Design,62nd,no
+Anne,Kuljian,The Abyss,1989,Best Production Design,62nd,no
+Dante,Ferretti,The Adventures of Baron Munchausen,1989,Best Production Design,62nd,no
+Francesca,Lo Schiavo,The Adventures of Baron Munchausen,1989,Best Production Design,62nd,no
+Bruno,Rubeo,Driving Miss Daisy,1989,Best Production Design,62nd,no
+Crispian,Sallis,Driving Miss Daisy,1989,Best Production Design,62nd,no
+Norman,Garwood,Glory,1989,Best Production Design,62nd,no
+Garrett,Lewis,Glory,1989,Best Production Design,62nd,no
+Ezio,Frigerio,Cyrano de Bergerac,1990,Best Production Design,63rd,no
+Jacques,Rouxel,Cyrano de Bergerac,1990,Best Production Design,63rd,no
+Jeffrey,Beecroft,Dances with Wolves,1990,Best Production Design,63rd,no
+Lisa,Dean,Dances with Wolves,1990,Best Production Design,63rd,no
+Dean,Tavoularis,The Godfather Part III,1990,Best Production Design,63rd,no
+Gary,Fettis,The Godfather Part III,1990,Best Production Design,63rd,no
+Dante,Ferretti,Hamlet,1990,Best Production Design,63rd,no
+Francesca,Lo Schiavo,Hamlet,1990,Best Production Design,63rd,no
+Dennis,Gassner,Bugsy,1991,Best Production Design,64th,yes
+Nancy,Haigh,Bugsy,1991,Best Production Design,64th,yes
+Dennis,Gassner,Barton Fink,1991,Best Production Design,64th,no
+Nancy,Haigh,Barton Fink,1991,Best Production Design,64th,no
+Mel,Bourne,The Fisher King,1991,Best Production Design,64th,no
+Cindy,Carr,The Fisher King,1991,Best Production Design,64th,no
+Norman,Garwood,Hook,1991,Best Production Design,64th,no
+Garrett,Lewis,Hook,1991,Best Production Design,64th,no
+Paul,Sylbert,The Prince of Tides,1991,Best Production Design,64th,no
+Caryl,Heller,The Prince of Tides,1991,Best Production Design,64th,no
+Luciana,Arrighi,Howards End,1992,Best Production Design,65th,yes
+Ian,Whittaker,Howards End,1992,Best Production Design,65th,yes
+Thomas,E. Sanders,Bram Stoker's Dracula,1992,Best Production Design,65th,no
+Garrett,Lewis,Bram Stoker's Dracula,1992,Best Production Design,65th,no
+Stuart,Craig,Chaplin,1992,Best Production Design,65th,no
+Chris,A. Butler,Chaplin,1992,Best Production Design,65th,no
+Ferdinando,Scarfiotti,Toys,1992,Best Production Design,65th,no
+Linda,DeScenna,Toys,1992,Best Production Design,65th,no
+Henry,Bumstead,Unforgiven,1992,Best Production Design,65th,no
+Janice,Blackie-Goodine,Unforgiven,1992,Best Production Design,65th,no
+Allan,Starski,Schindler's List,1993,Best Production Design,66th,yes
+Ewa,Braun,Schindler's List,1993,Best Production Design,66th,yes
+Ken,Adam,Addams Family Values,1993,Best Production Design,66th,no
+Marvin,March,Addams Family Values,1993,Best Production Design,66th,no
+Dante,Ferretti,The Age of Innocence,1993,Best Production Design,66th,no
+Robert,J. Franco,The Age of Innocence,1993,Best Production Design,66th,no
+Ben,Van Os,Orlando,1993,Best Production Design,66th,no
+Jan,Roelfs,Orlando,1993,Best Production Design,66th,no
+Luciana,Arrighi,The Remains of the Day,1993,Best Production Design,66th,no
+Ian,Whittaker,The Remains of the Day,1993,Best Production Design,66th,no
+Ken,Adam,The Madness of King George,1994,Best Production Design,67th,yes
+Carolyn,Scott,The Madness of King George,1994,Best Production Design,67th,yes
+Santo,Loquasto,Bullets over Broadway,1994,Best Production Design,67th,no
+Susan,Bode,Bullets over Broadway,1994,Best Production Design,67th,no
+Rick,Carter,Forrest Gump,1994,Best Production Design,67th,no
+Nancy,Haigh,Forrest Gump,1994,Best Production Design,67th,no
+Dante,Ferretti,Interview with the Vampire,1994,Best Production Design,67th,no
+Francesca,Lo Schiavo,Interview with the Vampire,1994,Best Production Design,67th,no
+Lilly,Kilvert,Legends of the Fall,1994,Best Production Design,67th,no
+Dorree,Cooper,Legends of the Fall,1994,Best Production Design,67th,no
+Eugenio,Zanetti,Restoration,1995,Best Production Design,68th,yes
+Michael,Corenblith,Apollo 13,1995,Best Production Design,68th,no
+Merideth,Boswell,Apollo 13,1995,Best Production Design,68th,no
+Roger,Ford,Babe,1995,Best Production Design,68th,no
+Kerrie,Brown,Babe,1995,Best Production Design,68th,no
+Bo,Welch,A Little Princess,1995,Best Production Design,68th,no
+Cheryl,Carasik,A Little Princess,1995,Best Production Design,68th,no
+Tony,Burrough,Richard III,1995,Best Production Design,68th,no
+Stuart,Craig,The English Patient,1996,Best Production Design,69th,yes
+Stephenie,McMillan,The English Patient,1996,Best Production Design,69th,yes
+Bo,Welch,The Birdcage,1996,Best Production Design,69th,no
+Cheryl,Carasik,The Birdcage,1996,Best Production Design,69th,no
+Brian,Morris,Evita,1996,Best Production Design,69th,no
+Philippe,Turlure,Evita,1996,Best Production Design,69th,no
+Tim,Harvey,Hamlet,1996,Best Production Design,69th,no
+Catherine,Martin,Romeo + Juliet,1996,Best Production Design,69th,no
+Brigitte,Broch,Romeo + Juliet,1996,Best Production Design,69th,no
+Peter,Lamont,Titanic,1997,Best Production Design,70th,yes
+Michael,D. Ford,Titanic,1997,Best Production Design,70th,yes
+Jan,Roelfs,Gattaca,1997,Best Production Design,70th,no
+Dante,Ferretti,Kundun,1997,Best Production Design,70th,no
+Francesca,Lo Schiavo,Kundun,1997,Best Production Design,70th,no
+Jeannine,Oppewall,L.A. Confidential,1997,Best Production Design,70th,no
+Jay,Hart,L.A. Confidential,1997,Best Production Design,70th,no
+Bo,Welch,Men in Black,1997,Best Production Design,70th,no
+Cheryl,Carasik,Men in Black,1997,Best Production Design,70th,no
+Martin,Childs,Shakespeare in Love,1998,Best Production Design,71st,yes
+Jill,Quertier,Shakespeare in Love,1998,Best Production Design,71st,yes
+John,Myhre,Elizabeth,1998,Best Production Design,71st,no
+Peter,Howitt,Elizabeth,1998,Best Production Design,71st,no
+Jeannine,Oppewall,Pleasantville,1998,Best Production Design,71st,no
+Jay,Hart,Pleasantville,1998,Best Production Design,71st,no
+Tom,Sanders,Saving Private Ryan,1998,Best Production Design,71st,no
+Lisa,Dean Kavanaugh,Saving Private Ryan,1998,Best Production Design,71st,no
+Eugenio,Zanetti,What Dreams May Come,1998,Best Production Design,71st,no
+Cindy,Carr,What Dreams May Come,1998,Best Production Design,71st,no
+Rick,Heinrichs,Sleepy Hollow,1999,Best Production Design,72nd,yes
+Peter,Young,Sleepy Hollow,1999,Best Production Design,72nd,yes
+Luciana,Arrighi,Anna and the King,1999,Best Production Design,72nd,no
+Ian,Whittaker,Anna and the King,1999,Best Production Design,72nd,no
+David,Gropman,The Cider House Rules,1999,Best Production Design,72nd,no
+Beth,Rubino,The Cider House Rules,1999,Best Production Design,72nd,no
+Roy,Walker,The Talented Mr. Ripley,1999,Best Production Design,72nd,no
+Bruno,Cesari,The Talented Mr. Ripley,1999,Best Production Design,72nd,no
+Eve,Stewart,Topsy-Turvy,1999,Best Production Design,72nd,no
+John,Bush,Topsy-Turvy,1999,Best Production Design,72nd,no
+Arthur,Max,Gladiator,2000,Best Production Design,73rd,no
+Crispian,Sallis,Gladiator,2000,Best Production Design,73rd,no
+Michael,Corenblith,How the Grinch Stole Christmas,2000,Best Production Design,73rd,no
+Merideth,Boswell,How the Grinch Stole Christmas,2000,Best Production Design,73rd,no
+Martin,Childs,Quills,2000,Best Production Design,73rd,no
+Jill,Quertier,Quills,2000,Best Production Design,73rd,no
+Jean,Rabasse,Vatel,2000,Best Production Design,73rd,no
+Catherine,Martin,Moulin Rouge!,2001,Best Production Design,74th,yes
+Brigitte,Broch,Moulin Rouge!,2001,Best Production Design,74th,yes
+Aline,Bonetto,Amélie,2001,Best Production Design,74th,no
+Marie-Laure,Valla,Amélie,2001,Best Production Design,74th,no
+Stephen,Altman,Gosford Park,2001,Best Production Design,74th,no
+Anna,Pinnock,Gosford Park,2001,Best Production Design,74th,no
+Stuart,Craig,Harry Potter and the Sorcerer's Stone,2001,Best Production Design,74th,no
+Stephenie,McMillan,Harry Potter and the Sorcerer's Stone,2001,Best Production Design,74th,no
+Grant,Major,The Lord of the Rings: The Fellowship of the Ring,2001,Best Production Design,74th,no
+Dan,Hennah,The Lord of the Rings: The Fellowship of the Ring,2001,Best Production Design,74th,no
+John,Myhre,Chicago,2002,Best Production Design,75th,yes
+Gordon,Sim,Chicago,2002,Best Production Design,75th,yes
+Hania,Robledo,Frida,2002,Best Production Design,75th,no
+Dante,Ferretti,Gangs of New York,2002,Best Production Design,75th,no
+Francesca,Lo Schiavo,Gangs of New York,2002,Best Production Design,75th,no
+Grant,Major,The Lord of the Rings: The Two Towers,2002,Best Production Design,75th,no
+Dan,Hennah,The Lord of the Rings: The Two Towers,2002,Best Production Design,75th,no
+Alan,Lee,The Lord of the Rings: The Two Towers,2002,Best Production Design,75th,no
+Dennis,Gassner,Road to Perdition,2002,Best Production Design,75th,no
+Nancy,Haigh,Road to Perdition,2002,Best Production Design,75th,no
+Grant,Major,The Lord of the Rings: The Return of the King,2003,Best Production Design,76th,yes
+Dan,Hennah,The Lord of the Rings: The Return of the King,2003,Best Production Design,76th,yes
+Alan,Lee,The Lord of the Rings: The Return of the King,2003,Best Production Design,76th,yes
+Ben,Van Os,Girl with a Pearl Earring,2003,Best Production Design,76th,no
+Lilly,Kilvert,The Last Samurai,2003,Best Production Design,76th,no
+Gretchen,Rau,The Last Samurai,2003,Best Production Design,76th,no
+William,Sandell,Master and Commander: The Far Side of the World,2003,Best Production Design,76th,no
+Robert,Gould,Master and Commander: The Far Side of the World,2003,Best Production Design,76th,no
+Jeannine,Oppewall,Seabiscuit,2003,Best Production Design,76th,no
+Leslie,Pope,Seabiscuit,2003,Best Production Design,76th,no
+Dante,Ferretti,The Aviator,2004,Best Production Design,77th,yes
+Francesca,Lo Schiavo,The Aviator,2004,Best Production Design,77th,yes
+Gemma,Jackson,Finding Neverland,2004,Best Production Design,77th,no
+Trisha,Edwards,Finding Neverland,2004,Best Production Design,77th,no
+Rick,Heinrichs,Lemony Snicket's A Series of Unfortunate Events,2004,Best Production Design,77th,no
+Cheryl,Carasik,Lemony Snicket's A Series of Unfortunate Events,2004,Best Production Design,77th,no
+Anthony,Pratt,The Phantom of the Opera,2004,Best Production Design,77th,no
+Celia,Bobak,The Phantom of the Opera,2004,Best Production Design,77th,no
+Aline,Bonetto,A Very Long Engagement,2004,Best Production Design,77th,no
+John,Myhre,Memoirs of a Geisha,2005,Best Production Design,78th,yes
+Gretchen,Rau,Memoirs of a Geisha,2005,Best Production Design,78th,yes
+Jim,Bissell,"Good Night, and Good Luck",2005,Best Production Design,78th,no
+Jan,Pascale,"Good Night, and Good Luck",2005,Best Production Design,78th,no
+Stuart,Craig,Harry Potter and the Goblet of Fire,2005,Best Production Design,78th,no
+Stephenie,McMillan,Harry Potter and the Goblet of Fire,2005,Best Production Design,78th,no
+Grant,Major,King Kong,2005,Best Production Design,78th,no
+Dan,Hennah,King Kong,2005,Best Production Design,78th,no
+Simon,Bright,King Kong,2005,Best Production Design,78th,no
+Sarah,Greenwood,Pride & Prejudice,2005,Best Production Design,78th,no
+Katie,Spencer,Pride & Prejudice,2005,Best Production Design,78th,no
+Eugenio,Caballero,Pan's Labyrinth,2006,Best Production Design,79th,yes
+Pilar,Revuelta,Pan's Labyrinth,2006,Best Production Design,79th,yes
+John,Myhre,Dreamgirls,2006,Best Production Design,79th,no
+Nancy,Haigh,Dreamgirls,2006,Best Production Design,79th,no
+Jeannine,Claudia Oppewall,The Good Shepherd,2006,Best Production Design,79th,no
+Gretchen,Rau,The Good Shepherd,2006,Best Production Design,79th,no
+Leslie,E. Rollins,The Good Shepherd,2006,Best Production Design,79th,no
+Rick,Heinrichs,Pirates of the Caribbean: Dead Man's Chest,2006,Best Production Design,79th,no
+Cheryl,Carasik,Pirates of the Caribbean: Dead Man's Chest,2006,Best Production Design,79th,no
+Nathan,Crowley,The Prestige,2006,Best Production Design,79th,no
+Julie,Ochipinti,The Prestige,2006,Best Production Design,79th,no
+Dante,Ferretti,Sweeney Todd: The Demon Barber of Fleet Street,2007,Best Production Design,80th,yes
+Francesca,Lo Schiavo,Sweeney Todd: The Demon Barber of Fleet Street,2007,Best Production Design,80th,yes
+Arthur,Max,American Gangster,2007,Best Production Design,80th,no
+Beth,A. Rubino,American Gangster,2007,Best Production Design,80th,no
+Sarah,Greenwood,Atonement,2007,Best Production Design,80th,no
+Katie,Spencer,Atonement,2007,Best Production Design,80th,no
+Dennis,Gassner,The Golden Compass,2007,Best Production Design,80th,no
+Anna,Pinnock,The Golden Compass,2007,Best Production Design,80th,no
+Jack,Fisk,There Will Be Blood,2007,Best Production Design,80th,no
+Jim,Erickson,There Will Be Blood,2007,Best Production Design,80th,no
+Donald,Graham Burt,The Curious Case of Benjamin Button,2008,Best Production Design,81st,yes
+Victor,J. Zolfo,The Curious Case of Benjamin Button,2008,Best Production Design,81st,yes
+James,J. Murakami,Changeling,2008,Best Production Design,81st,no
+Gary,Fettis,Changeling,2008,Best Production Design,81st,no
+Nathan,Crowley,The Dark Knight,2008,Best Production Design,81st,no
+Peter,Lando,The Dark Knight,2008,Best Production Design,81st,no
+Michael,Carlin,The Duchess,2008,Best Production Design,81st,no
+Rebecca,Alleway,The Duchess,2008,Best Production Design,81st,no
+Kristi,Zea,Revolutionary Road,2008,Best Production Design,81st,no
+Debra,Schutt,Revolutionary Road,2008,Best Production Design,81st,no
+Rick,Carter,Avatar,2009,Best Production Design,82nd,yes
+Robert,Stromberg,Avatar,2009,Best Production Design,82nd,yes
+Kim,Sinclair,Avatar,2009,Best Production Design,82nd,yes
+Anastasia,Masaro,The Imaginarium of Doctor Parnassus,2009,Best Production Design,82nd,no
+John,Myhre,Nine,2009,Best Production Design,82nd,no
+Gordon,Sim,Nine,2009,Best Production Design,82nd,no
+Sarah,Greenwood,Sherlock Holmes,2009,Best Production Design,82nd,no
+Katie,Spencer,Sherlock Holmes,2009,Best Production Design,82nd,no
+Patrice,Vermette,The Young Victoria,2009,Best Production Design,82nd,no
+Maggie,Gray,The Young Victoria,2009,Best Production Design,82nd,no
+Stuart,Craig,Harry Potter and the Deathly Hallows – Part 1,2010,Best Production Design,83rd,no
+Stephenie,McMillan,Harry Potter and the Deathly Hallows – Part 1,2010,Best Production Design,83rd,no
+Guy,Hendrix Dyas,Inception,2010,Best Production Design,83rd,no
+Larry,Dias,Inception,2010,Best Production Design,83rd,no
+Doug,Mowat,Inception,2010,Best Production Design,83rd,no
+Eve,Stewart,The King's Speech,2010,Best Production Design,83rd,no
+Judy,Farr,The King's Speech,2010,Best Production Design,83rd,no
+Jess,Gonchor,True Grit,2010,Best Production Design,83rd,no
+Nancy,Haigh,True Grit,2010,Best Production Design,83rd,no
+Dante,Ferretti,Hugo,2011,Best Production Design,84th,yes
+Francesca,Lo Schiavo,Hugo,2011,Best Production Design,84th,yes
+Laurence,Bennett,The Artist,2011,Best Production Design,84th,no
+Robert,Gould,The Artist,2011,Best Production Design,84th,no
+Stuart,Craig,Harry Potter and the Deathly Hallows – Part 2,2011,Best Production Design,84th,no
+Stephenie,McMillan,Harry Potter and the Deathly Hallows – Part 2,2011,Best Production Design,84th,no
+Anne,Seibel,Midnight in Paris,2011,Best Production Design,84th,no
+Hélène,Dubreuil,Midnight in Paris,2011,Best Production Design,84th,no
+Rick,Carter,War Horse,2011,Best Production Design,84th,no
+Lee,Sandales,War Horse,2011,Best Production Design,84th,no
+Rick,Carter,Lincoln,2012,Best Production Design,85th,yes
+Jim,Erickson,Lincoln,2012,Best Production Design,85th,yes
+Sarah,Greenwood,Anna Karenina,2012,Best Production Design,85th,no
+Katie,Spencer,Anna Karenina,2012,Best Production Design,85th,no
+Dan,Hennah,The Hobbit: An Unexpected Journey,2012,Best Production Design,85th,no
+Ra,Vincent,The Hobbit: An Unexpected Journey,2012,Best Production Design,85th,no
+Simon,Bright,The Hobbit: An Unexpected Journey,2012,Best Production Design,85th,no
+Eve,Stewart,Les Misérables,2012,Best Production Design,85th,no
+Anna,Lynch-Robinson,Les Misérables,2012,Best Production Design,85th,no
+David,Gropman,Life of Pi,2012,Best Production Design,85th,no
+Anna,Pinnock,Life of Pi,2012,Best Production Design,85th,no
+Catherine,Martin,The Great Gatsby,2013,Best Production Design,86th,yes
+Beverley,Dunn,The Great Gatsby,2013,Best Production Design,86th,yes
+Judy,Becker,American Hustle,2013,Best Production Design,86th,no
+Heather,Loeffler,American Hustle,2013,Best Production Design,86th,no
+Andy,Nicholson,Gravity,2013,Best Production Design,86th,no
+Rosie,Goodwin,Gravity,2013,Best Production Design,86th,no
+Joanne,Woollard,Gravity,2013,Best Production Design,86th,no
+K.,K. Barrett,Her,2013,Best Production Design,86th,no
+Gene,Serdena,Her,2013,Best Production Design,86th,no
+Adam,Stockhausen,12 Years a Slave,2013,Best Production Design,86th,no
+Alice,Baker,12 Years a Slave,2013,Best Production Design,86th,no
+Adam,Stockhausen,The Grand Budapest Hotel,2014,Best Production Design,87th,yes
+Anna,Pinnock,The Grand Budapest Hotel,2014,Best Production Design,87th,yes
+Maria,Djurkovic,The Imitation Game,2014,Best Production Design,87th,no
+Nathan,Crowley,Interstellar,2014,Best Production Design,87th,no
+Gary,Fettis,Interstellar,2014,Best Production Design,87th,no
+Dennis,Gassner,Into the Woods,2014,Best Production Design,87th,no
+Anna,Pinnock,Into the Woods,2014,Best Production Design,87th,no
+Suzie,Davies,Mr. Turner,2014,Best Production Design,87th,no
+Colin,Gibson,Mad Max: Fury Road,2015,Best Production Design,88th,yes
+Lisa,Thompson,Mad Max: Fury Road,2015,Best Production Design,88th,yes
+Adam,Stockhausen,Bridge of Spies,2015,Best Production Design,88th,no
+Rena,DeAngelo,Bridge of Spies,2015,Best Production Design,88th,no
+Bernhard,Henrich,Bridge of Spies,2015,Best Production Design,88th,no
+Eve,Stewart,The Danish Girl,2015,Best Production Design,88th,no
+Michael,Standish,The Danish Girl,2015,Best Production Design,88th,no
+Arthur,Max,The Martian,2015,Best Production Design,88th,no
+Celia,Bobak,The Martian,2015,Best Production Design,88th,no
+Jack,Fisk,The Revenant,2015,Best Production Design,88th,no
+Hamish,Purdy,The Revenant,2015,Best Production Design,88th,no
+David,Wasco,La La Land,2016,Best Production Design,89th,yes
+Sandy,Reynolds-Wasco,La La Land,2016,Best Production Design,89th,yes
+Patrice,Vermette,Arrival,2016,Best Production Design,89th,no
+Paul,Hotte,Arrival,2016,Best Production Design,89th,no
+Stuart,Craig,Fantastic Beasts and Where to Find Them,2016,Best Production Design,89th,no
+Anna,Pinnock,Fantastic Beasts and Where to Find Them,2016,Best Production Design,89th,no
+Jess,Gonchor,"Hail, Caesar!",2016,Best Production Design,89th,no
+Nancy,Haigh,"Hail, Caesar!",2016,Best Production Design,89th,no
+Guy,Hendrix Dyas,Passengers,2016,Best Production Design,89th,no
+Gene,Serdena,Passengers,2016,Best Production Design,89th,no
+Paul,Denham Austerberry,The Shape of Water,2017,Best Production Design,90th,yes
+Shane,Vieau,The Shape of Water,2017,Best Production Design,90th,yes
+Jeff,Melvin,The Shape of Water,2017,Best Production Design,90th,yes
+Sarah,Greenwood,Beauty and the Beast,2017,Best Production Design,90th,no
+Katie,Spencer,Beauty and the Beast,2017,Best Production Design,90th,no
+Dennis,Gassner,Blade Runner 2049,2017,Best Production Design,90th,no
+Alessandra,Querzola,Blade Runner 2049,2017,Best Production Design,90th,no
+Sarah,Greenwood,Darkest Hour,2017,Best Production Design,90th,no
+Katie,Spencer,Darkest Hour,2017,Best Production Design,90th,no
+Nathan,Crowley,Dunkirk,2017,Best Production Design,90th,no
+Gary,Fettis,Dunkirk,2017,Best Production Design,90th,no
+Hannah,Beachler,Black Panther,2018,Best Production Design,91st,yes
+Jay,Hart,Black Panther,2018,Best Production Design,91st,yes
+Fiona,Crombie,The Favourite,2018,Best Production Design,91st,no
+Nathan,Crowley,First Man,2018,Best Production Design,91st,no
+Kathy,Lucas,First Man,2018,Best Production Design,91st,no
+John,Myhre,Mary Poppins Returns,2018,Best Production Design,91st,no
+Gordon,Sim,Mary Poppins Returns,2018,Best Production Design,91st,no
+Eugenio,Caballero,Roma,2018,Best Production Design,91st,no
+Barbara,Ling,Once Upon a Time in Hollywood,2019,Best Production Design,92nd,yes
+Nancy,Haigh,Once Upon a Time in Hollywood,2019,Best Production Design,92nd,yes
+Bob,Shaw,The Irishman,2019,Best Production Design,92nd,no
+Regina,Graves,The Irishman,2019,Best Production Design,92nd,no
+Ra,Vincent,Jojo Rabbit,2019,Best Production Design,92nd,no
+Nora,Sopková,Jojo Rabbit,2019,Best Production Design,92nd,no
+Dennis,Gassner,1917,2019,Best Production Design,92nd,no
+Lee,Sandales,1917,2019,Best Production Design,92nd,no
+Lee,Ha-jun,Parasite,2019,Best Production Design,92nd,no
+Peter,Francis,The Father,2020,Best Production Design,93rd,no
+Cathy,Featherstone,The Father,2020,Best Production Design,93rd,no
+Mark,Ricker,Ma Rainey's Black Bottom,2020,Best Production Design,93rd,no
+Karen,O'Hara,Ma Rainey's Black Bottom,2020,Best Production Design,93rd,no
+Diana,Stoughton,Ma Rainey's Black Bottom,2020,Best Production Design,93rd,no
+David,Crank,News of the World,2020,Best Production Design,93rd,no
+Elizabeth,Keenan,News of the World,2020,Best Production Design,93rd,no
+Nathan,Crowley,Tenet,2020,Best Production Design,93rd,no
+Kathy,Lucas,Tenet,2020,Best Production Design,93rd,no
+Patrice,Vermette,Dune,2021,Best Production Design,94th,yes
+Zsuzsanna,Sipos,Dune,2021,Best Production Design,94th,yes
+Tamara,Deverell,Nightmare Alley,2021,Best Production Design,94th,no
+Shane,Vieau,Nightmare Alley,2021,Best Production Design,94th,no
+Grant,Major,The Power of the Dog,2021,Best Production Design,94th,no
+Amber,Richards,The Power of the Dog,2021,Best Production Design,94th,no
+Stefan,Dechant,The Tragedy of Macbeth,2021,Best Production Design,94th,no
+Nancy,Haigh,The Tragedy of Macbeth,2021,Best Production Design,94th,no
+Adam,Stockhausen,West Side Story,2021,Best Production Design,94th,no
+Rena,DeAngelo,West Side Story,2021,Best Production Design,94th,no
+Christian,M. Goldbeck,All Quiet on the Western Front,2022,Best Production Design,95th,yes
+Ernestine,Hipper,All Quiet on the Western Front,2022,Best Production Design,95th,yes
+Dylan,Cole,Avatar: The Way of Water,2022,Best Production Design,95th,no
+Ben,Procter,Avatar: The Way of Water,2022,Best Production Design,95th,no
+Florencia,Martin,Babylon,2022,Best Production Design,95th,no
+Anthony,Carlino,Babylon,2022,Best Production Design,95th,no
+Catherine,Martin,Elvis,2022,Best Production Design,95th,no
+Bev,Dunn,Elvis,2022,Best Production Design,95th,no
+Rick,Carter,The Fabelmans,2022,Best Production Design,95th,no
+Karen,O'Hara,The Fabelmans,2022,Best Production Design,95th,no
+James,Price,Poor Things,2023,Best Production Design,96th,yes
+Shona,Heath,Poor Things,2023,Best Production Design,96th,yes
+Zsuzsa,Mihalek,Poor Things,2023,Best Production Design,96th,yes
+Sarah,Greenwood,Barbie,2023,Best Production Design,96th,no
+Katie,Spencer,Barbie,2023,Best Production Design,96th,no
+Jack,Fisk,Killers of the Flower Moon,2023,Best Production Design,96th,no
+Adam,Willis,Killers of the Flower Moon,2023,Best Production Design,96th,no
+Arthur,Max,Napoleon,2023,Best Production Design,96th,no
+Elli,Griff,Napoleon,2023,Best Production Design,96th,no
+Ruth,De Jong,Oppenheimer,2023,Best Production Design,96th,no
+Claire,Kaufman,Oppenheimer,2023,Best Production Design,96th,no
+Nathan,Crowley,Wicked,2024,Best Production Design,97th,yes
+Lee,Sandales,Wicked,2024,Best Production Design,97th,yes
+Judy,Becker,The Brutalist,2024,Best Production Design,97th,no
+Patricia,Cuccia,The Brutalist,2024,Best Production Design,97th,no
+Suzie,Davies,Conclave,2024,Best Production Design,97th,no
+Cynthia,Sleiter,Conclave,2024,Best Production Design,97th,no
+Patrice,Vermette,Dune: Part Two,2024,Best Production Design,97th,no
+Shane,Vieau,Dune: Part Two,2024,Best Production Design,97th,no
+Craig,Lathrop,Nosferatu,2024,Best Production Design,97th,no
+Beatrice,Brentnerová,Nosferatu,2024,Best Production Design,97th,no

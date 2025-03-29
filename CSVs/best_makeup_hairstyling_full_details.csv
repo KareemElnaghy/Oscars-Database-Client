@@ -1,0 +1,317 @@
+firstName,lastName,movieTitle,releaseYear,categoryName,iteration,isWinner
+William,J. Tuttle,7 Faces of Dr. Lao,1964,Best Makeup and Hairstyling,37th,no
+John,Chambers,Planet of the Apes,1968,Best Makeup and Hairstyling,41st,no
+Rick,Baker,An American Werewolf in London,1981,Best Makeup and Hairstyling,54th,yes
+Stan,Winston,Heartbeeps,1981,Best Makeup and Hairstyling,54th,no
+Sarah,Monzani,Quest for Fire,1982,Best Makeup and Hairstyling,55th,yes
+Michèle,Burke,Quest for Fire,1982,Best Makeup and Hairstyling,55th,yes
+Tom,Smith,Gandhi,1982,Best Makeup and Hairstyling,55th,no
+Paul,LeBlanc,Amadeus,1984,Best Makeup and Hairstyling,57th,yes
+Dick,Smith,Amadeus,1984,Best Makeup and Hairstyling,57th,yes
+Michael,Westmore,2010: The Year We Make Contact,1984,Best Makeup and Hairstyling,57th,no
+Rick,Baker,"Greystoke: The Legend of Tarzan, Lord of the Apes",1984,Best Makeup and Hairstyling,57th,no
+Paul,Engelen,"Greystoke: The Legend of Tarzan, Lord of the Apes",1984,Best Makeup and Hairstyling,57th,no
+Michael,Westmore,Mask,1985,Best Makeup and Hairstyling,58th,yes
+Zoltan,Elek,Mask,1985,Best Makeup and Hairstyling,58th,yes
+Ken,Chase,The Color Purple,1985,Best Makeup and Hairstyling,58th,no
+Carl,Fullerton,Remo Williams: The Adventure Begins,1985,Best Makeup and Hairstyling,58th,no
+Chris,Walas,The Fly,1986,Best Makeup and Hairstyling,59th,yes
+Stephan,Dupuis,The Fly,1986,Best Makeup and Hairstyling,59th,yes
+Michael,Westmore,The Clan of the Cave Bear,1986,Best Makeup and Hairstyling,59th,no
+Michèle,Burke,The Clan of the Cave Bear,1986,Best Makeup and Hairstyling,59th,no
+Rob,Bottin,Legend,1986,Best Makeup and Hairstyling,59th,no
+Peter,Robb-King,Legend,1986,Best Makeup and Hairstyling,59th,no
+Rick,Baker,Harry and the Hendersons,1987,Best Makeup and Hairstyling,60th,yes
+Bob,Laden,Happy New Year,1987,Best Makeup and Hairstyling,60th,no
+Ve,Neill,Beetlejuice,1988,Best Makeup and Hairstyling,61st,yes
+Steve,La Porte,Beetlejuice,1988,Best Makeup and Hairstyling,61st,yes
+Robert,Short,Beetlejuice,1988,Best Makeup and Hairstyling,61st,yes
+Rick,Baker,Coming to America,1988,Best Makeup and Hairstyling,61st,no
+Thomas,R. Burman,Scrooged,1988,Best Makeup and Hairstyling,61st,no
+Bari,Dreiband-Burman,Scrooged,1988,Best Makeup and Hairstyling,61st,no
+Manlio,Rocchetti,Driving Miss Daisy,1989,Best Makeup and Hairstyling,62nd,yes
+Lynn,Barber,Driving Miss Daisy,1989,Best Makeup and Hairstyling,62nd,yes
+Kevin,Haney,Driving Miss Daisy,1989,Best Makeup and Hairstyling,62nd,yes
+Maggie,Weston,The Adventures of Baron Munchausen,1989,Best Makeup and Hairstyling,62nd,no
+Fabrizio,Sforza,The Adventures of Baron Munchausen,1989,Best Makeup and Hairstyling,62nd,no
+Dick,Smith,Dad,1989,Best Makeup and Hairstyling,62nd,no
+Ken,Diaz,Dad,1989,Best Makeup and Hairstyling,62nd,no
+Greg,Nelson,Dad,1989,Best Makeup and Hairstyling,62nd,no
+John,Caglione Jr.,Dick Tracy,1990,Best Makeup and Hairstyling,63rd,yes
+Doug,Drexler,Dick Tracy,1990,Best Makeup and Hairstyling,63rd,yes
+Michèle,Burke,Cyrano de Bergerac,1990,Best Makeup and Hairstyling,63rd,no
+Jean-Pierre,Eychenne,Cyrano de Bergerac,1990,Best Makeup and Hairstyling,63rd,no
+Ve,Neill,Edward Scissorhands,1990,Best Makeup and Hairstyling,63rd,no
+Stan,Winston,Edward Scissorhands,1990,Best Makeup and Hairstyling,63rd,no
+Stan,Winston,Terminator 2: Judgment Day,1991,Best Makeup and Hairstyling,64th,yes
+Jeff,Dawn,Terminator 2: Judgment Day,1991,Best Makeup and Hairstyling,64th,yes
+Christina,Smith,Hook,1991,Best Makeup and Hairstyling,64th,no
+Monty,Westmore,Hook,1991,Best Makeup and Hairstyling,64th,no
+Greg,Cannom,Hook,1991,Best Makeup and Hairstyling,64th,no
+Michael,Mills,Star Trek VI: The Undiscovered Country,1991,Best Makeup and Hairstyling,64th,no
+Edward,French,Star Trek VI: The Undiscovered Country,1991,Best Makeup and Hairstyling,64th,no
+Richard,Snell,Star Trek VI: The Undiscovered Country,1991,Best Makeup and Hairstyling,64th,no
+Greg,Cannom,Bram Stoker's Dracula,1992,Best Makeup and Hairstyling,65th,yes
+Michèle,Burke,Bram Stoker's Dracula,1992,Best Makeup and Hairstyling,65th,yes
+Matthew,W. Mungle,Bram Stoker's Dracula,1992,Best Makeup and Hairstyling,65th,yes
+Ve,Neill,Batman Returns,1992,Best Makeup and Hairstyling,65th,no
+Ronnie,Specter,Batman Returns,1992,Best Makeup and Hairstyling,65th,no
+Stan,Winston,Batman Returns,1992,Best Makeup and Hairstyling,65th,no
+Ve,Neill,Hoffa,1992,Best Makeup and Hairstyling,65th,no
+Greg,Cannom,Hoffa,1992,Best Makeup and Hairstyling,65th,no
+John,Blake,Hoffa,1992,Best Makeup and Hairstyling,65th,no
+Greg,Cannom,Mrs. Doubtfire,1993,Best Makeup and Hairstyling,66th,yes
+Ve,Neill,Mrs. Doubtfire,1993,Best Makeup and Hairstyling,66th,yes
+Yolanda,Toussieng,Mrs. Doubtfire,1993,Best Makeup and Hairstyling,66th,yes
+Carl,Fullerton,Philadelphia,1993,Best Makeup and Hairstyling,66th,no
+Alan,D'Angerio,Philadelphia,1993,Best Makeup and Hairstyling,66th,no
+Christina,Smith,Schindler's List,1993,Best Makeup and Hairstyling,66th,no
+Matthew,W. Mungle,Schindler's List,1993,Best Makeup and Hairstyling,66th,no
+Judith,A. Cory,Schindler's List,1993,Best Makeup and Hairstyling,66th,no
+Rick,Baker,Ed Wood,1994,Best Makeup and Hairstyling,67th,yes
+Ve,Neill,Ed Wood,1994,Best Makeup and Hairstyling,67th,yes
+Yolanda,Toussieng,Ed Wood,1994,Best Makeup and Hairstyling,67th,yes
+Daniel,C. Striepeke,Forrest Gump,1994,Best Makeup and Hairstyling,67th,no
+Hallie,D'Amore,Forrest Gump,1994,Best Makeup and Hairstyling,67th,no
+Judith,A. Cory,Forrest Gump,1994,Best Makeup and Hairstyling,67th,no
+Daniel,Parker,Mary Shelley's Frankenstein,1994,Best Makeup and Hairstyling,67th,no
+Paul,Engelen,Mary Shelley's Frankenstein,1994,Best Makeup and Hairstyling,67th,no
+Carol,Hemming,Mary Shelley's Frankenstein,1994,Best Makeup and Hairstyling,67th,no
+Peter,Frampton,Braveheart,1995,Best Makeup and Hairstyling,68th,yes
+Paul,Pattison,Braveheart,1995,Best Makeup and Hairstyling,68th,yes
+Lois,Burwell,Braveheart,1995,Best Makeup and Hairstyling,68th,yes
+Ken,Diaz,My Family,1995,Best Makeup and Hairstyling,68th,no
+Mark,Sanchez,My Family,1995,Best Makeup and Hairstyling,68th,no
+Greg,Cannom,Roommates,1995,Best Makeup and Hairstyling,68th,no
+Bob,Laden,Roommates,1995,Best Makeup and Hairstyling,68th,no
+Colleen,Callaghan,Roommates,1995,Best Makeup and Hairstyling,68th,no
+Rick,Baker,The Nutty Professor,1996,Best Makeup and Hairstyling,69th,yes
+David,LeRoy Anderson,The Nutty Professor,1996,Best Makeup and Hairstyling,69th,yes
+Matthew,W. Mungle,Ghosts of Mississippi,1996,Best Makeup and Hairstyling,69th,no
+Deborah,La Mia Denaver,Ghosts of Mississippi,1996,Best Makeup and Hairstyling,69th,no
+Michael,Westmore,Star Trek: First Contact,1996,Best Makeup and Hairstyling,69th,no
+Scott,Wheeler,Star Trek: First Contact,1996,Best Makeup and Hairstyling,69th,no
+Jake,Garber,Star Trek: First Contact,1996,Best Makeup and Hairstyling,69th,no
+Rick,Baker,Men in Black,1997,Best Makeup and Hairstyling,70th,yes
+David,LeRoy Anderson,Men in Black,1997,Best Makeup and Hairstyling,70th,yes
+Lisa,Westcott,Mrs Brown,1997,Best Makeup and Hairstyling,70th,no
+Veronica,Brebner,Mrs Brown,1997,Best Makeup and Hairstyling,70th,no
+Beverley,Binda,Mrs Brown,1997,Best Makeup and Hairstyling,70th,no
+Tina,Earnshaw,Titanic,1997,Best Makeup and Hairstyling,70th,no
+Greg,Cannom,Titanic,1997,Best Makeup and Hairstyling,70th,no
+Simon,Thompson,Titanic,1997,Best Makeup and Hairstyling,70th,no
+Jenny,Shircore,Elizabeth,1998,Best Makeup and Hairstyling,71st,yes
+Lois,Burwell,Saving Private Ryan,1998,Best Makeup and Hairstyling,71st,no
+Conor,O'Sullivan,Saving Private Ryan,1998,Best Makeup and Hairstyling,71st,no
+Daniel,C. Striepeke,Saving Private Ryan,1998,Best Makeup and Hairstyling,71st,no
+Lisa,Westcott,Shakespeare in Love,1998,Best Makeup and Hairstyling,71st,no
+Veronica,Brebner,Shakespeare in Love,1998,Best Makeup and Hairstyling,71st,no
+Christine,Blundell,Topsy-Turvy,1999,Best Makeup and Hairstyling,72nd,yes
+Trefor,Proud,Topsy-Turvy,1999,Best Makeup and Hairstyling,72nd,yes
+Michèle,Burke,Austin Powers: The Spy Who Shagged Me,1999,Best Makeup and Hairstyling,72nd,no
+Mike,Smithson,Austin Powers: The Spy Who Shagged Me,1999,Best Makeup and Hairstyling,72nd,no
+Greg,Cannom,Bicentennial Man,1999,Best Makeup and Hairstyling,72nd,no
+Rick,Baker,Life,1999,Best Makeup and Hairstyling,72nd,no
+Rick,Baker,How the Grinch Stole Christmas,2000,Best Makeup and Hairstyling,73rd,yes
+Gail,Ryan,How the Grinch Stole Christmas,2000,Best Makeup and Hairstyling,73rd,yes
+Michèle,Burke,The Cell,2000,Best Makeup and Hairstyling,73rd,no
+Edouard,F. Henriques,The Cell,2000,Best Makeup and Hairstyling,73rd,no
+Ann,Buchanan,Shadow of the Vampire,2000,Best Makeup and Hairstyling,73rd,no
+Amber,Sibley,Shadow of the Vampire,2000,Best Makeup and Hairstyling,73rd,no
+Peter,Owen,The Lord of the Rings: The Fellowship of the Ring,2001,Best Makeup and Hairstyling,74th,yes
+Richard,Taylor,The Lord of the Rings: The Fellowship of the Ring,2001,Best Makeup and Hairstyling,74th,yes
+Greg,Cannom,A Beautiful Mind,2001,Best Makeup and Hairstyling,74th,no
+Colleen,Callaghan,A Beautiful Mind,2001,Best Makeup and Hairstyling,74th,no
+Maurizio,Silvi,Moulin Rouge!,2001,Best Makeup and Hairstyling,74th,no
+Aldo,Signoretti,Moulin Rouge!,2001,Best Makeup and Hairstyling,74th,no
+John,E. Jackson,Frida,2002,Best Makeup and Hairstyling,75th,yes
+Beatrice,De Alba,Frida,2002,Best Makeup and Hairstyling,75th,yes
+John,M. Elliott Jr.,The Time Machine,2002,Best Makeup and Hairstyling,75th,no
+Barbara,Lorenz,The Time Machine,2002,Best Makeup and Hairstyling,75th,no
+Richard,Taylor,The Lord of the Rings: The Return of the King,2003,Best Makeup and Hairstyling,76th,yes
+Peter,King,The Lord of the Rings: The Return of the King,2003,Best Makeup and Hairstyling,76th,yes
+Edouard,F. Henriques,Master and Commander: The Far Side of the World,2003,Best Makeup and Hairstyling,76th,no
+Yolanda,Toussieng,Master and Commander: The Far Side of the World,2003,Best Makeup and Hairstyling,76th,no
+Ve,Neill,Pirates of the Caribbean: The Curse of the Black Pearl,2003,Best Makeup and Hairstyling,76th,no
+Martin,Samuel,Pirates of the Caribbean: The Curse of the Black Pearl,2003,Best Makeup and Hairstyling,76th,no
+Valli,O'Reilly,Lemony Snicket's A Series of Unfortunate Events,2004,Best Makeup and Hairstyling,77th,yes
+Bill,Corso,Lemony Snicket's A Series of Unfortunate Events,2004,Best Makeup and Hairstyling,77th,yes
+Keith,VanderLaan,The Passion of the Christ,2004,Best Makeup and Hairstyling,77th,no
+Christien,Tinsley,The Passion of the Christ,2004,Best Makeup and Hairstyling,77th,no
+Jo,Allen,The Sea Inside,2004,Best Makeup and Hairstyling,77th,no
+Manuel,García,The Sea Inside,2004,Best Makeup and Hairstyling,77th,no
+Howard,Berger,"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",2005,Best Makeup and Hairstyling,78th,yes
+Tami,Lane,"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",2005,Best Makeup and Hairstyling,78th,yes
+David,LeRoy Anderson,Cinderella Man,2005,Best Makeup and Hairstyling,78th,no
+Lance,Anderson,Cinderella Man,2005,Best Makeup and Hairstyling,78th,no
+Dave,Elsey,Star Wars: Episode III – Revenge of the Sith,2005,Best Makeup and Hairstyling,78th,no
+Nikki,Gooley,Star Wars: Episode III – Revenge of the Sith,2005,Best Makeup and Hairstyling,78th,no
+David,Martí,Pan's Labyrinth,2006,Best Makeup and Hairstyling,79th,yes
+Montse,Ribé,Pan's Labyrinth,2006,Best Makeup and Hairstyling,79th,yes
+Aldo,Signoretti,Apocalypto,2006,Best Makeup and Hairstyling,79th,no
+Vittorio,Sodano,Apocalypto,2006,Best Makeup and Hairstyling,79th,no
+Kazuhiro,Tsuji,Click,2006,Best Makeup and Hairstyling,79th,no
+Bill,Corso,Click,2006,Best Makeup and Hairstyling,79th,no
+Didier,Lavergne,La Vie en Rose,2007,Best Makeup and Hairstyling,80th,yes
+Jan,Archibald,La Vie en Rose,2007,Best Makeup and Hairstyling,80th,yes
+Rick,Baker,Norbit,2007,Best Makeup and Hairstyling,80th,no
+Kazuhiro,Tsuji,Norbit,2007,Best Makeup and Hairstyling,80th,no
+Ve,Neill,Pirates of the Caribbean: At World's End,2007,Best Makeup and Hairstyling,80th,no
+Martin,Samuel,Pirates of the Caribbean: At World's End,2007,Best Makeup and Hairstyling,80th,no
+Greg,Cannom,The Curious Case of Benjamin Button,2008,Best Makeup and Hairstyling,81st,yes
+John,Caglione Jr.,The Dark Knight,2008,Best Makeup and Hairstyling,81st,no
+Conor,O'Sullivan,The Dark Knight,2008,Best Makeup and Hairstyling,81st,no
+Mike,Elizalde,Hellboy II: The Golden Army,2008,Best Makeup and Hairstyling,81st,no
+Thomas,Floutz,Hellboy II: The Golden Army,2008,Best Makeup and Hairstyling,81st,no
+Barney,Burman,Star Trek,2009,Best Makeup and Hairstyling,82nd,yes
+Mindy,Hall,Star Trek,2009,Best Makeup and Hairstyling,82nd,yes
+Joel,Harlow,Star Trek,2009,Best Makeup and Hairstyling,82nd,yes
+Aldo,Signoretti,Il divo,2009,Best Makeup and Hairstyling,82nd,no
+Vittorio,Sodano,Il divo,2009,Best Makeup and Hairstyling,82nd,no
+Jon,Henry Gordon,The Young Victoria,2009,Best Makeup and Hairstyling,82nd,no
+Jenny,Shircore,The Young Victoria,2009,Best Makeup and Hairstyling,82nd,no
+Rick,Baker,The Wolfman,2010,Best Makeup and Hairstyling,83rd,yes
+Dave,Elsey,The Wolfman,2010,Best Makeup and Hairstyling,83rd,yes
+Adrien,Morot,Barney's Version,2010,Best Makeup and Hairstyling,83rd,no
+Edouard,F. Henriques,The Way Back,2010,Best Makeup and Hairstyling,83rd,no
+Gregory,Funk,The Way Back,2010,Best Makeup and Hairstyling,83rd,no
+Yolanda,Toussieng,The Way Back,2010,Best Makeup and Hairstyling,83rd,no
+Mark,Coulier,The Iron Lady,2011,Best Makeup and Hairstyling,84th,yes
+J.,Roy Helland,The Iron Lady,2011,Best Makeup and Hairstyling,84th,yes
+Martial,Corneville,Albert Nobbs,2011,Best Makeup and Hairstyling,84th,no
+Lynn,Johnston,Albert Nobbs,2011,Best Makeup and Hairstyling,84th,no
+Matthew,W. Mungle,Albert Nobbs,2011,Best Makeup and Hairstyling,84th,no
+Nick,Dudman,Harry Potter and the Deathly Hallows – Part 2,2011,Best Makeup and Hairstyling,84th,no
+Amanda,Knight,Harry Potter and the Deathly Hallows – Part 2,2011,Best Makeup and Hairstyling,84th,no
+Lisa,Tomblin,Harry Potter and the Deathly Hallows – Part 2,2011,Best Makeup and Hairstyling,84th,no
+Lisa,Westcott,Les Misérables,2012,Best Makeup and Hairstyling,85th,yes
+Julie,Dartnell,Les Misérables,2012,Best Makeup and Hairstyling,85th,yes
+Howard,Berger,Hitchcock,2012,Best Makeup and Hairstyling,85th,no
+Peter,Montagna,Hitchcock,2012,Best Makeup and Hairstyling,85th,no
+Martin,Samuel,Hitchcock,2012,Best Makeup and Hairstyling,85th,no
+Peter,Swords King,The Hobbit: An Unexpected Journey,2012,Best Makeup and Hairstyling,85th,no
+Rick,Findlater,The Hobbit: An Unexpected Journey,2012,Best Makeup and Hairstyling,85th,no
+Tami,Lane,The Hobbit: An Unexpected Journey,2012,Best Makeup and Hairstyling,85th,no
+Adruitha,Lee,Dallas Buyers Club,2013,Best Makeup and Hairstyling,86th,yes
+Robin,Mathews,Dallas Buyers Club,2013,Best Makeup and Hairstyling,86th,yes
+Stephen,Prouty,Jackass Presents: Bad Grandpa,2013,Best Makeup and Hairstyling,86th,no
+Joel,Harlow,The Lone Ranger,2013,Best Makeup and Hairstyling,86th,no
+Gloria,Pasqua-Casny,The Lone Ranger,2013,Best Makeup and Hairstyling,86th,no
+Frances,Hannon,The Grand Budapest Hotel,2014,Best Makeup and Hairstyling,87th,yes
+Mark,Coulier,The Grand Budapest Hotel,2014,Best Makeup and Hairstyling,87th,yes
+Bill,Corso,Foxcatcher,2014,Best Makeup and Hairstyling,87th,no
+Dennis,Liddiard,Foxcatcher,2014,Best Makeup and Hairstyling,87th,no
+Elizabeth,Yianni-Georgiou,Guardians of the Galaxy,2014,Best Makeup and Hairstyling,87th,no
+David,White,Guardians of the Galaxy,2014,Best Makeup and Hairstyling,87th,no
+Lesley,Vanderwalt,Mad Max: Fury Road,2015,Best Makeup and Hairstyling,88th,yes
+Elka,Wardega,Mad Max: Fury Road,2015,Best Makeup and Hairstyling,88th,yes
+Damian,Martin,Mad Max: Fury Road,2015,Best Makeup and Hairstyling,88th,yes
+Love,Larson,The 100-Year-Old Man Who Climbed Out of the Window and Disappeared,2015,Best Makeup and Hairstyling,88th,no
+Eva,von Bahr,The 100-Year-Old Man Who Climbed Out of the Window and Disappeared,2015,Best Makeup and Hairstyling,88th,no
+Siân,Grigg,The Revenant,2015,Best Makeup and Hairstyling,88th,no
+Duncan,Jarman,The Revenant,2015,Best Makeup and Hairstyling,88th,no
+Robert,Pandini,The Revenant,2015,Best Makeup and Hairstyling,88th,no
+Alessandro,Bertolazzi,Suicide Squad,2016,Best Makeup and Hairstyling,89th,yes
+Giorgio,Gregorini,Suicide Squad,2016,Best Makeup and Hairstyling,89th,yes
+Christopher,Nelson,Suicide Squad,2016,Best Makeup and Hairstyling,89th,yes
+Eva,von Bahr,A Man Called Ove,2016,Best Makeup and Hairstyling,89th,no
+Love,Larson,A Man Called Ove,2016,Best Makeup and Hairstyling,89th,no
+Joel,Harlow,Star Trek Beyond,2016,Best Makeup and Hairstyling,89th,no
+Richard,Alonzo,Star Trek Beyond,2016,Best Makeup and Hairstyling,89th,no
+Kazuhiro,Tsuji,Darkest Hour,2017,Best Makeup and Hairstyling,90th,yes
+David,Malinowski,Darkest Hour,2017,Best Makeup and Hairstyling,90th,yes
+Lucy,Sibbick,Darkest Hour,2017,Best Makeup and Hairstyling,90th,yes
+Daniel,Phillips,Victoria & Abdul,2017,Best Makeup and Hairstyling,90th,no
+Lou,Sheppard,Victoria & Abdul,2017,Best Makeup and Hairstyling,90th,no
+Arjen,Tuiten,Wonder,2017,Best Makeup and Hairstyling,90th,no
+Greg,Cannom,Vice,2018,Best Makeup and Hairstyling,91st,yes
+Kate,Biscoe,Vice,2018,Best Makeup and Hairstyling,91st,yes
+Patricia,Dehaney,Vice,2018,Best Makeup and Hairstyling,91st,yes
+Göran,Lundström,Border,2018,Best Makeup and Hairstyling,91st,no
+Pamela,Goldammer,Border,2018,Best Makeup and Hairstyling,91st,no
+Jenny,Shircore,Mary Queen of Scots,2018,Best Makeup and Hairstyling,91st,no
+Marc,Pilcher,Mary Queen of Scots,2018,Best Makeup and Hairstyling,91st,no
+Jessica,Brooks,Mary Queen of Scots,2018,Best Makeup and Hairstyling,91st,no
+Kazu,Hiro,Bombshell,2019,Best Makeup and Hairstyling,92nd,yes
+Anne,Morgan,Bombshell,2019,Best Makeup and Hairstyling,92nd,yes
+Vivian,Baker,Bombshell,2019,Best Makeup and Hairstyling,92nd,yes
+Nicki,Ledermann,Joker,2019,Best Makeup and Hairstyling,92nd,no
+Kay,Georgiou,Joker,2019,Best Makeup and Hairstyling,92nd,no
+Jeremy,Woodhead,Judy,2019,Best Makeup and Hairstyling,92nd,no
+Paul,Gooch,Maleficent: Mistress of Evil,2019,Best Makeup and Hairstyling,92nd,no
+Arjen,Tuiten,Maleficent: Mistress of Evil,2019,Best Makeup and Hairstyling,92nd,no
+David,White,Maleficent: Mistress of Evil,2019,Best Makeup and Hairstyling,92nd,no
+Naomi,Donne,1917,2019,Best Makeup and Hairstyling,92nd,no
+Tristan,Versluis,1917,2019,Best Makeup and Hairstyling,92nd,no
+Rebecca,Cole,1917,2019,Best Makeup and Hairstyling,92nd,no
+Sergio,López-Rivera,Ma Rainey's Black Bottom,2020,Best Makeup and Hairstyling,93rd,yes
+Mia,Neal,Ma Rainey's Black Bottom,2020,Best Makeup and Hairstyling,93rd,yes
+Jamika,Wilson,Ma Rainey's Black Bottom,2020,Best Makeup and Hairstyling,93rd,yes
+Marese,Langan,Emma,2020,Best Makeup and Hairstyling,93rd,no
+Laura,Allen,Emma,2020,Best Makeup and Hairstyling,93rd,no
+Claudia,Stolze,Emma,2020,Best Makeup and Hairstyling,93rd,no
+Eryn,Krueger Mekash,Hillbilly Elegy,2020,Best Makeup and Hairstyling,93rd,no
+Matthew,Mungle,Hillbilly Elegy,2020,Best Makeup and Hairstyling,93rd,no
+Patricia,Dehaney,Hillbilly Elegy,2020,Best Makeup and Hairstyling,93rd,no
+Gigi,Williams,Mank,2020,Best Makeup and Hairstyling,93rd,no
+Kimberley,Spiteri,Mank,2020,Best Makeup and Hairstyling,93rd,no
+Colleen,LaBaff,Mank,2020,Best Makeup and Hairstyling,93rd,no
+Mark,Coulier,Pinocchio,2020,Best Makeup and Hairstyling,93rd,no
+Dalia,Colli,Pinocchio,2020,Best Makeup and Hairstyling,93rd,no
+Francesco,Pegoretti,Pinocchio,2020,Best Makeup and Hairstyling,93rd,no
+Linda,Dowds,The Eyes of Tammy Faye,2021,Best Makeup and Hairstyling,94th,yes
+Stephanie,Ingram,The Eyes of Tammy Faye,2021,Best Makeup and Hairstyling,94th,yes
+Justin,Raleigh,The Eyes of Tammy Faye,2021,Best Makeup and Hairstyling,94th,yes
+Mike,Marino,Coming 2 America,2021,Best Makeup and Hairstyling,94th,no
+Stacey,Morris,Coming 2 America,2021,Best Makeup and Hairstyling,94th,no
+Carla,Farmer,Coming 2 America,2021,Best Makeup and Hairstyling,94th,no
+Nadia,Stacey,Cruella,2021,Best Makeup and Hairstyling,94th,no
+Naomi,Donne,Cruella,2021,Best Makeup and Hairstyling,94th,no
+Julia,Vernon,Cruella,2021,Best Makeup and Hairstyling,94th,no
+Donald,Mowat,Dune,2021,Best Makeup and Hairstyling,94th,no
+Love,Larson,Dune,2021,Best Makeup and Hairstyling,94th,no
+Eva,von Bahr,Dune,2021,Best Makeup and Hairstyling,94th,no
+Göran,Lundström,House of Gucci,2021,Best Makeup and Hairstyling,94th,no
+Anna,Carin Lock,House of Gucci,2021,Best Makeup and Hairstyling,94th,no
+Frederic,Aspiras,House of Gucci,2021,Best Makeup and Hairstyling,94th,no
+Adrien,Morot,The Whale,2022,Best Makeup and Hairstyling,95th,yes
+Judy,Chin,The Whale,2022,Best Makeup and Hairstyling,95th,yes
+Annemarie,Bradley,The Whale,2022,Best Makeup and Hairstyling,95th,yes
+Heike,Merker,All Quiet on the Western Front,2022,Best Makeup and Hairstyling,95th,no
+Linda,Eisenhamerová,All Quiet on the Western Front,2022,Best Makeup and Hairstyling,95th,no
+Naomi,Donne,The Batman,2022,Best Makeup and Hairstyling,95th,no
+Mike,Marino,The Batman,2022,Best Makeup and Hairstyling,95th,no
+Mike,Fontaine,The Batman,2022,Best Makeup and Hairstyling,95th,no
+Camille,Friend,Black Panther: Wakanda Forever,2022,Best Makeup and Hairstyling,95th,no
+Joel,Harlow,Black Panther: Wakanda Forever,2022,Best Makeup and Hairstyling,95th,no
+Mark,Coulier,Elvis,2022,Best Makeup and Hairstyling,95th,no
+Jason,Baird,Elvis,2022,Best Makeup and Hairstyling,95th,no
+Aldo,Signoretti,Elvis,2022,Best Makeup and Hairstyling,95th,no
+Nadia,Stacey,Poor Things,2023,Best Makeup and Hairstyling,96th,yes
+Mark,Coulier,Poor Things,2023,Best Makeup and Hairstyling,96th,yes
+Josh,Weston,Poor Things,2023,Best Makeup and Hairstyling,96th,yes
+Karen,Hartley Thomas,Golda,2023,Best Makeup and Hairstyling,96th,no
+Suzi,Battersby,Golda,2023,Best Makeup and Hairstyling,96th,no
+Ashra,Kelly-Blue,Golda,2023,Best Makeup and Hairstyling,96th,no
+Kazu,Hiro,Maestro,2023,Best Makeup and Hairstyling,96th,no
+Kay,Georgiou,Maestro,2023,Best Makeup and Hairstyling,96th,no
+Lori,McCoy-Bell,Maestro,2023,Best Makeup and Hairstyling,96th,no
+Luisa,Abel,Oppenheimer,2023,Best Makeup and Hairstyling,96th,no
+Ana,López-Puigcerver,Society of the Snow,2023,Best Makeup and Hairstyling,96th,no
+David,Martí,Society of the Snow,2023,Best Makeup and Hairstyling,96th,no
+Montse,Ribé,Society of the Snow,2023,Best Makeup and Hairstyling,96th,no
+Pierre-Olivier,Persin,The Substance,2024,Best Makeup and Hairstyling,97th,yes
+Stéphanie,Guillon,The Substance,2024,Best Makeup and Hairstyling,97th,yes
+Marilyne,Scarselli,The Substance,2024,Best Makeup and Hairstyling,97th,yes
+Mike,Marino,A Different Man,2024,Best Makeup and Hairstyling,97th,no
+David,Presto,A Different Man,2024,Best Makeup and Hairstyling,97th,no
+Crystal,Jurado,A Different Man,2024,Best Makeup and Hairstyling,97th,no
+Julia,Floch Carbonel,Emilia Pérez,2024,Best Makeup and Hairstyling,97th,no
+Emmanuel,Janvier,Emilia Pérez,2024,Best Makeup and Hairstyling,97th,no
+Jean-Christophe,Spadaccini,Emilia Pérez,2024,Best Makeup and Hairstyling,97th,no
+David,White,Nosferatu,2024,Best Makeup and Hairstyling,97th,no
+Traci,Loader,Nosferatu,2024,Best Makeup and Hairstyling,97th,no
+Suzanne,Stokes-Munton,Nosferatu,2024,Best Makeup and Hairstyling,97th,no
+Frances,Hannon,Wicked,2024,Best Makeup and Hairstyling,97th,no
+Laura,Blount,Wicked,2024,Best Makeup and Hairstyling,97th,no
+Sarah,Nuth,Wicked,2024,Best Makeup and Hairstyling,97th,no

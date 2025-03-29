@@ -1,0 +1,374 @@
+firstName,lastName,movieTitle,releaseYear,categoryName,iteration,isWinner
+Hal,Roach,The Music Box,1931,Best Live Action Short Film,5th,yes
+Mack,Sennett,The Loud Mouth,1931,Best Live Action Short Film,5th,no
+Mack,Sennett,Wrestling Swordfish,1931,Best Live Action Short Film,5th,yes
+Louis,Brock,So This Is Harris!,1932,Best Live Action Short Film,6th,yes
+Louis,Brock,A Preferred List,1932,Best Live Action Short Film,6th,no
+Joe,Rock,Krakatoa,1932,Best Live Action Short Film,6th,yes
+Pete,Smith,Menu,1932,Best Live Action Short Film,6th,no
+Kenneth,Macgowan,La Cucaracha,1934,Best Live Action Short Film,7th,yes
+Jules,White,Men in Black,1934,Best Live Action Short Film,7th,no
+Stacy,Woodard,City of Wax,1934,Best Live Action Short Film,7th,yes
+Horace,Woodard,City of Wax,1934,Best Live Action Short Film,7th,yes
+Pete,Smith,Strikes and Spares,1934,Best Live Action Short Film,7th,no
+Jack,Chertok,How to Sleep,1935,Best Live Action Short Film,8th,yes
+Jules,White,"Oh, My Nerves",1935,Best Live Action Short Film,8th,no
+Hal,Roach,Tit for Tat,1935,Best Live Action Short Film,8th,no
+Pete,Smith,Audioscopiks,1935,Best Live Action Short Film,8th,no
+Hal,Roach,Bored of Education,1936,Best Live Action Short Film,9th,yes
+Pete,Smith,"Wanted, a Master",1936,Best Live Action Short Film,9th,no
+Pete,Smith,Penny Wisdom,1937,Best Live Action Short Film,10th,yes
+Pete,Smith,Romance of Radium,1937,Best Live Action Short Film,10th,no
+Pete,Smith,Quicker'n a Wink,1940,Best Live Action Short Film,13th,yes
+Pete,Smith,Army Champions,1941,Best Live Action Short Film,14th,no
+Pete,Smith,Marines in the Making,1942,Best Live Action Short Film,15th,no
+Grantland,Rice,Amphibious Fighters,1943,Best Live Action Short Film,16th,yes
+Gordon,Hollingshead,Cavalcade of Dance with Veloz and Yolanda,1943,Best Live Action Short Film,16th,no
+Edmund,Reek,Champions Carry On,1943,Best Live Action Short Film,16th,no
+Ralph,Staub,Hollywood in Uniform,1943,Best Live Action Short Film,16th,no
+Pete,Smith,Seeing Hands,1943,Best Live Action Short Film,16th,no
+Jerry,Bresler,Heavenly Music,1943,Best Live Action Short Film,16th,yes
+Sam,Coslow,Heavenly Music,1943,Best Live Action Short Film,16th,yes
+Gordon,Hollingshead,Women at War,1943,Best Live Action Short Film,16th,no
+Jerry,Fairbanks,Who's Who in Animal Land,1944,Best Live Action Short Film,17th,yes
+Edmund,Reek,Blue Grass Gentlemen,1944,Best Live Action Short Film,17th,no
+Gordon,Hollingshead,Jammin' the Blues,1944,Best Live Action Short Film,17th,no
+Pete,Smith,Movie Pests,1944,Best Live Action Short Film,17th,no
+Ralph,Staub,Screen Snapshots' 50th Anniversary of Motion Pictures,1944,Best Live Action Short Film,17th,no
+Gordon,Hollingshead,I Won't Play,1944,Best Live Action Short Film,17th,yes
+Jerry,Bresler,Main Street Today,1944,Best Live Action Short Film,17th,no
+Herbert,Moulton,Stairway to Light,1945,Best Live Action Short Film,18th,yes
+Jerry,Bresler,Stairway to Light,1945,Best Live Action Short Film,18th,yes
+Edmund,Reek,Along the Rainbow Trail,1945,Best Live Action Short Film,18th,no
+Ralph,Staub,Screen Snapshots' 25th Anniversary,1945,Best Live Action Short Film,18th,no
+Gordon,Hollingshead,Story of a Dog,1945,Best Live Action Short Film,18th,no
+Grantland,Rice,White Rhapsody,1945,Best Live Action Short Film,18th,no
+Gordon,Hollingshead,Star in the Night,1945,Best Live Action Short Film,18th,yes
+Chester,Franklin,A Gun in His Hand,1945,Best Live Action Short Film,18th,no
+Jerry,Bresler,A Gun in His Hand,1945,Best Live Action Short Film,18th,no
+Jules,White,The Jury Goes Round 'N' Round,1945,Best Live Action Short Film,18th,no
+Gordon,Hollingshead,Facing Your Danger,1946,Best Live Action Short Film,19th,yes
+Jack,Eaton,Dive-Hi Champs,1946,Best Live Action Short Film,19th,no
+Edmund,Reek,Golden Horses,1946,Best Live Action Short Film,19th,no
+Gordon,Hollingshead,Smart as a Fox,1946,Best Live Action Short Film,19th,no
+Pete,Smith,Sure Cures,1946,Best Live Action Short Film,19th,no
+Gordon,Hollingshead,A Boy and His Dog,1946,Best Live Action Short Film,19th,yes
+Jules,White,Hiss and Yell,1946,Best Live Action Short Film,19th,no
+Jerry,Bresler,The Luckiest Guy in the World,1946,Best Live Action Short Film,19th,no
+Herbert,Moulton,"Goodbye, Miss Turlock",1947,Best Live Action Short Film,20th,yes
+Jerry,Fairbanks,Moon Rockets,1947,Best Live Action Short Film,20th,no
+Pete,Smith,Now You See It,1947,Best Live Action Short Film,20th,no
+Gordon,Hollingshead,So You Want to Be in Pictures,1947,Best Live Action Short Film,20th,no
+Irving,Allen,Climbing the Matterhorn,1947,Best Live Action Short Film,20th,yes
+Edmund,Reek,Symphony of a City,1948,Best Live Action Short Film,21st,yes
+Herbert,Moulton,Annie Was a Wonder,1948,Best Live Action Short Film,21st,no
+Gordon,Hollingshead,Cinderella Horse,1948,Best Live Action Short Film,21st,no
+Gordon,Hollingshead,So You Want to Be on the Radio,1948,Best Live Action Short Film,21st,no
+Pete,Smith,You Can't Win,1948,Best Live Action Short Film,21st,no
+Walt,Disney,Seal Island,1948,Best Live Action Short Film,21st,yes
+Gordon,Hollingshead,Calgary Stampede,1948,Best Live Action Short Film,21st,no
+Jack,Eaton,Aquatic House Party,1949,Best Live Action Short Film,22nd,yes
+Justin,Herman,Roller Derby Girl,1949,Best Live Action Short Film,22nd,no
+Gordon,Hollingshead,So You Think You're Not Guilty,1949,Best Live Action Short Film,22nd,no
+Walton,C. Ament,Spills and Chills,1949,Best Live Action Short Film,22nd,no
+Pete,Smith,Water Trix,1949,Best Live Action Short Film,22nd,no
+Gaston,Diehl,Van Gogh,1949,Best Live Action Short Film,22nd,yes
+Irving,Allen,Chase of Death,1949,Best Live Action Short Film,22nd,no
+Gordon,Hollingshead,The Grass Is Always Greener,1949,Best Live Action Short Film,22nd,no
+Gordon,Hollingshead,Snow Carnival,1949,Best Live Action Short Film,22nd,no
+Gordon,Hollingshead,Grandad of Races,1950,Best Live Action Short Film,23rd,yes
+Robert,Youngson,Blaze Busters,1950,Best Live Action Short Film,23rd,no
+Pete,Smith,Wrong Way Butch,1950,Best Live Action Short Film,23rd,no
+Walt,Disney,In Beaver Valley,1950,Best Live Action Short Film,23rd,yes
+Gordon,Hollingshead,My Country 'Tis of Thee,1950,Best Live Action Short Film,23rd,no
+Robert,Youngson,World of Kids,1951,Best Live Action Short Film,24th,yes
+Jack,Eaton,Ridin' the Rails,1951,Best Live Action Short Film,24th,no
+Walt,Disney,Nature's Half Acre,1951,Best Live Action Short Film,24th,yes
+Boris,Vermont,Light in the Window,1952,Best Live Action Short Film,25th,yes
+Jack,Eaton,Athletes of the Saddle,1952,Best Live Action Short Film,25th,no
+Gordon,Hollingshead,Desert Killer,1952,Best Live Action Short Film,25th,no
+Norman,McLaren,Neighbours,1952,Best Live Action Short Film,25th,no
+Walt,Disney,Water Birds,1952,Best Live Action Short Film,25th,yes
+Gordon,Hollingshead,Thar She Blows!,1952,Best Live Action Short Film,25th,no
+Johnny,Green,Overture to The Merry Wives of Windsor,1953,Best Live Action Short Film,26th,yes
+Boris,Vermont,Joy of Living,1953,Best Live Action Short Film,26th,no
+Walt,Disney,Bear Country,1953,Best Live Action Short Film,26th,yes
+Walt,Disney,Ben and Me,1953,Best Live Action Short Film,26th,no
+Otto,Lang,Vesuvius Express,1953,Best Live Action Short Film,26th,no
+Robert,Youngson,This Mechanical Age,1954,Best Live Action Short Film,27th,yes
+Otto,Lang,The First Piano Quartette,1954,Best Live Action Short Film,27th,no
+Johnny,Green,The Strauss Fantasy,1954,Best Live Action Short Film,27th,no
+Denis,Sanders,A Time Out of War,1954,Best Live Action Short Film,27th,yes
+Terry,Sanders,A Time Out of War,1954,Best Live Action Short Film,27th,yes
+Otto,Lang,Jet Carrier,1954,Best Live Action Short Film,27th,no
+Walt,Disney,Siam,1954,Best Live Action Short Film,27th,no
+Edmund,Reek,Survival City,1955,Best Live Action Short Film,28th,yes
+Carson,Davidson,3rd Ave. El,1955,Best Live Action Short Film,28th,no
+Robert,Youngson,Gadgets Galore,1955,Best Live Action Short Film,28th,no
+Justin,Herman,Three Kisses,1955,Best Live Action Short Film,28th,no
+Dore,Schary,The Battle of Gettysburg,1955,Best Live Action Short Film,28th,no
+George,K. Arthur,On the Twelfth Day,1955,Best Live Action Short Film,28th,no
+Walt,Disney,Switzerland,1955,Best Live Action Short Film,28th,no
+Konstantin,Kalser,Crashing the Water Barrier,1956,Best Live Action Short Film,29th,yes
+Robert,Youngson,I Never Forget a Face,1956,Best Live Action Short Film,29th,no
+Larry,Lansburgh,Cow Dog,1956,Best Live Action Short Film,29th,no
+Walt,Disney,Samoa,1956,Best Live Action Short Film,29th,no
+Larry,Lansburgh,The Wetback Hound,1957,Best Live Action Short Film,30th,yes
+Norman,McLaren,A Chairy Tale,1957,Best Live Action Short Film,30th,no
+Tom,Daly,City of Gold,1957,Best Live Action Short Film,30th,no
+Ben,Sharpsteen,Portugal,1957,Best Live Action Short Film,30th,no
+Walt,Disney,Grand Canyon,1958,Best Live Action Short Film,31st,yes
+John,Patrick Hayes,The Kiss,1958,Best Live Action Short Film,31st,no
+James,A. Lebenthal,T Is for Tumbleweed,1958,Best Live Action Short Film,31st,no
+Jacques-Yves,Cousteau,The Golden Fish,1959,Best Live Action Short Film,32nd,yes
+Walt,Disney,Mysteries of the Deep,1959,Best Live Action Short Film,32nd,no
+Peter,Sellers,"The Running, Jumping and Standing-Still Film",1959,Best Live Action Short Film,32nd,no
+Shirley,Clarke,Skyscraper,1959,Best Live Action Short Film,32nd,no
+Willard,Van Dyke,Skyscraper,1959,Best Live Action Short Film,32nd,no
+Ismail,Merchant,The Creation of Woman,1960,Best Live Action Short Film,33rd,no
+Walt,Disney,Islands of the Sea,1960,Best Live Action Short Film,33rd,no
+Hilary,Harris,Seawards the Great Ships,1961,Best Live Action Short Film,34th,yes
+Pierre,Étaix,Heureux Anniversaire (Happy Anniversary),1962,Best Live Action Short Film,35th,yes
+Jean-Claude,Carrière,Heureux Anniversaire (Happy Anniversary),1962,Best Live Action Short Film,35th,yes
+Robert,Clouse,The Cadillac,1962,Best Live Action Short Film,35th,no
+Marcel,Ichac,An Occurrence at Owl Creek Bridge,1963,Best Live Action Short Film,36th,yes
+James,Hill,Home-Made Car,1963,Best Live Action Short Film,36th,no
+Christopher,Miles,Six-Sided Triangle,1963,Best Live Action Short Film,36th,no
+Robert,Clouse,The Legend of Jimmy Blue Eyes,1964,Best Live Action Short Film,37th,no
+Claude,Berri,The Chicken (Le Poulet),1965,Best Live Action Short Film,38th,yes
+Lothar,Wolff,Fortress of Peace,1965,Best Live Action Short Film,38th,no
+Noel,Black,Skaterdater,1965,Best Live Action Short Film,38th,no
+Edgar,Anstey,Snow,1965,Best Live Action Short Film,38th,no
+Jim,Henson,Time Piece,1965,Best Live Action Short Film,38th,no
+Edgar,Anstey,Wild Wings,1966,Best Live Action Short Film,39th,yes
+Marin,Karmitz,Turkey the Bridge,1966,Best Live Action Short Film,39th,no
+Christopher,Chapman,A Place to Stand,1967,Best Live Action Short Film,40th,yes
+Julian,Biggs,Paddle to the Sea,1967,Best Live Action Short Film,40th,no
+Len,Janson,"Stop, Look and Listen",1967,Best Live Action Short Film,40th,no
+Chuck,Menville,"Stop, Look and Listen",1967,Best Live Action Short Film,40th,no
+Charles,Guggenheim,Robert Kennedy Remembered,1968,Best Live Action Short Film,41st,yes
+George,Coe,The Dove,1968,Best Live Action Short Film,41st,no
+John,Astin,Prelude,1968,Best Live Action Short Film,41st,no
+Joan,Keller Stern,The Magic Machines,1969,Best Live Action Short Film,42nd,yes
+Bill,Mason,Blake,1969,Best Live Action Short Film,42nd,no
+John,Longenecker,The Resurrection of Broncho Billy,1970,Best Live Action Short Film,43rd,yes
+John,Hancock,Sticky My Fingers... Fleet My Feet,1970,Best Live Action Short Film,43rd,no
+Stephen,F. Verona,The Rehearsal,1971,Best Live Action Short Film,44th,no
+Pen,Densham,Life Times Nine,1973,Best Live Action Short Film,46th,no
+John,Watson,Life Times Nine,1973,Best Live Action Short Film,46th,no
+Paul,Claudon,One-Eyed Men Are Kings,1974,Best Live Action Short Film,47th,yes
+Edmond,Séchan,One-Eyed Men Are Kings,1974,Best Live Action Short Film,47th,yes
+Dewitt,Jones,Climb,1974,Best Live Action Short Film,47th,no
+Julian,Chagrin,The Concert,1974,Best Live Action Short Film,47th,no
+Bert,Salzman,Angel and Big Joe,1975,Best Live Action Short Film,48th,yes
+Louis,Marcus,Conquest of Light,1975,Best Live Action Short Film,48th,no
+Lawrence,M. Lansburgh,Dawn Flight,1975,Best Live Action Short Film,48th,no
+Andre,R. Guttfreund,In the Region of Ice,1976,Best Live Action Short Film,49th,yes
+Peter,Werner,In the Region of Ice,1976,Best Live Action Short Film,49th,yes
+Julian,Chagrin,The Morning Spider,1976,Best Live Action Short Film,49th,no
+Robin,Lehman,Nightlife,1976,Best Live Action Short Film,49th,no
+Dyan,Cannon,Number One,1976,Best Live Action Short Film,49th,no
+Beverly,Shaffer,I'll Find a Way,1977,Best Live Action Short Film,50th,yes
+Yuki,Yoshida,I'll Find a Way,1977,Best Live Action Short Film,50th,yes
+Saul,Bass,Notes on the Popular Arts,1977,Best Live Action Short Film,50th,no
+Taylor,Hackford,Teenage Father,1978,Best Live Action Short Film,51st,yes
+Andrew,Sugerman,Mandy's Grandmother,1978,Best Live Action Short Film,51st,no
+Roman,Kroitor,Bravery in the Field,1979,Best Live Action Short Film,52nd,no
+Stefan,Wodoslawsky,Bravery in the Field,1979,Best Live Action Short Film,52nd,no
+Ross,Lowell,"Oh Brother, My Brother",1979,Best Live Action Short Film,52nd,no
+Saul,Bass,The Solar Film,1979,Best Live Action Short Film,52nd,no
+Larry,Hankin,Solly's Diner,1979,Best Live Action Short Film,52nd,no
+Lloyd,Phillips,The Dollar Bottom,1980,Best Live Action Short Film,53rd,yes
+Greg,Lowe,Fall Line,1980,Best Live Action Short Film,53rd,no
+Christine,Oestreicher,Couples and Robbers,1981,Best Live Action Short Film,54th,no
+John,N. Smith,First Winter,1981,Best Live Action Short Film,54th,no
+Christine,Oestreicher,A Shocking Accident,1982,Best Live Action Short Film,55th,yes
+Bob,Rogers,Ballet Robotique,1982,Best Live Action Short Film,55th,no
+Michael,Toshiyuki Uno,The Silence,1982,Best Live Action Short Film,55th,no
+Andrew,Birkin,Sredni Vashtar,1982,Best Live Action Short Film,55th,no
+Ian,Emes,Goodie-Two-Shoes,1983,Best Live Action Short Film,56th,no
+Mike,Hoover,Up,1984,Best Live Action Short Film,57th,yes
+Michael,MacMillan,The Painted Door,1984,Best Live Action Short Film,57th,no
+Sharon,Oreck,Tales of Meeting and Parting,1984,Best Live Action Short Film,57th,no
+Lesli,Linka Glatter,Tales of Meeting and Parting,1984,Best Live Action Short Film,57th,no
+Jeffrey,D. Brown,Molly's Pilgrim,1985,Best Live Action Short Film,58th,yes
+Bob,Rogers,Rainbow War,1985,Best Live Action Short Film,58th,no
+Chuck,Workman,Precious Images,1986,Best Live Action Short Film,59th,yes
+Pino,Quartullo,Exit,1986,Best Live Action Short Film,59th,no
+Jonathan,Sanger,Ray's Male Heterosexual Dance Hall,1987,Best Live Action Short Film,60th,yes
+Jana,Sue Memel,Ray's Male Heterosexual Dance Hall,1987,Best Live Action Short Film,60th,yes
+Robert,A. Katz,Shoeshine,1987,Best Live Action Short Film,60th,no
+Dean,Parisot,The Appointments of Dennis Jennings,1988,Best Live Action Short Film,61st,yes
+Steven,Wright,The Appointments of Dennis Jennings,1988,Best Live Action Short Film,61st,yes
+Matia,Karrell,Cadillac Dreams,1988,Best Live Action Short Film,61st,no
+James,Hendrie,Work Experience,1989,Best Live Action Short Film,62nd,yes
+Robert,Nixon,Amazon Diary,1989,Best Live Action Short Film,62nd,no
+Jonathan,Tammuz,The Childeater,1989,Best Live Action Short Film,62nd,no
+Adam,Davidson,The Lunch Date,1990,Best Live Action Short Film,63rd,yes
+Raymond,De Felitta,Bronx Cheers,1990,Best Live Action Short Film,63rd,no
+Peter,Cattaneo,Dear Rosie,1990,Best Live Action Short Film,63rd,no
+Barnaby,Thompson,Dear Rosie,1990,Best Live Action Short Film,63rd,no
+Seth,Winston,Session Man,1991,Best Live Action Short Film,64th,yes
+Robert,N. Fried,Session Man,1991,Best Live Action Short Film,64th,yes
+David,M. Massey,Last Breeze of Summer,1991,Best Live Action Short Film,64th,no
+Jana,Sue Memel,Contact,1992,Best Live Action Short Film,65th,no
+Christian,M. Taylor,The Lady in Waiting,1992,Best Live Action Short Film,65th,no
+Kenneth,Branagh,Swan Song,1992,Best Live Action Short Film,65th,no
+Stacy,Title,Down on the Waterfront,1993,Best Live Action Short Film,66th,no
+Jonathan,Penner,Down on the Waterfront,1993,Best Live Action Short Film,66th,no
+Susan,Seidelman,The Dutch Master,1993,Best Live Action Short Film,66th,no
+Peter,Weller,Partners,1993,Best Live Action Short Film,66th,no
+Jana,Sue Memel,Partners,1993,Best Live Action Short Film,66th,no
+Didier,Flamand,The Screw (La Vis),1993,Best Live Action Short Film,66th,no
+Peter,Capaldi,Franz Kafka's It's a Wonderful Life,1994,Best Live Action Short Film,67th,yes
+Peggy,Rajski,Trevor,1994,Best Live Action Short Film,67th,yes
+Randy,Stone,Trevor,1994,Best Live Action Short Film,67th,yes
+Sean,Astin,Kangaroo Court,1994,Best Live Action Short Film,67th,no
+JoBeth,Williams,On Hope,1994,Best Live Action Short Film,67th,no
+Paul,Unwin,Syrup,1994,Best Live Action Short Film,67th,no
+Christine,Lahti,Lieberman in Love,1995,Best Live Action Short Film,68th,yes
+Jana,Sue Memel,Lieberman in Love,1995,Best Live Action Short Film,68th,yes
+Luke,Cresswell,Brooms,1995,Best Live Action Short Film,68th,no
+Steve,McNicholas,Brooms,1995,Best Live Action Short Film,68th,no
+Griffin,Dunne,Duke of Groove,1995,Best Live Action Short Film,68th,no
+Jeff,Goldblum,Little Surprises,1995,Best Live Action Short Film,68th,no
+Dianne,Houston,Tuesday Morning Ride,1995,Best Live Action Short Film,68th,no
+David,Frankel,Dear Diary,1996,Best Live Action Short Film,69th,yes
+Kim,Magnusson,Ernst & Lyset,1996,Best Live Action Short Film,69th,no
+Anders,Thomas Jensen,Ernst & Lyset,1996,Best Live Action Short Film,69th,no
+Juan,Carlos Fresnadillo,Esposados,1996,Best Live Action Short Film,69th,no
+Chris,Tashima,Visas and Virtue,1997,Best Live Action Short Film,70th,yes
+Chris,Donahue,Visas and Virtue,1997,Best Live Action Short Film,70th,yes
+Tim,Loane,Dance Lexie Dance,1997,Best Live Action Short Film,70th,no
+Birger,Larsen,Sweethearts?,1997,Best Live Action Short Film,70th,no
+Kim,Magnusson,Wolfgang,1997,Best Live Action Short Film,70th,no
+Anders,Thomas Jensen,Wolfgang,1997,Best Live Action Short Film,70th,no
+Kim,Magnusson,Election Night (Valgaften),1998,Best Live Action Short Film,71st,yes
+Anders,Thomas Jensen,Election Night (Valgaften),1998,Best Live Action Short Film,71st,yes
+Alexander,Jovy,Holiday Romance,1998,Best Live Action Short Film,71st,no
+Joel,Bergvall,Victor,1998,Best Live Action Short Film,71st,no
+Henrik,Ruben Genz,"Bror, Min Bror (Teis and Nico)",1999,Best Live Action Short Film,72nd,no
+Mehdi,Norowzian,Killing Joe,1999,Best Live Action Short Film,72nd,no
+Florian,Gallenberger,Quiero Ser (I want to be...),2000,Best Live Action Short Film,73rd,yes
+Peter,Riegert,By Courier,2000,Best Live Action Short Film,73rd,no
+Ray,McKinnon,The Accountant,2001,Best Live Action Short Film,74th,yes
+Lisa,Blount,The Accountant,2001,Best Live Action Short Film,74th,yes
+Virgil,Widrich,Copy Shop,2001,Best Live Action Short Film,74th,no
+Sławomir,Fabicki,Meska Sprawa (A Man Thing),2001,Best Live Action Short Film,74th,no
+Lexi,Alexander,Johnny Flynton,2002,Best Live Action Short Film,75th,no
+Aaron,Schneider,Two Soldiers,2003,Best Live Action Short Film,76th,yes
+William,Zabka,Most (The Bridge),2003,Best Live Action Short Film,76th,no
+Lionel,Bailliu,Squash,2003,Best Live Action Short Film,76th,no
+Stefan,Arsenijević,(A) Torzija [(A) Torsion],2003,Best Live Action Short Film,76th,no
+Andrea,Arnold,Wasp,2004,Best Live Action Short Film,77th,yes
+Nacho,Vigalondo,7:35 de la Mañana (7:35 in the Morning),2004,Best Live Action Short Film,77th,no
+Gary,McKendry,Everything in This Country Must,2004,Best Live Action Short Film,77th,no
+Ashvin,Kumar,Little Terrorist,2004,Best Live Action Short Film,77th,no
+Taika,Waititi,"Two Cars, One Night",2004,Best Live Action Short Film,77th,no
+Ainsley,Gardiner,"Two Cars, One Night",2004,Best Live Action Short Film,77th,no
+Martin,McDonagh,Six Shooter,2005,Best Live Action Short Film,78th,yes
+Sean,Ellis,Cashback,2005,Best Live Action Short Film,78th,no
+Rúnar,Rúnarsson,The Last Farm,2005,Best Live Action Short Film,78th,no
+Rob,Pearlstein,Our Time Is Up,2005,Best Live Action Short Film,78th,no
+Pia,Clemente,Our Time Is Up,2005,Best Live Action Short Film,78th,no
+Ari,Sandel,West Bank Story,2006,Best Live Action Short Film,79th,yes
+Javier,Fesser,Binta and the Great Idea (Binta y la Gran Idea),2006,Best Live Action Short Film,79th,no
+Borja,Cobeaga,Éramos Pocos (One Too Many),2006,Best Live Action Short Film,79th,no
+Søren,Pilmark,Helmer & Son,2006,Best Live Action Short Film,79th,no
+Kim,Magnusson,Helmer & Son,2006,Best Live Action Short Film,79th,no
+Philippe,Pollet-Villard,Le Mozart des pickpockets,2007,Best Live Action Short Film,80th,yes
+Christian,E. Christiansen,At Night,2007,Best Live Action Short Film,80th,no
+Louise,Vesth,At Night,2007,Best Live Action Short Film,80th,no
+Daniel,Barber,The Tonto Woman,2007,Best Live Action Short Film,80th,no
+Jochen,Alexander Freydank,Toyland,2008,Best Live Action Short Film,81st,yes
+Steph,Green,New Boy,2008,Best Live Action Short Film,81st,no
+Juanita,Wilson,The Door,2009,Best Live Action Short Film,82nd,no
+James,Flynn,The Door,2009,Best Live Action Short Film,82nd,no
+Luke,Doolan,Miracle Fish,2009,Best Live Action Short Film,82nd,no
+Luke,Matheny,God of Love,2010,Best Live Action Short Film,83rd,yes
+Tanel,Toom,The Confession,2010,Best Live Action Short Film,83rd,no
+Terry,George,The Shore,2011,Best Live Action Short Film,84th,yes
+Oorlagh,George,The Shore,2011,Best Live Action Short Film,84th,yes
+Peter,McDonald,Pentecost,2011,Best Live Action Short Film,84th,no
+Eimear,O'Kane,Pentecost,2011,Best Live Action Short Film,84th,no
+Max,Zähle,Raju,2011,Best Live Action Short Film,84th,no
+Stefan,Gieren,Raju,2011,Best Live Action Short Film,84th,no
+Andrew,Bowler,Time Freak,2011,Best Live Action Short Film,84th,no
+Gigi,Causey,Time Freak,2011,Best Live Action Short Film,84th,no
+Hallvar,Witzø,Tuba Atlantic,2011,Best Live Action Short Film,84th,no
+Shawn,Christensen,Curfew,2012,Best Live Action Short Film,85th,yes
+Bryan,Buckley,Asad,2012,Best Live Action Short Film,85th,no
+Ariel,Nasr,Buzkashi Boys,2012,Best Live Action Short Film,85th,no
+Yan,England,Henry,2012,Best Live Action Short Film,85th,no
+Anders,Walter,Helium,2013,Best Live Action Short Film,86th,yes
+Kim,Magnusson,Helium,2013,Best Live Action Short Film,86th,yes
+Esteban,Crespo,Aquel No Era Yo (That Wasn't Me),2013,Best Live Action Short Film,86th,no
+Xavier,Legrand,Avant Que De Tout Perde (Just Before Losing Everything),2013,Best Live Action Short Film,86th,no
+Alexandre,Gavras,Avant Que De Tout Perde (Just Before Losing Everything),2013,Best Live Action Short Film,86th,no
+Selma,Vilhunen,Pitääkö Mun Kaikki Hoitaa? (Do I Have to Take Care of Everything?),2013,Best Live Action Short Film,86th,no
+Kirsikka,Saari,Pitääkö Mun Kaikki Hoitaa? (Do I Have to Take Care of Everything?),2013,Best Live Action Short Film,86th,no
+Mark,Gill,The Voorman Problem,2013,Best Live Action Short Film,86th,no
+Baldwin,Li,The Voorman Problem,2013,Best Live Action Short Film,86th,no
+Mat,Kirkby,The Phone Call,2014,Best Live Action Short Film,87th,yes
+James,Lucas,The Phone Call,2014,Best Live Action Short Film,87th,yes
+Michael,Lennox,Boogaloo and Graham,2014,Best Live Action Short Film,87th,no
+Hu,Wei,Butter Lamp (La Lampe Au Beurre De Yak),2014,Best Live Action Short Film,87th,no
+Talkhon,Hamzavi,Parvaneh,2014,Best Live Action Short Film,87th,no
+Stefan,Eichenberger,Parvaneh,2014,Best Live Action Short Film,87th,no
+Benjamin,Cleary,Stutterer,2015,Best Live Action Short Film,88th,yes
+Serena,Armitage,Stutterer,2015,Best Live Action Short Film,88th,yes
+Basil,Khalil,Ave Maria,2015,Best Live Action Short Film,88th,no
+Eric,Dupont,Ave Maria,2015,Best Live Action Short Film,88th,no
+Henry,Hughes,Day One,2015,Best Live Action Short Film,88th,no
+Patrick,Vollrath,Everything Will Be Okay (Alles Wird Gut),2015,Best Live Action Short Film,88th,no
+Jamie,Donoughue,Shok,2015,Best Live Action Short Film,88th,no
+Kristóf,Deák,Sing,2016,Best Live Action Short Film,89th,yes
+Anna,Udvardy,Sing,2016,Best Live Action Short Film,89th,yes
+Sélim,Azzazi,Ennemis Intérieurs,2016,Best Live Action Short Film,89th,no
+Timo,von Gunten,La femme et le TGV,2016,Best Live Action Short Film,89th,no
+Giacun,Caduff,La femme et le TGV,2016,Best Live Action Short Film,89th,no
+Aske,Bang,Silent Nights,2016,Best Live Action Short Film,89th,no
+Kim,Magnusson,Silent Nights,2016,Best Live Action Short Film,89th,no
+Juanjo,Giménez,Timecode,2016,Best Live Action Short Film,89th,no
+Chris,Overton,The Silent Child,2017,Best Live Action Short Film,90th,yes
+Rachel,Shenton,The Silent Child,2017,Best Live Action Short Film,90th,yes
+Reed,Van Dyk,DeKalb Elementary,2017,Best Live Action Short Film,90th,no
+Derin,Seale,The Eleven O'Clock,2017,Best Live Action Short Film,90th,no
+Josh,Lawson,The Eleven O'Clock,2017,Best Live Action Short Film,90th,no
+Kevin,Wilson Jr.,My Nephew Emmett,2017,Best Live Action Short Film,90th,no
+Katja,Benrath,Watu Wote: All of Us,2017,Best Live Action Short Film,90th,no
+Tobias,Rosen,Watu Wote: All of Us,2017,Best Live Action Short Film,90th,no
+Guy,Nattiv,Skin,2018,Best Live Action Short Film,91st,yes
+Jaime,Ray Newman,Skin,2018,Best Live Action Short Film,91st,yes
+Vincent,Lambe,Detainment,2018,Best Live Action Short Film,91st,no
+Jérémy,Comte,Fauve,2018,Best Live Action Short Film,91st,no
+Marianne,Farley,Marguerite,2018,Best Live Action Short Film,91st,no
+Rodrigo,Sorogoyen,Mother,2018,Best Live Action Short Film,91st,no
+Marshall,Curry,The Neighbors' Window,2019,Best Live Action Short Film,92nd,yes
+Meryam,Joobeur,Brotherhood,2019,Best Live Action Short Film,92nd,no
+Yves,Piat,Nefta Football Club,2019,Best Live Action Short Film,92nd,no
+Damien,Megherbi,Nefta Football Club,2019,Best Live Action Short Film,92nd,no
+Bryan,Buckley,Saria,2019,Best Live Action Short Film,92nd,no
+Delphine,Girard,A Sister,2019,Best Live Action Short Film,92nd,no
+Travon,Free,Two Distant Strangers,2020,Best Live Action Short Film,93rd,yes
+Martin,Desmond Roe,Two Distant Strangers,2020,Best Live Action Short Film,93rd,yes
+Elvira,Lind,The Letter Room,2020,Best Live Action Short Film,93rd,no
+Sofia,Sondervan,The Letter Room,2020,Best Live Action Short Film,93rd,no
+Farah,Nabulsi,The Present,2020,Best Live Action Short Film,93rd,no
+Riz,Ahmed,The Long Goodbye,2021,Best Live Action Short Film,94th,yes
+Maria,Brendle,Ala Kachuu – Take and Run,2021,Best Live Action Short Film,94th,no
+Maciej,Ślesicki,The Dress,2021,Best Live Action Short Film,94th,no
+Kim,Magnusson,On My Mind,2021,Best Live Action Short Film,94th,no
+K.D.,Dávila,Please Hold,2021,Best Live Action Short Film,94th,no
+Alice,Rohrwacher,Le pupille,2022,Best Live Action Short Film,95th,no
+Alfonso,Cuarón,Le pupille,2022,Best Live Action Short Film,95th,no
+Wes,Anderson,The Wonderful Story of Henry Sugar,2023,Best Live Action Short Film,96th,yes
+Steven,Rales,The Wonderful Story of Henry Sugar,2023,Best Live Action Short Film,96th,yes
+Misan,Harriman,The After,2023,Best Live Action Short Film,96th,no
+Vincent,René-Lortie,Invincible,2023,Best Live Action Short Film,96th,no
+Samuel,Caron,Invincible,2023,Best Live Action Short Film,96th,no
+Nazrin,Choudhury,"Red, White and Blue",2023,Best Live Action Short Film,96th,no
+Adam,J. Graves,Anuja,2024,Best Live Action Short Film,97th,no
+Suchitra,Mattai,Anuja,2024,Best Live Action Short Film,97th,no
+Darwin,Shaw,The Last Ranger,2024,Best Live Action Short Film,97th,no
+Nebojša,Slijepčević,The Man Who Could Not Remain Silent,2024,Best Live Action Short Film,97th,no

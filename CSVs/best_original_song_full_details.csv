@@ -1,0 +1,855 @@
+firstName,lastName,movieTitle,releaseYear,categoryName,iteration,isWinner
+Con,Conrad,The Gay Divorcee,1934,Best Original Song,7th,yes
+Herb,Magidson,The Gay Divorcee,1934,Best Original Song,7th,yes
+Vincent,Youmans,Flying Down to Rio,1934,Best Original Song,7th,no
+Edward,Eliscu,Flying Down to Rio,1934,Best Original Song,7th,no
+Gus,Kahn,Flying Down to Rio,1934,Best Original Song,7th,no
+Ralph,Rainger,She Loves Me Not,1934,Best Original Song,7th,no
+Leo,Robin,She Loves Me Not,1934,Best Original Song,7th,no
+Harry,Warren,Gold Diggers of 1935,1935,Best Original Song,8th,yes
+Al,Dubin,Gold Diggers of 1935,1935,Best Original Song,8th,yes
+Jerome,Kern,Roberta,1935,Best Original Song,8th,no
+Dorothy,Fields,Roberta,1935,Best Original Song,8th,no
+Jimmy,McHugh,Roberta,1935,Best Original Song,8th,no
+Irving,Berlin,Top Hat,1935,Best Original Song,8th,no
+Jerome,Kern,Swing Time,1936,Best Original Song,9th,yes
+Dorothy,Fields,Swing Time,1936,Best Original Song,9th,yes
+Cole,Porter,Born to Dance,1936,Best Original Song,9th,no
+Arthur,Johnston,Pennies from Heaven,1936,Best Original Song,9th,no
+Johnny,Burke,Pennies from Heaven,1936,Best Original Song,9th,no
+Richard,A. Whiting,"Sing, Baby, Sing",1936,Best Original Song,9th,no
+Walter,Bullock,"Sing, Baby, Sing",1936,Best Original Song,9th,no
+Walter,Donaldson,Suzy,1936,Best Original Song,9th,no
+Harold,Adamson,Suzy,1936,Best Original Song,9th,no
+Louis,Alter,The Trail of the Lonesome Pine,1936,Best Original Song,9th,no
+Sidney,D. Mitchell,The Trail of the Lonesome Pine,1936,Best Original Song,9th,no
+Harry,Owens,Waikiki Wedding,1937,Best Original Song,10th,yes
+Friedrich,Hollaender,Artists and Models,1937,Best Original Song,10th,no
+Leo,Robin,Artists and Models,1937,Best Original Song,10th,no
+Harry,Warren,Mr. Dodd Takes the Air,1937,Best Original Song,10th,no
+Al,Dubin,Mr. Dodd Takes the Air,1937,Best Original Song,10th,no
+George,Gershwin,Shall We Dance,1937,Best Original Song,10th,no
+Ira,Gershwin,Shall We Dance,1937,Best Original Song,10th,no
+Sammy,Fain,Walter Wanger's Vogues of 1938,1937,Best Original Song,10th,no
+Lew,Brown,Walter Wanger's Vogues of 1938,1937,Best Original Song,10th,no
+Ralph,Rainger,The Big Broadcast of 1938,1938,Best Original Song,11th,yes
+Leo,Robin,The Big Broadcast of 1938,1938,Best Original Song,11th,yes
+Irving,Berlin,Alexander's Ragtime Band,1938,Best Original Song,11th,no
+Lionel,Newman,The Cowboy and the Lady,1938,Best Original Song,11th,no
+Harry,Warren,Going Places,1938,Best Original Song,11th,no
+Johnny,Mercer,Going Places,1938,Best Original Song,11th,no
+Ben,Oakland,The Lady Objects,1938,Best Original Song,11th,no
+Oscar,Hammerstein II,The Lady Objects,1938,Best Original Song,11th,no
+Edward,Ward,Mannequin,1938,Best Original Song,11th,no
+Chet,Forrest,Mannequin,1938,Best Original Song,11th,no
+Bob,Wright,Mannequin,1938,Best Original Song,11th,no
+Phil,Charig,Merrily We Live,1938,Best Original Song,11th,no
+Jimmy,McHugh,That Certain Age,1938,Best Original Song,11th,no
+Harold,Adamson,That Certain Age,1938,Best Original Song,11th,no
+Johnny,Marvin,Under Western Stars,1938,Best Original Song,11th,no
+Harold,Arlen,The Wizard of Oz,1939,Best Original Song,12th,yes
+Yip,Harburg,The Wizard of Oz,1939,Best Original Song,12th,yes
+Ralph,Rainger,Gulliver's Travels,1939,Best Original Song,12th,no
+Leo,Robin,Gulliver's Travels,1939,Best Original Song,12th,no
+Buddy,DeSylva,Love Affair,1939,Best Original Song,12th,no
+Irving,Berlin,Second Fiddle,1939,Best Original Song,12th,no
+Leigh,Harline,Pinocchio,1940,Best Original Song,13th,yes
+Ned,Washington,Pinocchio,1940,Best Original Song,13th,yes
+Harry,Warren,Down Argentine Way,1940,Best Original Song,13th,no
+Mack,Gordon,Down Argentine Way,1940,Best Original Song,13th,no
+Jule,Styne,Hit Parade of 1941,1940,Best Original Song,13th,no
+Walter,Bullock,Hit Parade of 1941,1940,Best Original Song,13th,no
+Chet,Forrest,Music in My Heart,1940,Best Original Song,13th,no
+Bob,Wright,Music in My Heart,1940,Best Original Song,13th,no
+James,V. Monaco,Rhythm on the River,1940,Best Original Song,13th,no
+John,Burke,Rhythm on the River,1940,Best Original Song,13th,no
+Artie,Shaw,Second Chorus,1940,Best Original Song,13th,no
+Johnny,Mercer,Second Chorus,1940,Best Original Song,13th,no
+Robert,Stolz,Spring Parade,1940,Best Original Song,13th,no
+Gus,Kahn,Spring Parade,1940,Best Original Song,13th,no
+Roger,Edens,Strike Up the Band,1940,Best Original Song,13th,no
+Arthur,Freed,Strike Up the Band,1940,Best Original Song,13th,no
+Jimmy,McHugh,You'll Find Out,1940,Best Original Song,13th,no
+Johnny,Mercer,You'll Find Out,1940,Best Original Song,13th,no
+Jerome,Kern,Lady Be Good,1941,Best Original Song,14th,yes
+Oscar,Hammerstein II,Lady Be Good,1941,Best Original Song,14th,yes
+Harold,Arlen,Blues in the Night,1941,Best Original Song,14th,no
+Johnny,Mercer,Blues in the Night,1941,Best Original Song,14th,no
+Hughie,Prince,Buck Privates,1941,Best Original Song,14th,no
+Don,Raye,Buck Privates,1941,Best Original Song,14th,no
+Frank,Churchill,Dumbo,1941,Best Original Song,14th,no
+Ned,Washington,Dumbo,1941,Best Original Song,14th,no
+Louis,Alter,Las Vegas Nights,1941,Best Original Song,14th,no
+Frank,Loesser,Las Vegas Nights,1941,Best Original Song,14th,no
+Gene,Autry,Ridin' on a Rainbow,1941,Best Original Song,14th,no
+Fred,Rose,Ridin' on a Rainbow,1941,Best Original Song,14th,no
+Harry,Warren,Sun Valley Serenade,1941,Best Original Song,14th,no
+Mack,Gordon,Sun Valley Serenade,1941,Best Original Song,14th,no
+Cole,Porter,You'll Never Get Rich,1941,Best Original Song,14th,no
+Irving,Berlin,Holiday Inn,1942,Best Original Song,15th,yes
+Ernesto,Lecuona,Always in My Heart,1942,Best Original Song,15th,no
+Kim,Gannon,Always in My Heart,1942,Best Original Song,15th,no
+Burton,Lane,Babes on Broadway,1942,Best Original Song,15th,no
+Ralph,Freed,Babes on Broadway,1942,Best Original Song,15th,no
+Frank,Churchill,Bambi,1942,Best Original Song,15th,no
+Larry,Morey,Bambi,1942,Best Original Song,15th,no
+Edward,Ward,Flying with Music,1942,Best Original Song,15th,no
+Chet,Forrest,Flying with Music,1942,Best Original Song,15th,no
+Bob,Wright,Flying with Music,1942,Best Original Song,15th,no
+Gene,de Paul,Hellzapoppin',1942,Best Original Song,15th,no
+Don,Raye,Hellzapoppin',1942,Best Original Song,15th,no
+Harry,Revel,The Mayor of 44th Street,1942,Best Original Song,15th,no
+Harry,Warren,Orchestra Wives,1942,Best Original Song,15th,no
+Mack,Gordon,Orchestra Wives,1942,Best Original Song,15th,no
+Jerome,Kern,You Were Never Lovelier,1942,Best Original Song,15th,no
+Johnny,Mercer,You Were Never Lovelier,1942,Best Original Song,15th,no
+Jule,Styne,Youth on Parade,1942,Best Original Song,15th,no
+Sammy,Cahn,Youth on Parade,1942,Best Original Song,15th,no
+Harry,Warren,"Hello, Frisco, Hello",1943,Best Original Song,16th,yes
+Mack,Gordon,"Hello, Frisco, Hello",1943,Best Original Song,16th,yes
+Harold,Arlen,Cabin in the Sky,1943,Best Original Song,16th,no
+Yip,Harburg,Cabin in the Sky,1943,Best Original Song,16th,no
+Jimmy,McHugh,Hers to Hold,1943,Best Original Song,16th,no
+Herb,Magidson,Hers to Hold,1943,Best Original Song,16th,no
+Jule,Styne,Hit Parade of 1943,1943,Best Original Song,16th,no
+Harold,Adamson,Hit Parade of 1943,1943,Best Original Song,16th,no
+Charles,Wolcott,Saludos Amigos,1943,Best Original Song,16th,no
+Ned,Washington,Saludos Amigos,1943,Best Original Song,16th,no
+Johnny,Mercer,The Sky's the Limit,1943,Best Original Song,16th,no
+Cole,Porter,Something to Shout About,1943,Best Original Song,16th,no
+James,V. Monaco,Stage Door Canteen,1943,Best Original Song,16th,no
+Al,Dubin,Stage Door Canteen,1943,Best Original Song,16th,no
+Harold,Arlen,Star Spangled Rhythm,1943,Best Original Song,16th,no
+Johnny,Mercer,Star Spangled Rhythm,1943,Best Original Song,16th,no
+Arthur,Schwartz,Thank Your Lucky Stars,1943,Best Original Song,16th,no
+Frank,Loesser,Thank Your Lucky Stars,1943,Best Original Song,16th,no
+Jimmy,Van Heusen,Going My Way,1944,Best Original Song,17th,yes
+Johnny,Burke,Going My Way,1944,Best Original Song,17th,yes
+Ary,Barroso,Brazil,1944,Best Original Song,17th,no
+Ned,Washington,Brazil,1944,Best Original Song,17th,no
+Jerome,Kern,Cover Girl,1944,Best Original Song,17th,no
+Ira,Gershwin,Cover Girl,1944,Best Original Song,17th,no
+Jule,Styne,Follow the Boys,1944,Best Original Song,17th,no
+Sammy,Cahn,Follow the Boys,1944,Best Original Song,17th,no
+Jimmy,McHugh,Higher and Higher,1944,Best Original Song,17th,no
+Harold,Adamson,Higher and Higher,1944,Best Original Song,17th,no
+Ted,Koehler,Hollywood Canteen,1944,Best Original Song,17th,no
+Lew,Pollack,"Lady, Let's Dance",1944,Best Original Song,17th,no
+Ralph,Blane,Meet Me in St. Louis,1944,Best Original Song,17th,no
+Hugh,Martin,Meet Me in St. Louis,1944,Best Original Song,17th,no
+Harry,Revel,Minstrel Man,1944,Best Original Song,17th,no
+Paul,Francis Webster,Minstrel Man,1944,Best Original Song,17th,no
+Walter,Kent,Song of the Open Road,1944,Best Original Song,17th,no
+Kim,Gannon,Song of the Open Road,1944,Best Original Song,17th,no
+James,V. Monaco,Sweet and Low-Down,1944,Best Original Song,17th,no
+Mack,Gordon,Sweet and Low-Down,1944,Best Original Song,17th,no
+Harold,Arlen,Up in Arms,1944,Best Original Song,17th,no
+Ted,Koehler,Up in Arms,1944,Best Original Song,17th,no
+Richard,Rodgers,State Fair,1945,Best Original Song,18th,yes
+Oscar,Hammerstein II,State Fair,1945,Best Original Song,18th,yes
+Jule,Styne,Anchors Aweigh,1945,Best Original Song,18th,no
+Sammy,Cahn,Anchors Aweigh,1945,Best Original Song,18th,no
+Jimmy,Van Heusen,Belle of the Yukon,1945,Best Original Song,18th,no
+Johnny,Burke,Belle of the Yukon,1945,Best Original Song,18th,no
+Jerome,Kern,Can't Help Singing,1945,Best Original Song,18th,no
+Yip,Harburg,Can't Help Singing,1945,Best Original Song,18th,no
+Walter,Kent,Earl Carroll Vanities,1945,Best Original Song,18th,no
+Kim,Gannon,Earl Carroll Vanities,1945,Best Original Song,18th,no
+Harold,Arlen,Here Come the Waves,1945,Best Original Song,18th,no
+Johnny,Mercer,Here Come the Waves,1945,Best Original Song,18th,no
+Victor,Young,Love Letters,1945,Best Original Song,18th,no
+Edward,Heyman,Love Letters,1945,Best Original Song,18th,no
+Ray,Heindorf,San Antonio,1945,Best Original Song,18th,no
+Ted,Koehler,San Antonio,1945,Best Original Song,18th,no
+Allie,Wrubel,Sing Your Way Home,1945,Best Original Song,18th,no
+Herb,Magidson,Sing Your Way Home,1945,Best Original Song,18th,no
+Ann,Ronell,The Story of G.I. Joe,1945,Best Original Song,18th,no
+Jule,Styne,Tonight and Every Night,1945,Best Original Song,18th,no
+Sammy,Cahn,Tonight and Every Night,1945,Best Original Song,18th,no
+Jay,Livingston,Why Girls Leave Home,1945,Best Original Song,18th,no
+Ray,Evans,Why Girls Leave Home,1945,Best Original Song,18th,no
+David,Rose,Wonder Man,1945,Best Original Song,18th,no
+Leo,Robin,Wonder Man,1945,Best Original Song,18th,no
+Harry,Warren,The Harvey Girls,1946,Best Original Song,19th,yes
+Johnny,Mercer,The Harvey Girls,1946,Best Original Song,19th,yes
+Irving,Berlin,Blue Skies,1946,Best Original Song,19th,no
+Hoagy,Carmichael,Canyon Passage,1946,Best Original Song,19th,no
+Jack,Brooks,Canyon Passage,1946,Best Original Song,19th,no
+Jerome,Kern,Centennial Summer,1946,Best Original Song,19th,no
+Oscar,Hammerstein II,Centennial Summer,1946,Best Original Song,19th,no
+James,V. Monaco,The Dolly Sisters,1946,Best Original Song,19th,no
+Mack,Gordon,The Dolly Sisters,1946,Best Original Song,19th,no
+Allie,Wrubel,Song of the South,1947,Best Original Song,20th,yes
+Ray,Gilbert,Song of the South,1947,Best Original Song,20th,yes
+Ralph,Blane,Good News,1947,Best Original Song,20th,no
+Roger,Edens,Good News,1947,Best Original Song,20th,no
+Hugh,Martin,Good News,1947,Best Original Song,20th,no
+Josef,Myrow,Mother Wore Tights,1947,Best Original Song,20th,no
+Mack,Gordon,Mother Wore Tights,1947,Best Original Song,20th,no
+Frank,Loesser,The Perils of Pauline,1947,Best Original Song,20th,no
+Arthur,Schwartz,"The Time, the Place and the Girl",1947,Best Original Song,20th,no
+Leo,Robin,"The Time, the Place and the Girl",1947,Best Original Song,20th,no
+Ray,Evans,The Paleface,1948,Best Original Song,21st,yes
+Jay,Livingston,The Paleface,1948,Best Original Song,21st,yes
+Harold,Arlen,Casbah,1948,Best Original Song,21st,no
+Leo,Robin,Casbah,1948,Best Original Song,21st,no
+Jule,Styne,Romance on the High Seas,1948,Best Original Song,21st,no
+Sammy,Cahn,Romance on the High Seas,1948,Best Original Song,21st,no
+Friedrich,Hollaender,That Lady in Ermine,1948,Best Original Song,21st,no
+Leo,Robin,That Lady in Ermine,1948,Best Original Song,21st,no
+Ramey,Idriss,Wet Blanket Policy,1948,Best Original Song,21st,no
+George,Tibbles,Wet Blanket Policy,1948,Best Original Song,21st,no
+Frank,Loesser,Neptune's Daughter,1949,Best Original Song,22nd,yes
+Alfred,Newman,Come to the Stable,1949,Best Original Song,22nd,no
+Mack,Gordon,Come to the Stable,1949,Best Original Song,22nd,no
+Jule,Styne,It's a Great Feeling,1949,Best Original Song,22nd,no
+Sammy,Cahn,It's a Great Feeling,1949,Best Original Song,22nd,no
+Victor,Young,My Foolish Heart,1949,Best Original Song,22nd,no
+Ned,Washington,My Foolish Heart,1949,Best Original Song,22nd,no
+Eliot,Daniel,So Dear to My Heart,1949,Best Original Song,22nd,no
+Larry,Morey,So Dear to My Heart,1949,Best Original Song,22nd,no
+Ray,Evans,"Captain Carey, U.S.A.",1950,Best Original Song,23rd,yes
+Jay,Livingston,"Captain Carey, U.S.A.",1950,Best Original Song,23rd,yes
+Mack,David,Cinderella,1950,Best Original Song,23rd,no
+Al,Hoffman,Cinderella,1950,Best Original Song,23rd,no
+Jerry,Livingston,Cinderella,1950,Best Original Song,23rd,no
+Hy,Heath,Singing Guns,1950,Best Original Song,23rd,no
+Johnny,Lange,Singing Guns,1950,Best Original Song,23rd,no
+Slug,Brodszky,The Toast of New Orleans,1950,Best Original Song,23rd,no
+Sammy,Cahn,The Toast of New Orleans,1950,Best Original Song,23rd,no
+Josef,Myrow,Wabash Avenue,1950,Best Original Song,23rd,no
+Mack,Gordon,Wabash Avenue,1950,Best Original Song,23rd,no
+Hoagy,Carmichael,Here Comes the Groom,1951,Best Original Song,24th,yes
+Johnny,Mercer,Here Comes the Groom,1951,Best Original Song,24th,yes
+Lionel,Newman,Golden Girl,1951,Best Original Song,24th,no
+Eliot,Daniel,Golden Girl,1951,Best Original Song,24th,no
+Slug,Brodszky,"Rich, Young and Pretty",1951,Best Original Song,24th,no
+Sammy,Cahn,"Rich, Young and Pretty",1951,Best Original Song,24th,no
+Burton,Lane,Royal Wedding,1951,Best Original Song,24th,no
+Alan,Jay Lerner,Royal Wedding,1951,Best Original Song,24th,no
+Bert,Kalmar,The Strip,1951,Best Original Song,24th,no
+Oscar,Hammerstein II,The Strip,1951,Best Original Song,24th,no
+Harry,Ruby,The Strip,1951,Best Original Song,24th,no
+Dimitri,Tiomkin,High Noon,1952,Best Original Song,25th,yes
+Ned,Washington,High Noon,1952,Best Original Song,25th,yes
+Slug,Brodszky,Because You're Mine,1952,Best Original Song,25th,no
+Sammy,Cahn,Because You're Mine,1952,Best Original Song,25th,no
+Frank,Loesser,Hans Christian Andersen,1952,Best Original Song,25th,no
+Harry,Warren,Just for You,1952,Best Original Song,25th,no
+Leo,Robin,Just for You,1952,Best Original Song,25th,no
+Jack,Brooks,Son of Paleface,1952,Best Original Song,25th,no
+Sammy,Fain,Calamity Jane,1953,Best Original Song,26th,yes
+Paul,Francis Webster,Calamity Jane,1953,Best Original Song,26th,yes
+Harry,Warren,The Caddy,1953,Best Original Song,26th,no
+Jack,Brooks,The Caddy,1953,Best Original Song,26th,no
+Lester,Lee,Miss Sadie Thompson,1953,Best Original Song,26th,no
+Ned,Washington,Miss Sadie Thompson,1953,Best Original Song,26th,no
+Herschel,Burke Gilbert,The Moon Is Blue,1953,Best Original Song,26th,no
+Sylvia,Fine,The Moon Is Blue,1953,Best Original Song,26th,no
+Slug,Brodszky,Small Town Girl,1953,Best Original Song,26th,no
+Leo,Robin,Small Town Girl,1953,Best Original Song,26th,no
+Jule,Styne,Three Coins in the Fountain,1954,Best Original Song,27th,yes
+Sammy,Cahn,Three Coins in the Fountain,1954,Best Original Song,27th,yes
+Dimitri,Tiomkin,The High and the Mighty,1954,Best Original Song,27th,no
+Ned,Washington,The High and the Mighty,1954,Best Original Song,27th,no
+Harold,Arlen,A Star Is Born,1954,Best Original Song,27th,no
+Ira,Gershwin,A Star Is Born,1954,Best Original Song,27th,no
+Jack,Lawrence,Susan Slept Here,1954,Best Original Song,27th,no
+Richard,Myers,Susan Slept Here,1954,Best Original Song,27th,no
+Irving,Berlin,White Christmas,1954,Best Original Song,27th,no
+Sammy,Fain,Love Is a Many-Splendored Thing,1955,Best Original Song,28th,yes
+Paul,Francis Webster,Love Is a Many-Splendored Thing,1955,Best Original Song,28th,yes
+Johnny,Mercer,Daddy Long Legs,1955,Best Original Song,28th,no
+Slug,Brodszky,Love Me or Leave Me,1955,Best Original Song,28th,no
+Sammy,Cahn,Love Me or Leave Me,1955,Best Original Song,28th,no
+Jimmy,Van Heusen,The Tender Trap,1955,Best Original Song,28th,no
+Alex,North,Unchained,1955,Best Original Song,28th,no
+Hy,Zaret,Unchained,1955,Best Original Song,28th,no
+Ray,Evans,The Man Who Knew Too Much,1956,Best Original Song,29th,yes
+Jay,Livingston,The Man Who Knew Too Much,1956,Best Original Song,29th,yes
+Dimitri,Tiomkin,Friendly Persuasion,1956,Best Original Song,29th,no
+Paul,Francis Webster,Friendly Persuasion,1956,Best Original Song,29th,no
+Cole,Porter,High Society,1956,Best Original Song,29th,no
+Leith,Stevens,Julie,1956,Best Original Song,29th,no
+Tom,Adair,Julie,1956,Best Original Song,29th,no
+Victor,Young,Written on the Wind,1956,Best Original Song,29th,no
+Sammy,Cahn,Written on the Wind,1956,Best Original Song,29th,no
+Jimmy,Van Heusen,The Joker Is Wild,1957,Best Original Song,30th,yes
+Sammy,Cahn,The Joker Is Wild,1957,Best Original Song,30th,yes
+Harry,Warren,An Affair to Remember,1957,Best Original Song,30th,no
+Harold,Adamson,An Affair to Remember,1957,Best Original Song,30th,no
+Leo,McCarey,An Affair to Remember,1957,Best Original Song,30th,no
+Sammy,Fain,April Love,1957,Best Original Song,30th,no
+Paul,Francis Webster,April Love,1957,Best Original Song,30th,no
+Ray,Evans,Tammy and the Bachelor,1957,Best Original Song,30th,no
+Jay,Livingston,Tammy and the Bachelor,1957,Best Original Song,30th,no
+Dimitri,Tiomkin,Wild Is the Wind,1957,Best Original Song,30th,no
+Ned,Washington,Wild Is the Wind,1957,Best Original Song,30th,no
+Frederick,Loewe,Gigi,1958,Best Original Song,31st,yes
+Alan,Jay Lerner,Gigi,1958,Best Original Song,31st,yes
+Sammy,Fain,A Certain Smile,1958,Best Original Song,31st,no
+Paul,Francis Webster,A Certain Smile,1958,Best Original Song,31st,no
+Ray,Evans,Houseboat,1958,Best Original Song,31st,no
+Jay,Livingston,Houseboat,1958,Best Original Song,31st,no
+Jimmy,Van Heusen,Some Came Running,1958,Best Original Song,31st,no
+Sammy,Cahn,Some Came Running,1958,Best Original Song,31st,no
+Jimmy,Van Heusen,A Hole in the Head,1959,Best Original Song,32nd,yes
+Sammy,Cahn,A Hole in the Head,1959,Best Original Song,32nd,yes
+Alfred,Newman,The Best of Everything,1959,Best Original Song,32nd,no
+Sylvia,Fine,The Five Pennies,1959,Best Original Song,32nd,no
+Jerry,Livingston,The Hanging Tree,1959,Best Original Song,32nd,no
+Mack,David,The Hanging Tree,1959,Best Original Song,32nd,no
+Dimitri,Tiomkin,The Young Land,1959,Best Original Song,32nd,no
+Ned,Washington,The Young Land,1959,Best Original Song,32nd,no
+Manos,Hatzidakis,Never on Sunday,1960,Best Original Song,33rd,yes
+Dimitri,Tiomkin,The Alamo,1960,Best Original Song,33rd,no
+Paul,Francis Webster,The Alamo,1960,Best Original Song,33rd,no
+Johnny,Mercer,The Facts of Life,1960,Best Original Song,33rd,no
+Jimmy,Van Heusen,High Time,1960,Best Original Song,33rd,no
+Sammy,Cahn,High Time,1960,Best Original Song,33rd,no
+André,Previn,Pepe,1960,Best Original Song,33rd,no
+Dory,Previn,Pepe,1960,Best Original Song,33rd,no
+Henry,Mancini,Breakfast at Tiffany's,1961,Best Original Song,34th,yes
+Johnny,Mercer,Breakfast at Tiffany's,1961,Best Original Song,34th,yes
+Mack,David,Bachelor in Paradise,1961,Best Original Song,34th,no
+Miklós,Rózsa,El Cid,1961,Best Original Song,34th,no
+Paul,Francis Webster,El Cid,1961,Best Original Song,34th,no
+Jimmy,Van Heusen,Pocketful of Miracles,1961,Best Original Song,34th,no
+Sammy,Cahn,Pocketful of Miracles,1961,Best Original Song,34th,no
+Dimitri,Tiomkin,Town Without Pity,1961,Best Original Song,34th,no
+Ned,Washington,Town Without Pity,1961,Best Original Song,34th,no
+Henry,Mancini,Days of Wine and Roses,1962,Best Original Song,35th,yes
+Johnny,Mercer,Days of Wine and Roses,1962,Best Original Song,35th,yes
+Bronisław,Kaper,Mutiny on the Bounty,1962,Best Original Song,35th,no
+Paul,Francis Webster,Mutiny on the Bounty,1962,Best Original Song,35th,no
+Sammy,Fain,Tender Is the Night,1962,Best Original Song,35th,no
+André,Previn,Two for the Seesaw,1962,Best Original Song,35th,no
+Dory,Previn,Two for the Seesaw,1962,Best Original Song,35th,no
+Elmer,Bernstein,Walk on the Wild Side,1962,Best Original Song,35th,no
+Mack,David,Walk on the Wild Side,1962,Best Original Song,35th,no
+Jimmy,Van Heusen,Papa's Delicate Condition,1963,Best Original Song,36th,yes
+Sammy,Cahn,Papa's Delicate Condition,1963,Best Original Song,36th,yes
+Dimitri,Tiomkin,55 Days at Peking,1963,Best Original Song,36th,no
+Paul,Francis Webster,55 Days at Peking,1963,Best Original Song,36th,no
+Henry,Mancini,Charade,1963,Best Original Song,36th,no
+Johnny,Mercer,Charade,1963,Best Original Song,36th,no
+Ernest,Gold,"It's a Mad, Mad, Mad, Mad World",1963,Best Original Song,36th,no
+Mack,David,"It's a Mad, Mad, Mad, Mad World",1963,Best Original Song,36th,no
+Nino,Oliviero,Mondo Cane,1963,Best Original Song,36th,no
+Riz,Ortolani,Mondo Cane,1963,Best Original Song,36th,no
+Norman,Newell,Mondo Cane,1963,Best Original Song,36th,no
+Sherman,Brothers,Mary Poppins,1964,Best Original Song,37th,yes
+Henry,Mancini,Dear Heart,1964,Best Original Song,37th,no
+Ray,Evans,Dear Heart,1964,Best Original Song,37th,no
+Jay,Livingston,Dear Heart,1964,Best Original Song,37th,no
+De,Vol,"Hush...Hush, Sweet Charlotte",1964,Best Original Song,37th,no
+Mack,David,"Hush...Hush, Sweet Charlotte",1964,Best Original Song,37th,no
+Jimmy,Van Heusen,Robin and the 7 Hoods,1964,Best Original Song,37th,no
+Sammy,Cahn,Robin and the 7 Hoods,1964,Best Original Song,37th,no
+Johnny,Mandel,The Sandpiper,1965,Best Original Song,38th,yes
+Paul,Francis Webster,The Sandpiper,1965,Best Original Song,38th,yes
+Jerry,Livingston,Cat Ballou,1965,Best Original Song,38th,no
+Mack,David,Cat Ballou,1965,Best Original Song,38th,no
+Henry,Mancini,The Great Race,1965,Best Original Song,38th,no
+Johnny,Mercer,The Great Race,1965,Best Original Song,38th,no
+Michel,Legrand,The Umbrellas of Cherbourg,1965,Best Original Song,38th,no
+Jacques,Demy,The Umbrellas of Cherbourg,1965,Best Original Song,38th,no
+Norman,Gimbel,The Umbrellas of Cherbourg,1965,Best Original Song,38th,no
+Burt,Bacharach,What's New Pussycat?,1965,Best Original Song,38th,no
+Hal,David,What's New Pussycat?,1965,Best Original Song,38th,no
+John,Barry,Born Free,1966,Best Original Song,39th,yes
+Don,Black,Born Free,1966,Best Original Song,39th,yes
+Burt,Bacharach,Alfie,1966,Best Original Song,39th,no
+Hal,David,Alfie,1966,Best Original Song,39th,no
+Johnny,Mandel,An American Dream,1966,Best Original Song,39th,no
+Paul,Francis Webster,An American Dream,1966,Best Original Song,39th,no
+Tom,Springfield,Georgy Girl,1966,Best Original Song,39th,no
+Jim,Dale,Georgy Girl,1966,Best Original Song,39th,no
+Elmer,Bernstein,Hawaii,1966,Best Original Song,39th,no
+Mack,David,Hawaii,1966,Best Original Song,39th,no
+Leslie,Bricusse,Doctor Dolittle,1967,Best Original Song,40th,yes
+Quincy,Jones,Banning,1967,Best Original Song,40th,no
+Bob,Russell,Banning,1967,Best Original Song,40th,no
+Burt,Bacharach,Casino Royale,1967,Best Original Song,40th,no
+Hal,David,Casino Royale,1967,Best Original Song,40th,no
+Terry,Gilkyson,The Jungle Book,1967,Best Original Song,40th,no
+Sammy,Cahn,Thoroughly Modern Millie,1967,Best Original Song,40th,no
+Jimmy,Van Heusen,Thoroughly Modern Millie,1967,Best Original Song,40th,no
+Michel,Legrand,The Thomas Crown Affair,1968,Best Original Song,41st,yes
+Alan,Bergman,The Thomas Crown Affair,1968,Best Original Song,41st,yes
+Marilyn,Bergman,The Thomas Crown Affair,1968,Best Original Song,41st,yes
+Sherman,Brothers,Chitty Chitty Bang Bang,1968,Best Original Song,41st,no
+Quincy,Jones,For Love of Ivy,1968,Best Original Song,41st,no
+Bob,Russell,For Love of Ivy,1968,Best Original Song,41st,no
+Jule,Styne,Funny Girl,1968,Best Original Song,41st,no
+Bob,Merrill,Funny Girl,1968,Best Original Song,41st,no
+Jimmy,Van Heusen,Star!,1968,Best Original Song,41st,no
+Sammy,Cahn,Star!,1968,Best Original Song,41st,no
+Burt,Bacharach,Butch Cassidy and the Sundance Kid,1969,Best Original Song,42nd,yes
+Hal,David,Butch Cassidy and the Sundance Kid,1969,Best Original Song,42nd,yes
+Michel,Legrand,The Happy Ending,1969,Best Original Song,42nd,no
+Alan,Bergman,The Happy Ending,1969,Best Original Song,42nd,no
+Marilyn,Bergman,The Happy Ending,1969,Best Original Song,42nd,no
+Rod,McKuen,The Prime of Miss Jean Brodie,1969,Best Original Song,42nd,no
+Fred,Karlin,The Sterile Cuckoo,1969,Best Original Song,42nd,no
+Dory,Previn,The Sterile Cuckoo,1969,Best Original Song,42nd,no
+Elmer,Bernstein,True Grit,1969,Best Original Song,42nd,no
+Don,Black,True Grit,1969,Best Original Song,42nd,no
+Fred,Karlin,Lovers and Other Strangers,1970,Best Original Song,43rd,yes
+Jimmy,Griffin,Lovers and Other Strangers,1970,Best Original Song,43rd,yes
+Robb,Royer,Lovers and Other Strangers,1970,Best Original Song,43rd,yes
+Henry,Mancini,Darling Lili,1970,Best Original Song,43rd,no
+Johnny,Mercer,Darling Lili,1970,Best Original Song,43rd,no
+Riz,Ortolani,Madron,1970,Best Original Song,43rd,no
+Arthur,Hamilton,Madron,1970,Best Original Song,43rd,no
+Michel,Legrand,Pieces of Dreams,1970,Best Original Song,43rd,no
+Alan,Bergman,Pieces of Dreams,1970,Best Original Song,43rd,no
+Marilyn,Bergman,Pieces of Dreams,1970,Best Original Song,43rd,no
+Leslie,Bricusse,Scrooge,1970,Best Original Song,43rd,no
+Isaac,Hayes,Shaft,1971,Best Original Song,44th,yes
+Sherman,Brothers,Bedknobs and Broomsticks,1971,Best Original Song,44th,no
+Perry,Botkin Jr.,Bless the Beasts & Children,1971,Best Original Song,44th,no
+Barry,De Vorzon,Bless the Beasts & Children,1971,Best Original Song,44th,no
+Marvin,Hamlisch,Kotch,1971,Best Original Song,44th,no
+Johnny,Mercer,Kotch,1971,Best Original Song,44th,no
+Henry,Mancini,Sometimes a Great Notion,1971,Best Original Song,44th,no
+Alan,Bergman,Sometimes a Great Notion,1971,Best Original Song,44th,no
+Marilyn,Bergman,Sometimes a Great Notion,1971,Best Original Song,44th,no
+Joel,Hirschhorn,The Poseidon Adventure,1972,Best Original Song,45th,yes
+Al,Kasha,The Poseidon Adventure,1972,Best Original Song,45th,yes
+Walter,Scharf,Ben,1972,Best Original Song,45th,no
+Don,Black,Ben,1972,Best Original Song,45th,no
+Maurice,Jarre,The Life and Times of Judge Roy Bean,1972,Best Original Song,45th,no
+Alan,Bergman,The Life and Times of Judge Roy Bean,1972,Best Original Song,45th,no
+Marilyn,Bergman,The Life and Times of Judge Roy Bean,1972,Best Original Song,45th,no
+Fred,Karlin,The Little Ark,1972,Best Original Song,45th,no
+Sammy,Fain,The Stepmother,1972,Best Original Song,45th,no
+Paul,Francis Webster,The Stepmother,1972,Best Original Song,45th,no
+Marvin,Hamlisch,The Way We Were,1973,Best Original Song,46th,yes
+Alan,Bergman,The Way We Were,1973,Best Original Song,46th,yes
+Marilyn,Bergman,The Way We Were,1973,Best Original Song,46th,yes
+John,Williams,Cinderella Liberty,1973,Best Original Song,46th,no
+Paul,Williams,Cinderella Liberty,1973,Best Original Song,46th,no
+Linda,McCartney,Live and Let Die,1973,Best Original Song,46th,no
+Paul,McCartney,Live and Let Die,1973,Best Original Song,46th,no
+George,Bruns,Robin Hood,1973,Best Original Song,46th,no
+Floyd,Huddleston,Robin Hood,1973,Best Original Song,46th,no
+George,Barrie,A Touch of Class,1973,Best Original Song,46th,no
+Sammy,Cahn,A Touch of Class,1973,Best Original Song,46th,no
+Joel,Hirschhorn,The Towering Inferno,1974,Best Original Song,47th,yes
+Al,Kasha,The Towering Inferno,1974,Best Original Song,47th,yes
+Euel,Box,Benji,1974,Best Original Song,47th,no
+John,Morris,Blazing Saddles,1974,Best Original Song,47th,no
+Mel,Brooks,Blazing Saddles,1974,Best Original Song,47th,no
+Elmer,Bernstein,Gold,1974,Best Original Song,47th,no
+Don,Black,Gold,1974,Best Original Song,47th,no
+Frederick,Loewe,The Little Prince,1974,Best Original Song,47th,no
+Alan,Jay Lerner,The Little Prince,1974,Best Original Song,47th,no
+Keith,Carradine,Nashville,1975,Best Original Song,48th,yes
+Fred,Ebb,Funny Lady,1975,Best Original Song,48th,no
+John,Kander,Funny Lady,1975,Best Original Song,48th,no
+Michael,Masser,Mahogany,1975,Best Original Song,48th,no
+Gerry,Goffin,Mahogany,1975,Best Original Song,48th,no
+Charles,Fox,The Other Side of the Mountain,1975,Best Original Song,48th,no
+Norman,Gimbel,The Other Side of the Mountain,1975,Best Original Song,48th,no
+George,Barrie,Whiffs,1975,Best Original Song,48th,no
+Sammy,Cahn,Whiffs,1975,Best Original Song,48th,no
+Barbra,Streisand,A Star Is Born,1976,Best Original Song,49th,yes
+Paul,Williams,A Star Is Born,1976,Best Original Song,49th,yes
+Sammy,Fain,Half a House,1976,Best Original Song,49th,no
+Paul,Francis Webster,Half a House,1976,Best Original Song,49th,no
+Jerry,Goldsmith,The Omen,1976,Best Original Song,49th,no
+Henry,Mancini,The Pink Panther Strikes Again,1976,Best Original Song,49th,no
+Don,Black,The Pink Panther Strikes Again,1976,Best Original Song,49th,no
+Bill,Conti,Rocky,1976,Best Original Song,49th,no
+Carol,Connors,Rocky,1976,Best Original Song,49th,no
+Ayn,Robbins,Rocky,1976,Best Original Song,49th,no
+Joseph,Brooks,You Light Up My Life,1977,Best Original Song,50th,yes
+Joel,Hirschhorn,Pete's Dragon,1977,Best Original Song,50th,no
+Al,Kasha,Pete's Dragon,1977,Best Original Song,50th,no
+Sammy,Fain,The Rescuers,1977,Best Original Song,50th,no
+Carol,Connors,The Rescuers,1977,Best Original Song,50th,no
+Ayn,Robbins,The Rescuers,1977,Best Original Song,50th,no
+Sherman,Brothers,The Slipper and the Rose,1977,Best Original Song,50th,no
+Marvin,Hamlisch,The Spy Who Loved Me,1977,Best Original Song,50th,no
+Carole,Bayer Sager,The Spy Who Loved Me,1977,Best Original Song,50th,no
+Paul,Jabara,Thank God It's Friday,1978,Best Original Song,51st,yes
+Charles,Fox,Foul Play,1978,Best Original Song,51st,no
+Norman,Gimbel,Foul Play,1978,Best Original Song,51st,no
+John,Farrar,Grease,1978,Best Original Song,51st,no
+Sherman,Brothers,The Magic of Lassie,1978,Best Original Song,51st,no
+Marvin,Hamlisch,"Same Time, Next Year",1978,Best Original Song,51st,no
+Alan,Bergman,"Same Time, Next Year",1978,Best Original Song,51st,no
+Marilyn,Bergman,"Same Time, Next Year",1978,Best Original Song,51st,no
+David,Shire,Norma Rae,1979,Best Original Song,52nd,yes
+Norman,Gimbel,Norma Rae,1979,Best Original Song,52nd,yes
+Henry,Mancini,10,1979,Best Original Song,52nd,no
+Robert,Wells,10,1979,Best Original Song,52nd,no
+Marvin,Hamlisch,Ice Castles,1979,Best Original Song,52nd,no
+Carole,Bayer Sager,Ice Castles,1979,Best Original Song,52nd,no
+Kenny,Ascher,The Muppet Movie,1979,Best Original Song,52nd,no
+Paul,Williams,The Muppet Movie,1979,Best Original Song,52nd,no
+Alan,Bergman,The Promise,1979,Best Original Song,52nd,no
+Marilyn,Bergman,The Promise,1979,Best Original Song,52nd,no
+Michael,Gore,Fame,1980,Best Original Song,53rd,yes
+Dean,Pitchford,Fame,1980,Best Original Song,53rd,yes
+Dolly,Parton,9 to 5,1980,Best Original Song,53rd,no
+Lalo,Schifrin,The Competition,1980,Best Original Song,53rd,no
+Will,Jennings,The Competition,1980,Best Original Song,53rd,no
+Lesley,Gore,Fame,1980,Best Original Song,53rd,no
+Willie,Nelson,Honeysuckle Rose,1980,Best Original Song,53rd,no
+Peter,Allen,Arthur,1981,Best Original Song,54th,yes
+Burt,Bacharach,Arthur,1981,Best Original Song,54th,yes
+Christopher,Cross,Arthur,1981,Best Original Song,54th,yes
+Carole,Bayer Sager,Arthur,1981,Best Original Song,54th,yes
+Lionel,Richie,Endless Love,1981,Best Original Song,54th,no
+Bill,Conti,For Your Eyes Only,1981,Best Original Song,54th,no
+Joe,Raposo,The Great Muppet Caper,1981,Best Original Song,54th,no
+Randy,Newman,Ragtime,1981,Best Original Song,54th,no
+Jack,Nitzsche,An Officer and a Gentleman,1982,Best Original Song,55th,yes
+Buffy,Sainte-Marie,An Officer and a Gentleman,1982,Best Original Song,55th,yes
+Will,Jennings,An Officer and a Gentleman,1982,Best Original Song,55th,yes
+Michel,Legrand,Best Friends,1982,Best Original Song,55th,no
+Alan,Bergman,Best Friends,1982,Best Original Song,55th,no
+Marilyn,Bergman,Best Friends,1982,Best Original Song,55th,no
+Jim,Peterik,Rocky III,1982,Best Original Song,55th,no
+Frankie,Sullivan,Rocky III,1982,Best Original Song,55th,no
+Dave,Grusin,Tootsie,1982,Best Original Song,55th,no
+John,Williams,"Yes, Giorgio",1982,Best Original Song,55th,no
+Giorgio,Moroder,Flashdance,1983,Best Original Song,56th,yes
+Irene,Cara,Flashdance,1983,Best Original Song,56th,yes
+Keith,Forsey,Flashdance,1983,Best Original Song,56th,yes
+Michael,Sembello,Flashdance,1983,Best Original Song,56th,no
+Bobby,Hart,Tender Mercies,1983,Best Original Song,56th,no
+Austin,Roberts,Tender Mercies,1983,Best Original Song,56th,no
+Michel,Legrand,Yentl,1983,Best Original Song,56th,no
+Alan,Bergman,Yentl,1983,Best Original Song,56th,no
+Marilyn,Bergman,Yentl,1983,Best Original Song,56th,no
+Stevie,Wonder,The Woman in Red,1984,Best Original Song,57th,yes
+Phil,Collins,Against All Odds,1984,Best Original Song,57th,no
+Kenny,Loggins,Footloose,1984,Best Original Song,57th,no
+Dean,Pitchford,Footloose,1984,Best Original Song,57th,no
+Ray,Parker Jr.,Ghostbusters,1984,Best Original Song,57th,no
+Lionel,Richie,White Nights,1985,Best Original Song,58th,yes
+Johnny,Colla,Back to the Future,1985,Best Original Song,58th,no
+Chris,Hayes,Back to the Future,1985,Best Original Song,58th,no
+Huey,Lewis,Back to the Future,1985,Best Original Song,58th,no
+Marvin,Hamlisch,A Chorus Line,1985,Best Original Song,58th,no
+Ed,Kleban,A Chorus Line,1985,Best Original Song,58th,no
+Quincy,Jones,The Color Purple,1985,Best Original Song,58th,no
+Rod,Temperton,The Color Purple,1985,Best Original Song,58th,no
+Stephen,Bishop,White Nights,1985,Best Original Song,58th,no
+Giorgio,Moroder,Top Gun,1986,Best Original Song,59th,yes
+Tom,Whitlock,Top Gun,1986,Best Original Song,59th,yes
+James,Horner,An American Tail,1986,Best Original Song,59th,no
+Barry,Mann,An American Tail,1986,Best Original Song,59th,no
+Cynthia,Weil,An American Tail,1986,Best Original Song,59th,no
+Peter,Cetera,The Karate Kid Part II,1986,Best Original Song,59th,no
+David,Foster,The Karate Kid Part II,1986,Best Original Song,59th,no
+Alan,Menken,Little Shop of Horrors,1986,Best Original Song,59th,no
+Howard,Ashman,Little Shop of Horrors,1986,Best Original Song,59th,no
+Henry,Mancini,That's Life!,1986,Best Original Song,59th,no
+Leslie,Bricusse,That's Life!,1986,Best Original Song,59th,no
+John,DeNicola,Dirty Dancing,1987,Best Original Song,60th,yes
+Franke,Previte,Dirty Dancing,1987,Best Original Song,60th,yes
+Harold,Faltermeyer,Beverly Hills Cop II,1987,Best Original Song,60th,no
+Keith,Forsey,Beverly Hills Cop II,1987,Best Original Song,60th,no
+Bob,Seger,Beverly Hills Cop II,1987,Best Original Song,60th,no
+George,Fenton,Cry Freedom,1987,Best Original Song,60th,no
+Jonas,Gwangwa,Cry Freedom,1987,Best Original Song,60th,no
+Albert,Hammond,Mannequin,1987,Best Original Song,60th,no
+Diane,Warren,Mannequin,1987,Best Original Song,60th,no
+Willy,DeVille,The Princess Bride,1987,Best Original Song,60th,no
+Carly,Simon,Working Girl,1988,Best Original Song,61st,yes
+Bob,Telson,Bagdad Cafe,1988,Best Original Song,61st,no
+Lamont,Dozier,Buster,1988,Best Original Song,61st,no
+Phil,Collins,Buster,1988,Best Original Song,61st,no
+Alan,Menken,The Little Mermaid,1989,Best Original Song,62nd,yes
+Howard,Ashman,The Little Mermaid,1989,Best Original Song,62nd,yes
+Tom,Snow,Chances Are,1989,Best Original Song,62nd,no
+Dean,Pitchford,Chances Are,1989,Best Original Song,62nd,no
+Randy,Newman,Parenthood,1989,Best Original Song,62nd,no
+Marvin,Hamlisch,Shirley Valentine,1989,Best Original Song,62nd,no
+Alan,Bergman,Shirley Valentine,1989,Best Original Song,62nd,no
+Marilyn,Bergman,Shirley Valentine,1989,Best Original Song,62nd,no
+Stephen,Sondheim,Dick Tracy,1990,Best Original Song,63rd,yes
+Carmine,Coppola,The Godfather Part III,1990,Best Original Song,63rd,no
+John,Bettis,The Godfather Part III,1990,Best Original Song,63rd,no
+John,Williams,Home Alone,1990,Best Original Song,63rd,no
+Leslie,Bricusse,Home Alone,1990,Best Original Song,63rd,no
+Shel,Silverstein,Postcards from the Edge,1990,Best Original Song,63rd,no
+Jon,Bon Jovi,Young Guns II,1990,Best Original Song,63rd,no
+Alan,Menken,Beauty and the Beast,1991,Best Original Song,64th,yes
+Howard,Ashman,Beauty and the Beast,1991,Best Original Song,64th,yes
+John,Williams,Hook,1991,Best Original Song,64th,no
+Leslie,Bricusse,Hook,1991,Best Original Song,64th,no
+Michael,Kamen,Robin Hood: Prince of Thieves,1991,Best Original Song,64th,no
+Bryan,Adams,Robin Hood: Prince of Thieves,1991,Best Original Song,64th,no
+Mutt,Lange,Robin Hood: Prince of Thieves,1991,Best Original Song,64th,no
+Alan,Menken,Aladdin,1992,Best Original Song,65th,yes
+Tim,Rice,Aladdin,1992,Best Original Song,65th,yes
+Howard,Ashman,Aladdin,1992,Best Original Song,65th,no
+David,Foster,The Bodyguard,1992,Best Original Song,65th,no
+Linda,Thompson,The Bodyguard,1992,Best Original Song,65th,no
+Robert,Kraft,The Mambo Kings,1992,Best Original Song,65th,no
+Arne,Glimcher,The Mambo Kings,1992,Best Original Song,65th,no
+Bruce,Springsteen,Philadelphia,1993,Best Original Song,66th,yes
+James,Ingram,Beethoven's 2nd,1993,Best Original Song,66th,no
+Clif,Magness,Beethoven's 2nd,1993,Best Original Song,66th,no
+Carole,Bayer Sager,Beethoven's 2nd,1993,Best Original Song,66th,no
+Neil,Young,Philadelphia,1993,Best Original Song,66th,no
+Janet,Jackson,Poetic Justice,1993,Best Original Song,66th,no
+Jimmy,Jam,Poetic Justice,1993,Best Original Song,66th,no
+Terry Lewis,Poetic Justice,1993,Best Original Song,66th,no
+Marc,Shaiman,Sleepless in Seattle,1993,Best Original Song,66th,no
+Elton,John,The Lion King,1994,Best Original Song,67th,yes
+Tim,Rice,The Lion King,1994,Best Original Song,67th,yes
+James,Newton Howard,Junior,1994,Best Original Song,67th,no
+James,Ingram,Junior,1994,Best Original Song,67th,no
+Carole,Bayer Sager,Junior,1994,Best Original Song,67th,no
+Patty,Smyth,Junior,1994,Best Original Song,67th,no
+Randy,Newman,The Paper,1994,Best Original Song,67th,no
+Alan,Menken,Pocahontas,1995,Best Original Song,68th,yes
+Stephen,Schwartz,Pocahontas,1995,Best Original Song,68th,yes
+Bruce,Springsteen,Dead Man Walking,1995,Best Original Song,68th,no
+Bryan,Adams,Don Juan DeMarco,1995,Best Original Song,68th,no
+Michael,Kamen,Don Juan DeMarco,1995,Best Original Song,68th,no
+Mutt,Lange,Don Juan DeMarco,1995,Best Original Song,68th,no
+John,Williams,Sabrina,1995,Best Original Song,68th,no
+Alan,Bergman,Sabrina,1995,Best Original Song,68th,no
+Marilyn,Bergman,Sabrina,1995,Best Original Song,68th,no
+Randy,Newman,Toy Story,1995,Best Original Song,68th,no
+Andrew,Lloyd Webber,Evita,1996,Best Original Song,69th,yes
+Tim,Rice,Evita,1996,Best Original Song,69th,yes
+Bryan,Adams,The Mirror Has Two Faces,1996,Best Original Song,69th,no
+Marvin,Hamlisch,The Mirror Has Two Faces,1996,Best Original Song,69th,no
+Mutt,Lange,The Mirror Has Two Faces,1996,Best Original Song,69th,no
+Barbra,Streisand,The Mirror Has Two Faces,1996,Best Original Song,69th,no
+James,Newton Howard,One Fine Day,1996,Best Original Song,69th,no
+Adam,Schlesinger,That Thing You Do!,1996,Best Original Song,69th,no
+Diane,Warren,Up Close and Personal,1996,Best Original Song,69th,no
+James,Horner,Titanic,1997,Best Original Song,70th,yes
+Will,Jennings,Titanic,1997,Best Original Song,70th,yes
+Stephen,Flaherty,Anastasia,1997,Best Original Song,70th,no
+Lynn,Ahrens,Anastasia,1997,Best Original Song,70th,no
+Diane,Warren,Con Air,1997,Best Original Song,70th,no
+Elliott,Smith,Good Will Hunting,1997,Best Original Song,70th,no
+Alan,Menken,Hercules,1997,Best Original Song,70th,no
+David,Zippel,Hercules,1997,Best Original Song,70th,no
+Stephen,Schwartz,The Prince of Egypt,1998,Best Original Song,71st,yes
+Diane,Warren,Armageddon,1998,Best Original Song,71st,no
+Randy,Newman,Babe: Pig in the City,1998,Best Original Song,71st,no
+Allison,Moorer,The Horse Whisperer,1998,Best Original Song,71st,no
+Gwil,Owen,The Horse Whisperer,1998,Best Original Song,71st,no
+David,Foster,Quest for Camelot,1998,Best Original Song,71st,no
+Carole,Bayer Sager,Quest for Camelot,1998,Best Original Song,71st,no
+Tony,Renis,Quest for Camelot,1998,Best Original Song,71st,no
+Alberto,Testa,Quest for Camelot,1998,Best Original Song,71st,no
+Phil,Collins,Tarzan,1999,Best Original Song,72nd,yes
+Aimee,Mann,Magnolia,1999,Best Original Song,72nd,no
+Diane,Warren,Music of the Heart,1999,Best Original Song,72nd,no
+Trey,Parker,"South Park: Bigger, Longer & Uncut",1999,Best Original Song,72nd,no
+Marc,Shaiman,"South Park: Bigger, Longer & Uncut",1999,Best Original Song,72nd,no
+Randy,Newman,Toy Story 2,1999,Best Original Song,72nd,no
+Bob,Dylan,Wonder Boys,2000,Best Original Song,73rd,yes
+Jorge,Calandrelli,"Crouching Tiger, Hidden Dragon",2000,Best Original Song,73rd,no
+Tan,Dun,"Crouching Tiger, Hidden Dragon",2000,Best Original Song,73rd,no
+James,Schamus,"Crouching Tiger, Hidden Dragon",2000,Best Original Song,73rd,no
+Björk,Guðmundsdóttir,Dancer in the Dark,2000,Best Original Song,73rd,no
+Sigurjón,Sigurðsson,Dancer in the Dark,2000,Best Original Song,73rd,no
+Lars,von Trier,Dancer in the Dark,2000,Best Original Song,73rd,no
+Dave,Hartley,The Emperor's New Groove,2000,Best Original Song,73rd,no
+Gordon,Sumner,The Emperor's New Groove,2000,Best Original Song,73rd,no
+Randy,Newman,Meet the Parents,2000,Best Original Song,73rd,no
+Randy,Newman,"Monsters, Inc.",2001,Best Original Song,74th,yes
+Gordon,Sumner,Kate & Leopold,2001,Best Original Song,74th,no
+Eithne,Bhraonáin,The Lord of the Rings: The Fellowship of the Ring,2001,Best Original Song,74th,no
+Nicky,Ryan,The Lord of the Rings: The Fellowship of the Ring,2001,Best Original Song,74th,no
+Roma,Ryan,The Lord of the Rings: The Fellowship of the Ring,2001,Best Original Song,74th,no
+Diane,Warren,Pearl Harbor,2001,Best Original Song,74th,no
+Paul,McCartney,Vanilla Sky,2001,Best Original Song,74th,no
+Jeff,Bass,8 Mile,2002,Best Original Song,75th,yes
+Marshall,Mathers III,8 Mile,2002,Best Original Song,75th,yes
+Luis,Resto,8 Mile,2002,Best Original Song,75th,yes
+John,Kander,Chicago,2002,Best Original Song,75th,no
+Fred,Ebb,Chicago,2002,Best Original Song,75th,no
+Elliot,Goldenthal,Frida,2002,Best Original Song,75th,no
+Julie,Taymor,Frida,2002,Best Original Song,75th,no
+Paul,Simon,The Wild Thornberrys Movie,2002,Best Original Song,75th,no
+Annie,Lennox,The Lord of the Rings: The Return of the King,2003,Best Original Song,76th,yes
+Howard,Shore,The Lord of the Rings: The Return of the King,2003,Best Original Song,76th,yes
+Fran,Walsh,The Lord of the Rings: The Return of the King,2003,Best Original Song,76th,yes
+T,Bone Burnett,Cold Mountain,2003,Best Original Song,76th,no
+Elvis,Costello,Cold Mountain,2003,Best Original Song,76th,no
+Michael,McKean,A Mighty Wind,2003,Best Original Song,76th,no
+Annette,O'Toole,A Mighty Wind,2003,Best Original Song,76th,no
+Benoît,Charest,The Triplets of Belleville,2003,Best Original Song,76th,no
+Sylvain,Chomet,The Triplets of Belleville,2003,Best Original Song,76th,no
+Jorge,Drexler,The Motorcycle Diaries,2004,Best Original Song,77th,yes
+Bruno,Coulais,The Chorus,2004,Best Original Song,77th,no
+Christophe,Barratier,The Chorus,2004,Best Original Song,77th,no
+Andrew,Lloyd Webber,The Phantom of the Opera,2004,Best Original Song,77th,no
+Charles,Hart,The Phantom of the Opera,2004,Best Original Song,77th,no
+Glen,Ballard,The Polar Express,2004,Best Original Song,77th,no
+Alan,Silvestri,The Polar Express,2004,Best Original Song,77th,no
+Counting,Crows,Shrek 2,2004,Best Original Song,77th,no
+Adam,Duritz,Shrek 2,2004,Best Original Song,77th,no
+Dan,Vickrey,Shrek 2,2004,Best Original Song,77th,no
+Frayser,Boy,Hustle & Flow,2005,Best Original Song,78th,yes
+Juicy,J,Hustle & Flow,2005,Best Original Song,78th,yes
+DJ,Paul,Hustle & Flow,2005,Best Original Song,78th,yes
+Bird,York,Crash,2005,Best Original Song,78th,no
+Dolly,Parton,Transamerica,2005,Best Original Song,78th,no
+Melissa,Etheridge,An Inconvenient Truth,2006,Best Original Song,79th,yes
+Randy,Newman,Cars,2006,Best Original Song,79th,no
+Scott,Cutler,Dreamgirls,2006,Best Original Song,79th,no
+Henry,Krieger,Dreamgirls,2006,Best Original Song,79th,no
+Anne,Preven,Dreamgirls,2006,Best Original Song,79th,no
+Glen,Hansard,Once,2007,Best Original Song,80th,yes
+Markéta,Irglová,Once,2007,Best Original Song,80th,yes
+Jamal,Joseph,August Rush,2007,Best Original Song,80th,no
+Tevin,Thomas,August Rush,2007,Best Original Song,80th,no
+Alan,Menken,Enchanted,2007,Best Original Song,80th,no
+Stephen,Schwartz,Enchanted,2007,Best Original Song,80th,no
+A.,R. Rahman,Slumdog Millionaire,2008,Best Original Song,81st,yes
+Sampooran,Kalra,Slumdog Millionaire,2008,Best Original Song,81st,yes
+Mathangi,Arulpragasam,Slumdog Millionaire,2008,Best Original Song,81st,no
+Peter,Gabriel,WALL-E,2008,Best Original Song,81st,no
+Thomas,Newman,WALL-E,2008,Best Original Song,81st,no
+Ryan,Bingham,Crazy Heart,2009,Best Original Song,82nd,yes
+T,Bone Burnett,Crazy Heart,2009,Best Original Song,82nd,yes
+Maury,Yeston,Nine,2009,Best Original Song,82nd,no
+Randy,Newman,The Princess and the Frog,2009,Best Original Song,82nd,no
+Randy,Newman,Toy Story 3,2010,Best Original Song,83rd,yes
+A.,R. Rahman,127 Hours,2010,Best Original Song,83rd,no
+Florian,Armstrong,127 Hours,2010,Best Original Song,83rd,no
+Rowland,Armstrong,127 Hours,2010,Best Original Song,83rd,no
+Hillary,Lindsey,Country Strong,2010,Best Original Song,83rd,no
+Troy,Verges,Country Strong,2010,Best Original Song,83rd,no
+Alan,Menken,Tangled,2010,Best Original Song,83rd,no
+Glenn,Slater,Tangled,2010,Best Original Song,83rd,no
+Bret,McKenzie,The Muppets,2011,Best Original Song,84th,yes
+Carlinhos,Brown,Rio,2011,Best Original Song,84th,no
+Sérgio,Mendes,Rio,2011,Best Original Song,84th,no
+Siedah,Garrett,Rio,2011,Best Original Song,84th,no
+Adele,Adkins,Skyfall,2012,Best Original Song,85th,yes
+Paul,Epworth,Skyfall,2012,Best Original Song,85th,yes
+J.,Ralph,Chasing Ice,2012,Best Original Song,85th,no
+Claude-Michel,Schönberg,Les Misérables,2012,Best Original Song,85th,no
+Alain,Boublil,Les Misérables,2012,Best Original Song,85th,no
+Herbert,Kretzmer,Les Misérables,2012,Best Original Song,85th,no
+Mychael,Danna,Life of Pi,2012,Best Original Song,85th,no
+Bombay,Jayashri,Life of Pi,2012,Best Original Song,85th,no
+Walter,Murphy,Ted,2012,Best Original Song,85th,no
+Seth,MacFarlane,Ted,2012,Best Original Song,85th,no
+Kristen,Anderson-Lopez,Frozen,2013,Best Original Song,86th,yes
+Robert,Lopez,Frozen,2013,Best Original Song,86th,yes
+Pharrell,Williams,Despicable Me 2,2013,Best Original Song,86th,no
+Karen,O,Her,2013,Best Original Song,86th,no
+Spike,Jonze,Her,2013,Best Original Song,86th,no
+Paul,Hewson,Mandela: Long Walk to Freedom,2013,Best Original Song,86th,no
+Lonnie,Lynn,Selma,2014,Best Original Song,87th,yes
+John,Legend,Selma,2014,Best Original Song,87th,yes
+Gregg,Alexander,Begin Again,2014,Best Original Song,87th,no
+Danielle,Brisebois,Begin Again,2014,Best Original Song,87th,no
+Diane,Warren,Beyond the Lights,2014,Best Original Song,87th,no
+Glen,Campbell,Glen Campbell: I'll Be Me,2014,Best Original Song,87th,no
+Julian,Raymond,Glen Campbell: I'll Be Me,2014,Best Original Song,87th,no
+Shawn,Patterson,The Lego Movie,2014,Best Original Song,87th,no
+Jimmy,Napes,Spectre,2015,Best Original Song,88th,yes
+Sam,Smith,Spectre,2015,Best Original Song,88th,yes
+Ahmad,Balshe,Fifty Shades of Grey,2015,Best Original Song,88th,no
+Jason,Quenneville,Fifty Shades of Grey,2015,Best Original Song,88th,no
+Stephan,Moccio,Fifty Shades of Grey,2015,Best Original Song,88th,no
+The,Weeknd,Fifty Shades of Grey,2015,Best Original Song,88th,no
+Lady,Gaga,The Hunting Ground,2015,Best Original Song,88th,no
+Diane,Warren,The Hunting Ground,2015,Best Original Song,88th,no
+J.,Ralph,Racing Extinction,2015,Best Original Song,88th,no
+Anohni,Hegarty,Racing Extinction,2015,Best Original Song,88th,no
+David,Lang,Youth,2015,Best Original Song,88th,no
+Justin,Hurwitz,La La Land,2016,Best Original Song,89th,yes
+Justin,Paul,La La Land,2016,Best Original Song,89th,yes
+Benj,Pasek,La La Land,2016,Best Original Song,89th,yes
+J.,Ralph,Jim: The James Foley Story,2016,Best Original Song,89th,no
+Gordon,Sumner,Jim: The James Foley Story,2016,Best Original Song,89th,no
+Lin-Manuel,Miranda,Moana,2016,Best Original Song,89th,no
+Max,Martin,Trolls,2016,Best Original Song,89th,no
+Karl,Schuster,Trolls,2016,Best Original Song,89th,no
+Justin,Timberlake,Trolls,2016,Best Original Song,89th,no
+Kristen,Anderson-Lopez,Coco,2017,Best Original Song,90th,yes
+Robert,Lopez,Coco,2017,Best Original Song,90th,yes
+Sufjan,Stevens,Call Me by Your Name,2017,Best Original Song,90th,no
+Justin,Paul,The Greatest Showman,2017,Best Original Song,90th,no
+Benj,Pasek,The Greatest Showman,2017,Best Original Song,90th,no
+Diane,Warren,Marshall,2017,Best Original Song,90th,no
+Lonnie,Ly,Marshall,2017,Best Original Song,90th,no
+Mary,J. Blige,Mudbound,2017,Best Original Song,90th,no
+Raphael,Saadiq,Mudbound,2017,Best Original Song,90th,no
+Taura,Stinson,Mudbound,2017,Best Original Song,90th,no
+Lady,Gaga,A Star Is Born,2018,Best Original Song,91st,yes
+Mark,Ronson,A Star Is Born,2018,Best Original Song,91st,yes
+Anthony,Rossomando,A Star Is Born,2018,Best Original Song,91st,yes
+Andrew,Wyatt,A Star Is Born,2018,Best Original Song,91st,yes
+David,Rawlings,The Ballad of Buster Scruggs,2018,Best Original Song,91st,no
+Gillian,Welch,The Ballad of Buster Scruggs,2018,Best Original Song,91st,no
+Kendrick,Lamar,Black Panther,2018,Best Original Song,91st,no
+Mark,Spears,Black Panther,2018,Best Original Song,91st,no
+Solána,Rowe,Black Panther,2018,Best Original Song,91st,no
+Marc,Shaiman,Mary Poppins Returns,2018,Best Original Song,91st,no
+Scott,Wittman,Mary Poppins Returns,2018,Best Original Song,91st,no
+Diane,Warren,RBG,2018,Best Original Song,91st,no
+Elton,John,Rocketman,2019,Best Original Song,92nd,yes
+Bernie,Taupin,Rocketman,2019,Best Original Song,92nd,yes
+Diane,Warren,Breakthrough,2019,Best Original Song,92nd,no
+Kristen,Anderson-Lopez,Frozen II,2019,Best Original Song,92nd,no
+Robert,Lopez,Frozen II,2019,Best Original Song,92nd,no
+Cynthia,Erivo,Harriet,2019,Best Original Song,92nd,no
+Randy,Newman,Toy Story 4,2019,Best Original Song,92nd,no
+Dernst,Emile II,Judas and the Black Messiah,2020,Best Original Song,93rd,yes
+Gabriella,Wilson,Judas and the Black Messiah,2020,Best Original Song,93rd,yes
+Tiara,Thomas,Judas and the Black Messiah,2020,Best Original Song,93rd,yes
+Rickard,Göransson,Eurovision Song Contest: The Story of Fire Saga,2020,Best Original Song,93rd,no
+Savan,Kotecha,Eurovision Song Contest: The Story of Fire Saga,2020,Best Original Song,93rd,no
+Diane,Warren,The Life Ahead,2020,Best Original Song,93rd,no
+Laura,Pausini,The Life Ahead,2020,Best Original Song,93rd,no
+Sam,Ashworth,One Night in Miami...,2020,Best Original Song,93rd,no
+Leslie,Odom Jr.,One Night in Miami...,2020,Best Original Song,93rd,no
+Daniel,Pemberton,The Trial of the Chicago 7,2020,Best Original Song,93rd,no
+Celeste,Waite,The Trial of the Chicago 7,2020,Best Original Song,93rd,no
+Billie,Eilish,No Time to Die,2021,Best Original Song,94th,yes
+Finneas,O'Connell,No Time to Die,2021,Best Original Song,94th,yes
+Van,Morrison,Belfast,2021,Best Original Song,94th,no
+Lin-Manuel,Miranda,Encanto,2021,Best Original Song,94th,no
+Diane,Warren,Four Good Days,2021,Best Original Song,94th,no
+Beyoncé,Knowles,King Richard,2021,Best Original Song,94th,no
+Darius,Scott,King Richard,2021,Best Original Song,94th,no
+M.,M. Keeravani,RRR,2022,Best Original Song,95th,yes
+Kanukuntla,Chandrabose,RRR,2022,Best Original Song,95th,yes
+Ryan,Coogler,Black Panther: Wakanda Forever,2022,Best Original Song,95th,no
+Ludwig,Göransson,Black Panther: Wakanda Forever,2022,Best Original Song,95th,no
+Robyn ,Fenty,Black Panther: Wakanda Forever,2022,Best Original Song,95th,no
+Temilade,Openiyi,Black Panther: Wakanda Forever,2022,Best Original Song,95th,no
+David,Byrne,Everything Everywhere All at Once,2022,Best Original Song,95th,no
+Ryan,Lott,Everything Everywhere All at Once,2022,Best Original Song,95th,no
+Mitsuki,Laycock,Everything Everywhere All at Once,2022,Best Original Song,95th,no
+Diane,Warren,Tell It Like a Woman,2022,Best Original Song,95th,no
+Michael,Tucker,Top Gun: Maverick,2022,Best Original Song,95th,no
+Lady,Gaga,Top Gun: Maverick,2022,Best Original Song,95th,no
+Billie,Eilish,Barbie,2023,Best Original Song,96th,yes
+Finneas,O'Connell,Barbie,2023,Best Original Song,96th,yes
+Jon,Batiste,American Symphony,2023,Best Original Song,96th,no
+Dan,Wilson,American Symphony,2023,Best Original Song,96th,no
+Mark,Ronson,Barbie,2023,Best Original Song,96th,no
+Andrew,Wyatt,Barbie,2023,Best Original Song,96th,no
+Diane,Warren,Flamin' Hot,2023,Best Original Song,96th,no
+Scott,George,Killers of the Flower Moon,2023,Best Original Song,96th,no
+Camille,Dalmais,Emilia Pérez,2024,Best Original Song,97th,yes
+Clément,Ducol,Emilia Pérez,2024,Best Original Song,97th,yes
+Jacques,Audiard,Emilia Pérez,2024,Best Original Song,97th,yes
+Brandi,Carlile,Elton John: Never Too Late,2024,Best Original Song,97th,no
+Elton,John,Elton John: Never Too Late,2024,Best Original Song,97th,no
+Bernie,Taupin,Elton John: Never Too Late,2024,Best Original Song,97th,no
+Andrew,Watt,Elton John: Never Too Late,2024,Best Original Song,97th,no
+Abraham,Alexander,Sing Sing,2024,Best Original Song,97th,no
+Adrian,Quesada,Sing Sing,2024,Best Original Song,97th,no
+Diane,Warren,The Six Triple Eight,2024,Best Original Song,97th,no

@@ -1,0 +1,453 @@
+firstName,lastName,movieTitle,releaseYear,categoryName,iteration,isWinner
+John,Ford,The Battle of Midway,1942,Best Documentary Feature Film,15th,yes
+Ken,G. Hall,Kokoda Front Line!,1942,Best Documentary Feature Film,15th,yes
+Nicola,Napoli,Moscow Strikes Back,1942,Best Documentary Feature Film,15th,yes
+Frank,Capra,Prelude to War,1942,Best Documentary Feature Film,15th,yes
+Frederic,Ullman Jr.,Conquer by the Clock,1942,Best Documentary Feature Film,15th,no
+Slavko,Vorkapich,Conquer by the Clock,1942,Best Documentary Feature Film,15th,no
+Walt,Disney,The Grain That Built a Hemisphere,1942,Best Documentary Feature Film,15th,no
+Victor,Stoloff,Little Isles of Freedom,1942,Best Documentary Feature Film,15th,no
+Walt,Disney,The New Spirit,1942,Best Documentary Feature Film,15th,no
+William,H. Pine,The Price of Victory,1942,Best Documentary Feature Film,15th,no
+William,C. Thomas,We Refuse to Die,1942,Best Documentary Feature Film,15th,no
+Edward,Steichen,The Fighting Lady,1944,Best Documentary Feature Film,17th,yes
+Sid,Rogell,Design for Death,1947,Best Documentary Feature Film,20th,yes
+Richard,Fleischer,Design for Death,1947,Best Documentary Feature Film,20th,yes
+Paul,Rotha,The World Is Rich,1947,Best Documentary Feature Film,20th,no
+Orville,O. Dull,The Secret Land,1948,Best Documentary Feature Film,21st,yes
+Janice,Loeb,The Quiet One,1948,Best Documentary Feature Film,21st,no
+Paul,F. Heard,Kenji Comes Home,1949,Best Documentary Feature Film,22nd,no
+Robert,Snyder,The Titan: Story of Michelangelo,1950,Best Documentary Feature Film,23rd,yes
+Jack,Arnold,With These Hands,1950,Best Documentary Feature Film,23rd,no
+Lee,Goodman,With These Hands,1950,Best Documentary Feature Film,23rd,no
+Olle,Nordemar,Kon-Tiki,1951,Best Documentary Feature Film,24th,yes
+Bryan,Foy,I Was a Communist for the F.B.I.,1951,Best Documentary Feature Film,24th,no
+Irwin,Allen,The Sea Around Us,1952,Best Documentary Feature Film,25th,yes
+Dore,Schary,The Hoaxters,1952,Best Documentary Feature Film,25th,no
+Hall,Bartlett,Navajo,1952,Best Documentary Feature Film,25th,no
+Walt,Disney,The Living Desert,1953,Best Documentary Feature Film,26th,yes
+John,Taylor,The Conquest of Everest,1953,Best Documentary Feature Film,26th,no
+Leon,Clore,The Conquest of Everest,1953,Best Documentary Feature Film,26th,no
+Grahame,Tharp,The Conquest of Everest,1953,Best Documentary Feature Film,26th,no
+Castleton,Knight,A Queen Is Crowned,1953,Best Documentary Feature Film,26th,no
+Walt,Disney,The Vanishing Prairie,1954,Best Documentary Feature Film,27th,yes
+Guy,Glover,The Stratford Adventure,1954,Best Documentary Feature Film,27th,no
+Nancy,Hamilton,Helen Keller in Her Story,1955,Best Documentary Feature Film,28th,yes
+René,Risacher,Heartbreak Ridge,1955,Best Documentary Feature Film,28th,no
+Jacques-Yves,Cousteau,The Silent World,1956,Best Documentary Feature Film,29th,yes
+Louis,Clyde Stoumen,The Naked Eye,1956,Best Documentary Feature Film,29th,no
+Jerome,Hill,Albert Schweitzer,1957,Best Documentary Feature Film,30th,yes
+Lionel,Rogosin,On the Bowery,1957,Best Documentary Feature Film,30th,no
+Manuel,Barbachano Ponce,Torero!,1957,Best Documentary Feature Film,30th,no
+Ben,Sharpsteen,White Wilderness,1958,Best Documentary Feature Film,31st,yes
+James,Carr,Antarctic Crossing,1958,Best Documentary Feature Film,31st,no
+Robert,Snyder,The Hidden World,1958,Best Documentary Feature Film,31st,no
+Nathan,Zucker,Psychiatric Nursing,1958,Best Documentary Feature Film,31st,no
+Bernhard,Grzimek,Serengeti Shall Not Die,1959,Best Documentary Feature Film,32nd,yes
+David,L. Wolper,The Race for Space,1959,Best Documentary Feature Film,32nd,no
+Larry,Lansburgh,The Horse with the Flying Tail,1960,Best Documentary Feature Film,33rd,yes
+Arthur,Cohn,Le Ciel et la Boue (Sky Above and Mud Beneath),1961,Best Documentary Feature Film,34th,yes
+René,Lafuite,Le Ciel et la Boue (Sky Above and Mud Beneath),1961,Best Documentary Feature Film,34th,yes
+Louis,Clyde Stoumen,Black Fox,1962,Best Documentary Feature Film,35th,yes
+Hugo,Niebeling,Alvorada (Brazil's Changing Face),1962,Best Documentary Feature Film,35th,no
+Paul,de Roubaix,Le Maillon et la Chaine (The Link and the Chain),1963,Best Documentary Feature Film,36th,no
+Marshall,Flaum,The Yanks Are Coming,1963,Best Documentary Feature Film,36th,no
+Jacques-Yves,Cousteau,Jacques-Yves Cousteau's World without Sun,1964,Best Documentary Feature Film,37th,yes
+Jack,Le Vien,The Finest Hours,1964,Best Documentary Feature Film,37th,no
+Mel,Stuart,Four Days in November,1964,Best Documentary Feature Film,37th,no
+Bert,Haanstra,The Human Dutch,1964,Best Documentary Feature Film,37th,no
+Jean,Aurel,"Over There, 1914–18",1964,Best Documentary Feature Film,37th,no
+Sidney,Glazier,The Eleanor Roosevelt Story,1965,Best Documentary Feature Film,38th,yes
+Laurence,E. Mascott,The Battle of the Bulge... The Brave Rifles,1965,Best Documentary Feature Film,38th,no
+Marshall,Flaum,Let My People Go,1965,Best Documentary Feature Film,38th,no
+Frédéric,Rossif,To Die in Madrid,1965,Best Documentary Feature Film,38th,no
+Peter,Watkins,The War Game,1966,Best Documentary Feature Film,39th,yes
+Alfred,R. Kelman,The Face of a Genius,1966,Best Documentary Feature Film,39th,no
+Tom,Daly,Helicopter Canada,1966,Best Documentary Feature Film,39th,no
+Alex,Grasshoff,The Really Big Family,1966,Best Documentary Feature Film,39th,no
+Haroun,Tazieff,Le Volcan Interdit (The Forbidden Volcano),1966,Best Documentary Feature Film,39th,no
+Pierre,Schoendoerffer,The Anderson Platoon,1967,Best Documentary Feature Film,40th,yes
+Murray,Lerner,Festival,1967,Best Documentary Feature Film,40th,no
+Carroll,Ballard,Harvest,1967,Best Documentary Feature Film,40th,no
+Jack,Le Vien,A King's Story,1967,Best Documentary Feature Film,40th,no
+William,C. Jersey,A Time for Burning,1967,Best Documentary Feature Film,40th,no
+James,Blue,A Few Notes on Our Food Problem,1968,Best Documentary Feature Film,41st,no
+William,Cayton,The Legendary Champions,1968,Best Documentary Feature Film,41st,no
+David,H. Sawyer,Other Voices,1968,Best Documentary Feature Film,41st,no
+Bernard,Chevry,Arthur Rubinstein – The Love of Life,1969,Best Documentary Feature Film,42nd,yes
+Emile,de Antonio,In the Year of the Pig,1969,Best Documentary Feature Film,42nd,no
+Irwin,Rosten,The Wolf Men,1969,Best Documentary Feature Film,42nd,no
+Dr.,Harald Reinl,Chariots of the Gods,1970,Best Documentary Feature Film,43rd,no
+Jim,Jacobs,Jack Johnson,1970,Best Documentary Feature Film,43rd,no
+Ely,Landau,King: A Filmed Record... Montgomery to Memphis,1970,Best Documentary Feature Film,43rd,no
+Walon,Green,The Hellstrom Chronicle,1971,Best Documentary Feature Film,44th,yes
+Alan,Landsburg,Alaska Wilderness Lake,1971,Best Documentary Feature Film,44th,no
+Bruce,Brown,On Any Sunday,1971,Best Documentary Feature Film,44th,no
+Lennart,Ehrenborg,The RA Expeditions,1971,Best Documentary Feature Film,44th,no
+Thor,Heyerdahl,The RA Expeditions,1971,Best Documentary Feature Film,44th,no
+Marcel,Ophüls,The Sorrow and the Pity,1971,Best Documentary Feature Film,44th,no
+Howard,Smith,Marjoe,1972,Best Documentary Feature Film,45th,yes
+Sarah,Kernochan,Marjoe,1972,Best Documentary Feature Film,45th,yes
+Bert,Haanstra,Ape and Super-Ape,1972,Best Documentary Feature Film,45th,no
+Marvin,Worth,Malcolm X,1972,Best Documentary Feature Film,45th,no
+Arnold,Perl,Malcolm X,1972,Best Documentary Feature Film,45th,no
+Robert,Hendrickson,Manson,1972,Best Documentary Feature Film,45th,no
+Laurence,Merrick,Manson,1972,Best Documentary Feature Film,45th,no
+Eckehard,Munck,The Silent Revolution,1972,Best Documentary Feature Film,45th,no
+Kieth,Merrill,The Great American Cowboy,1973,Best Documentary Feature Film,46th,yes
+John,D. Goodell,Always a New Beginning,1973,Best Documentary Feature Film,46th,no
+Alexander,Grasshoff,Journey to the Outer Limits,1973,Best Documentary Feature Film,46th,no
+Gertrude,Ross Marks,Walls of Fire,1973,Best Documentary Feature Film,46th,no
+Peter,Davis,Hearts and Minds,1974,Best Documentary Feature Film,47th,yes
+Bert,Schneider,Hearts and Minds,1974,Best Documentary Feature Film,47th,yes
+Judy,Collins,Antonia: A Portrait of the Woman,1974,Best Documentary Feature Film,47th,no
+Jill,Godmilow,Antonia: A Portrait of the Woman,1974,Best Documentary Feature Film,47th,no
+Herbert,Kline,The Challenge... A Tribute to Modern Art,1974,Best Documentary Feature Film,47th,no
+Haim,Gouri,The 81st Blow,1974,Best Documentary Feature Film,47th,no
+F.,R. Crawley,The Man Who Skied Down Everest,1975,Best Documentary Feature Film,48th,yes
+Walter,F. Parkes,The California Reich,1975,Best Documentary Feature Film,48th,no
+Irwin,Rosten,The Incredible Machine,1975,Best Documentary Feature Film,48th,no
+Shirley,MacLaine,The Other Half of the Sky: A China Memoir,1975,Best Documentary Feature Film,48th,no
+Barbara,Kopple,"Harlan County, U.S.A.",1976,Best Documentary Feature Film,49th,yes
+David,Koff,People of the Wind,1976,Best Documentary Feature Film,49th,no
+Donald,Brittain,Volcano: An Inquiry into the Life and Death of Malcolm Lowry,1976,Best Documentary Feature Film,49th,no
+John,Korty,Who Are the DeBolts? And Where Did They Get Nineteen Kids?,1977,Best Documentary Feature Film,50th,yes
+Robert,Dornhelm,The Children of Theatre Street,1977,Best Documentary Feature Film,50th,no
+Earle,Mack,The Children of Theatre Street,1977,Best Documentary Feature Film,50th,no
+Tony,Ianzelo,High Grass Circus,1977,Best Documentary Feature Film,50th,no
+Harry,Rasky,Homage to Chagall: The Colours of Love,1977,Best Documentary Feature Film,50th,no
+Jim,Klein,Union Maids,1977,Best Documentary Feature Film,50th,no
+Arnold,Shapiro,Scared Straight!,1978,Best Documentary Feature Film,51st,yes
+Albert,Lamorisse,The Lovers' Wind,1978,Best Documentary Feature Film,51st,no
+Alan,Root,Mysterious Castles of Clay,1978,Best Documentary Feature Film,51st,no
+Jean-Pierre,Dutilleux,Raoni,1978,Best Documentary Feature Film,51st,no
+Ira,Wohl,Best Boy,1979,Best Documentary Feature Film,52nd,yes
+Paul,Cowan,Going the Distance,1979,Best Documentary Feature Film,52nd,no
+Jacques,Bobet,Going the Distance,1979,Best Documentary Feature Film,52nd,no
+Tom,Priestley,The Killing Ground,1979,Best Documentary Feature Film,52nd,no
+Barry,Alexander Brown,The War at Home,1979,Best Documentary Feature Film,52nd,no
+Murray,Lerner,From Mao to Mozart: Isaac Stern in China,1980,Best Documentary Feature Film,53rd,yes
+Jon,H. Else,The Day After Trinity,1980,Best Documentary Feature Film,53rd,no
+David,Bradbury,Front Line,1980,Best Documentary Feature Film,53rd,no
+Arthur,Cohn,The Yellow Star: The Persecution of the Jews in Europe 1933-45,1980,Best Documentary Feature Film,53rd,no
+Arnold,Schwartzman,Genocide,1981,Best Documentary Feature Film,54th,yes
+Marvin,Hier,Genocide,1981,Best Documentary Feature Film,54th,yes
+Ken,Burns,Brooklyn Bridge,1981,Best Documentary Feature Film,54th,no
+Boyd,Estus,Eight Minutes to Midnight: A Portrait of Dr. Helen Caldicott,1981,Best Documentary Feature Film,54th,no
+John,Zaritsky,Just Another Missing Kid,1982,Best Documentary Feature Film,55th,yes
+Sturla,Gunnarsson,After the Axe,1982,Best Documentary Feature Film,55th,no
+Emile,Ardolino,He Makes Me Feel Like Dancin',1983,Best Documentary Feature Film,56th,yes
+Richard,Kotuk,Children of Darkness,1983,Best Documentary Feature Film,56th,no
+Bob,Connolly,First Contact,1983,Best Documentary Feature Film,56th,no
+Robin,Anderson,First Contact,1983,Best Documentary Feature Film,56th,no
+Julia,Reichert,Seeing Red,1983,Best Documentary Feature Film,56th,no
+Rob,Epstein,The Times of Harvey Milk,1984,Best Documentary Feature Film,57th,yes
+Charles,Guggenheim,High Schools,1984,Best Documentary Feature Film,57th,no
+Zev,Braun,Marlene,1984,Best Documentary Feature Film,57th,no
+Susana,Blaustein Muñoz,Las Madres: The Mothers of Plaza de Mayo,1985,Best Documentary Feature Film,58th,no
+Lourdes,Portillo,Las Madres: The Mothers of Plaza de Mayo,1985,Best Documentary Feature Film,58th,no
+Japhet,Asher,Soldiers in Hiding,1985,Best Documentary Feature Film,58th,no
+Ken,Burns,The Statue of Liberty,1985,Best Documentary Feature Film,58th,no
+Steven,Okazaki,Unfinished Business,1985,Best Documentary Feature Film,58th,no
+Brigitte,Berman,Artie Shaw: Time Is All You've Got,1986,Best Documentary Feature Film,59th,yes
+Joseph,Feury,Down and Out in America,1986,Best Documentary Feature Film,59th,yes
+David,Bradbury,Chile: Hasta Cuando?,1986,Best Documentary Feature Film,59th,no
+Kirk,Simon,Isaac in America: A Journey with Isaac Bashevis Singer,1986,Best Documentary Feature Film,59th,no
+Sharon,I. Sopher,Witness to Apartheid,1986,Best Documentary Feature Film,59th,no
+Aviva,Slesin,The Ten-Year Lunch: The Wit and Legend of the Algonquin Round Table,1987,Best Documentary Feature Film,60th,yes
+Callie,Crossley,Eyes on the Prize: America's Civil Rights Years/Bridge to Freedom 1965,1987,Best Documentary Feature Film,60th,no
+John,W. Dower,Hellfire: A Journey from Hiroshima,1987,Best Documentary Feature Film,60th,no
+Robert,Stone,Radio Bikini,1987,Best Documentary Feature Film,60th,no
+Marcel,Ophüls,Hôtel Terminus: The Life and Times of Klaus Barbie,1988,Best Documentary Feature Film,61st,yes
+Robert,Bilheimer,The Cry of Reason – Beyers Naudé: An Afrikaner Speaks Out,1988,Best Documentary Feature Film,61st,no
+Bruce,Weber,Let's Get Lost,1988,Best Documentary Feature Film,61st,no
+Ginny,Durrin,Promises to Keep,1988,Best Documentary Feature Film,61st,no
+Renee,Tajima-Peña,Who Killed Vincent Chin?,1988,Best Documentary Feature Film,61st,no
+Christine,Choy,Who Killed Vincent Chin?,1988,Best Documentary Feature Film,61st,no
+Rob,Epstein,Common Threads: Stories from the Quilt,1989,Best Documentary Feature Film,62nd,yes
+Bill,Couturié,Common Threads: Stories from the Quilt,1989,Best Documentary Feature Film,62nd,yes
+William,Guttentag,Crack USA: County Under Siege,1989,Best Documentary Feature Film,62nd,no
+Al,Reinert,For All Mankind,1989,Best Documentary Feature Film,62nd,no
+William,C. Jersey,Super Chief: The Life and Legacy of Earl Warren,1989,Best Documentary Feature Film,62nd,no
+Barbara,Kopple,American Dream,1990,Best Documentary Feature Film,63rd,yes
+Arthur,Cohn,American Dream,1990,Best Documentary Feature Film,63rd,yes
+Mark,Mori,Building Bombs,1990,Best Documentary Feature Film,63rd,no
+Allie,Light,In the Shadow of the Stars,1991,Best Documentary Feature Film,64th,yes
+Irving,Saraf,In the Shadow of the Stars,1991,Best Documentary Feature Film,64th,yes
+Hava,Kohav Beller,The Restless Conscience: Resistance to Hitler Within Germany 1933-1945,1991,Best Documentary Feature Film,64th,no
+Bill,Miles,Liberators: Fighting on Two Fronts in World War II,1992,Best Documentary Feature Film,65th,no
+Nina,Rosenblum,Liberators: Fighting on Two Fronts in World War II,1992,Best Documentary Feature Film,65th,no
+Margaret,Smilow,Music for the Movies: Bernard Herrmann,1992,Best Documentary Feature Film,65th,no
+Roma,Baran,Music for the Movies: Bernard Herrmann,1992,Best Documentary Feature Film,65th,no
+D.,A. Pennebaker,The War Room,1993,Best Documentary Feature Film,66th,no
+Chris,Hegedus,The War Room,1993,Best Documentary Feature Film,66th,no
+Freida,Lee Mock,Maya Lin: A Strong Clear Vision,1994,Best Documentary Feature Film,67th,yes
+Deborah,Hoffmann,Complaints of a Dutiful Daughter,1994,Best Documentary Feature Film,67th,no
+Charles,Guggenheim,D-Day Remembered,1994,Best Documentary Feature Film,67th,no
+Jean,Bach,A Great Day in Harlem,1994,Best Documentary Feature Film,67th,no
+Jon,Blair,Anne Frank Remembered,1995,Best Documentary Feature Film,68th,yes
+Thomas,Lennon,The Battle Over Citizen Kane,1995,Best Documentary Feature Film,68th,no
+Michael,Tollin,Hank Aaron: Chasing the Dream,1995,Best Documentary Feature Film,68th,no
+Jeanne,Jordan,Troublesome Creek: A Midwestern,1995,Best Documentary Feature Film,68th,no
+Steven,Ascher,Troublesome Creek: A Midwestern,1995,Best Documentary Feature Film,68th,no
+Leon,Gast,When We Were Kings,1996,Best Documentary Feature Film,69th,yes
+David,Sonenberg,When We Were Kings,1996,Best Documentary Feature Film,69th,yes
+Jo,Menell,Mandela,1996,Best Documentary Feature Film,69th,no
+Anne,Belle,Suzanne Farrell: Elusive Muse,1996,Best Documentary Feature Film,69th,no
+Deborah,Dickson,Suzanne Farrell: Elusive Muse,1996,Best Documentary Feature Film,69th,no
+Rick,Goldsmith,Tell the Truth and Run: George Seldes and the American Press,1996,Best Documentary Feature Film,69th,no
+Marvin,Hier,The Long Way Home,1997,Best Documentary Feature Film,70th,yes
+Spike,Lee,4 Little Girls,1997,Best Documentary Feature Film,70th,no
+Sam,Pollard,4 Little Girls,1997,Best Documentary Feature Film,70th,no
+Michael,Paxton,Ayn Rand: A Sense of Life,1997,Best Documentary Feature Film,70th,no
+Michèle,Ohayon,Colors Straight Up,1997,Best Documentary Feature Film,70th,no
+William,Gazecki,Waco: The Rules of Engagement,1997,Best Documentary Feature Film,70th,no
+James,Moll,The Last Days,1998,Best Documentary Feature Film,71st,yes
+Kenneth,Lipper,The Last Days,1998,Best Documentary Feature Film,71st,yes
+Matthew,Diamond,Dancemaker,1998,Best Documentary Feature Film,71st,no
+Jerry,Kupfer,Dancemaker,1998,Best Documentary Feature Film,71st,no
+Jonathan,Stack,"The Farm: Angola, USA",1998,Best Documentary Feature Film,71st,no
+Liz,Garbus,"The Farm: Angola, USA",1998,Best Documentary Feature Film,71st,no
+Robert,B. Weide,Lenny Bruce: Swear to Tell the Truth,1998,Best Documentary Feature Film,71st,no
+Janet,Cole,Regret to Inform,1998,Best Documentary Feature Film,71st,no
+Arthur,Cohn,One Day in September,1999,Best Documentary Feature Film,72nd,yes
+Kevin,Macdonald,One Day in September,1999,Best Documentary Feature Film,72nd,yes
+Wim,Wenders,Buena Vista Social Club,1999,Best Documentary Feature Film,72nd,no
+Ulrich,Felsberg,Buena Vista Social Club,1999,Best Documentary Feature Film,72nd,no
+Roko,Belic,Genghis Blues,1999,Best Documentary Feature Film,72nd,no
+Nanette,Burstein,On the Ropes,1999,Best Documentary Feature Film,72nd,no
+Brett,Morgen,On the Ropes,1999,Best Documentary Feature Film,72nd,no
+Lilibet,Foster,Speaking in Strings,1999,Best Documentary Feature Film,72nd,no
+Mark,Jonathan Harris,Into the Arms of Strangers: Stories of the Kindertransport,2000,Best Documentary Feature Film,73rd,yes
+Deborah,Oppenheimer,Into the Arms of Strangers: Stories of the Kindertransport,2000,Best Documentary Feature Film,73rd,yes
+Tod,Lending,Legacy,2000,Best Documentary Feature Film,73rd,no
+Deborah,Hoffmann,Long Night's Journey into Day,2000,Best Documentary Feature Film,73rd,no
+Frances,Reid,Long Night's Journey into Day,2000,Best Documentary Feature Film,73rd,no
+Roger,Weisberg,Sound and Fury,2000,Best Documentary Feature Film,73rd,no
+Jean-Xavier,de Lestrade,Murder on a Sunday Morning,2001,Best Documentary Feature Film,74th,yes
+Edet,Belzberg,Children Underground,2001,Best Documentary Feature Film,74th,no
+Deborah,Dickson,LaLee's Kin: The Legacy of Cotton,2001,Best Documentary Feature Film,74th,no
+Susan,Froemke,LaLee's Kin: The Legacy of Cotton,2001,Best Documentary Feature Film,74th,no
+Justine,Shapiro,Promises,2001,Best Documentary Feature Film,74th,no
+Christian,Frei,War Photographer,2001,Best Documentary Feature Film,74th,no
+Michael,Moore,Bowling for Columbine,2002,Best Documentary Feature Film,75th,yes
+Michael,Donovan,Bowling for Columbine,2002,Best Documentary Feature Film,75th,yes
+Gail,Dolgin,Daughter from Danang,2002,Best Documentary Feature Film,75th,no
+Malcolm,Clarke,Prisoner of Paradise,2002,Best Documentary Feature Film,75th,no
+Jeffrey,Blitz,Spellbound,2002,Best Documentary Feature Film,75th,no
+Jacques,Perrin,Winged Migration,2002,Best Documentary Feature Film,75th,no
+Errol,Morris,The Fog of War,2003,Best Documentary Feature Film,76th,yes
+Michael,Williams,The Fog of War,2003,Best Documentary Feature Film,76th,yes
+Carles,Bosch,Balseros,2003,Best Documentary Feature Film,76th,no
+Andrew,Jarecki,Capturing the Friedmans,2003,Best Documentary Feature Film,76th,no
+Marc,Smerling,Capturing the Friedmans,2003,Best Documentary Feature Film,76th,no
+Nathaniel,Kahn,My Architect,2003,Best Documentary Feature Film,76th,no
+Sam,Green,The Weather Underground,2003,Best Documentary Feature Film,76th,no
+Bill,Siegel,The Weather Underground,2003,Best Documentary Feature Film,76th,no
+Zana,Briski,Born into Brothels,2004,Best Documentary Feature Film,77th,yes
+Byambasuren,Davaa,The Story of the Weeping Camel,2004,Best Documentary Feature Film,77th,no
+Luigi,Falorni,The Story of the Weeping Camel,2004,Best Documentary Feature Film,77th,no
+Morgan,Spurlock,Super Size Me,2004,Best Documentary Feature Film,77th,no
+Karolyn,Ali,Tupac: Resurrection,2004,Best Documentary Feature Film,77th,no
+Lauren,Lazin,Tupac: Resurrection,2004,Best Documentary Feature Film,77th,no
+Kirby,Dick,Twist of Faith,2004,Best Documentary Feature Film,77th,no
+Eddie,Schmidt,Twist of Faith,2004,Best Documentary Feature Film,77th,no
+Luc,Jacquet,March of the Penguins,2005,Best Documentary Feature Film,78th,yes
+Hubert,Sauper,Darwin's Nightmare,2005,Best Documentary Feature Film,78th,no
+Alex,Gibney,Enron: The Smartest Guys in the Room,2005,Best Documentary Feature Film,78th,no
+Jason,Kliot,Enron: The Smartest Guys in the Room,2005,Best Documentary Feature Film,78th,no
+Henry,Alex Rubin,Murderball,2005,Best Documentary Feature Film,78th,no
+Dana,Adam Shapiro,Murderball,2005,Best Documentary Feature Film,78th,no
+Marshall,Curry,Street Fight,2005,Best Documentary Feature Film,78th,no
+Davis,Guggenheim,An Inconvenient Truth,2006,Best Documentary Feature Film,79th,yes
+Amy,Berg,Deliver Us from Evil,2006,Best Documentary Feature Film,79th,no
+Frank,Donner,Deliver Us from Evil,2006,Best Documentary Feature Film,79th,no
+James,Longley,Iraq in Fragments,2006,Best Documentary Feature Film,79th,no
+Heidi,Ewing,Jesus Camp,2006,Best Documentary Feature Film,79th,no
+Rachel,Grady,Jesus Camp,2006,Best Documentary Feature Film,79th,no
+Jocelyn,Glatzer,"My Country, My Country",2006,Best Documentary Feature Film,79th,no
+Laura,Poitras,"My Country, My Country",2006,Best Documentary Feature Film,79th,no
+Alex,Gibney,Taxi to the Dark Side,2007,Best Documentary Feature Film,80th,yes
+Eva,Orner,Taxi to the Dark Side,2007,Best Documentary Feature Film,80th,yes
+Charles,Ferguson,No End in Sight,2007,Best Documentary Feature Film,80th,no
+Audrey,Marrs,No End in Sight,2007,Best Documentary Feature Film,80th,no
+Richard,Robbins,Operation Homecoming: Writing the Wartime Experience,2007,Best Documentary Feature Film,80th,no
+Michael,Moore,Sicko,2007,Best Documentary Feature Film,80th,no
+Sean,Fine,War/Dance,2007,Best Documentary Feature Film,80th,no
+Andrea,Nix Fine,War/Dance,2007,Best Documentary Feature Film,80th,no
+Simon,Chinn,Man on Wire,2008,Best Documentary Feature Film,81st,yes
+James,Marsh,Man on Wire,2008,Best Documentary Feature Film,81st,yes
+Ellen,Kuras,The Betrayal (Nerakhoon),2008,Best Documentary Feature Film,81st,no
+Thavisouk,Phrasavath,The Betrayal (Nerakhoon),2008,Best Documentary Feature Film,81st,no
+Werner,Herzog,Encounters at the End of the World,2008,Best Documentary Feature Film,81st,no
+Henry,Kaiser,Encounters at the End of the World,2008,Best Documentary Feature Film,81st,no
+Scott,Hamilton Kennedy,The Garden,2008,Best Documentary Feature Film,81st,no
+Carl,Deal,Trouble the Water,2008,Best Documentary Feature Film,81st,no
+Tia,Lessin,Trouble the Water,2008,Best Documentary Feature Film,81st,no
+Louie,Psihoyos,The Cove,2009,Best Documentary Feature Film,82nd,yes
+Fisher,Stevens,The Cove,2009,Best Documentary Feature Film,82nd,yes
+Anders,Østergaard,Burma VJ,2009,Best Documentary Feature Film,82nd,no
+Lise,Lense-Møller,Burma VJ,2009,Best Documentary Feature Film,82nd,no
+Robert,Kenner,"Food, Inc.",2009,Best Documentary Feature Film,82nd,no
+Elise,Pearlstein,"Food, Inc.",2009,Best Documentary Feature Film,82nd,no
+Judith,Ehrlich,The Most Dangerous Man in America: Daniel Ellsberg and the Pentagon Papers,2009,Best Documentary Feature Film,82nd,no
+Rebecca,Cammisa,Which Way Home,2009,Best Documentary Feature Film,82nd,no
+Charles,Ferguson,Inside Job,2010,Best Documentary Feature Film,83rd,yes
+Audrey,Marrs,Inside Job,2010,Best Documentary Feature Film,83rd,yes
+Jaimie,D'Cruz,Exit Through the Gift Shop,2010,Best Documentary Feature Film,83rd,no
+Josh,Fox,Gasland,2010,Best Documentary Feature Film,83rd,no
+Trish,Adlesic,Gasland,2010,Best Documentary Feature Film,83rd,no
+Tim,Hetherington,Restrepo,2010,Best Documentary Feature Film,83rd,no
+Sebastian,Junger,Restrepo,2010,Best Documentary Feature Film,83rd,no
+Lucy,Walker,Waste Land,2010,Best Documentary Feature Film,83rd,no
+Angus,Aynsley,Waste Land,2010,Best Documentary Feature Film,83rd,no
+T.,J. Martin,Undefeated,2011,Best Documentary Feature Film,84th,yes
+Daniel,Lindsay,Undefeated,2011,Best Documentary Feature Film,84th,yes
+Rich,Middlemas,Undefeated,2011,Best Documentary Feature Film,84th,yes
+Danfung,Dennis,Hell and Back Again,2011,Best Documentary Feature Film,84th,no
+Mike,Lerner,Hell and Back Again,2011,Best Documentary Feature Film,84th,no
+Marshall,Curry,If a Tree Falls: A Story of the Earth Liberation Front,2011,Best Documentary Feature Film,84th,no
+Sam,Cullman,If a Tree Falls: A Story of the Earth Liberation Front,2011,Best Documentary Feature Film,84th,no
+Wim,Wenders,Pina,2011,Best Documentary Feature Film,84th,no
+Gian-Piero,Ringel,Pina,2011,Best Documentary Feature Film,84th,no
+Malik,Bendjelloul,Searching for Sugar Man,2012,Best Documentary Feature Film,85th,yes
+Simon,Chinn,Searching for Sugar Man,2012,Best Documentary Feature Film,85th,yes
+Emad,Burnat,5 Broken Cameras,2012,Best Documentary Feature Film,85th,no
+Guy,Davidi,5 Broken Cameras,2012,Best Documentary Feature Film,85th,no
+Dror,Moreh,The Gatekeepers,2012,Best Documentary Feature Film,85th,no
+Philippa,Kowarsky,The Gatekeepers,2012,Best Documentary Feature Film,85th,no
+Estelle,Fialon,The Gatekeepers,2012,Best Documentary Feature Film,85th,no
+David,France,How to Survive a Plague,2012,Best Documentary Feature Film,85th,no
+Howard,Gertler,How to Survive a Plague,2012,Best Documentary Feature Film,85th,no
+Kirby,Dick,The Invisible War,2012,Best Documentary Feature Film,85th,no
+Amy,Ziering,The Invisible War,2012,Best Documentary Feature Film,85th,no
+Morgan,Neville,20 Feet from Stardom,2013,Best Documentary Feature Film,86th,yes
+Gil,Friesen,20 Feet from Stardom,2013,Best Documentary Feature Film,86th,yes
+Caitrin,Rogers,20 Feet from Stardom,2013,Best Documentary Feature Film,86th,yes
+Joshua,Oppenheimer,The Act of Killing,2013,Best Documentary Feature Film,86th,no
+Signe,Byrge Sørensen,The Act of Killing,2013,Best Documentary Feature Film,86th,no
+Zachary,Heinzerling,Cutie and the Boxer,2013,Best Documentary Feature Film,86th,no
+Lydia,Dean Pilcher,Cutie and the Boxer,2013,Best Documentary Feature Film,86th,no
+Richard,Rowley,Dirty Wars,2013,Best Documentary Feature Film,86th,no
+Jeremy,Scahill,Dirty Wars,2013,Best Documentary Feature Film,86th,no
+Jehane,Noujaim,The Square,2013,Best Documentary Feature Film,86th,no
+Karim,Amer,The Square,2013,Best Documentary Feature Film,86th,no
+Laura,Poitras,Citizenfour,2014,Best Documentary Feature Film,87th,yes
+Mathilde,Bonnefoy,Citizenfour,2014,Best Documentary Feature Film,87th,yes
+Dirk,Wilutzky,Citizenfour,2014,Best Documentary Feature Film,87th,yes
+John,Maloof,Finding Vivian Maier,2014,Best Documentary Feature Film,87th,no
+Charlie,Siskel,Finding Vivian Maier,2014,Best Documentary Feature Film,87th,no
+Rory,Kennedy,Last Days in Vietnam,2014,Best Documentary Feature Film,87th,no
+Wim,Wenders,The Salt of the Earth,2014,Best Documentary Feature Film,87th,no
+Juliano,Ribeiro Salgado,The Salt of the Earth,2014,Best Documentary Feature Film,87th,no
+David,Rosier,The Salt of the Earth,2014,Best Documentary Feature Film,87th,no
+Orlando,von Einsiedel,Virunga,2014,Best Documentary Feature Film,87th,no
+Joanna,Natasegara,Virunga,2014,Best Documentary Feature Film,87th,no
+Asif,Kapadia,Amy,2015,Best Documentary Feature Film,88th,yes
+James,Gay-Rees,Amy,2015,Best Documentary Feature Film,88th,yes
+Matthew,Heineman,Cartel Land,2015,Best Documentary Feature Film,88th,no
+Tom,Yellin,Cartel Land,2015,Best Documentary Feature Film,88th,no
+Joshua,Oppenheimer,The Look of Silence,2015,Best Documentary Feature Film,88th,no
+Signe,Byrge Sørensen,The Look of Silence,2015,Best Documentary Feature Film,88th,no
+Liz,Garbus,"What Happened, Miss Simone?",2015,Best Documentary Feature Film,88th,no
+Amy,Hobby,"What Happened, Miss Simone?",2015,Best Documentary Feature Film,88th,no
+Justin,Wilkes,"What Happened, Miss Simone?",2015,Best Documentary Feature Film,88th,no
+Evgeny,Afineevsky,Winter on Fire: Ukraine's Fight for Freedom,2015,Best Documentary Feature Film,88th,no
+Den,Tolmor,Winter on Fire: Ukraine's Fight for Freedom,2015,Best Documentary Feature Film,88th,no
+Ezra,Edelman,O.J.: Made in America,2016,Best Documentary Feature Film,89th,yes
+Caroline,Waterlow,O.J.: Made in America,2016,Best Documentary Feature Film,89th,yes
+Gianfranco,Rosi,Fire at Sea,2016,Best Documentary Feature Film,89th,no
+Donatella,Palermo,Fire at Sea,2016,Best Documentary Feature Film,89th,no
+Raoul,Peck,I Am Not Your Negro,2016,Best Documentary Feature Film,89th,no
+Rémi,Grellety,I Am Not Your Negro,2016,Best Documentary Feature Film,89th,no
+Hébert,Peck,I Am Not Your Negro,2016,Best Documentary Feature Film,89th,no
+Roger,Ross Williams,"Life, Animated",2016,Best Documentary Feature Film,89th,no
+Julie,Goldman,"Life, Animated",2016,Best Documentary Feature Film,89th,no
+Ava,DuVernay,13th,2016,Best Documentary Feature Film,89th,no
+Spencer,Averick,13th,2016,Best Documentary Feature Film,89th,no
+Howard,Barish,13th,2016,Best Documentary Feature Film,89th,no
+Bryan,Fogel,Icarus,2017,Best Documentary Feature Film,90th,yes
+Dan,Cogan,Icarus,2017,Best Documentary Feature Film,90th,yes
+Steve,James,Abacus: Small Enough to Jail,2017,Best Documentary Feature Film,90th,no
+Mark,Mitten,Abacus: Small Enough to Jail,2017,Best Documentary Feature Film,90th,no
+Julie,Goldman,Abacus: Small Enough to Jail,2017,Best Documentary Feature Film,90th,no
+Agnès,Varda,Faces Places,2017,Best Documentary Feature Film,90th,no
+Rosalie,Varda,Faces Places,2017,Best Documentary Feature Film,90th,no
+Feras,Fayyad,Last Men in Aleppo,2017,Best Documentary Feature Film,90th,no
+Kareem,Abeed,Last Men in Aleppo,2017,Best Documentary Feature Film,90th,no
+Søren,Steen Jespersen,Last Men in Aleppo,2017,Best Documentary Feature Film,90th,no
+Yance,Ford,Strong Island,2017,Best Documentary Feature Film,90th,no
+Joslyn,Barnes,Strong Island,2017,Best Documentary Feature Film,90th,no
+Elizabeth,Chai Vasarhelyi,Free Solo,2018,Best Documentary Feature Film,91st,yes
+Jimmy,Chin,Free Solo,2018,Best Documentary Feature Film,91st,yes
+Shannon,Dill,Free Solo,2018,Best Documentary Feature Film,91st,yes
+RaMell,Ross,"Hale County This Morning, This Evening",2018,Best Documentary Feature Film,91st,no
+Joslyn,Barnes,"Hale County This Morning, This Evening",2018,Best Documentary Feature Film,91st,no
+Bing,Liu,Minding the Gap,2018,Best Documentary Feature Film,91st,no
+Diane,Quon,Minding the Gap,2018,Best Documentary Feature Film,91st,no
+Talal,Derki,Of Fathers and Sons,2018,Best Documentary Feature Film,91st,no
+Ansgar,Frerich,Of Fathers and Sons,2018,Best Documentary Feature Film,91st,no
+Eva,Kemme,Of Fathers and Sons,2018,Best Documentary Feature Film,91st,no
+Tobias,N. Siebert,Of Fathers and Sons,2018,Best Documentary Feature Film,91st,no
+Betsy,West,RBG,2018,Best Documentary Feature Film,91st,no
+Julie,Cohen,RBG,2018,Best Documentary Feature Film,91st,no
+Steven,Bognar,American Factory,2019,Best Documentary Feature Film,92nd,yes
+Julia,Reichert,American Factory,2019,Best Documentary Feature Film,92nd,yes
+Feras,Fayyad,The Cave,2019,Best Documentary Feature Film,92nd,no
+Kirstine,Barfod,The Cave,2019,Best Documentary Feature Film,92nd,no
+Sigrid,Dyekjær,The Cave,2019,Best Documentary Feature Film,92nd,no
+Petra,Costa,The Edge of Democracy,2019,Best Documentary Feature Film,92nd,no
+Joanna,Natasegara,The Edge of Democracy,2019,Best Documentary Feature Film,92nd,no
+Shane,Boris,The Edge of Democracy,2019,Best Documentary Feature Film,92nd,no
+Tiago,Pavan,The Edge of Democracy,2019,Best Documentary Feature Film,92nd,no
+Waad,al-Kateab,For Sama,2019,Best Documentary Feature Film,92nd,no
+Edward,Watts,For Sama,2019,Best Documentary Feature Film,92nd,no
+Ljubo,Stefanov,Honeyland,2019,Best Documentary Feature Film,92nd,no
+Tamara,Kotevska,Honeyland,2019,Best Documentary Feature Film,92nd,no
+Pippa,Ehrlich,My Octopus Teacher,2020,Best Documentary Feature Film,93rd,yes
+Craig,Foster,My Octopus Teacher,2020,Best Documentary Feature Film,93rd,yes
+Alexander,Nanau,Collective,2020,Best Documentary Feature Film,93rd,no
+Bianca,Oana,Collective,2020,Best Documentary Feature Film,93rd,no
+Nicole,Newnham,Crip Camp,2020,Best Documentary Feature Film,93rd,no
+Jim,LeBrecht,Crip Camp,2020,Best Documentary Feature Film,93rd,no
+Maite,Alberdi,The Mole Agent,2020,Best Documentary Feature Film,93rd,no
+Marcela,Santibáñez,The Mole Agent,2020,Best Documentary Feature Film,93rd,no
+Garrett,Bradley,Time,2020,Best Documentary Feature Film,93rd,no
+Lauren,Domino,Time,2020,Best Documentary Feature Film,93rd,no
+Joseph,Patel,Summer of Soul,2021,Best Documentary Feature Film,94th,yes
+Robert,Fyvolent,Summer of Soul,2021,Best Documentary Feature Film,94th,yes
+David,Dinerstein,Summer of Soul,2021,Best Documentary Feature Film,94th,yes
+Jessica,Kingdon,Ascension,2021,Best Documentary Feature Film,94th,no
+Kira,Simon-Kennedy,Ascension,2021,Best Documentary Feature Film,94th,no
+Nathan,Truesdell,Ascension,2021,Best Documentary Feature Film,94th,no
+Stanley,Nelson,Attica,2021,Best Documentary Feature Film,94th,no
+Traci,A. Curry,Attica,2021,Best Documentary Feature Film,94th,no
+Jonas,Poher Rasmussen,Flee,2021,Best Documentary Feature Film,94th,no
+Monica,Hellström,Flee,2021,Best Documentary Feature Film,94th,no
+Signe,Byrge Sørensen,Flee,2021,Best Documentary Feature Film,94th,no
+Rintu,Thomas,Writing with Fire,2021,Best Documentary Feature Film,94th,no
+Sushmit,Ghosh,Writing with Fire,2021,Best Documentary Feature Film,94th,no
+Daniel,Roher,Navalny,2022,Best Documentary Feature Film,95th,yes
+Odessa,Rae,Navalny,2022,Best Documentary Feature Film,95th,yes
+Shaunak,Sen,All That Breathes,2022,Best Documentary Feature Film,95th,no
+Teddy,Leifer,All That Breathes,2022,Best Documentary Feature Film,95th,no
+Laura,Poitras,All the Beauty and the Bloodshed,2022,Best Documentary Feature Film,95th,no
+Nan,Goldin,All the Beauty and the Bloodshed,2022,Best Documentary Feature Film,95th,no
+Sara,Dosa,Fire of Love,2022,Best Documentary Feature Film,95th,no
+Ina,Fichman,Fire of Love,2022,Best Documentary Feature Film,95th,no
+Monica,Hellström,A House Made of Splinters,2022,Best Documentary Feature Film,95th,no
+Mstyslav,Chernov,20 Days in Mariupol,2023,Best Documentary Feature Film,96th,yes
+Michelle,Mizner,20 Days in Mariupol,2023,Best Documentary Feature Film,96th,yes
+Raney,Aronson-Rath,20 Days in Mariupol,2023,Best Documentary Feature Film,96th,yes
+John,Battsek,Bobi Wine: The People's President,2023,Best Documentary Feature Film,96th,no
+Maite,Alberdi,The Eternal Memory,2023,Best Documentary Feature Film,96th,no
+Kaouther,Ben Hania,Four Daughters,2023,Best Documentary Feature Film,96th,no
+Nisha,Pahuja,To Kill a Tiger,2023,Best Documentary Feature Film,96th,no
+Basel,Adra,No Other Land,2024,Best Documentary Feature Film,97th,yes
+Yuval,Abraham,No Other Land,2024,Best Documentary Feature Film,97th,yes
+Shiori,Itō,Black Box Diaries,2024,Best Documentary Feature Film,97th,no
+Brendan,Bellomo,Porcelain War,2024,Best Documentary Feature Film,97th,no
+Slava,Leontyev,Porcelain War,2024,Best Documentary Feature Film,97th,no
+Johan,Grimonprez,Soundtrack to a Coup d'Etat,2024,Best Documentary Feature Film,97th,no
+Julian,Brave NoiseCat,Sugarcane,2024,Best Documentary Feature Film,97th,no
+Emily,Kassie,Sugarcane,2024,Best Documentary Feature Film,97th,no

@@ -1,0 +1,651 @@
+firstName,lastName,movieTitle,releaseYear
+Preston,Sturges,The Great McGinty,1940
+Ben,Hecht,Angels Over Broadway,1940
+John,Huston,Dr. Ehrlich's Magic Bullet,1940
+Charles,Bennett,Foreign Correspondent,1940
+Joan,Harrison,Foreign Correspondent,1940
+Charlie,Chaplin,The Great Dictator,1940
+Herman,J. Mankiewicz,Citizen Kane,1941
+Orson,Welles,Citizen Kane,1941
+Norman,Krasna,The Devil and Miss Jones,1941
+Harry,Chandlee,Sergeant York,1941
+John,Huston,Sergeant York,1941
+Howard,Koch,Sergeant York,1941
+Karl,Tunberg,"Tall, Dark and Handsome",1941
+Darrell,Ware,"Tall, Dark and Handsome",1941
+Paul,Jarrico,"Tom, Dick and Harry",1941
+Ring,Lardner Jr.,Woman of the Year,1942
+Michael,Kanin,Woman of the Year,1942
+Michael,Powell,One of Our Aircraft Is Missing,1942
+Emeric,Pressburger,One of Our Aircraft Is Missing,1942
+Frank,Butler,Road to Morocco,1942
+Don,Hartman,Road to Morocco,1942
+W.,R. Burnett,Wake Island,1942
+Frank,Butler,Wake Island,1942
+George,Oppenheimer,The War Against Mrs. Hadley,1942
+Norman,Krasna,Princess O'Rourke,1943
+Dudley,Nichols,Air Force,1943
+Noël,Coward,In Which We Serve,1943
+Lillian,Hellman,The North Star,1943
+Allan,Scott,So Proudly We Hail!,1943
+Lamar,Trotti,Wilson,1944
+Preston,Sturges,Hail the Conquering Hero,1944
+Richard,Connell,Two Girls and a Sailor,1944
+Gladys,Lehman,Two Girls and a Sailor,1944
+Jerome,Cady,Wing and a Prayer,1944
+Richard,Schweizer,Marie-Louise,1945
+Philip,Yordan,Dillinger,1945
+Myles,Connolly,Music for Millions,1945
+Harry,Kurnitz,"What Next, Corporal Hargrove?",1945
+Muriel,,The Seventh Veil,1946
+Sydney,Box,The Seventh Veil,1946
+Raymond,Chandler,The Blue Dahlia,1946
+Jacques,Prévert,Children of Paradise,1946
+Ben,Hecht,Notorious,1946
+Melvin,Frank,Road to Utopia,1946
+Norman,Panama,Road to Utopia,1946
+Sidney,Sheldon,The Bachelor and the Bobby-Soxer,1947
+Abraham,Polonsky,Body and Soul,1947
+Ruth,Gordon,A Double Life,1947
+Garson,Kanin,A Double Life,1947
+Charlie,Chaplin,Monsieur Verdoux,1947
+Sergio,Amidei,Shoeshine,1947
+Adolfo,Franci,Shoeshine,1947
+Cesare,Giulio Viola,Shoeshine,1947
+Cesare,Zavattini,Shoeshine,1947
+Robert,Pirosh,Battleground,1949
+Sidney,Buchman,Jolson Sings Again,1949
+Sergio,Amidei,Paisan,1949
+Federico,Fellini,Paisan,1949
+Alfred,Hayes,Paisan,1949
+Marcello,Pagliero,Paisan,1949
+Roberto,Rossellini,Paisan,1949
+T.,E. B. Clarke,Passport to Pimlico,1949
+Helen,Levitt,The Quiet One,1949
+Janice,Loeb,The Quiet One,1949
+Sidney,Meyers,The Quiet One,1949
+Charles,Brackett,Sunset Boulevard,1950
+D.,M. Marshman Jr.,Sunset Boulevard,1950
+Billy,Wilder,Sunset Boulevard,1950
+Ruth,Gordon,Adam's Rib,1950
+Garson,Kanin,Adam's Rib,1950
+Virginia,Kellogg,Caged,1950
+Bernard,C. Schoenfeld,Caged,1950
+Carl,Foreman,The Men,1950
+Joseph,L. Mankiewicz,No Way Out,1950
+Lesser,Samuels,No Way Out,1950
+Alan,Jay Lerner,An American in Paris,1951
+Walter,Newman,Ace in the Hole,1951
+Lesser,Samuels,Ace in the Hole,1951
+Billy,Wilder,Ace in the Hole,1951
+Philip,Dunne,David and Bathsheba,1951
+Robert,Pirosh,Go for Broke!,1951
+Clarence,Greene,The Well,1951
+Russell,Rouse,The Well,1951
+T.,E. B. Clarke,The Lavender Hill Mob,1952
+Sydney,Boehm,The Atomic City,1952
+Terence,Rattigan,Breaking the Sound Barrier,1952
+Ruth,Gordon,Pat and Mike,1952
+Garson,Kanin,Pat and Mike,1952
+John,Steinbeck,Viva Zapata!,1952
+Charles,Brackett,Titanic,1953
+Richard,L. Breen,Titanic,1953
+Walter,Reisch,Titanic,1953
+Betty,Comden,The Band Wagon,1953
+Adolph,Green,The Band Wagon,1953
+Richard,Murphy,The Desert Rats,1953
+Harold,Jack Bloom,The Naked Spur,1953
+Sam,Rolfe,The Naked Spur,1953
+Millard,Kaufman,Take the High Ground!,1953
+Budd,Schulberg,On the Waterfront,1954
+Joseph,L. Mankiewicz,The Barefoot Contessa,1954
+William,Rose,Genevieve,1954
+Oscar,Brodney,The Glenn Miller Story,1954
+Valentine,Davies,The Glenn Miller Story,1954
+Melvin,Frank,Knock on Wood,1954
+Norman,Panama,Knock on Wood,1954
+Sonya,Levien,Interrupted Melody,1955
+William,Ludwig,Interrupted Melody,1955
+Emmet,Lavery,The Court-Martial of Billy Mitchell,1955
+Milton,Sperling,The Court-Martial of Billy Mitchell,1955
+Betty,Comden,It's Always Fair Weather,1955
+Adolph,Green,It's Always Fair Weather,1955
+Henri,Marquet,Mr. Hulot's Holiday,1955
+Jacques,Tati,Mr. Hulot's Holiday,1955
+Melville,Shavelson,The Seven Little Foys,1955
+Jack,Rose,The Seven Little Foys,1955
+Albert,Lamorisse,The Red Balloon,1956
+Robert,Lewin,The Bold and the Brave,1956
+Andrew,L. Stone,Julie,1956
+Federico,Fellini,La Strada,1956
+Tullio,Pinelli,La Strada,1956
+William,Rose,The Ladykillers,1956
+George,Wells,Designing Woman,1957
+Leonard,Gershe,Funny Face,1957
+Robert,Campbell,Man of a Thousand Faces,1957
+Ivan,Goff,Man of a Thousand Faces,1957
+Ben,Roberts,Man of a Thousand Faces,1957
+Ralph,Wheelwright,Man of a Thousand Faces,1957
+Dudley,Nichols,The Tin Star,1957
+Federico,Fellini,I Vitelloni,1957
+Ennio,Flaiano,I Vitelloni,1957
+Tullio,Pinelli,I Vitelloni,1957
+Nedrick,Young,The Defiant Ones,1958
+Harold,Jacob Smith,The Defiant Ones,1958
+[note,2],The Defiant Ones,1958
+Paddy,Chayefsky,The Goddess,1958
+Melville,Shavelson,Houseboat,1958
+Jack,Rose,Houseboat,1958
+William,Bowers,The Sheepman,1958
+James,Edward Grant,The Sheepman,1958
+Fay,Kanin,Teacher's Pet,1958
+Michael,Kanin,Teacher's Pet,1958
+Stanley,Shapiro,Pillow Talk,1959
+Maurice,Richlin,Pillow Talk,1959
+Clarence,Greene,Pillow Talk,1959
+Russell,Rouse,Pillow Talk,1959
+Marcel,Moussy,The 400 Blows,1959
+François,Truffaut,The 400 Blows,1959
+Ernest,Lehman,North by Northwest,1959
+Paul,King,Operation Petticoat,1959
+Ingmar,Bergman,Wild Strawberries,1959
+I.,A. L. Diamond,The Apartment,1960
+Billy,Wilder,The Apartment,1960
+Bryan,Forbes,The Angry Silence,1960
+Michael,Craig,The Angry Silence,1960
+Richard,Gregson,The Angry Silence,1960
+Melvin,Frank,The Facts of Life,1960
+Norman,Panama,The Facts of Life,1960
+Marguerite,Duras,"Hiroshima, Mon Amour",1960
+Jules,Dassin,Never on Sunday,1960
+William,Inge,Splendor in the Grass,1961
+Grigory,Chukhray,Ballad of a Soldier,1961
+Valentin,Yezhov,Ballad of a Soldier,1961
+Sergio,Amidei,General Della Rovere,1961
+Indro,Montanelli,General Della Rovere,1961
+Federico,Fellini,La Dolce Vita,1961
+Ennio,Flaiano,La Dolce Vita,1961
+Tullio,Pinelli,La Dolce Vita,1961
+Brunello,Rondi,La Dolce Vita,1961
+Paul,Henning,Lover Come Back,1961
+Stanley,Shapiro,Lover Come Back,1961
+Ennio,De Concini,Divorce Italian Style,1962
+Pietro,Germi,Divorce Italian Style,1962
+Alfredo,Giannetti,Divorce Italian Style,1962
+Charles,Kaufman,Freud,1962
+Wolfgang,Reinhardt,Freud,1962
+Alain,Robbe-Grillet,Last Year at Marienbad,1962
+Nate,Monaster,That Touch of Mink,1962
+Stanley,Shapiro,That Touch of Mink,1962
+Ingmar,Bergman,Through a Glass Darkly,1962
+James,R. Webb,How the West Was Won,1963
+Elia,Kazan,America America,1963
+Federico,Fellini,8½,1963
+Ennio,Flaiano,8½,1963
+Tullio,Pinelli,8½,1963
+Brunello,Rondi,8½,1963
+Carlo,Bernari,The Four Days of Naples,1963
+Pasquale,Festa Campanile,The Four Days of Naples,1963
+Massimo,Franciosa,The Four Days of Naples,1963
+Nanni,Loy,The Four Days of Naples,1963
+Vasco,Pratolini,The Four Days of Naples,1963
+Arnold,Schulman,Love with the Proper Stranger,1963
+Peter,Stone,Father Goose,1964
+Frank,Tarloff,Father Goose,1964
+S.,H. Barnett,Father Goose,1964
+Alun,Owen,A Hard Day's Night,1964
+Orville,H. Hampton,"One Potato, Two Potato",1964
+Age,,The Organizer,1964
+Mario,Monicelli,The Organizer,1964
+Furio,Scarpelli,The Organizer,1964
+Daniel,Boulanger,That Man from Rio,1964
+Philippe,de Broca,That Man from Rio,1964
+Ariane,Mnouchkine,That Man from Rio,1964
+Jean-Paul,Rappeneau,That Man from Rio,1964
+Frederic,Raphael,Darling,1965
+Age,,Casanova 70,1965
+Suso,Cecchi d'Amico,Casanova 70,1965
+Tonino,Guerra,Casanova 70,1965
+Mario,Monicelli,Casanova 70,1965
+Furio,Scarpelli,Casanova 70,1965
+Ken,Annakin,Those Magnificent Men in Their Flying Machines,1965
+Jack,Davies,Those Magnificent Men in Their Flying Machines,1965
+Jacques,Demy,The Umbrellas of Cherbourg,1965
+Claude,Lelouch,A Man and a Woman,1966
+Pierre,Uytterhoeven,A Man and a Woman,1966
+Michelangelo,Antonioni,Blowup,1966
+Edward,Bond,Blowup,1966
+Tonino,Guerra,Blowup,1966
+I.,A. L. Diamond,The Fortune Cookie,1966
+Billy,Wilder,The Fortune Cookie,1966
+Robert,Ardrey,Khartoum,1966
+William,Rose,Guess Who's Coming to Dinner,1967
+Robert,Benton,Bonnie and Clyde,1967
+David,Newman,Bonnie and Clyde,1967
+Norman,Lear,Divorce American Style,1967
+Robert,Kaufman,Divorce American Style,1967
+Jorge,Semprún,La Guerre Est Finie,1967
+Frederic,Raphael,Two for the Road,1967
+Mel,Brooks,The Producers,1968
+Gillo,Pontecorvo,The Battle of Algiers,1968
+Franco,Solinas,The Battle of Algiers,1968
+John,Cassavetes,Faces,1968
+Peter,Ustinov,Hot Millions,1968
+Ira,Wallach,Hot Millions,1968
+Arthur,C. Clarke,2001: A Space Odyssey,1968
+Stanley,Kubrick,2001: A Space Odyssey,1968
+William,Goldman,Butch Cassidy and the Sundance Kid,1969
+Paul,Mazursky,Bob & Carol & Ted & Alice,1969
+Larry,Tucker,Bob & Carol & Ted & Alice,1969
+Nicola,Badalucco,The Damned,1969
+Enrico,Medioli,The Damned,1969
+Luchino,Visconti,The Damned,1969
+Peter,Fonda,Easy Rider,1969
+Dennis,Hopper,Easy Rider,1969
+Terry,Southern,Easy Rider,1969
+Walon,Green,The Wild Bunch,1969
+Sam,Peckinpah,The Wild Bunch,1969
+Roy,N. Sickner,The Wild Bunch,1969
+Francis,Ford Coppola,Patton,1970
+Edmund,H. North,Patton,1970
+Carole,Eastman,Five Easy Pieces,1970
+Bob,Rafelson,Five Easy Pieces,1970
+Norman,Wexler,Joe,1970
+Erich,Segal,Love Story,1970
+Éric,Rohmer,My Night at Maud's,1970
+Paddy,Chayefsky,The Hospital,1971
+Elio,Petri,Investigation of a Citizen Above Suspicion,1971
+Ugo,Pirro,Investigation of a Citizen Above Suspicion,1971
+Andy,,Klute,1971
+Herman,Raucher,Summer of '42,1971
+Penelope,Gilliatt,Sunday Bloody Sunday,1971
+Jeremy,Larner,The Candidate,1972
+Luis,Buñuel,The Discreet Charm of the Bourgeoisie,1972
+Jean-Claude,Carrière,The Discreet Charm of the Bourgeoisie,1972
+Chris,Clark,Lady Sings the Blues,1972
+Suzanne,de Passe,Lady Sings the Blues,1972
+Louis,Malle,Murmur of the Heart,1972
+Carl,Foreman,Young Winston,1972
+David,S. Ward,The Sting,1973
+Willard,Huyck,American Graffiti,1973
+George,Lucas,American Graffiti,1973
+Gloria,Katz,American Graffiti,1973
+Ingmar,Bergman,Cries and Whispers,1973
+Steve,Shagan,Save the Tiger,1973
+Melvin,Frank,A Touch of Class,1973
+Jack,Rose,A Touch of Class,1973
+Robert,Towne,Chinatown,1974
+Robert,Getchell,Alice Doesn't Live Here Anymore,1974
+Francis,Ford Coppola,The Conversation,1974
+Jean-Louis,Richard,Day for Night,1974
+Suzanne,Schiffman,Day for Night,1974
+François,Truffaut,Day for Night,1974
+Josh,Greenfeld,Harry and Tonto,1974
+Paul,Mazursky,Harry and Tonto,1974
+Frank,Pierson,Dog Day Afternoon,1975
+Federico,Fellini,Amarcord,1975
+Tonino,Guerra,Amarcord,1975
+Claude,Lelouch,And Now My Love,1975
+Pierre,Uytterhoeven,And Now My Love,1975
+Ted,Allan,Lies My Father Told Me,1975
+Robert,Towne,Shampoo,1975
+Warren,Beatty,Shampoo,1975
+Paddy,Chayefsky,Network,1976
+Jean-Charles,Tacchella,"Cousin, Cousine",1976
+Daniele,Thompson,"Cousin, Cousine",1976
+Walter,Bernstein,The Front,1976
+Sylvester,Stallone,Rocky,1976
+Lina,Wertmüller,Seven Beauties,1976
+Woody,Allen,Annie Hall,1977
+Marshall,Brickman,Annie Hall,1977
+Neil,Simon,The Goodbye Girl,1977
+Robert,Benton,The Late Show,1977
+George,Lucas,Star Wars,1977
+Arthur,Laurents,The Turning Point,1977
+Robert,C. Jones,Coming Home,1978
+Waldo,Salt,Coming Home,1978
+Nancy,Dowd,Coming Home,1978
+Ingmar,Bergman,Autumn Sonata,1978
+Deric,Washburn,The Deer Hunter,1978
+Michael,Cimino,The Deer Hunter,1978
+Quinn,Redeker,The Deer Hunter,1978
+Woody,Allen,Interiors,1978
+Paul,Mazursky,An Unmarried Woman,1978
+Steve,Tesich,Breaking Away,1979
+Robert,Alan Aurthur,All That Jazz,1979
+Bob,Fosse,All That Jazz,1979
+Valerie,Curtin,...And Justice for All.,1979
+Barry,Levinson,...And Justice for All.,1979
+James,Bridges,The China Syndrome,1979
+T.,S. Cook,The China Syndrome,1979
+Mike,Gray,The China Syndrome,1979
+Woody,Allen,Manhattan,1979
+Marshall,Brickman,Manhattan,1979
+Bo,Goldman,Melvin and Howard,1980
+W.,D. Richter,Brubaker,1980
+Arthur,A. Ross,Brubaker,1980
+Christopher,Gore,Fame,1980
+Jean,Gruault,Mon oncle d'Amérique,1980
+Nancy,Meyers,Private Benjamin,1980
+Harvey,Miller,Private Benjamin,1980
+Charles,Shyer,Private Benjamin,1980
+Colin,Welland,Chariots of Fire,1981
+Kurt,Luedtke,Absence of Malice,1981
+Steve,Gordon,Arthur,1981
+John,Guare,Atlantic City,1981
+Trevor,Griffiths,Reds,1981
+Warren,Beatty,Reds,1981
+John,Briley,Gandhi,1982
+Barry,Levinson,Diner,1982
+Melissa,Mathison,E.T. the Extra-Terrestrial,1982
+Douglas,Day Stewart,An Officer and a Gentleman,1982
+Larry,Gelbart,Tootsie,1982
+Murray,Schisgal,Tootsie,1982
+Don,McGuire,Tootsie,1982
+Horton,Foote,Tender Mercies,1983
+Barbara,Benedek,The Big Chill,1983
+Lawrence,Kasdan,The Big Chill,1983
+Ingmar,Bergman,Fanny and Alexander,1983
+Alice,Arlen,Silkwood,1983
+Nora,Ephron,Silkwood,1983
+Lawrence,Lasker,WarGames,1983
+Walter,Parkes,WarGames,1983
+Robert,Benton,Places in the Heart,1984
+Daniel,Petrie Jr.,Beverly Hills Cop,1984
+Danilo,Bach,Beverly Hills Cop,1984
+Woody,Allen,Broadway Danny Rose,1984
+Gregory,Nava,El Norte,1984
+Anna,Thomas,El Norte,1984
+Bruce,Jay Friedman,Splash,1984
+Lowell,Ganz,Splash,1984
+Babaloo,Mandel,Splash,1984
+Brian,Grazer,Splash,1984
+William,Kelley,Witness,1985
+Earl,W. Wallace,Witness,1985
+Pamela,Wallace,Witness,1985
+Bob,Gale,Back to the Future,1985
+Robert,Zemeckis,Back to the Future,1985
+Terry,Gilliam,Brazil,1985
+Charles,McKeown,Brazil,1985
+Tom,Stoppard,Brazil,1985
+Aída,Bortnik,The Official Story,1985
+Luis,Puenzo,The Official Story,1985
+Woody,Allen,The Purple Rose of Cairo,1985
+Woody,Allen,Hannah and Her Sisters,1986
+John,Cornell,Crocodile Dundee,1986
+Paul,Hogan,Crocodile Dundee,1986
+Ken,Shadie,Crocodile Dundee,1986
+Hanif,Kureishi,My Beautiful Laundrette,1986
+Oliver,Stone,Platoon,1986
+Richard,Boyle,Salvador,1986
+John,Patrick Shanley,Moonstruck,1987
+Louis,Malle,"Au Revoir Les Enfants (Goodbye, Children)",1987
+James,L. Brooks,Broadcast News,1987
+John,Boorman,Hope and Glory,1987
+Woody,Allen,Radio Days,1987
+Ronald,Bass,Rain Man,1988
+Barry,Morrow,Rain Man,1988
+Gary,Ross,Big,1988
+Anne,Spielberg,Big,1988
+Ron,Shelton,Bull Durham,1988
+John,Cleese,A Fish Called Wanda,1988
+Charles,Crichton,A Fish Called Wanda,1988
+Naomi,Foner Gyllenhaal,Running on Empty,1988
+Tom,Schulman,Dead Poets Society,1989
+Woody,Allen,Crimes and Misdemeanors,1989
+Spike,Lee,Do the Right Thing,1989
+Steven,Soderbergh,"Sex, Lies, and Videotape",1989
+Nora,Ephron,When Harry Met Sally...,1989
+Bruce,Joel Rubin,Ghost,1990
+Woody,Allen,Alice,1990
+Barry,Levinson,Avalon,1990
+Peter,Weir,Green Card,1990
+Whit,Stillman,Metropolitan,1990
+Callie,Khouri,Thelma & Louise,1991
+John,Singleton,Boyz n the Hood,1991
+James,Toback,Bugsy,1991
+Richard,LaGravenese,The Fisher King,1991
+Lawrence,Kasdan,Grand Canyon,1991
+Neil,Jordan,The Crying Game,1992
+Woody,Allen,Husbands and Wives,1992
+Nick,Enright,Lorenzo's Oil,1992
+George,Miller,Lorenzo's Oil,1992
+John,Sayles,Passion Fish,1992
+David,Peoples,Unforgiven,1992
+Jane,Campion,The Piano,1993
+Gary,Ross,Dave,1993
+Jeff,Maguire,In the Line of Fire,1993
+Ron,Nyswaner,Philadelphia,1993
+Nora,Ephron,Sleepless in Seattle,1993
+David,S. Ward,Sleepless in Seattle,1993
+Quentin,Tarantino,Pulp Fiction,1994
+Roger,Avary,Pulp Fiction,1994
+Woody,Allen,Bullets over Broadway,1994
+Douglas,McGrath,Bullets over Broadway,1994
+Richard,Curtis,Four Weddings and a Funeral,1994
+Peter,Jackson,Heavenly Creatures,1994
+Frances,Walsh,Heavenly Creatures,1994
+Krzysztof,Kieślowski,Three Colours: Red,1994
+Krzysztof,Piesiewicz,Three Colours: Red,1994
+Christopher,McQuarrie,The Usual Suspects,1995
+Randall,Wallace,Braveheart,1995
+Woody,Allen,Mighty Aphrodite,1995
+Stephen,J. Rivele,Nixon,1995
+Oliver,Stone,Nixon,1995
+Christopher,Wilkinson,Nixon,1995
+Joel,Cohen,Toy Story,1995
+Alec,Sokolow,Toy Story,1995
+Andrew,Stanton,Toy Story,1995
+Joss,Whedon,Toy Story,1995
+Pete,Docter,Toy Story,1995
+John,Lasseter,Toy Story,1995
+Joe,Ranft,Toy Story,1995
+Coen,Brothers,Fargo,1996
+Cameron,Crowe,Jerry Maguire,1996
+John,Sayles,Lone Star,1996
+Mike,Leigh,Secrets & Lies,1996
+Jan,Sardi,Shine,1996
+Scott,Hicks,Shine,1996
+Ben,Affleck,Good Will Hunting,1997
+Matt,Damon,Good Will Hunting,1997
+Mark,Andrus,As Good as It Gets,1997
+James,L. Brooks,As Good as It Gets,1997
+Paul,Thomas Anderson,Boogie Nights,1997
+Woody,Allen,Deconstructing Harry,1997
+Simon,Beaufoy,The Full Monty,1997
+Marc,Norman,Shakespeare in Love,1998
+Tom,Stoppard,Shakespeare in Love,1998
+Warren,Beatty,Bulworth,1998
+Jeremy,Pikser,Bulworth,1998
+Roberto,Benigni,Life Is Beautiful,1998
+Vincenzo,Cerami,Life Is Beautiful,1998
+Robert,Rodat,Saving Private Ryan,1998
+Andrew,Niccol,The Truman Show,1998
+Alan,Ball,American Beauty,1999
+Charlie,Kaufman,Being John Malkovich,1999
+Paul,Thomas Anderson,Magnolia,1999
+M.,Night Shyamalan,The Sixth Sense,1999
+Mike,Leigh,Topsy-Turvy,1999
+Cameron,Crowe,Almost Famous,2000
+Lee,Hall,Billy Elliot,2000
+Susannah,Grant,Erin Brockovich,2000
+David,Franzoni,Gladiator,2000
+John,Logan,Gladiator,2000
+William,Nicholson,Gladiator,2000
+Kenneth,Lonergan,You Can Count on Me,2000
+Julian,Fellowes,Gosford Park,2001
+Jean-Pierre,Jeunet,Amélie,2001
+Christopher,Nolan,Memento,2001
+Jonathan,Nolan,Memento,2001
+Wes,Anderson,The Royal Tenenbaums,2001
+Owen,Wilson,The Royal Tenenbaums,2001
+Pedro,Almodóvar,Talk to Her,2002
+Todd,Haynes,Far from Heaven,2002
+Jay,Cocks,Gangs of New York,2002
+Kenneth,Lonergan,Gangs of New York,2002
+Steven,Zaillian,Gangs of New York,2002
+Nia,Vardalos,My Big Fat Greek Wedding,2002
+Alfonso,,Y Tu Mamá También,2002
+Carlos,Cuarón,Y Tu Mamá También,2002
+Sofia,Coppola,Lost in Translation,2003
+Denys,Arcand,The Barbarian Invasions,2003
+Steven,Knight,Dirty Pretty Things,2003
+Bob,Peterson,Finding Nemo,2003
+David,Reynolds,Finding Nemo,2003
+Andrew,Stanton,Finding Nemo,2003
+Jim,,In America,2003
+Kirsten,,In America,2003
+Charlie,Kaufman,Eternal Sunshine of the Spotless Mind,2004
+Pierre,Bismuth,Eternal Sunshine of the Spotless Mind,2004
+Michel,Gondry,Eternal Sunshine of the Spotless Mind,2004
+John,Logan,The Aviator,2004
+Terry,George,Hotel Rwanda,2004
+Keir,Pearson,Hotel Rwanda,2004
+Brad,Bird,The Incredibles,2004
+Mike,Leigh,Vera Drake,2004
+Paul,Haggis,Crash,2005
+Bobby,Moresco,Crash,2005
+George,Clooney,"Good Night, and Good Luck",2005
+Grant,Heslov,"Good Night, and Good Luck",2005
+Woody,Allen,Match Point,2005
+Noah,Baumbach,The Squid and the Whale,2005
+Stephen,Gaghan,Syriana,2005
+Michael,Arndt,Little Miss Sunshine,2006
+Guillermo,Arriaga,Babel,2006
+Iris,Yamashita,Letters from Iwo Jima,2006
+Paul,Haggis,Letters from Iwo Jima,2006
+Guillermo,del Toro,Pan's Labyrinth,2006
+Peter,Morgan,The Queen,2006
+Diablo,Cody,Juno,2007
+Nancy,Oliver,Lars and the Real Girl,2007
+Tony,Gilroy,Michael Clayton,2007
+Brad,Bird,Ratatouille,2007
+Jim,Capobianco,Ratatouille,2007
+Jan,Pinkava,Ratatouille,2007
+Tamara,Jenkins,The Savages,2007
+Dustin,Lance Black,Milk,2008
+Courtney,Hunt,Frozen River,2008
+Mike,Leigh,Happy-Go-Lucky,2008
+Martin,McDonagh,In Bruges,2008
+Jim,Reardon,WALL-E,2008
+Andrew,Stanton,WALL-E,2008
+Pete,Docter,WALL-E,2008
+Mark,Boal,The Hurt Locker,2009
+Quentin,Tarantino,Inglourious Basterds,2009
+Alessandro,Camon,The Messenger,2009
+Oren,Moverman,The Messenger,2009
+Coen,Brothers,A Serious Man,2009
+Pete,Docter,Up,2009
+Bob,Peterson,Up,2009
+Tom,McCarthy,Up,2009
+David,Seidler,The King's Speech,2010
+Mike,Leigh,Another Year,2010
+Scott,Silver,The Fighter,2010
+Christopher,Nolan,Inception,2010
+Stuart,Blumberg,The Kids Are All Right,2010
+Lisa,Cholodenko,The Kids Are All Right,2010
+Woody,Allen,Midnight in Paris,2011
+Michel,Hazanavicius,The Artist,2011
+Annie,Mumolo,Bridesmaids,2011
+Kristen,Wiig,Bridesmaids,2011
+J.,C. Chandor,Margin Call,2011
+Asghar,Farhadi,A Separation,2011
+Quentin,Tarantino,Django Unchained,2012
+Michael,Haneke,Amour,2012
+John,Gatins,Flight,2012
+Wes,Anderson,Moonrise Kingdom,2012
+Roman,Coppola,Moonrise Kingdom,2012
+Mark,Boal,Zero Dark Thirty,2012
+Spike,Jonze,Her,2013
+David,O. Russell,American Hustle,2013
+Eric,Warren Singer,American Hustle,2013
+Woody,Allen,Blue Jasmine,2013
+Craig,Borten,Dallas Buyers Club,2013
+Melisa,Wallack,Dallas Buyers Club,2013
+Bob,Nelson,Nebraska,2013
+Armando,Bo,Birdman,2014
+Alexander,Dinelaris Jr.,Birdman,2014
+Nicolás,Giacobone,Birdman,2014
+Alejandro,G. Iñárritu,Birdman,2014
+Richard,Linklater,Boyhood,2014
+E.,Max Frye,Foxcatcher,2014
+Dan,Futterman,Foxcatcher,2014
+Wes,Anderson,The Grand Budapest Hotel,2014
+Hugo,Guinness,The Grand Budapest Hotel,2014
+Dan,Gilroy,Nightcrawler,2014
+Josh,Singer,Spotlight,2015
+Tom,McCarthy,Spotlight,2015
+Matt,Charman,Bridge of Spies,2015
+Coen,Brothers,Bridge of Spies,2015
+Alex,Garland,Ex Machina,2015
+Josh,Cooley,Inside Out,2015
+Pete,Docter,Inside Out,2015
+Meg,LeFauve,Inside Out,2015
+Ronnie,del Carmen,Inside Out,2015
+Andrea,Berloff,Straight Outta Compton,2015
+Jonathan,Herman,Straight Outta Compton,2015
+S.,Leigh Savidge,Straight Outta Compton,2015
+Alan,Wenkus,Straight Outta Compton,2015
+Kenneth,Lonergan,Manchester by the Sea,2016
+Taylor,Sheridan,Hell or High Water,2016
+Damien,Chazelle,La La Land,2016
+Efthimis,Filippou,The Lobster,2016
+Yorgos,Lanthimos,The Lobster,2016
+Mike,Mills,20th Century Women,2016
+Jordan,Peele,Get Out,2017
+Emily,V. Gordon,The Big Sick,2017
+Kumail,Nanjiani,The Big Sick,2017
+Greta,Gerwig,Lady Bird,2017
+Guillermo,del Toro,The Shape of Water,2017
+Vanessa,Taylor,The Shape of Water,2017
+Martin,McDonagh,"Three Billboards Outside Ebbing, Missouri",2017
+Peter,Farrelly,Green Book,2018
+Nick,Vallelonga,Green Book,2018
+Tony,McNamara,The Favourite,2018
+Paul,Schrader,First Reformed,2018
+Alfonso,Cuarón,Roma,2018
+Adam,McKay,Vice,2018
+Bong,Joon-ho,Parasite,2019
+Han,Jin-won,Parasite,2019
+Rian,Johnson,Knives Out,2019
+Noah,Baumbach,Marriage Story,2019
+Sam,Mendes,1917,2019
+Krysty,Wilson-Cairns,1917,2019
+Quentin,Tarantino,Once Upon a Time in Hollywood,2019
+Emerald,Fennell,Promising Young Woman,2020
+Will,Berson,Judas and the Black Messiah,2020
+Shaka,King,Judas and the Black Messiah,2020
+Keith,,Judas and the Black Messiah,2020
+Kenny,Lucas,Judas and the Black Messiah,2020
+Lee,Isaac Chung,Minari,2020
+Darius,Marder,Sound of Metal,2020
+Derek,Cianfrance,Sound of Metal,2020
+Aaron,Sorkin,The Trial of the Chicago 7,2020
+Kenneth,Branagh,Belfast,2021
+Adam,McKay,Don't Look Up,2021
+David,Sirota,Don't Look Up,2021
+Zach,Baylin,King Richard,2021
+Paul,Thomas Anderson,Licorice Pizza,2021
+Joachim,Trier,The Worst Person in the World,2021
+Eskil,Vogt,The Worst Person in the World,2021
+Daniel,Kwan and Daniel Scheinert,Everything Everywhere All at Once,2022
+Martin,McDonagh,The Banshees of Inisherin,2022
+Tony,Kushner,The Fabelmans,2022
+Steven,Spielberg,The Fabelmans,2022
+Todd,Field,Tár,2022
+Ruben,Östlund,Triangle of Sadness,2022
+Arthur,Harari,Anatomy of a Fall,2023
+Justine,Triet,Anatomy of a Fall,2023
+David,Hemingson,The Holdovers,2023
+Bradley,Cooper,Maestro,2023
+Josh,Singer,Maestro,2023
+Samy,Burch,May December,2023
+Alex,Mechanik,May December,2023
+Celine,Song,Past Lives,2023
+Sean,Baker,Anora,2024
+Brady,Corbet,The Brutalist,2024
+Mona,Fastvold,The Brutalist,2024
+Jesse,Eisenberg,A Real Pain,2024
+Moritz,Binder,September 5,2024
+Tim,Fehlbaum,September 5,2024
+Coralie,Fargeat,The Substance,2024

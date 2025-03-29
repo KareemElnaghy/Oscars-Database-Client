@@ -1,0 +1,1452 @@
+firstName,lastName,movieTitle,releaseYear,categoryName,iteration,isWinner
+Douglas,Shearer,The Big House,1929,Best Sound,3rd,yes
+John,Tribby,The Case of Sergeant Grischa,1929,Best Sound,3rd,no
+Franklin,B. Hansen,The Love Parade,1929,Best Sound,3rd,no
+Oscar,Lagerstrom,Raffles,1929,Best Sound,3rd,no
+George,Groves,Song of the Flame,1929,Best Sound,3rd,no
+Franklin,B. Hansen,A Farewell to Arms,1932,Best Sound,6th,yes
+Nathan,Levinson,42nd Street,1932,Best Sound,6th,no
+Nathan,Levinson,Gold Diggers of 1933,1932,Best Sound,6th,no
+Nathan,Levinson,I Am a Fugitive from a Chain Gang,1932,Best Sound,6th,no
+John,P. Livadary,One Night of Love,1934,Best Sound,7th,yes
+Thomas,T. Moulton,The Affairs of Cellini,1934,Best Sound,7th,no
+Franklin,B. Hansen,Cleopatra,1934,Best Sound,7th,no
+Nathan,Levinson,Flirtation Walk,1934,Best Sound,7th,no
+Carl,Dreher,The Gay Divorcee,1934,Best Sound,7th,no
+Theodore,Soderberg,Imitation of Life,1934,Best Sound,7th,no
+Douglas,Shearer,Viva Villa!,1934,Best Sound,7th,no
+Edmund,H. Hansen,The White Parade,1934,Best Sound,7th,no
+Douglas,Shearer,Naughty Marietta,1935,Best Sound,8th,yes
+Gilbert,Kurland,Bride of Frankenstein,1935,Best Sound,8th,no
+Nathan,Levinson,Captain Blood,1935,Best Sound,8th,no
+Thomas,T. Moulton,The Dark Angel,1935,Best Sound,8th,no
+Carl,Dreher,I Dream Too Much,1935,Best Sound,8th,no
+Franklin,B. Hansen,The Lives of a Bengal Lancer,1935,Best Sound,8th,no
+John,P. Livadary,Love Me Forever,1935,Best Sound,8th,no
+Edmund,H. Hansen,Thanks a Million,1935,Best Sound,8th,no
+Douglas,Shearer,San Francisco,1936,Best Sound,9th,yes
+Edmund,H. Hansen,Banjo on My Knee,1936,Best Sound,9th,no
+Nathan,Levinson,The Charge of the Light Brigade,1936,Best Sound,9th,no
+Thomas,T. Moulton,Dodsworth,1936,Best Sound,9th,no
+Elmer,A. Raguse,General Spanky,1936,Best Sound,9th,no
+John,P. Livadary,Mr. Deeds Goes to Town,1936,Best Sound,9th,no
+Franklin,B. Hansen,The Texas Rangers,1936,Best Sound,9th,no
+John,Aalberg,That Girl from Paris,1936,Best Sound,9th,no
+Homer,G. Tasker,Three Smart Girls,1936,Best Sound,9th,no
+Thomas,T. Moulton,The Hurricane,1937,Best Sound,10th,yes
+A.,E. Kaye,The Girl Said No,1937,Best Sound,10th,no
+John,O. Aalberg,Hitting a New High,1937,Best Sound,10th,no
+Edmund,H. Hansen,In Old Chicago,1937,Best Sound,10th,no
+Nathan,Levinson,The Life of Emile Zola,1937,Best Sound,10th,no
+John,P. Livadary,Lost Horizon,1937,Best Sound,10th,no
+Douglas,Shearer,Maytime,1937,Best Sound,10th,no
+Homer,G. Tasker,One Hundred Men and a Girl,1937,Best Sound,10th,no
+Elmer,A. Raguse,Topper,1937,Best Sound,10th,no
+Loren,L. Ryder,Wells Fargo,1937,Best Sound,10th,no
+Thomas,T. Moulton,The Cowboy and the Lady,1938,Best Sound,11th,yes
+Charles,L. Lootens,Army Girl,1938,Best Sound,11th,no
+Nathan,Levinson,Four Daughters,1938,Best Sound,11th,no
+Loren,L. Ryder,If I Were King,1938,Best Sound,11th,no
+Elmer,A. Raguse,Merrily We Live,1938,Best Sound,11th,no
+Edmund,H. Hansen,Suez,1938,Best Sound,11th,no
+Douglas,Shearer,Sweethearts,1938,Best Sound,11th,no
+Bernard,B. Brown,That Certain Age,1938,Best Sound,11th,no
+John,O. Aalberg,Vivacious Lady,1938,Best Sound,11th,no
+John,P. Livadary,You Can't Take It with You,1938,Best Sound,11th,no
+Bernard,B. Brown,When Tomorrow Comes,1939,Best Sound,12th,yes
+Douglas,Shearer,Balalaika,1939,Best Sound,12th,no
+Thomas,T. Moulton,Gone with the Wind,1939,Best Sound,12th,no
+A.,W. Watkins,"Goodbye, Mr. Chips",1939,Best Sound,12th,no
+Loren,L. Ryder,The Great Victor Herbert,1939,Best Sound,12th,no
+John,O. Aalberg,The Hunchback of Notre Dame,1939,Best Sound,12th,no
+Charles,L. Lootens,Man of Conquest,1939,Best Sound,12th,no
+John,P. Livadary,Mr. Smith Goes to Washington,1939,Best Sound,12th,no
+Elmer,A. Raguse,Of Mice and Men,1939,Best Sound,12th,no
+Nathan,Levinson,The Private Lives of Elizabeth and Essex,1939,Best Sound,12th,no
+Edmund,H. Hansen,The Rains Came,1939,Best Sound,12th,no
+Douglas,Shearer,Strike Up the Band,1940,Best Sound,13th,yes
+Charles,L. Lootens,Behind the News,1940,Best Sound,13th,no
+Elmer,A. Raguse,Captain Caution,1940,Best Sound,13th,no
+Edmund,H. Hansen,The Grapes of Wrath,1940,Best Sound,13th,no
+Jack,Whitney,The Howards of Virginia,1940,Best Sound,13th,no
+John,Aalberg,Kitty Foyle,1940,Best Sound,13th,no
+Loren,L. Ryder,North West Mounted Police,1940,Best Sound,13th,no
+Thomas,T. Moulton,Our Town,1940,Best Sound,13th,no
+Nathan,Levinson,The Sea Hawk,1940,Best Sound,13th,no
+Bernard,B. Brown,Spring Parade,1940,Best Sound,13th,no
+John,P. Livadary,Too Many Husbands,1940,Best Sound,13th,no
+Jack,Whitney,That Hamilton Woman,1941,Best Sound,14th,yes
+Bernard,B. Brown,Appointment for Love,1941,Best Sound,14th,no
+Thomas,T. Moulton,Ball of Fire,1941,Best Sound,14th,no
+Douglas,Shearer,The Chocolate Soldier,1941,Best Sound,14th,no
+John,O. Aalberg,Citizen Kane,1941,Best Sound,14th,no
+Charles,L. Lootens,The Devil Pays Off,1941,Best Sound,14th,no
+Edmund,H. Hansen,How Green Was My Valley,1941,Best Sound,14th,no
+John,P. Livadary,The Men in Her Life,1941,Best Sound,14th,no
+Nathan,Levinson,Sergeant York,1941,Best Sound,14th,no
+Loren,L. Ryder,Skylark,1941,Best Sound,14th,no
+Elmer,A. Raguse,Topper Returns,1941,Best Sound,14th,no
+Nathan,Levinson,Yankee Doodle Dandy,1942,Best Sound,15th,yes
+Bernard,B. Brown,Arabian Nights,1942,Best Sound,15th,no
+Sam,Slyfield,Bambi,1942,Best Sound,15th,no
+Daniel,J. Bloomberg,Flying Tigers,1942,Best Sound,15th,no
+Jack,Whitney,Friendly Enemies,1942,Best Sound,15th,no
+James,L. Fields,The Gold Rush,1942,Best Sound,15th,no
+Douglas,Shearer,Mrs. Miniver,1942,Best Sound,15th,no
+Steve,Dunn,Once Upon a Honeymoon,1942,Best Sound,15th,no
+Thomas,T. Moulton,The Pride of the Yankees,1942,Best Sound,15th,no
+Loren,L. Ryder,Road to Morocco,1942,Best Sound,15th,no
+Edmund,H. Hansen,This Above All,1942,Best Sound,15th,no
+John,P. Livadary,You Were Never Lovelier,1942,Best Sound,15th,no
+Steve,Dunn,This Land Is Mine,1943,Best Sound,16th,yes
+Jack,Whitney,Hangmen Also Die!,1943,Best Sound,16th,no
+Daniel,J. Bloomberg,In Old Oklahoma,1943,Best Sound,16th,no
+Douglas,Shearer,Madame Curie,1943,Best Sound,16th,no
+Thomas,T. Moulton,The North Star,1943,Best Sound,16th,no
+Bernard,B. Brown,Phantom of the Opera,1943,Best Sound,16th,no
+Loren,L. Ryder,Riding High,1943,Best Sound,16th,no
+John,P. Livadary,Sahara,1943,Best Sound,16th,no
+Sam,Slyfield,Saludos Amigos,1943,Best Sound,16th,no
+James,L. Fields,So This Is Washington,1943,Best Sound,16th,no
+Edmund,H. Hansen,The Song of Bernadette,1943,Best Sound,16th,no
+Nathan,Levinson,This Is the Army,1943,Best Sound,16th,no
+Edmund,H. Hansen,Wilson,1944,Best Sound,17th,yes
+Daniel,J. Bloomberg,Brazil,1944,Best Sound,17th,no
+Thomas,T. Moulton,Casanova Brown,1944,Best Sound,17th,no
+John,P. Livadary,Cover Girl,1944,Best Sound,17th,no
+Loren,L. Ryder,Double Indemnity,1944,Best Sound,17th,no
+Bernard,B. Brown,His Butler's Sister,1944,Best Sound,17th,no
+Nathan,Levinson,Hollywood Canteen,1944,Best Sound,17th,no
+Jack,Whitney,It Happened Tomorrow,1944,Best Sound,17th,no
+Douglas,Shearer,Kismet,1944,Best Sound,17th,no
+Steve,Dunn,Music in Manhattan,1944,Best Sound,17th,no
+Mac,Dalgleish,Voice in the Wind,1944,Best Sound,17th,no
+Steve,Dunn,The Bells of St. Mary's,1945,Best Sound,18th,yes
+Daniel,J. Bloomberg,Flame of Barbary Coast,1945,Best Sound,18th,no
+Bernard,B. Brown,Lady on a Train,1945,Best Sound,18th,no
+Thomas,T. Moulton,Leave Her to Heaven,1945,Best Sound,18th,no
+Nathan,Levinson,Rhapsody in Blue,1945,Best Sound,18th,no
+John,P. Livadary,A Song to Remember,1945,Best Sound,18th,no
+Jack,Whitney,The Southerner,1945,Best Sound,18th,no
+Douglas,Shearer,They Were Expendable,1945,Best Sound,18th,no
+Sam,Slyfield,The Three Caballeros,1945,Best Sound,18th,no
+W.,V. Wolfe,Three Is a Family,1945,Best Sound,18th,no
+Loren,L. Ryder,The Unseen,1945,Best Sound,18th,no
+Gordon,E. Sawyer,Wonder Man,1945,Best Sound,18th,no
+John,P. Livadary,The Jolson Story,1946,Best Sound,19th,yes
+Gordon,E. Sawyer,The Best Years of Our Lives,1946,Best Sound,19th,no
+John,Aalberg,It's a Wonderful Life,1946,Best Sound,19th,no
+Gordon,E. Sawyer,The Bishop's Wife,1947,Best Sound,20th,yes
+Douglas,Shearer,Green Dolphin Street,1947,Best Sound,20th,no
+Jack,Whitney,T-Men,1947,Best Sound,20th,no
+Thomas,T. Moulton,The Snake Pit,1948,Best Sound,21st,yes
+Col.,Nathan Levinson,Johnny Belinda,1948,Best Sound,21st,no
+Daniel,J. Bloomberg,Moonrise,1948,Best Sound,21st,no
+Thomas,T. Moulton,Twelve O'Clock High,1949,Best Sound,22nd,yes
+Leslie,I. Carey,"Once More, My Darling",1949,Best Sound,22nd,no
+Daniel,J. Bloomberg,Sands of Iwo Jima,1949,Best Sound,22nd,no
+Thomas,T. Moulton,All About Eve,1950,Best Sound,23rd,yes
+C.O.,Slyfield,Cinderella,1950,Best Sound,23rd,no
+Leslie,I. Carey,Louisa,1950,Best Sound,23rd,no
+Gordon,E. Sawyer,Our Very Own,1950,Best Sound,23rd,no
+Cyril,Crowhurst,Trio,1950,Best Sound,23rd,no
+Douglas,Shearer,The Great Caruso,1951,Best Sound,24th,yes
+Leslie,I. Carey,Bright Victory,1951,Best Sound,24th,no
+Gordon,E. Sawyer,I Want You,1951,Best Sound,24th,no
+Col.,Nathan Levinson,A Streetcar Named Desire,1951,Best Sound,24th,no
+John,O. Aalberg,Two Tickets to Broadway,1951,Best Sound,24th,no
+Gordon,E. Sawyer,Hans Christian Andersen,1952,Best Sound,25th,no
+Daniel,J. Bloomberg,The Quiet Man,1952,Best Sound,25th,no
+Thomas,T. Moulton,With a Song in My Heart,1952,Best Sound,25th,no
+John,P. Livadary,From Here to Eternity,1953,Best Sound,26th,yes
+William,A. Mueller,Calamity Jane,1953,Best Sound,26th,no
+A.,W. Watkins,Knights of the Round Table,1953,Best Sound,26th,no
+Leslie,I. Carey,The Mississippi Gambler,1953,Best Sound,26th,no
+Loren,L. Ryder,The War of the Worlds,1953,Best Sound,26th,no
+Leslie,I. Carey,The Glenn Miller Story,1954,Best Sound,27th,yes
+Wesley,C. Miller,Brigadoon,1954,Best Sound,27th,no
+John,P. Livadary,The Caine Mutiny,1954,Best Sound,27th,no
+Loren,L. Ryder,Rear Window,1954,Best Sound,27th,no
+John,O. Aalberg,Susan Slept Here,1954,Best Sound,27th,no
+Fred,Hynes,Oklahoma!,1955,Best Sound,28th,yes
+Carlton,W. Faulkner,Love Is a Many-Splendored Thing,1955,Best Sound,28th,no
+Wesley,C. Miller,Love Me or Leave Me,1955,Best Sound,28th,no
+William,A. Mueller,Mister Roberts,1955,Best Sound,28th,no
+Watson,Jones,Not as a Stranger,1955,Best Sound,28th,no
+Carlton,W. Faulkner,The King and I,1956,Best Sound,29th,yes
+Buddy,Myers,The Brave One,1956,Best Sound,29th,no
+John,P. Livadary,The Eddy Duchin Story,1956,Best Sound,29th,no
+Gordon,R. Glennan,Friendly Persuasion,1956,Best Sound,29th,no
+Gordon,E. Sawyer,Friendly Persuasion,1956,Best Sound,29th,no
+Loren,L. Ryder,The Ten Commandments,1956,Best Sound,29th,no
+George,Groves,Sayonara,1957,Best Sound,30th,yes
+George,Dutton,Gunfight at the O.K. Corral,1957,Best Sound,30th,no
+Wesley,C. Miller,Les Girls,1957,Best Sound,30th,no
+John,P. Livadary,Pal Joey,1957,Best Sound,30th,no
+Gordon,E. Sawyer,Witness for the Prosecution,1957,Best Sound,30th,no
+Fred,Hynes,South Pacific,1958,Best Sound,31st,yes
+Gordon,E. Sawyer,I Want to Live!,1958,Best Sound,31st,no
+Leslie,I. Carey,A Time to Love and a Time to Die,1958,Best Sound,31st,no
+George,Dutton,Vertigo,1958,Best Sound,31st,no
+Carl,Faulkner,The Young Lions,1958,Best Sound,31st,no
+Franklin,E. Milton,Ben-Hur,1959,Best Sound,32nd,yes
+Carlton,W. Faulkner,Journey to the Center of the Earth,1959,Best Sound,32nd,no
+A.,W. Watkins,Libel,1959,Best Sound,32nd,no
+George,Groves,The Nun's Story,1959,Best Sound,32nd,no
+Gordon,E. Sawyer,Porgy and Bess,1959,Best Sound,32nd,no
+Fred,Hynes,Porgy and Bess,1959,Best Sound,32nd,no
+Fred,Hynes,The Alamo,1960,Best Sound,33rd,yes
+Gordon,E. Sawyer,The Alamo,1960,Best Sound,33rd,yes
+Gordon,E. Sawyer,The Apartment,1960,Best Sound,33rd,no
+Franklin,E. Milton,Cimarron,1960,Best Sound,33rd,no
+Charles,Rice,Pepe,1960,Best Sound,33rd,no
+George,R. Groves,Sunrise at Campobello,1960,Best Sound,33rd,no
+Fred,Hynes,West Side Story,1961,Best Sound,34th,yes
+Gordon,E. Sawyer,West Side Story,1961,Best Sound,34th,yes
+Gordon,E. Sawyer,The Children's Hour,1961,Best Sound,34th,no
+Waldon,O. Watson,Flower Drum Song,1961,Best Sound,34th,no
+John,Cox,The Guns of Navarone,1961,Best Sound,34th,no
+Robert,O. Cook,The Parent Trap,1961,Best Sound,34th,no
+John,Cox,Lawrence of Arabia,1962,Best Sound,35th,yes
+Robert,O. Cook,Bon Voyage!,1962,Best Sound,35th,no
+George,Groves,The Music Man,1962,Best Sound,35th,no
+Waldon,O. Watson,That Touch of Mink,1962,Best Sound,35th,no
+Joseph,D. Kelly,What Ever Happened to Baby Jane?,1962,Best Sound,35th,no
+Franklin,E. Milton,How the West Was Won,1963,Best Sound,36th,yes
+Charles,Rice,Bye Bye Birdie,1963,Best Sound,36th,no
+Waldon,O. Watson,"Captain Newman, M.D.",1963,Best Sound,36th,no
+James,P. Corcoran,Cleopatra,1963,Best Sound,36th,no
+Fred,Hynes,Cleopatra,1963,Best Sound,36th,no
+Gordon,E. Sawyer,"It's a Mad, Mad, Mad, Mad World",1963,Best Sound,36th,no
+Walter,Elliott,"It's a Mad, Mad, Mad, Mad World",1963,Best Sound,36th,yes
+Robert,Bratton,A Gathering of Eagles,1963,Best Sound,36th,no
+George,R. Groves,My Fair Lady,1964,Best Sound,37th,yes
+John,Cox,Becket,1964,Best Sound,37th,no
+Waldon,O. Watson,Father Goose,1964,Best Sound,37th,no
+Robert,O. Cook,Mary Poppins,1964,Best Sound,37th,no
+Franklin,E. Milton,The Unsinkable Molly Brown,1964,Best Sound,37th,no
+Norman,Wanstall,Goldfinger,1964,Best Sound,37th,yes
+Robert,Bratton,The Lively Set,1964,Best Sound,37th,no
+James,P. Corcoran,The Sound of Music,1965,Best Sound,38th,yes
+Fred,Hynes,The Sound of Music,1965,Best Sound,38th,yes
+James,P. Corcoran,The Agony and the Ecstasy,1965,Best Sound,38th,no
+A.,W. Watkins,Doctor Zhivago,1965,Best Sound,38th,no
+Franklin,E. Milton,Doctor Zhivago,1965,Best Sound,38th,no
+George,R. Groves,The Great Race,1965,Best Sound,38th,no
+Waldon,O. Watson,Shenandoah,1965,Best Sound,38th,no
+Treg,Brown,The Great Race,1965,Best Sound,38th,yes
+Walter,Rossi,Von Ryan's Express,1965,Best Sound,38th,no
+Franklin,E. Milton,Grand Prix,1966,Best Sound,39th,yes
+Waldon,O. Watson,Gambit,1966,Best Sound,39th,no
+Gordon,E. Sawyer,Hawaii,1966,Best Sound,39th,no
+James,P. Corcoran,The Sand Pebbles,1966,Best Sound,39th,no
+George,Groves,Who's Afraid of Virginia Woolf?,1966,Best Sound,39th,no
+Gordon,Daniel,Grand Prix,1966,Best Sound,39th,yes
+Walter,Rossi,Fantastic Voyage,1966,Best Sound,39th,no
+John,Poyner,The Dirty Dozen,1967,Best Sound,40th,yes
+James,Richard,In the Heat of the Night,1967,Best Sound,40th,no
+Jack,Solomon,"Hello, Dolly!",1969,Best Sound,42nd,yes
+Murray,Spivack,"Hello, Dolly!",1969,Best Sound,42nd,yes
+John,Aldred,Anne of the Thousand Days,1969,Best Sound,42nd,no
+William,Edmondson,Butch Cassidy and the Sundance Kid,1969,Best Sound,42nd,no
+David,Dockendorf,Butch Cassidy and the Sundance Kid,1969,Best Sound,42nd,no
+Robert,Martin,"Gaily, Gaily",1969,Best Sound,42nd,no
+Clem,Portman,"Gaily, Gaily",1969,Best Sound,42nd,no
+Les,Fresholtz,Marooned,1969,Best Sound,42nd,no
+Arthur,Piantadosi,Marooned,1969,Best Sound,42nd,no
+Douglas,Williams,Patton,1970,Best Sound,43rd,yes
+Don,Bassman,Patton,1970,Best Sound,43rd,yes
+Ronald,Pierce,Airport,1970,Best Sound,43rd,no
+David,H. Moriarty,Airport,1970,Best Sound,43rd,no
+Gordon,McCallum,Ryan's Daughter,1970,Best Sound,43rd,no
+John,Bramall,Ryan's Daughter,1970,Best Sound,43rd,no
+Murray,Spivack,Tora! Tora! Tora!,1970,Best Sound,43rd,no
+Herman,Lewis,Tora! Tora! Tora!,1970,Best Sound,43rd,no
+Dan,Wallin,Woodstock,1970,Best Sound,43rd,no
+L.,A. Johnson,Woodstock,1970,Best Sound,43rd,no
+Gordon,McCallum,Fiddler on the Roof,1971,Best Sound,44th,yes
+David,Hildyard,Fiddler on the Roof,1971,Best Sound,44th,yes
+Gordon,McCallum,Diamonds Are Forever,1971,Best Sound,44th,no
+John,W. Mitchell,Diamonds Are Forever,1971,Best Sound,44th,no
+Al,Overton,Diamonds Are Forever,1971,Best Sound,44th,no
+Theodore,Soderberg,The French Connection,1971,Best Sound,44th,no
+Christopher,Newman,The French Connection,1971,Best Sound,44th,no
+Richard,Portman,Kotch,1971,Best Sound,44th,no
+Jack,Solomon,Kotch,1971,Best Sound,44th,no
+Bob,Jones,"Mary, Queen of Scots",1971,Best Sound,44th,no
+John,Aldred,"Mary, Queen of Scots",1971,Best Sound,44th,no
+Robert,Knudson,Cabaret,1972,Best Sound,45th,yes
+David,Hildyard,Cabaret,1972,Best Sound,45th,yes
+Arthur,Piantadosi,Butterflies Are Free,1972,Best Sound,45th,no
+Charles,T. Knight,Butterflies Are Free,1972,Best Sound,45th,no
+Richard,Portman,The Candidate,1972,Best Sound,45th,no
+Gene,Cantamessa,The Candidate,1972,Best Sound,45th,no
+Charles,Grenzbach,The Godfather,1972,Best Sound,45th,no
+Richard,Portman,The Godfather,1972,Best Sound,45th,no
+Christopher,Newman,The Godfather,1972,Best Sound,45th,no
+Theodore,Soderberg,The Poseidon Adventure,1972,Best Sound,45th,no
+Herman,Lewis,The Poseidon Adventure,1972,Best Sound,45th,no
+Robert,Knudson,The Exorcist,1973,Best Sound,46th,yes
+Christopher,Newman,The Exorcist,1973,Best Sound,46th,yes
+Richard,Portman,The Day of the Dolphin,1973,Best Sound,46th,no
+Larry,Jost,The Day of the Dolphin,1973,Best Sound,46th,no
+Donald,O. Mitchell,The Paper Chase,1973,Best Sound,46th,no
+Larry,Jost,The Paper Chase,1973,Best Sound,46th,no
+Richard,Portman,Paper Moon,1973,Best Sound,46th,no
+Les,Fresholtz,Paper Moon,1973,Best Sound,46th,no
+Ronald,Pierce,The Sting,1973,Best Sound,46th,no
+Robert,R. Bertrand,The Sting,1973,Best Sound,46th,no
+Ronald,Pierce,Earthquake,1974,Best Sound,47th,yes
+Melvin,Metcalfe Sr.,Earthquake,1974,Best Sound,47th,yes
+Charles,Grenzbach,Chinatown,1974,Best Sound,47th,no
+Larry,Jost,Chinatown,1974,Best Sound,47th,no
+Walter,Murch,The Conversation,1974,Best Sound,47th,no
+Art,Rochester,The Conversation,1974,Best Sound,47th,no
+Theodore,Soderberg,The Towering Inferno,1974,Best Sound,47th,no
+Herman,Lewis,The Towering Inferno,1974,Best Sound,47th,no
+Richard,Portman,Young Frankenstein,1974,Best Sound,47th,no
+Gene,Cantamessa,Young Frankenstein,1974,Best Sound,47th,no
+Robert,Hoyt,Jaws,1974,Best Sound,47th,yes
+Roger,Heman Jr.,Jaws,1974,Best Sound,47th,yes
+Earl,Madery,Jaws,1974,Best Sound,47th,yes
+John,Carter,Jaws,1974,Best Sound,47th,yes
+Arthur,Piantadosi,Bite the Bullet,1974,Best Sound,47th,no
+Les,Fresholtz,Bite the Bullet,1974,Best Sound,47th,no
+Richard,Tyler,Bite the Bullet,1974,Best Sound,47th,no
+Al,Overton Jr.,Bite the Bullet,1974,Best Sound,47th,no
+Richard,Portman,Funny Lady,1974,Best Sound,47th,no
+Don,MacDougall,Funny Lady,1974,Best Sound,47th,no
+Curly,Thirlwell,Funny Lady,1974,Best Sound,47th,no
+Jack,Solomon,Funny Lady,1974,Best Sound,47th,no
+Leonard,Peterson,The Hindenburg,1974,Best Sound,47th,no
+John,A. Bolger Jr.,The Hindenburg,1974,Best Sound,47th,no
+John,L. Mack,The Hindenburg,1974,Best Sound,47th,no
+Don,Sharpless,The Hindenburg,1974,Best Sound,47th,no
+Harry,W. Tetrick,The Wind and the Lion,1974,Best Sound,47th,no
+Aaron,Rochin,The Wind and the Lion,1974,Best Sound,47th,no
+William,McCaughey,The Wind and the Lion,1974,Best Sound,47th,no
+Roy,Charman,The Wind and the Lion,1974,Best Sound,47th,no
+Peter,Berkos,The Hindenburg,1974,Best Sound,47th,yes
+Arthur,Piantadosi,All the President's Men,1974,Best Sound,47th,yes
+Les,Fresholtz,All the President's Men,1974,Best Sound,47th,yes
+Dick,Alexander,All the President's Men,1974,Best Sound,47th,yes
+Jim,Webb,All the President's Men,1974,Best Sound,47th,yes
+Harry,W. Tetrick,King Kong,1974,Best Sound,47th,no
+William,McCaughey,King Kong,1974,Best Sound,47th,no
+Aaron,Rochin,King Kong,1974,Best Sound,47th,no
+Jack,Solomon,King Kong,1974,Best Sound,47th,no
+Harry,W. Tetrick,Rocky,1974,Best Sound,47th,no
+William,McCaughey,Rocky,1974,Best Sound,47th,no
+Lyle,J. Burbridge,Rocky,1974,Best Sound,47th,no
+Bud,Alper,Rocky,1974,Best Sound,47th,no
+Donald,O. Mitchell,Silver Streak,1974,Best Sound,47th,no
+Douglas,Williams,Silver Streak,1974,Best Sound,47th,no
+Richard,Tyler,Silver Streak,1974,Best Sound,47th,no
+Harold,M. Etherington,Silver Streak,1974,Best Sound,47th,no
+Robert,Knudson,A Star Is Born,1974,Best Sound,47th,no
+Dan,Wallin,A Star Is Born,1974,Best Sound,47th,no
+Robert,Glass,A Star Is Born,1974,Best Sound,47th,no
+Tom,Overton,A Star Is Born,1974,Best Sound,47th,no
+Don,MacDougall,Star Wars,1974,Best Sound,47th,yes
+Ray,West,Star Wars,1974,Best Sound,47th,yes
+Bob,Minkler,Star Wars,1974,Best Sound,47th,yes
+Derek,Ball,Star Wars,1974,Best Sound,47th,yes
+Robert,Knudson,Close Encounters of the Third Kind,1974,Best Sound,47th,no
+Robert,Glass,Close Encounters of the Third Kind,1974,Best Sound,47th,no
+Don,MacDougall,Close Encounters of the Third Kind,1974,Best Sound,47th,no
+Gene,Cantamessa,Close Encounters of the Third Kind,1974,Best Sound,47th,no
+Walter,Goss,The Deep,1974,Best Sound,47th,no
+Dick,Alexander,The Deep,1974,Best Sound,47th,no
+Tom,Beckert,The Deep,1974,Best Sound,47th,no
+Robin,Gregory,The Deep,1974,Best Sound,47th,no
+Robert,Knudson,Sorcerer,1974,Best Sound,47th,no
+Robert,Glass,Sorcerer,1974,Best Sound,47th,no
+Richard,Tyler,Sorcerer,1974,Best Sound,47th,no
+Jean-Louis,Ducarme,Sorcerer,1974,Best Sound,47th,no
+Theodore,Soderberg,The Turning Point,1974,Best Sound,47th,no
+Paul,Wells,The Turning Point,1974,Best Sound,47th,no
+Douglas,Williams,The Turning Point,1974,Best Sound,47th,no
+Jerry,Jost,The Turning Point,1974,Best Sound,47th,no
+Frank,E. Warner,Close Encounters of the Third Kind,1974,Best Sound,47th,yes
+Richard,Portman,The Deer Hunter,1974,Best Sound,47th,yes
+William,McCaughey,The Deer Hunter,1974,Best Sound,47th,yes
+Aaron,Rochin,The Deer Hunter,1974,Best Sound,47th,yes
+Darin,Knight,The Deer Hunter,1974,Best Sound,47th,yes
+Tex,Rudloff,The Buddy Holly Story,1974,Best Sound,47th,no
+Joel,Fein,The Buddy Holly Story,1974,Best Sound,47th,no
+Curly,Thirlwell,The Buddy Holly Story,1974,Best Sound,47th,no
+Willie,D. Burton,The Buddy Holly Story,1974,Best Sound,47th,no
+John,Wilkinson,Days of Heaven,1974,Best Sound,47th,no
+Robert,W. Glass Jr.,Days of Heaven,1974,Best Sound,47th,no
+John,T. Reitz,Days of Heaven,1974,Best Sound,47th,no
+Barry,Thomas,Days of Heaven,1974,Best Sound,47th,no
+Robert,Knudson,Hooper,1974,Best Sound,47th,no
+Robert,Glass,Hooper,1974,Best Sound,47th,no
+Don,MacDougall,Hooper,1974,Best Sound,47th,no
+Jack,Solomon,Hooper,1974,Best Sound,47th,no
+Gordon,McCallum,Superman,1974,Best Sound,47th,no
+Graham,V. Hartstone,Superman,1974,Best Sound,47th,no
+Nicolas,Le Messurier,Superman,1974,Best Sound,47th,no
+Roy,Charman,Superman,1974,Best Sound,47th,no
+Walter,Murch,Apocalypse Now,1974,Best Sound,47th,yes
+Mark,Berger,Apocalypse Now,1974,Best Sound,47th,yes
+Richard,Beggs,Apocalypse Now,1974,Best Sound,47th,yes
+Nat,Boxer,Apocalypse Now,1974,Best Sound,47th,yes
+Arthur,Piantadosi,The Electric Horseman,1974,Best Sound,47th,no
+Les,Fresholtz,The Electric Horseman,1974,Best Sound,47th,no
+Michael,Minkler,The Electric Horseman,1974,Best Sound,47th,no
+Al,Overton Jr.,The Electric Horseman,1974,Best Sound,47th,no
+William,McCaughey,Meteor,1974,Best Sound,47th,no
+Aaron,Rochin,Meteor,1974,Best Sound,47th,no
+Michael,J. Kohut,Meteor,1974,Best Sound,47th,no
+Jack,Solomon,Meteor,1974,Best Sound,47th,no
+Robert,Knudson,1941,1974,Best Sound,47th,no
+Robert,Glass,1941,1974,Best Sound,47th,no
+Don,MacDougall,1941,1974,Best Sound,47th,no
+Gene,Cantamessa,1941,1974,Best Sound,47th,no
+Theodore,Soderberg,The Rose,1974,Best Sound,47th,no
+Douglas,Williams,The Rose,1974,Best Sound,47th,no
+Paul,Wells,The Rose,1974,Best Sound,47th,no
+Jim,Webb,The Rose,1974,Best Sound,47th,no
+Alan,Splet,The Black Stallion,1974,Best Sound,47th,yes
+Bill,Varney,The Empire Strikes Back,1980,Best Sound,53rd,yes
+Steve,Maslow,The Empire Strikes Back,1980,Best Sound,53rd,yes
+Gregg,Landaker,The Empire Strikes Back,1980,Best Sound,53rd,yes
+Peter,Sutton,The Empire Strikes Back,1980,Best Sound,53rd,yes
+Arthur,Piantadosi,Altered States,1980,Best Sound,53rd,no
+Les,Fresholtz,Altered States,1980,Best Sound,53rd,no
+Michael,Minkler,Altered States,1980,Best Sound,53rd,no
+Willie,D. Burton,Altered States,1980,Best Sound,53rd,no
+Richard,Portman,Coal Miner's Daughter,1980,Best Sound,53rd,no
+Roger,Heman Jr.,Coal Miner's Daughter,1980,Best Sound,53rd,no
+James,R. Alexander,Coal Miner's Daughter,1980,Best Sound,53rd,no
+Michael,J. Kohut,Fame,1980,Best Sound,53rd,no
+Aaron,Rochin,Fame,1980,Best Sound,53rd,no
+Jay,M. Harding,Fame,1980,Best Sound,53rd,no
+Christopher,Newman,Fame,1980,Best Sound,53rd,no
+Donald,O. Mitchell,Raging Bull,1980,Best Sound,53rd,no
+Bill,Nicholson,Raging Bull,1980,Best Sound,53rd,no
+David,J. Kimball,Raging Bull,1980,Best Sound,53rd,no
+Les,Lazarowitz,Raging Bull,1980,Best Sound,53rd,no
+Bill,Varney,Raiders of the Lost Ark,1980,Best Sound,53rd,yes
+Steve,Maslow,Raiders of the Lost Ark,1980,Best Sound,53rd,yes
+Gregg,Landaker,Raiders of the Lost Ark,1980,Best Sound,53rd,yes
+Roy,Charman,Raiders of the Lost Ark,1980,Best Sound,53rd,yes
+Richard,Portman,On Golden Pond,1980,Best Sound,53rd,no
+David,M. Ronne,On Golden Pond,1980,Best Sound,53rd,no
+John,Wilkinson,Outland,1980,Best Sound,53rd,no
+Robert,W. Glass Jr.,Outland,1980,Best Sound,53rd,no
+Robert,Thirlwell,Outland,1980,Best Sound,53rd,no
+Robin,Gregory,Outland,1980,Best Sound,53rd,no
+Michael,J. Kohut,Pennies from Heaven,1980,Best Sound,53rd,no
+Jay,M. Harding,Pennies from Heaven,1980,Best Sound,53rd,no
+Richard,Tyler,Pennies from Heaven,1980,Best Sound,53rd,no
+Al,Overton Jr.,Pennies from Heaven,1980,Best Sound,53rd,no
+Dick,Vorisek,Reds,1980,Best Sound,53rd,no
+Tom,Fleischman,Reds,1980,Best Sound,53rd,no
+Simon,Kaye,Reds,1980,Best Sound,53rd,no
+Ben,Burtt,Raiders of the Lost Ark,1980,Best Sound,53rd,yes
+Richard,L. Anderson,Raiders of the Lost Ark,1980,Best Sound,53rd,yes
+Robert,Knudson,E.T. the Extra-Terrestrial,1980,Best Sound,53rd,yes
+Robert,Glass,E.T. the Extra-Terrestrial,1980,Best Sound,53rd,yes
+Don,Digirolamo,E.T. the Extra-Terrestrial,1980,Best Sound,53rd,yes
+Gene,Cantamessa,E.T. the Extra-Terrestrial,1980,Best Sound,53rd,yes
+Milan,Bor,Das Boot,1980,Best Sound,53rd,no
+Trevor,Pyke,Das Boot,1980,Best Sound,53rd,no
+Mike,Le Mare,Das Boot,1980,Best Sound,53rd,no
+Gerry,Humphreys,Gandhi,1980,Best Sound,53rd,no
+Robin,O'Donoghue,Gandhi,1980,Best Sound,53rd,no
+Jonathan,Bates,Gandhi,1980,Best Sound,53rd,no
+Simon,Kaye,Gandhi,1980,Best Sound,53rd,no
+Arthur,Piantadosi,Tootsie,1980,Best Sound,53rd,no
+Les,Fresholtz,Tootsie,1980,Best Sound,53rd,no
+Dick,Alexander,Tootsie,1980,Best Sound,53rd,no
+Les,Lazarowitz,Tootsie,1980,Best Sound,53rd,no
+Michael,Minkler,Tron,1980,Best Sound,53rd,no
+Bob,Minkler,Tron,1980,Best Sound,53rd,no
+Lee,Minkler,Tron,1980,Best Sound,53rd,no
+James,LaRue,Tron,1980,Best Sound,53rd,no
+Charles,L. Campbell,E.T. the Extra-Terrestrial,1980,Best Sound,53rd,yes
+Ben,Burtt,E.T. the Extra-Terrestrial,1980,Best Sound,53rd,yes
+Mike,Le Mare,Das Boot,1980,Best Sound,53rd,no
+Stephen,Hunter Flick,Poltergeist,1980,Best Sound,53rd,no
+Richard,L. Anderson,Poltergeist,1980,Best Sound,53rd,no
+Randy,Thom,The Right Stuff,1980,Best Sound,53rd,yes
+Mark,Berger,The Right Stuff,1980,Best Sound,53rd,yes
+Tom,Scott,The Right Stuff,1980,Best Sound,53rd,yes
+David,MacMillan,The Right Stuff,1980,Best Sound,53rd,yes
+Randy,Thom,Never Cry Wolf,1980,Best Sound,53rd,no
+David,Parker,Never Cry Wolf,1980,Best Sound,53rd,no
+Todd,Boekelheide,Never Cry Wolf,1980,Best Sound,53rd,no
+Alan,Splet,Never Cry Wolf,1980,Best Sound,53rd,no
+Ben,Burtt,Return of the Jedi,1980,Best Sound,53rd,no
+Randy,Thom,Return of the Jedi,1980,Best Sound,53rd,no
+Gary,Summers,Return of the Jedi,1980,Best Sound,53rd,no
+Tony,Dawe,Return of the Jedi,1980,Best Sound,53rd,no
+Donald,O. Mitchell,Terms of Endearment,1980,Best Sound,53rd,no
+Rick,Kline,Terms of Endearment,1980,Best Sound,53rd,no
+Kevin,O'Connell,Terms of Endearment,1980,Best Sound,53rd,no
+James,R. Alexander,Terms of Endearment,1980,Best Sound,53rd,no
+Michael,J. Kohut,WarGames,1980,Best Sound,53rd,no
+Carlos,Delarios,WarGames,1980,Best Sound,53rd,no
+Aaron,Rochin,WarGames,1980,Best Sound,53rd,no
+Willie,D. Burton,WarGames,1980,Best Sound,53rd,no
+Jay,Boekelheide,The Right Stuff,1980,Best Sound,53rd,yes
+Ben,Burtt,Return of the Jedi,1980,Best Sound,53rd,no
+Mark,Berger,Amadeus,1980,Best Sound,53rd,yes
+Tom,Scott,Amadeus,1980,Best Sound,53rd,yes
+Todd,Boekelheide,Amadeus,1980,Best Sound,53rd,yes
+Christopher,Newman,Amadeus,1980,Best Sound,53rd,yes
+Bill,Varney,Dune,1980,Best Sound,53rd,no
+Steve,Maslow,Dune,1980,Best Sound,53rd,no
+Kevin,O'Connell,Dune,1980,Best Sound,53rd,no
+Nelson,Stoll,Dune,1980,Best Sound,53rd,no
+Graham,V. Hartstone,A Passage to India,1980,Best Sound,53rd,no
+Nicolas,Le Messurier,A Passage to India,1980,Best Sound,53rd,no
+Michael,A. Carter,A Passage to India,1980,Best Sound,53rd,no
+John,W. Mitchell,A Passage to India,1980,Best Sound,53rd,no
+Nick,Alphin,The River,1980,Best Sound,53rd,no
+Robert,Thirlwell,The River,1980,Best Sound,53rd,no
+Richard,Portman,The River,1980,Best Sound,53rd,no
+David,M. Ronne,The River,1980,Best Sound,53rd,no
+Michael,J. Kohut,2010: The Year We Make Contact,1980,Best Sound,53rd,no
+Aaron,Rochin,2010: The Year We Make Contact,1980,Best Sound,53rd,no
+Carlos,Delarios,2010: The Year We Make Contact,1980,Best Sound,53rd,no
+Gene,Cantamessa,2010: The Year We Make Contact,1980,Best Sound,53rd,no
+Kay,Rose,The River,1980,Best Sound,53rd,yes
+Chris,Jenkins,Out of Africa,1980,Best Sound,53rd,yes
+Gary,Alexander,Out of Africa,1980,Best Sound,53rd,yes
+Larry,Stensvold,Out of Africa,1980,Best Sound,53rd,yes
+Peter,Handford,Out of Africa,1980,Best Sound,53rd,yes
+Bill,Varney,Back to the Future,1980,Best Sound,53rd,no
+B.,Tennyson Sebastian II,Back to the Future,1980,Best Sound,53rd,no
+Robert,Thirlwell,Back to the Future,1980,Best Sound,53rd,no
+William,B. Kaplan,Back to the Future,1980,Best Sound,53rd,no
+Donald,O. Mitchell,A Chorus Line,1980,Best Sound,53rd,no
+Michael,Minkler,A Chorus Line,1980,Best Sound,53rd,no
+Gerry,Humphreys,A Chorus Line,1980,Best Sound,53rd,no
+Christopher,Newman,A Chorus Line,1980,Best Sound,53rd,no
+Les,Fresholtz,Ladyhawke,1980,Best Sound,53rd,no
+Dick,Alexander,Ladyhawke,1980,Best Sound,53rd,no
+Vern,Poore,Ladyhawke,1980,Best Sound,53rd,no
+Bud,Alper,Ladyhawke,1980,Best Sound,53rd,no
+Donald,O. Mitchell,Silverado,1980,Best Sound,53rd,no
+Rick,Kline,Silverado,1980,Best Sound,53rd,no
+Kevin,O'Connell,Silverado,1980,Best Sound,53rd,no
+David,M. Ronne,Silverado,1980,Best Sound,53rd,no
+Charles,L. Campbell,Back to the Future,1980,Best Sound,53rd,yes
+Robert,Rutledge,Back to the Future,1980,Best Sound,53rd,yes
+Robert,G. Henderson,Ladyhawke,1980,Best Sound,53rd,no
+Alan,Robert Murray,Ladyhawke,1980,Best Sound,53rd,no
+Frederick,Brown,Rambo: First Blood Part II,1980,Best Sound,53rd,no
+John,Wilkinson,Platoon,1980,Best Sound,53rd,yes
+Richard,Rogers,Platoon,1980,Best Sound,53rd,yes
+Charles,Grenzbach,Platoon,1980,Best Sound,53rd,yes
+Simon,Kaye,Platoon,1980,Best Sound,53rd,yes
+Graham,V. Hartstone,Aliens,1980,Best Sound,53rd,no
+Nicolas,Le Messurier,Aliens,1980,Best Sound,53rd,no
+Michael,A. Carter,Aliens,1980,Best Sound,53rd,no
+Roy,Charman,Aliens,1980,Best Sound,53rd,no
+Les,Fresholtz,Heartbreak Ridge,1980,Best Sound,53rd,no
+Dick,Alexander,Heartbreak Ridge,1980,Best Sound,53rd,no
+Vern,Poore,Heartbreak Ridge,1980,Best Sound,53rd,no
+Bill,Nelson,Heartbreak Ridge,1980,Best Sound,53rd,no
+Terry,Porter,Star Trek IV: The Voyage Home,1980,Best Sound,53rd,no
+David,J. Hudson,Star Trek IV: The Voyage Home,1980,Best Sound,53rd,no
+Mel,Metcalfe,Star Trek IV: The Voyage Home,1980,Best Sound,53rd,no
+Gene,Cantamessa,Star Trek IV: The Voyage Home,1980,Best Sound,53rd,no
+Kevin,O'Connell,Top Gun,1980,Best Sound,53rd,no
+Donald,O. Mitchell,Top Gun,1980,Best Sound,53rd,no
+Rick,Kline,Top Gun,1980,Best Sound,53rd,no
+William,B. Kaplan,Top Gun,1980,Best Sound,53rd,no
+Don,Sharpe,Aliens,1980,Best Sound,53rd,yes
+Mark,Mangini,Star Trek IV: The Voyage Home,1980,Best Sound,53rd,no
+George,Watters II,Top Gun,1980,Best Sound,53rd,no
+Cecelia,Hall,Top Gun,1980,Best Sound,53rd,no
+Bill,Rowe,The Last Emperor,1980,Best Sound,53rd,yes
+Ivan,Sharrock,The Last Emperor,1980,Best Sound,53rd,yes
+Robert,Knudson,Empire of the Sun,1980,Best Sound,53rd,no
+Don,Digirolamo,Empire of the Sun,1980,Best Sound,53rd,no
+John,Boyd,Empire of the Sun,1980,Best Sound,53rd,no
+Tony,Dawe,Empire of the Sun,1980,Best Sound,53rd,no
+Les,Fresholtz,Lethal Weapon,1980,Best Sound,53rd,no
+Dick,Alexander,Lethal Weapon,1980,Best Sound,53rd,no
+Vern,Poore,Lethal Weapon,1980,Best Sound,53rd,no
+Bill,Nelson,Lethal Weapon,1980,Best Sound,53rd,no
+Michael,J. Kohut,RoboCop,1980,Best Sound,53rd,no
+Carlos,Delarios,RoboCop,1980,Best Sound,53rd,no
+Aaron,Rochin,RoboCop,1980,Best Sound,53rd,no
+Robert,Wald,RoboCop,1980,Best Sound,53rd,no
+Wayne,Artman,The Witches of Eastwick,1980,Best Sound,53rd,no
+Tom,Beckert,The Witches of Eastwick,1980,Best Sound,53rd,no
+Tom,E. Dahl,The Witches of Eastwick,1980,Best Sound,53rd,no
+Art,Rochester,The Witches of Eastwick,1980,Best Sound,53rd,no
+Stephen,Hunter Flick,RoboCop,1980,Best Sound,53rd,yes
+John,Pospisil,RoboCop,1980,Best Sound,53rd,yes
+Les,Fresholtz,Bird,1980,Best Sound,53rd,yes
+Dick,Alexander,Bird,1980,Best Sound,53rd,yes
+Vern,Poore,Bird,1980,Best Sound,53rd,yes
+Willie,D. Burton,Bird,1980,Best Sound,53rd,yes
+Don,J. Bassman,Die Hard,1980,Best Sound,53rd,no
+Kevin,F. Cleary,Die Hard,1980,Best Sound,53rd,no
+Richard,Overton,Die Hard,1980,Best Sound,53rd,no
+Al,Overton Jr.,Die Hard,1980,Best Sound,53rd,no
+Andy,Nelson,Gorillas in the Mist,1980,Best Sound,53rd,no
+Brian,Saunders,Gorillas in the Mist,1980,Best Sound,53rd,no
+Peter,Handford,Gorillas in the Mist,1980,Best Sound,53rd,no
+Robert,J. Litt,Mississippi Burning,1980,Best Sound,53rd,no
+Elliot,Tyson,Mississippi Burning,1980,Best Sound,53rd,no
+Rick,Kline,Mississippi Burning,1980,Best Sound,53rd,no
+Danny,Michael,Mississippi Burning,1980,Best Sound,53rd,no
+Robert,Knudson,Who Framed Roger Rabbit,1980,Best Sound,53rd,no
+John,Boyd,Who Framed Roger Rabbit,1980,Best Sound,53rd,no
+Don,Digirolamo,Who Framed Roger Rabbit,1980,Best Sound,53rd,no
+Tony,Dawe,Who Framed Roger Rabbit,1980,Best Sound,53rd,no
+Charles,L. Campbell,Who Framed Roger Rabbit,1980,Best Sound,53rd,yes
+Louis,Edemann,Who Framed Roger Rabbit,1980,Best Sound,53rd,yes
+Stephen,Hunter Flick,Die Hard,1980,Best Sound,53rd,no
+Richard,Shorr,Die Hard,1980,Best Sound,53rd,no
+Ben,Burtt,Willow,1980,Best Sound,53rd,no
+Richard,Hymns,Willow,1980,Best Sound,53rd,no
+Donald,O. Mitchell,Glory,1980,Best Sound,53rd,yes
+Gregg,Rudloff,Glory,1980,Best Sound,53rd,yes
+Elliot,Tyson,Glory,1980,Best Sound,53rd,yes
+Russell,Williams II,Glory,1980,Best Sound,53rd,yes
+Don,J. Bassman,The Abyss,1980,Best Sound,53rd,no
+Kevin,F. Cleary,The Abyss,1980,Best Sound,53rd,no
+Richard,Overton,The Abyss,1980,Best Sound,53rd,no
+Lee,Orloff,The Abyss,1980,Best Sound,53rd,no
+Donald,O. Mitchell,Black Rain,1980,Best Sound,53rd,no
+Kevin,O'Connell,Black Rain,1980,Best Sound,53rd,no
+Greg,P. Russell,Black Rain,1980,Best Sound,53rd,no
+Keith,A. Wester,Black Rain,1980,Best Sound,53rd,no
+Michael,Minkler,Born on the Fourth of July,1980,Best Sound,53rd,no
+Gregory,H. Watkins,Born on the Fourth of July,1980,Best Sound,53rd,no
+Wylie,Stateman,Born on the Fourth of July,1980,Best Sound,53rd,no
+Tod,A. Maitland,Born on the Fourth of July,1980,Best Sound,53rd,no
+Ben,Burtt,Indiana Jones and the Last Crusade,1980,Best Sound,53rd,no
+Gary,Summers,Indiana Jones and the Last Crusade,1980,Best Sound,53rd,no
+Shawn,Murphy,Indiana Jones and the Last Crusade,1980,Best Sound,53rd,no
+Tony,Dawe,Indiana Jones and the Last Crusade,1980,Best Sound,53rd,no
+Ben,Burtt,Indiana Jones and the Last Crusade,1980,Best Sound,53rd,yes
+Richard,Hymns,Indiana Jones and the Last Crusade,1980,Best Sound,53rd,yes
+Milton,Burrow,Black Rain,1980,Best Sound,53rd,no
+William,Manger,Black Rain,1980,Best Sound,53rd,no
+Robert,G. Henderson,Lethal Weapon 2,1980,Best Sound,53rd,no
+Alan,Robert Murray,Lethal Weapon 2,1980,Best Sound,53rd,no
+Jeffrey,Perkins,Dances with Wolves,1980,Best Sound,53rd,yes
+Bill,W. Benton,Dances with Wolves,1980,Best Sound,53rd,yes
+Gregory,H. Watkins,Dances with Wolves,1980,Best Sound,53rd,yes
+Russell,Williams II,Dances with Wolves,1980,Best Sound,53rd,yes
+Kevin,O'Connell,Days of Thunder,1980,Best Sound,53rd,no
+Donald,O. Mitchell,Days of Thunder,1980,Best Sound,53rd,no
+Rick,Kline,Days of Thunder,1980,Best Sound,53rd,no
+Charles,M. Wilborn,Days of Thunder,1980,Best Sound,53rd,no
+Chris,Jenkins,Dick Tracy,1980,Best Sound,53rd,no
+David,E. Campbell,Dick Tracy,1980,Best Sound,53rd,no
+Doug,Hemphill,Dick Tracy,1980,Best Sound,53rd,no
+Thomas,Causey,Dick Tracy,1980,Best Sound,53rd,no
+Don,J. Bassman,The Hunt for Red October,1980,Best Sound,53rd,no
+Richard,Overton,The Hunt for Red October,1980,Best Sound,53rd,no
+Kevin,F. Cleary,The Hunt for Red October,1980,Best Sound,53rd,no
+Richard,Bryce Goodman,The Hunt for Red October,1980,Best Sound,53rd,no
+Michael,J. Kohut,Total Recall,1980,Best Sound,53rd,no
+Carlos,Delarios,Total Recall,1980,Best Sound,53rd,no
+Aaron,Rochin,Total Recall,1980,Best Sound,53rd,no
+Nelson,Stoll,Total Recall,1980,Best Sound,53rd,no
+George,Watters II,The Hunt for Red October,1980,Best Sound,53rd,yes
+Cecelia,Hall,The Hunt for Red October,1980,Best Sound,53rd,yes
+Charles,L. Campbell,Flatliners,1980,Best Sound,53rd,no
+Richard,C. Franklin,Flatliners,1980,Best Sound,53rd,no
+Stephen,Hunter Flick,Total Recall,1980,Best Sound,53rd,no
+Gary,Rydstrom,Terminator 2: Judgment Day,1980,Best Sound,53rd,yes
+Tom,Johnson,Terminator 2: Judgment Day,1980,Best Sound,53rd,yes
+Gary,Summers,Terminator 2: Judgment Day,1980,Best Sound,53rd,yes
+Lee,Orloff,Terminator 2: Judgment Day,1980,Best Sound,53rd,yes
+Gary,Rydstrom,Backdraft,1980,Best Sound,53rd,no
+Randy,Thom,Backdraft,1980,Best Sound,53rd,no
+Gary,Summers,Backdraft,1980,Best Sound,53rd,no
+Glenn,Williams,Backdraft,1980,Best Sound,53rd,no
+Terry,Porter,Beauty and the Beast,1980,Best Sound,53rd,no
+Mel,Metcalfe,Beauty and the Beast,1980,Best Sound,53rd,no
+David,J. Hudson,Beauty and the Beast,1980,Best Sound,53rd,no
+Doc,Kane,Beauty and the Beast,1980,Best Sound,53rd,no
+Michael,Minkler,JFK,1980,Best Sound,53rd,no
+Gregg,Landaker,JFK,1980,Best Sound,53rd,no
+Tod,A. Maitland,JFK,1980,Best Sound,53rd,no
+Tom,Fleischman,The Silence of the Lambs,1980,Best Sound,53rd,no
+Christopher,Newman,The Silence of the Lambs,1980,Best Sound,53rd,no
+Gary,Rydstrom,Terminator 2: Judgment Day,1980,Best Sound,53rd,yes
+Gloria,S. Borders,Terminator 2: Judgment Day,1980,Best Sound,53rd,yes
+Gary,Rydstrom,Backdraft,1980,Best Sound,53rd,no
+Richard,Hymns,Backdraft,1980,Best Sound,53rd,no
+George,Watters II,Star Trek VI: The Undiscovered Country,1980,Best Sound,53rd,no
+F.,Hudson Miller,Star Trek VI: The Undiscovered Country,1980,Best Sound,53rd,no
+Chris,Jenkins,The Last of the Mohicans,1980,Best Sound,53rd,yes
+Doug,Hemphill,The Last of the Mohicans,1980,Best Sound,53rd,yes
+Mark,Smith,The Last of the Mohicans,1980,Best Sound,53rd,yes
+Simon,Kaye,The Last of the Mohicans,1980,Best Sound,53rd,yes
+Terry,Porter,Aladdin,1980,Best Sound,53rd,no
+Mel,Metcalfe,Aladdin,1980,Best Sound,53rd,no
+David,J. Hudson,Aladdin,1980,Best Sound,53rd,no
+Doc,Kane,Aladdin,1980,Best Sound,53rd,no
+Kevin,O'Connell,A Few Good Men,1980,Best Sound,53rd,no
+Rick,Kline,A Few Good Men,1980,Best Sound,53rd,no
+Robert,Eber,A Few Good Men,1980,Best Sound,53rd,no
+Donald,O. Mitchell,Under Siege,1980,Best Sound,53rd,no
+Frank,A. Montaño,Under Siege,1980,Best Sound,53rd,no
+Rick,Hart,Under Siege,1980,Best Sound,53rd,no
+Scott,D. Smith,Under Siege,1980,Best Sound,53rd,no
+Les,Fresholtz,Unforgiven,1980,Best Sound,53rd,no
+Vern,Poore,Unforgiven,1980,Best Sound,53rd,no
+Dick,Alexander,Unforgiven,1980,Best Sound,53rd,no
+Rob,Young,Unforgiven,1980,Best Sound,53rd,no
+Tom,McCarthy,Bram Stoker's Dracula,1980,Best Sound,53rd,yes
+David,E. Stone,Bram Stoker's Dracula,1980,Best Sound,53rd,yes
+Mark,Mangini,Aladdin,1980,Best Sound,53rd,no
+John,Leveque,Under Siege,1980,Best Sound,53rd,no
+Bruce,Stambler,Under Siege,1980,Best Sound,53rd,no
+Gary,Rydstrom,Jurassic Park,1980,Best Sound,53rd,yes
+Gary,Summers,Jurassic Park,1980,Best Sound,53rd,yes
+Shawn,Murphy,Jurassic Park,1980,Best Sound,53rd,yes
+Ron,Judkins,Jurassic Park,1980,Best Sound,53rd,yes
+Michael,Minkler,Cliffhanger,1980,Best Sound,53rd,no
+Bob,Beemer,Cliffhanger,1980,Best Sound,53rd,no
+Tim,Cooney,Cliffhanger,1980,Best Sound,53rd,no
+Donald,O. Mitchell,The Fugitive,1980,Best Sound,53rd,no
+Michael,Herbick,The Fugitive,1980,Best Sound,53rd,no
+Frank,A. Montaño,The Fugitive,1980,Best Sound,53rd,no
+Scott,D. Smith,The Fugitive,1980,Best Sound,53rd,no
+Chris,Carpenter,Geronimo: An American Legend,1980,Best Sound,53rd,no
+Doug,Hemphill,Geronimo: An American Legend,1980,Best Sound,53rd,no
+Bill,W. Benton,Geronimo: An American Legend,1980,Best Sound,53rd,no
+Lee,Orloff,Geronimo: An American Legend,1980,Best Sound,53rd,no
+Andy,Nelson,Schindler's List,1980,Best Sound,53rd,no
+Steve,Pederson,Schindler's List,1980,Best Sound,53rd,no
+Scott,Millan,Schindler's List,1980,Best Sound,53rd,no
+Ron,Judkins,Schindler's List,1980,Best Sound,53rd,no
+Gary,Rydstrom,Jurassic Park,1980,Best Sound,53rd,yes
+Richard,Hymns,Jurassic Park,1980,Best Sound,53rd,yes
+Wylie,Stateman,Cliffhanger,1980,Best Sound,53rd,no
+Gregg,Baxter,Cliffhanger,1980,Best Sound,53rd,no
+John,Leveque,The Fugitive,1980,Best Sound,53rd,no
+Bruce,Stambler,The Fugitive,1980,Best Sound,53rd,no
+Gregg,Landaker,Speed,1980,Best Sound,53rd,yes
+Steve,Maslow,Speed,1980,Best Sound,53rd,yes
+Bob,Beemer,Speed,1980,Best Sound,53rd,yes
+David,MacMillan,Speed,1980,Best Sound,53rd,yes
+Donald,O. Mitchell,Clear and Present Danger,1980,Best Sound,53rd,no
+Michael,Herbick,Clear and Present Danger,1980,Best Sound,53rd,no
+Frank,A. Montaño,Clear and Present Danger,1980,Best Sound,53rd,no
+Art,Rochester,Clear and Present Danger,1980,Best Sound,53rd,no
+Randy,Thom,Forrest Gump,1980,Best Sound,53rd,no
+Tom,Johnson,Forrest Gump,1980,Best Sound,53rd,no
+Dennis,S. Sands,Forrest Gump,1980,Best Sound,53rd,no
+William,B. Kaplan,Forrest Gump,1980,Best Sound,53rd,no
+Paul,Massey,Legends of the Fall,1980,Best Sound,53rd,no
+David,E. Campbell,Legends of the Fall,1980,Best Sound,53rd,no
+Chris,David,Legends of the Fall,1980,Best Sound,53rd,no
+Douglas,Ganton,Legends of the Fall,1980,Best Sound,53rd,no
+Robert,J. Litt,The Shawshank Redemption,1980,Best Sound,53rd,no
+Elliot,Tyson,The Shawshank Redemption,1980,Best Sound,53rd,no
+Michael,Herbick,The Shawshank Redemption,1980,Best Sound,53rd,no
+Willie,D. Burton,The Shawshank Redemption,1980,Best Sound,53rd,no
+Stephen,Hunter Flick,Speed,1980,Best Sound,53rd,yes
+Bruce,Stambler,Clear and Present Danger,1980,Best Sound,53rd,no
+John,Leveque,Clear and Present Danger,1980,Best Sound,53rd,no
+Randy,Thom,Forrest Gump,1980,Best Sound,53rd,no
+Gloria,S. Borders,Forrest Gump,1980,Best Sound,53rd,no
+Rick,Dior,Apollo 13,1980,Best Sound,53rd,yes
+Steve,Pederson,Apollo 13,1980,Best Sound,53rd,yes
+Scott,Millan,Apollo 13,1980,Best Sound,53rd,yes
+David,MacMillan,Apollo 13,1980,Best Sound,53rd,yes
+Donald,O. Mitchell,Batman Forever,1980,Best Sound,53rd,no
+Frank,A. Montaño,Batman Forever,1980,Best Sound,53rd,no
+Michael,Herbick,Batman Forever,1980,Best Sound,53rd,no
+Petur,Hliddal,Batman Forever,1980,Best Sound,53rd,no
+Andy,Nelson,Braveheart,1980,Best Sound,53rd,no
+Scott,Millan,Braveheart,1980,Best Sound,53rd,no
+Anna,Behlmer,Braveheart,1980,Best Sound,53rd,no
+Brian,Simmons,Braveheart,1980,Best Sound,53rd,no
+Kevin,O'Connell,Crimson Tide,1980,Best Sound,53rd,no
+Rick,Kline,Crimson Tide,1980,Best Sound,53rd,no
+Gregory,H. Watkins,Crimson Tide,1980,Best Sound,53rd,no
+William,B. Kaplan,Crimson Tide,1980,Best Sound,53rd,no
+Steve,Maslow,Waterworld,1980,Best Sound,53rd,no
+Gregg,Landaker,Waterworld,1980,Best Sound,53rd,no
+Keith,A. Wester,Waterworld,1980,Best Sound,53rd,no
+Lon,Bender,Braveheart,1980,Best Sound,53rd,yes
+Per,Hallberg,Braveheart,1980,Best Sound,53rd,yes
+John,Leveque,Batman Forever,1980,Best Sound,53rd,no
+Bruce,Stambler,Batman Forever,1980,Best Sound,53rd,no
+George,Watters II,Crimson Tide,1980,Best Sound,53rd,no
+Walter,Murch,The English Patient,1980,Best Sound,53rd,yes
+Mark,Berger,The English Patient,1980,Best Sound,53rd,yes
+David,Parker,The English Patient,1980,Best Sound,53rd,yes
+Christopher,Newman,The English Patient,1980,Best Sound,53rd,yes
+Andy,Nelson,Evita,1980,Best Sound,53rd,no
+Anna,Behlmer,Evita,1980,Best Sound,53rd,no
+Ken,Weston,Evita,1980,Best Sound,53rd,no
+Chris,Carpenter,Independence Day,1980,Best Sound,53rd,no
+Bill,W. Benton,Independence Day,1980,Best Sound,53rd,no
+Bob,Beemer,Independence Day,1980,Best Sound,53rd,no
+Jeff,Wexler,Independence Day,1980,Best Sound,53rd,no
+Kevin,O'Connell,The Rock,1980,Best Sound,53rd,no
+Greg,P. Russell,The Rock,1980,Best Sound,53rd,no
+Keith,A. Wester,The Rock,1980,Best Sound,53rd,no
+Kevin,O'Connell,Twister,1980,Best Sound,53rd,no
+Gregg,Landaker,Twister,1980,Best Sound,53rd,no
+Steve,Maslow,Twister,1980,Best Sound,53rd,no
+Geoffrey,Patterson,Twister,1980,Best Sound,53rd,no
+Bruce,Stambler,The Ghost and the Darkness,1980,Best Sound,53rd,yes
+Richard,L. Anderson,Daylight,1980,Best Sound,53rd,no
+David,A. Whittaker,Daylight,1980,Best Sound,53rd,no
+Alan,Robert Murray,Eraser,1980,Best Sound,53rd,no
+Bub,Asman,Eraser,1980,Best Sound,53rd,no
+Gary,Rydstrom,Titanic,1980,Best Sound,53rd,yes
+Tom,Johnson,Titanic,1980,Best Sound,53rd,yes
+Gary,Summers,Titanic,1980,Best Sound,53rd,yes
+Mark,Ulano,Titanic,1980,Best Sound,53rd,yes
+Paul,Massey,Air Force One,1980,Best Sound,53rd,no
+Rick,Kline,Air Force One,1980,Best Sound,53rd,no
+Doug,Hemphill,Air Force One,1980,Best Sound,53rd,no
+Keith,A. Wester,Air Force One,1980,Best Sound,53rd,no
+Kevin,O'Connell,Con Air,1980,Best Sound,53rd,no
+Greg,P. Russell,Con Air,1980,Best Sound,53rd,no
+Art,Rochester,Con Air,1980,Best Sound,53rd,no
+Randy,Thom,Contact,1980,Best Sound,53rd,no
+Tom,Johnson,Contact,1980,Best Sound,53rd,no
+Dennis,S. Sands,Contact,1980,Best Sound,53rd,no
+William,B. Kaplan,Contact,1980,Best Sound,53rd,no
+Andy,Nelson,L.A. Confidential,1980,Best Sound,53rd,no
+Anna,Behlmer,L.A. Confidential,1980,Best Sound,53rd,no
+Kirk,Francis,L.A. Confidential,1980,Best Sound,53rd,no
+Christopher,Boyes,Titanic,1980,Best Sound,53rd,yes
+Tom,Bellfort,Titanic,1980,Best Sound,53rd,yes
+Mark,P. Stoeckinger,Face/Off,1980,Best Sound,53rd,no
+Per,Hallberg,Face/Off,1980,Best Sound,53rd,no
+Mark,Mangini,The Fifth Element,1980,Best Sound,53rd,no
+Gary,Rydstrom,Saving Private Ryan,1980,Best Sound,53rd,yes
+Gary,Summers,Saving Private Ryan,1980,Best Sound,53rd,yes
+Andy,Nelson,Saving Private Ryan,1980,Best Sound,53rd,yes
+Ron,Judkins,Saving Private Ryan,1980,Best Sound,53rd,yes
+Kevin,O'Connell,Armageddon,1980,Best Sound,53rd,no
+Greg,P. Russell,Armageddon,1980,Best Sound,53rd,no
+Keith,A. Wester,Armageddon,1980,Best Sound,53rd,no
+Kevin,O'Connell,The Mask of Zorro,1980,Best Sound,53rd,no
+Greg,P. Russell,The Mask of Zorro,1980,Best Sound,53rd,no
+Pud,Cusack,The Mask of Zorro,1980,Best Sound,53rd,no
+Robin,O'Donoghue,Shakespeare in Love,1980,Best Sound,53rd,no
+Dominic,Lester,Shakespeare in Love,1980,Best Sound,53rd,no
+Peter,Glossop,Shakespeare in Love,1980,Best Sound,53rd,no
+Andy,Nelson,The Thin Red Line,1980,Best Sound,53rd,no
+Anna,Behlmer,The Thin Red Line,1980,Best Sound,53rd,no
+Paul,Brincat,The Thin Red Line,1980,Best Sound,53rd,no
+Gary,Rydstrom,Saving Private Ryan,1980,Best Sound,53rd,yes
+Richard,Hymns,Saving Private Ryan,1980,Best Sound,53rd,yes
+George,Watters II,Armageddon,1980,Best Sound,53rd,no
+Dave,McMoyler,The Mask of Zorro,1980,Best Sound,53rd,no
+John,T. Reitz,The Matrix,1980,Best Sound,53rd,yes
+Gregg,Rudloff,The Matrix,1980,Best Sound,53rd,yes
+David,E. Campbell,The Matrix,1980,Best Sound,53rd,yes
+David,Lee,The Matrix,1980,Best Sound,53rd,yes
+Robert,J. Litt,The Green Mile,1980,Best Sound,53rd,no
+Elliot,Tyson,The Green Mile,1980,Best Sound,53rd,no
+Michael,Herbick,The Green Mile,1980,Best Sound,53rd,no
+Willie,D. Burton,The Green Mile,1980,Best Sound,53rd,no
+Andy,Nelson,The Insider,1980,Best Sound,53rd,no
+Doug,Hemphill,The Insider,1980,Best Sound,53rd,no
+Lee,Orloff,The Insider,1980,Best Sound,53rd,no
+Leslie,Shatz,The Mummy,1980,Best Sound,53rd,no
+Chris,Carpenter,The Mummy,1980,Best Sound,53rd,no
+Rick,Kline,The Mummy,1980,Best Sound,53rd,no
+Chris,Munro,The Mummy,1980,Best Sound,53rd,no
+Gary,Rydstrom,Star Wars: Episode I – The Phantom Menace,1980,Best Sound,53rd,no
+Tom,Johnson,Star Wars: Episode I – The Phantom Menace,1980,Best Sound,53rd,no
+Shawn,Murphy,Star Wars: Episode I – The Phantom Menace,1980,Best Sound,53rd,no
+John,Midgley,Star Wars: Episode I – The Phantom Menace,1980,Best Sound,53rd,no
+Dane,A. Davis,The Matrix,1980,Best Sound,53rd,yes
+Ren,Klyce,Fight Club,1980,Best Sound,53rd,no
+Richard,Hymns,Fight Club,1980,Best Sound,53rd,no
+Ben,Burtt,Star Wars: Episode I – The Phantom Menace,1980,Best Sound,53rd,no
+Tom,Bellfort,Star Wars: Episode I – The Phantom Menace,1980,Best Sound,53rd,no
+Scott,Millan,Gladiator,1980,Best Sound,53rd,yes
+Bob,Beemer,Gladiator,1980,Best Sound,53rd,yes
+Ken,Weston,Gladiator,1980,Best Sound,53rd,yes
+Randy,Thom,Cast Away,1980,Best Sound,53rd,no
+Tom,Johnson,Cast Away,1980,Best Sound,53rd,no
+Dennis,S. Sands,Cast Away,1980,Best Sound,53rd,no
+William,B. Kaplan,Cast Away,1980,Best Sound,53rd,no
+Kevin,O'Connell,The Patriot,1980,Best Sound,53rd,no
+Greg,P. Russell,The Patriot,1980,Best Sound,53rd,no
+Lee,Orloff,The Patriot,1980,Best Sound,53rd,no
+John,T. Reitz,The Perfect Storm,1980,Best Sound,53rd,no
+Gregg,Rudloff,The Perfect Storm,1980,Best Sound,53rd,no
+David,E. Campbell,The Perfect Storm,1980,Best Sound,53rd,no
+Keith,A. Wester,The Perfect Storm,1980,Best Sound,53rd,no
+Steve,Maslow,U-571,1980,Best Sound,53rd,no
+Gregg,Landaker,U-571,1980,Best Sound,53rd,no
+Rick,Kline,U-571,1980,Best Sound,53rd,no
+Ivan,Sharrock,U-571,1980,Best Sound,53rd,no
+Jon,Johnson,U-571,1980,Best Sound,53rd,yes
+Bub,Asman,Space Cowboys,1980,Best Sound,53rd,no
+Alan,Robert Murray,Space Cowboys,1980,Best Sound,53rd,no
+Michael,Minkler,Black Hawk Down,1980,Best Sound,53rd,yes
+Myron,Nettinga,Black Hawk Down,1980,Best Sound,53rd,yes
+Chris,Munro,Black Hawk Down,1980,Best Sound,53rd,yes
+Vincent,Arnardi,Amélie,1980,Best Sound,53rd,no
+Guillaume,Leriche,Amélie,1980,Best Sound,53rd,no
+Jean,Umansky,Amélie,1980,Best Sound,53rd,no
+Christopher,Boyes,The Lord of the Rings: The Fellowship of the Ring,1980,Best Sound,53rd,no
+Michael,Semanick,The Lord of the Rings: The Fellowship of the Ring,1980,Best Sound,53rd,no
+Gethin,Creagh,The Lord of the Rings: The Fellowship of the Ring,1980,Best Sound,53rd,no
+Hammond,Peek,The Lord of the Rings: The Fellowship of the Ring,1980,Best Sound,53rd,no
+Andy,Nelson,Moulin Rouge!,1980,Best Sound,53rd,no
+Anna,Behlmer,Moulin Rouge!,1980,Best Sound,53rd,no
+Roger,Savage,Moulin Rouge!,1980,Best Sound,53rd,no
+Guntis,Sics,Moulin Rouge!,1980,Best Sound,53rd,no
+Kevin,O'Connell,Pearl Harbor,1980,Best Sound,53rd,no
+Greg,P. Russell,Pearl Harbor,1980,Best Sound,53rd,no
+Peter,J. Devlin,Pearl Harbor,1980,Best Sound,53rd,no
+George,Watters II,Pearl Harbor,1980,Best Sound,53rd,yes
+Christopher,Boyes,Pearl Harbor,1980,Best Sound,53rd,yes
+Gary,Rydstrom,"Monsters, Inc.",1980,Best Sound,53rd,no
+Michael,Silvers,"Monsters, Inc.",1980,Best Sound,53rd,no
+Michael,Minkler,Chicago,1980,Best Sound,53rd,yes
+Dominick,Tavella,Chicago,1980,Best Sound,53rd,yes
+David,Lee,Chicago,1980,Best Sound,53rd,yes
+Tom,Fleischman,Gangs of New York,1980,Best Sound,53rd,no
+Eugene,Gearty,Gangs of New York,1980,Best Sound,53rd,no
+Ivan,Sharrock,Gangs of New York,1980,Best Sound,53rd,no
+Christopher,Boyes,The Lord of the Rings: The Two Towers,1980,Best Sound,53rd,no
+Michael,Semanick,The Lord of the Rings: The Two Towers,1980,Best Sound,53rd,no
+Michael,Hedges,The Lord of the Rings: The Two Towers,1980,Best Sound,53rd,no
+Hammond,Peek,The Lord of the Rings: The Two Towers,1980,Best Sound,53rd,no
+Scott,Millan,Road to Perdition,1980,Best Sound,53rd,no
+Bob,Beemer,Road to Perdition,1980,Best Sound,53rd,no
+John,Pritchett,Road to Perdition,1980,Best Sound,53rd,no
+Kevin,O'Connell,Spider-Man,1980,Best Sound,53rd,no
+Greg,P. Russell,Spider-Man,1980,Best Sound,53rd,no
+Ed,Novick,Spider-Man,1980,Best Sound,53rd,no
+Ethan,Van der Ryn,The Lord of the Rings: The Two Towers,1980,Best Sound,53rd,yes
+Mike,Hopkins,The Lord of the Rings: The Two Towers,1980,Best Sound,53rd,yes
+Gary,Rydstrom,Minority Report,1980,Best Sound,53rd,no
+Richard,Hymns,Minority Report,1980,Best Sound,53rd,no
+Scott,A. Hecker,Road to Perdition,1980,Best Sound,53rd,no
+Christopher,Boyes,The Lord of the Rings: The Return of the King,1980,Best Sound,53rd,yes
+Michael,Semanick,The Lord of the Rings: The Return of the King,1980,Best Sound,53rd,yes
+Michael,Hedges,The Lord of the Rings: The Return of the King,1980,Best Sound,53rd,yes
+Hammond,Peek,The Lord of the Rings: The Return of the King,1980,Best Sound,53rd,yes
+Andy,Nelson,The Last Samurai,1980,Best Sound,53rd,no
+Anna,Behlmer,The Last Samurai,1980,Best Sound,53rd,no
+Jeff,Wexler,The Last Samurai,1980,Best Sound,53rd,no
+Paul,Massey,Master and Commander: The Far Side of the World,1980,Best Sound,53rd,no
+Doug,Hemphill,Master and Commander: The Far Side of the World,1980,Best Sound,53rd,no
+Art,Rochester,Master and Commander: The Far Side of the World,1980,Best Sound,53rd,no
+Christopher,Boyes,Pirates of the Caribbean: The Curse of the Black Pearl,1980,Best Sound,53rd,no
+David,Parker,Pirates of the Caribbean: The Curse of the Black Pearl,1980,Best Sound,53rd,no
+David,E. Campbell,Pirates of the Caribbean: The Curse of the Black Pearl,1980,Best Sound,53rd,no
+Lee,Orloff,Pirates of the Caribbean: The Curse of the Black Pearl,1980,Best Sound,53rd,no
+Andy,Nelson,Seabiscuit,1980,Best Sound,53rd,no
+Anna,Behlmer,Seabiscuit,1980,Best Sound,53rd,no
+Tod,A. Maitland,Seabiscuit,1980,Best Sound,53rd,no
+Richard,King,Master and Commander: The Far Side of the World,1980,Best Sound,53rd,yes
+Gary,Rydstrom,Finding Nemo,1980,Best Sound,53rd,no
+Michael,Silvers,Finding Nemo,1980,Best Sound,53rd,no
+Christopher,Boyes,Pirates of the Caribbean: The Curse of the Black Pearl,1980,Best Sound,53rd,no
+George,Watters II,Pirates of the Caribbean: The Curse of the Black Pearl,1980,Best Sound,53rd,no
+Scott,Millan,Ray,1980,Best Sound,53rd,yes
+Greg,Orloff,Ray,1980,Best Sound,53rd,yes
+Bob,Beemer,Ray,1980,Best Sound,53rd,yes
+Steve,Cantamessa,Ray,1980,Best Sound,53rd,yes
+Tom,Fleischman,The Aviator,1980,Best Sound,53rd,no
+Petur,Hliddal,The Aviator,1980,Best Sound,53rd,no
+Randy,Thom,The Incredibles,1980,Best Sound,53rd,no
+Gary,A. Rizzo,The Incredibles,1980,Best Sound,53rd,no
+Doc,Kane,The Incredibles,1980,Best Sound,53rd,no
+Randy,Thom,The Polar Express,1980,Best Sound,53rd,no
+Tom,Johnson,The Polar Express,1980,Best Sound,53rd,no
+Dennis,S. Sands,The Polar Express,1980,Best Sound,53rd,no
+William,B. Kaplan,The Polar Express,1980,Best Sound,53rd,no
+Kevin,O'Connell,Spider-Man 2,1980,Best Sound,53rd,no
+Greg,P. Russell,Spider-Man 2,1980,Best Sound,53rd,no
+Jeffrey,J. Haboush,Spider-Man 2,1980,Best Sound,53rd,no
+Joseph,Geisinger,Spider-Man 2,1980,Best Sound,53rd,no
+Randy,Thom,The Incredibles,1980,Best Sound,53rd,yes
+Michael,Silvers,The Incredibles,1980,Best Sound,53rd,yes
+Randy,Thom,The Polar Express,1980,Best Sound,53rd,no
+Dennis,Leonard,The Polar Express,1980,Best Sound,53rd,no
+Paul,N. J. Ottosson,Spider-Man 2,1980,Best Sound,53rd,no
+Christopher,Boyes,King Kong,1980,Best Sound,53rd,yes
+Michael,Semanick,King Kong,1980,Best Sound,53rd,yes
+Michael,Hedges,King Kong,1980,Best Sound,53rd,yes
+Hammond,Peek,King Kong,1980,Best Sound,53rd,yes
+Terry,Porter,"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",1980,Best Sound,53rd,no
+Dean,A. Zupancic,"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",1980,Best Sound,53rd,no
+Tony,Johnson,"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",1980,Best Sound,53rd,no
+Kevin,O'Connell,Memoirs of a Geisha,1980,Best Sound,53rd,no
+Greg,P. Russell,Memoirs of a Geisha,1980,Best Sound,53rd,no
+Rick,Kline,Memoirs of a Geisha,1980,Best Sound,53rd,no
+John,Pritchett,Memoirs of a Geisha,1980,Best Sound,53rd,no
+Paul,Massey,Walk the Line,1980,Best Sound,53rd,no
+Doug,Hemphill,Walk the Line,1980,Best Sound,53rd,no
+Peter,Kurland,Walk the Line,1980,Best Sound,53rd,no
+Andy,Nelson,War of the Worlds,1980,Best Sound,53rd,no
+Anna,Behlmer,War of the Worlds,1980,Best Sound,53rd,no
+Ron,Judkins,War of the Worlds,1980,Best Sound,53rd,no
+Mike,Hopkins,King Kong,1980,Best Sound,53rd,yes
+Ethan,Van der Ryn,King Kong,1980,Best Sound,53rd,yes
+Wylie,Stateman,Memoirs of a Geisha,1980,Best Sound,53rd,no
+Richard,King,War of the Worlds,1980,Best Sound,53rd,no
+Michael,Minkler,Dreamgirls,1980,Best Sound,53rd,yes
+Bob,Beemer,Dreamgirls,1980,Best Sound,53rd,yes
+Willie,D. Burton,Dreamgirls,1980,Best Sound,53rd,yes
+Kevin,O'Connell,Apocalypto,1980,Best Sound,53rd,no
+Greg,P. Russell,Apocalypto,1980,Best Sound,53rd,no
+Fernando,Cámara,Apocalypto,1980,Best Sound,53rd,no
+Andy,Nelson,Blood Diamond,1980,Best Sound,53rd,no
+Anna,Behlmer,Blood Diamond,1980,Best Sound,53rd,no
+Ivan,Sharrock,Blood Diamond,1980,Best Sound,53rd,no
+John,T. Reitz,Flags of Our Fathers,1980,Best Sound,53rd,no
+David,E. Campbell,Flags of Our Fathers,1980,Best Sound,53rd,no
+Gregg,Rudloff,Flags of Our Fathers,1980,Best Sound,53rd,no
+Walt,Martin,Flags of Our Fathers,1980,Best Sound,53rd,no
+Christopher,Boyes,Pirates of the Caribbean: Dead Man's Chest,1980,Best Sound,53rd,no
+Paul,Massey,Pirates of the Caribbean: Dead Man's Chest,1980,Best Sound,53rd,no
+Lee,Orloff,Pirates of the Caribbean: Dead Man's Chest,1980,Best Sound,53rd,no
+Alan,Robert Murray,Letters from Iwo Jima,1980,Best Sound,53rd,yes
+Bub,Asman,Letters from Iwo Jima,1980,Best Sound,53rd,yes
+Sean,McCormack,Apocalypto,1980,Best Sound,53rd,no
+Kami,Asgar,Apocalypto,1980,Best Sound,53rd,no
+Lon,Bender,Blood Diamond,1980,Best Sound,53rd,no
+Alan,Robert Murray,Flags of Our Fathers,1980,Best Sound,53rd,no
+Bub,Asman,Flags of Our Fathers,1980,Best Sound,53rd,no
+Christopher,Boyes,Pirates of the Caribbean: Dead Man's Chest,1980,Best Sound,53rd,no
+George,Watters II,Pirates of the Caribbean: Dead Man's Chest,1980,Best Sound,53rd,no
+Scott,Millan,The Bourne Ultimatum,1980,Best Sound,53rd,yes
+David,Parker,The Bourne Ultimatum,1980,Best Sound,53rd,yes
+Kirk,Francis,The Bourne Ultimatum,1980,Best Sound,53rd,yes
+Skip,Lievsay,No Country for Old Men,1980,Best Sound,53rd,no
+Craig,Berkey,No Country for Old Men,1980,Best Sound,53rd,no
+Greg,Orloff,No Country for Old Men,1980,Best Sound,53rd,no
+Peter,Kurland,No Country for Old Men,1980,Best Sound,53rd,no
+Randy,Thom,Ratatouille,1980,Best Sound,53rd,no
+Michael,Semanick,Ratatouille,1980,Best Sound,53rd,no
+Doc,Kane,Ratatouille,1980,Best Sound,53rd,no
+Paul,Massey,3:10 to Yuma,1980,Best Sound,53rd,no
+David,Giammarco,3:10 to Yuma,1980,Best Sound,53rd,no
+Jim,Stuebe,3:10 to Yuma,1980,Best Sound,53rd,no
+Kevin,O'Connell,Transformers,1980,Best Sound,53rd,no
+Greg,P. Russell,Transformers,1980,Best Sound,53rd,no
+Peter,J. Devlin,Transformers,1980,Best Sound,53rd,no
+Karen,Baker Landers,The Bourne Ultimatum,1980,Best Sound,53rd,yes
+Per,Hallberg,The Bourne Ultimatum,1980,Best Sound,53rd,yes
+Skip,Lievsay,No Country for Old Men,1980,Best Sound,53rd,no
+Randy,Thom,Ratatouille,1980,Best Sound,53rd,no
+Michael,Silvers,Ratatouille,1980,Best Sound,53rd,no
+Christopher,Scarabosio,There Will Be Blood,1980,Best Sound,53rd,no
+Matthew,Wood,There Will Be Blood,1980,Best Sound,53rd,no
+Ethan,Van der Ryn,Transformers,1980,Best Sound,53rd,no
+Mike,Hopkins,Transformers,1980,Best Sound,53rd,no
+Ian,Tapp,Slumdog Millionaire,1980,Best Sound,53rd,yes
+Richard,Pryke,Slumdog Millionaire,1980,Best Sound,53rd,yes
+Resul,Pookutty,Slumdog Millionaire,1980,Best Sound,53rd,yes
+Ren,Klyce,The Curious Case of Benjamin Button,1980,Best Sound,53rd,no
+Michael,Semanick,The Curious Case of Benjamin Button,1980,Best Sound,53rd,no
+David,Parker,The Curious Case of Benjamin Button,1980,Best Sound,53rd,no
+Mark,Weingarten,The Curious Case of Benjamin Button,1980,Best Sound,53rd,no
+Lora,Hirschberg,The Dark Knight,1980,Best Sound,53rd,no
+Gary,A. Rizzo,The Dark Knight,1980,Best Sound,53rd,no
+Ed,Novick,The Dark Knight,1980,Best Sound,53rd,no
+Tom,Myers,WALL-E,1980,Best Sound,53rd,no
+Michael,Semanick,WALL-E,1980,Best Sound,53rd,no
+Ben,Burtt,WALL-E,1980,Best Sound,53rd,no
+Chris,Jenkins,Wanted,1980,Best Sound,53rd,no
+Frank,A. Montaño,Wanted,1980,Best Sound,53rd,no
+Petr,Forejt,Wanted,1980,Best Sound,53rd,no
+Richard,King,The Dark Knight,1980,Best Sound,53rd,yes
+Christopher,Boyes,Iron Man,1980,Best Sound,53rd,no
+Frank,E. Eulner,Iron Man,1980,Best Sound,53rd,no
+Glenn,Freemantle,Slumdog Millionaire,1980,Best Sound,53rd,no
+Tom,Sayers,Slumdog Millionaire,1980,Best Sound,53rd,no
+Ben,Burtt,WALL-E,1980,Best Sound,53rd,no
+Matthew,Wood,WALL-E,1980,Best Sound,53rd,no
+Wylie,Stateman,Wanted,1980,Best Sound,53rd,no
+Paul,N. J. Ottosson,The Hurt Locker,1980,Best Sound,53rd,yes
+Ray,Beckett,The Hurt Locker,1980,Best Sound,53rd,yes
+Christopher,Boyes,Avatar,1980,Best Sound,53rd,no
+Gary,Summers,Avatar,1980,Best Sound,53rd,no
+Andy,Nelson,Avatar,1980,Best Sound,53rd,no
+Tony,Johnson,Avatar,1980,Best Sound,53rd,no
+Michael,Minkler,Inglourious Basterds,1980,Best Sound,53rd,no
+Tony,Lamberti,Inglourious Basterds,1980,Best Sound,53rd,no
+Mark,Ulano,Inglourious Basterds,1980,Best Sound,53rd,no
+Andy,Nelson,Star Trek,1980,Best Sound,53rd,no
+Anna,Behlmer,Star Trek,1980,Best Sound,53rd,no
+Peter,J. Devlin,Star Trek,1980,Best Sound,53rd,no
+Greg,P. Russell,Transformers: Revenge of the Fallen,1980,Best Sound,53rd,no
+Gary,Summers,Transformers: Revenge of the Fallen,1980,Best Sound,53rd,no
+Geoffrey,Patterson,Transformers: Revenge of the Fallen,1980,Best Sound,53rd,no
+Paul,N. J. Ottosson,The Hurt Locker,1980,Best Sound,53rd,yes
+Christopher,Boyes,Avatar,1980,Best Sound,53rd,no
+Gwendolyn,Yates Whittle,Avatar,1980,Best Sound,53rd,no
+Wylie,Stateman,Inglourious Basterds,1980,Best Sound,53rd,no
+Mark,P. Stoeckinger,Star Trek,1980,Best Sound,53rd,no
+Alan,Rankin,Star Trek,1980,Best Sound,53rd,no
+Tom,Myers,Up,1980,Best Sound,53rd,no
+Michael,Silvers,Up,1980,Best Sound,53rd,no
+Lora,Hirschberg,Inception,1980,Best Sound,53rd,yes
+Gary,A. Rizzo,Inception,1980,Best Sound,53rd,yes
+Ed,Novick,Inception,1980,Best Sound,53rd,yes
+Paul,Hamblin,The King's Speech,1980,Best Sound,53rd,no
+Martin,Jensen,The King's Speech,1980,Best Sound,53rd,no
+John,Midgley,The King's Speech,1980,Best Sound,53rd,no
+Jeffrey,J. Haboush,Salt,1980,Best Sound,53rd,no
+Greg,P. Russell,Salt,1980,Best Sound,53rd,no
+Scott,Millan,Salt,1980,Best Sound,53rd,no
+William,Sarokin,Salt,1980,Best Sound,53rd,no
+Ren,Klyce,The Social Network,1980,Best Sound,53rd,no
+Michael,Semanick,The Social Network,1980,Best Sound,53rd,no
+David,Parker,The Social Network,1980,Best Sound,53rd,no
+Mark,Weingarten,The Social Network,1980,Best Sound,53rd,no
+Skip,Lievsay,True Grit,1980,Best Sound,53rd,no
+Craig,Berkey,True Grit,1980,Best Sound,53rd,no
+Greg,Orloff,True Grit,1980,Best Sound,53rd,no
+Peter,Kurland,True Grit,1980,Best Sound,53rd,no
+Richard,King,Inception,1980,Best Sound,53rd,yes
+Tom,Myers,Toy Story 3,1980,Best Sound,53rd,no
+Michael,Silvers,Toy Story 3,1980,Best Sound,53rd,no
+Gwendolyn,Yates Whittle,Tron: Legacy,1980,Best Sound,53rd,no
+Addison,Teague,Tron: Legacy,1980,Best Sound,53rd,no
+Skip,Lievsay,True Grit,1980,Best Sound,53rd,no
+Craig,Berkey,True Grit,1980,Best Sound,53rd,no
+Mark,P. Stoeckinger,Unstoppable,1980,Best Sound,53rd,no
+Tom,Fleischman,Hugo,1980,Best Sound,53rd,yes
+John,Midgley,Hugo,1980,Best Sound,53rd,yes
+Ren,Klyce,The Girl with the Dragon Tattoo,1980,Best Sound,53rd,no
+Michael,Semanick,The Girl with the Dragon Tattoo,1980,Best Sound,53rd,no
+David,Parker,The Girl with the Dragon Tattoo,1980,Best Sound,53rd,no
+Bo,Persson,The Girl with the Dragon Tattoo,1980,Best Sound,53rd,no
+Deb,Adair,Moneyball,1980,Best Sound,53rd,no
+Ron,Bochar,Moneyball,1980,Best Sound,53rd,no
+Dave,Giammarco,Moneyball,1980,Best Sound,53rd,no
+Ed,Novick,Moneyball,1980,Best Sound,53rd,no
+Greg,P. Russell,Transformers: Dark of the Moon,1980,Best Sound,53rd,no
+Gary,Summers,Transformers: Dark of the Moon,1980,Best Sound,53rd,no
+Jeffrey,J. Haboush,Transformers: Dark of the Moon,1980,Best Sound,53rd,no
+Peter,J. Devlin,Transformers: Dark of the Moon,1980,Best Sound,53rd,no
+Gary,Rydstrom,War Horse,1980,Best Sound,53rd,no
+Tom,Johnson,War Horse,1980,Best Sound,53rd,no
+Andy,Nelson,War Horse,1980,Best Sound,53rd,no
+Stuart,Wilson,War Horse,1980,Best Sound,53rd,no
+Philip,Stockton,Hugo,1980,Best Sound,53rd,yes
+Eugene,Gearty,Hugo,1980,Best Sound,53rd,yes
+Lon,Bender,Drive,1980,Best Sound,53rd,no
+Victor,Ray Ennis,Drive,1980,Best Sound,53rd,no
+Ren,Klyce,The Girl with the Dragon Tattoo,1980,Best Sound,53rd,no
+Ethan,Van der Ryn,Transformers: Dark of the Moon,1980,Best Sound,53rd,no
+Erik,Aadahl,Transformers: Dark of the Moon,1980,Best Sound,53rd,no
+Gary,Rydstrom,War Horse,1980,Best Sound,53rd,no
+Richard,Hymns,War Horse,1980,Best Sound,53rd,no
+Andy,Nelson,Les Misérables,1980,Best Sound,53rd,yes
+Mark,Paterson,Les Misérables,1980,Best Sound,53rd,yes
+Simon,Hayes,Les Misérables,1980,Best Sound,53rd,yes
+John,T. Reitz,Argo,1980,Best Sound,53rd,no
+Gregg,Rudloff,Argo,1980,Best Sound,53rd,no
+Jose,Antonio Garcia,Argo,1980,Best Sound,53rd,no
+Ron,Bartlett,Life of Pi,1980,Best Sound,53rd,no
+D.M.,Hemphill,Life of Pi,1980,Best Sound,53rd,no
+Drew,Kunin,Life of Pi,1980,Best Sound,53rd,no
+Gary,Rydstrom,Lincoln,1980,Best Sound,53rd,no
+Andy,Nelson,Lincoln,1980,Best Sound,53rd,no
+Ron,Judkins,Lincoln,1980,Best Sound,53rd,no
+Scott,Millan,Skyfall,1980,Best Sound,53rd,no
+Greg,P. Russell,Skyfall,1980,Best Sound,53rd,no
+Stuart,Wilson,Skyfall,1980,Best Sound,53rd,no
+Per,Hallberg,Skyfall,1980,Best Sound,53rd,yes
+Karen,Baker Landers,Skyfall,1980,Best Sound,53rd,yes
+Paul,N. J. Ottosson,Zero Dark Thirty,1980,Best Sound,53rd,yes
+Erik,Aadahl,Argo,1980,Best Sound,53rd,no
+Ethan,Van der Ryn,Argo,1980,Best Sound,53rd,no
+Wylie,Stateman,Django Unchained,1980,Best Sound,53rd,no
+Eugene,Gearty,Life of Pi,1980,Best Sound,53rd,no
+Philip,Stockton,Life of Pi,1980,Best Sound,53rd,no
+Skip,Lievsay,Gravity,1980,Best Sound,53rd,yes
+Niv,Adiri,Gravity,1980,Best Sound,53rd,yes
+Christopher,Benstead,Gravity,1980,Best Sound,53rd,yes
+Chris,Munro,Gravity,1980,Best Sound,53rd,yes
+Chris,Burdon,Captain Phillips,1980,Best Sound,53rd,no
+Mark,Taylor,Captain Phillips,1980,Best Sound,53rd,no
+Mike,Prestwood Smith,Captain Phillips,1980,Best Sound,53rd,no
+Chris,Munro,Captain Phillips,1980,Best Sound,53rd,no
+Christopher,Boyes,The Hobbit: The Desolation of Smaug,1980,Best Sound,53rd,no
+Michael,Semanick,The Hobbit: The Desolation of Smaug,1980,Best Sound,53rd,no
+Michael,Hedges,The Hobbit: The Desolation of Smaug,1980,Best Sound,53rd,no
+Tony,Johnson,The Hobbit: The Desolation of Smaug,1980,Best Sound,53rd,no
+Skip,Lievsay,Inside Llewyn Davis,1980,Best Sound,53rd,no
+Greg,Orloff,Inside Llewyn Davis,1980,Best Sound,53rd,no
+Peter,Kurland,Inside Llewyn Davis,1980,Best Sound,53rd,no
+Andy,Koyama,Lone Survivor,1980,Best Sound,53rd,no
+Beau,Borders,Lone Survivor,1980,Best Sound,53rd,no
+David,Brownlow,Lone Survivor,1980,Best Sound,53rd,no
+Glenn,Freemantle,Gravity,1980,Best Sound,53rd,yes
+Steve,Boeddeker,All Is Lost,1980,Best Sound,53rd,no
+Richard,Hymns,All Is Lost,1980,Best Sound,53rd,no
+Oliver,Tarney,Captain Phillips,1980,Best Sound,53rd,no
+Brent,Burge,The Hobbit: The Desolation of Smaug,1980,Best Sound,53rd,no
+Chris,Ward,The Hobbit: The Desolation of Smaug,1980,Best Sound,53rd,no
+Wylie,Stateman,Lone Survivor,1980,Best Sound,53rd,no
+Craig,Mann,Whiplash,1980,Best Sound,53rd,yes
+Ben,Wilkins,Whiplash,1980,Best Sound,53rd,yes
+Thomas,Curley,Whiplash,1980,Best Sound,53rd,yes
+John,T. Reitz,American Sniper,1980,Best Sound,53rd,no
+Gregg,Rudloff,American Sniper,1980,Best Sound,53rd,no
+Walt,Martin,American Sniper,1980,Best Sound,53rd,no
+Jon,Taylor,Birdman or (The Unexpected Virtue of Ignorance),1980,Best Sound,53rd,no
+Frank,A. Montaño,Birdman or (The Unexpected Virtue of Ignorance),1980,Best Sound,53rd,no
+Thomas,Varga,Birdman or (The Unexpected Virtue of Ignorance),1980,Best Sound,53rd,no
+Gary,A. Rizzo,Interstellar,1980,Best Sound,53rd,no
+Gregg,Landaker,Interstellar,1980,Best Sound,53rd,no
+Mark,Weingarten,Interstellar,1980,Best Sound,53rd,no
+Jon,Taylor,Unbroken,1980,Best Sound,53rd,no
+Frank,A. Montaño,Unbroken,1980,Best Sound,53rd,no
+David,Lee,Unbroken,1980,Best Sound,53rd,no
+Alan,Robert Murray,American Sniper,1980,Best Sound,53rd,yes
+Bub,Asman,American Sniper,1980,Best Sound,53rd,yes
+Martin,Hernández,Birdman or (The Unexpected Virtue of Ignorance),1980,Best Sound,53rd,no
+Aaron,Glascock,Birdman or (The Unexpected Virtue of Ignorance),1980,Best Sound,53rd,no
+Brent,Burge,The Hobbit: The Battle of the Five Armies,1980,Best Sound,53rd,no
+Jason,Canovas,The Hobbit: The Battle of the Five Armies,1980,Best Sound,53rd,no
+Richard,King,Interstellar,1980,Best Sound,53rd,no
+Becky,Sullivan,Unbroken,1980,Best Sound,53rd,no
+Andrew,DeCristofaro,Unbroken,1980,Best Sound,53rd,no
+Chris,Jenkins,Mad Max: Fury Road,1980,Best Sound,53rd,yes
+Gregg,Rudloff,Mad Max: Fury Road,1980,Best Sound,53rd,yes
+Ben,Osmo,Mad Max: Fury Road,1980,Best Sound,53rd,yes
+Gary,Rydstrom,Bridge of Spies,1980,Best Sound,53rd,no
+Andy,Nelson,Bridge of Spies,1980,Best Sound,53rd,no
+Drew,Kunin,Bridge of Spies,1980,Best Sound,53rd,no
+Paul,Massey,The Martian,1980,Best Sound,53rd,no
+Mark,Taylor,The Martian,1980,Best Sound,53rd,no
+Mac,Ruth,The Martian,1980,Best Sound,53rd,no
+Randy,Thom,The Revenant,1980,Best Sound,53rd,no
+Jon,Taylor,The Revenant,1980,Best Sound,53rd,no
+Frank,A. Montaño,The Revenant,1980,Best Sound,53rd,no
+Chris,Duesterdiek,The Revenant,1980,Best Sound,53rd,no
+Christopher,Scarabosio,Star Wars: The Force Awakens,1980,Best Sound,53rd,no
+Andy,Nelson,Star Wars: The Force Awakens,1980,Best Sound,53rd,no
+Stuart,Wilson,Star Wars: The Force Awakens,1980,Best Sound,53rd,no
+Mark,Mangini,Mad Max: Fury Road,1980,Best Sound,53rd,yes
+David,White,Mad Max: Fury Road,1980,Best Sound,53rd,yes
+Oliver,Tarney,The Martian,1980,Best Sound,53rd,no
+Lon,Bender,The Revenant,1980,Best Sound,53rd,no
+Martin,Hernández,The Revenant,1980,Best Sound,53rd,no
+Alan,Robert Murray,Sicario,1980,Best Sound,53rd,no
+David,Acord,Star Wars: The Force Awakens,1980,Best Sound,53rd,no
+Matthew,Wood,Star Wars: The Force Awakens,1980,Best Sound,53rd,no
+Kevin,O'Connell,Hacksaw Ridge,1980,Best Sound,53rd,yes
+Andy,Wright,Hacksaw Ridge,1980,Best Sound,53rd,yes
+Robert,Mackenzie,Hacksaw Ridge,1980,Best Sound,53rd,yes
+Peter,Grace,Hacksaw Ridge,1980,Best Sound,53rd,yes
+Bernard,Gariépy Strobl,Arrival,1980,Best Sound,53rd,no
+Claude,La Haye,Arrival,1980,Best Sound,53rd,no
+Andy,Nelson,La La Land,1980,Best Sound,53rd,no
+Ai-Ling,Lee,La La Land,1980,Best Sound,53rd,no
+Steven,A. Morrow,La La Land,1980,Best Sound,53rd,no
+Christopher,Scarabosio,Rogue One: A Star Wars Story,1980,Best Sound,53rd,no
+David,Parker,Rogue One: A Star Wars Story,1980,Best Sound,53rd,no
+Stuart,Wilson,Rogue One: A Star Wars Story,1980,Best Sound,53rd,no
+Gary,Summers,13 Hours: The Secret Soldiers of Benghazi,1980,Best Sound,53rd,no
+Jeffrey,J. Haboush,13 Hours: The Secret Soldiers of Benghazi,1980,Best Sound,53rd,no
+Mac,Ruth,13 Hours: The Secret Soldiers of Benghazi,1980,Best Sound,53rd,no
+Sylvain,Bellemare,Arrival,1980,Best Sound,53rd,yes
+Wylie,Stateman,Deepwater Horizon,1980,Best Sound,53rd,no
+Renée,Tondelli,Deepwater Horizon,1980,Best Sound,53rd,no
+Robert,Mackenzie,Hacksaw Ridge,1980,Best Sound,53rd,no
+Andy,Wright,Hacksaw Ridge,1980,Best Sound,53rd,no
+Ai-Ling,Lee,La La Land,1980,Best Sound,53rd,no
+Mildred,Iatrou Morgan,La La Land,1980,Best Sound,53rd,no
+Alan,Robert Murray,Sully,1980,Best Sound,53rd,no
+Bub,Asman,Sully,1980,Best Sound,53rd,no
+Gregg,Landaker,Dunkirk,1980,Best Sound,53rd,yes
+Gary,A. Rizzo,Dunkirk,1980,Best Sound,53rd,yes
+Mark,Weingarten,Dunkirk,1980,Best Sound,53rd,yes
+Julian,Slater,Baby Driver,1980,Best Sound,53rd,no
+Tim,Cavagin,Baby Driver,1980,Best Sound,53rd,no
+Mary,H. Ellis,Baby Driver,1980,Best Sound,53rd,no
+Ron,Bartlett,Blade Runner 2049,1980,Best Sound,53rd,no
+Doug,Hemphill,Blade Runner 2049,1980,Best Sound,53rd,no
+Mac,Ruth,Blade Runner 2049,1980,Best Sound,53rd,no
+Christian,Cooke,The Shape of Water,1980,Best Sound,53rd,no
+Brad,Zoern,The Shape of Water,1980,Best Sound,53rd,no
+Glen,Gauthier,The Shape of Water,1980,Best Sound,53rd,no
+Ren,Klyce,Star Wars: The Last Jedi,1980,Best Sound,53rd,no
+Michael,Semanick,Star Wars: The Last Jedi,1980,Best Sound,53rd,no
+David,Parker,Star Wars: The Last Jedi,1980,Best Sound,53rd,no
+Stuart,Wilson,Star Wars: The Last Jedi,1980,Best Sound,53rd,no
+Richard,King,Dunkirk,1980,Best Sound,53rd,yes
+Alex,Gibson,Dunkirk,1980,Best Sound,53rd,yes
+Julian,Slater,Baby Driver,1980,Best Sound,53rd,no
+Mark,Mangini,Blade Runner 2049,1980,Best Sound,53rd,no
+Theo,Green,Blade Runner 2049,1980,Best Sound,53rd,no
+Nathan,Robitaille,The Shape of Water,1980,Best Sound,53rd,no
+Nelson,Ferreira,The Shape of Water,1980,Best Sound,53rd,no
+Ren,Klyce,Star Wars: The Last Jedi,1980,Best Sound,53rd,no
+Matthew,Wood,Star Wars: The Last Jedi,1980,Best Sound,53rd,no
+Paul,Massey,Bohemian Rhapsody,1980,Best Sound,53rd,yes
+Tim,Cavagin,Bohemian Rhapsody,1980,Best Sound,53rd,yes
+John,Casali,Bohemian Rhapsody,1980,Best Sound,53rd,yes
+Steve,Boeddeker,Black Panther,1980,Best Sound,53rd,no
+Brandon,Proctor,Black Panther,1980,Best Sound,53rd,no
+Peter,J. Devlin,Black Panther,1980,Best Sound,53rd,no
+Jon,Taylor,First Man,1980,Best Sound,53rd,no
+Frank,A. Montaño,First Man,1980,Best Sound,53rd,no
+Ai-Ling,Lee,First Man,1980,Best Sound,53rd,no
+Mary,H. Ellis,First Man,1980,Best Sound,53rd,no
+Skip,Lievsay,Roma,1980,Best Sound,53rd,no
+Craig,Henighan,Roma,1980,Best Sound,53rd,no
+José,Antonio Garcia,Roma,1980,Best Sound,53rd,no
+Tom,Ozanich,A Star Is Born,1980,Best Sound,53rd,no
+Dean,Zupancic,A Star Is Born,1980,Best Sound,53rd,no
+Jason,Ruder,A Star Is Born,1980,Best Sound,53rd,no
+Steve,A. Morrow,A Star Is Born,1980,Best Sound,53rd,no
+John,Warhurst,Bohemian Rhapsody,1980,Best Sound,53rd,yes
+Nina,Hartstone,Bohemian Rhapsody,1980,Best Sound,53rd,yes
+Steve,Boeddeker,Black Panther,1980,Best Sound,53rd,no
+Benjamin,A. Burtt,Black Panther,1980,Best Sound,53rd,no
+Ai-Ling,Lee,First Man,1980,Best Sound,53rd,no
+Mildred,Iatrou Morgan,First Man,1980,Best Sound,53rd,no
+Ethan,Van der Ryn,A Quiet Place,1980,Best Sound,53rd,no
+Erik,Aadahl,A Quiet Place,1980,Best Sound,53rd,no
+Skip,Lievsay,Roma,1980,Best Sound,53rd,no
+Sergio,Díaz,Roma,1980,Best Sound,53rd,no
+Mark,Taylor,1917,1980,Best Sound,53rd,yes
+Stuart,Wilson,1917,1980,Best Sound,53rd,yes
+Gary,Rydstrom,Ad Astra,1980,Best Sound,53rd,no
+Tom,Johnson,Ad Astra,1980,Best Sound,53rd,no
+Mark,Ulano,Ad Astra,1980,Best Sound,53rd,no
+Paul,Massey,Ford v Ferrari,1980,Best Sound,53rd,no
+David,Giammarco,Ford v Ferrari,1980,Best Sound,53rd,no
+Steven,A. Morrow,Ford v Ferrari,1980,Best Sound,53rd,no
+Tom,Ozanich,Joker,1980,Best Sound,53rd,no
+Dean,Zupancic,Joker,1980,Best Sound,53rd,no
+Tod,A. Maitland,Joker,1980,Best Sound,53rd,no
+Michael,Minkler,Once Upon a Time in Hollywood,1980,Best Sound,53rd,no
+Christian,P. Minkler,Once Upon a Time in Hollywood,1980,Best Sound,53rd,no
+Mark,Ulano,Once Upon a Time in Hollywood,1980,Best Sound,53rd,no
+Donald,Sylvester,Ford v Ferrari,1980,Best Sound,53rd,yes
+Alan,Robert Murray,Joker,1980,Best Sound,53rd,no
+Oliver,Tarney,1917,1980,Best Sound,53rd,no
+Rachael,Tate,1917,1980,Best Sound,53rd,no
+Wylie,Stateman,Once Upon a Time in Hollywood,1980,Best Sound,53rd,no
+David,Acord,Star Wars: The Rise of Skywalker,1980,Best Sound,53rd,no
+Matthew,Wood,Star Wars: The Rise of Skywalker,1980,Best Sound,53rd,no
+Nicolas,Becker,Sound of Metal,2020,Best Sound,93rd,yes
+Jaime,Baksht,Sound of Metal,2020,Best Sound,93rd,yes
+Michelle,Couttolenc,Sound of Metal,2020,Best Sound,93rd,yes
+Carlos,Cortés Navarrete,Sound of Metal,2020,Best Sound,93rd,yes
+Phillip,Bladh,Sound of Metal,2020,Best Sound,93rd,yes
+Warren,Shaw,Greyhound,2020,Best Sound,93rd,no
+Michael,Minkler,Greyhound,2020,Best Sound,93rd,no
+Beau,Borders,Greyhound,2020,Best Sound,93rd,no
+David,Wyman,Greyhound,2020,Best Sound,93rd,no
+Ren,Klyce,Mank,2020,Best Sound,93rd,no
+Jeremy,Molod,Mank,2020,Best Sound,93rd,no
+David,Parker,Mank,2020,Best Sound,93rd,no
+Nathan,Nance,Mank,2020,Best Sound,93rd,no
+Drew,Kunin,Mank,2020,Best Sound,93rd,no
+Oliver,Tarney,News of the World,2020,Best Sound,93rd,no
+Mike,Prestwood Smith,News of the World,2020,Best Sound,93rd,no
+William,Miller,News of the World,2020,Best Sound,93rd,no
+John,Pritchett,News of the World,2020,Best Sound,93rd,no
+Ren,Klyce,Soul,2020,Best Sound,93rd,no
+Coya,Elliott,Soul,2020,Best Sound,93rd,no
+David,Parker,Soul,2020,Best Sound,93rd,no
+Mac,Ruth,Dune,2021,Best Sound,94th,yes
+Mark,Mangini,Dune,2021,Best Sound,94th,yes
+Theo,Green,Dune,2021,Best Sound,94th,yes
+Doug,Hemphill,Dune,2021,Best Sound,94th,yes
+Ron,Bartlett,Dune,2021,Best Sound,94th,yes
+Denise,Yarde,Belfast,2021,Best Sound,94th,no
+Simon,Chase,Belfast,2021,Best Sound,94th,no
+James,Mather,Belfast,2021,Best Sound,94th,no
+Niv,Adiri,Belfast,2021,Best Sound,94th,no
+Simon,Hayes,No Time to Die,2021,Best Sound,94th,no
+Oliver,Tarney,No Time to Die,2021,Best Sound,94th,no
+James,Harrison,No Time to Die,2021,Best Sound,94th,no
+Paul,Massey,No Time to Die,2021,Best Sound,94th,no
+Mark,Taylor,No Time to Die,2021,Best Sound,94th,no
+Richard,Flynn,The Power of the Dog,2021,Best Sound,94th,no
+Robert,Mackenzie,The Power of the Dog,2021,Best Sound,94th,no
+Tara,Webb,The Power of the Dog,2021,Best Sound,94th,no
+Tod,A. Maitland,West Side Story,2021,Best Sound,94th,no
+Gary,Rydstrom,West Side Story,2021,Best Sound,94th,no
+Brian,Chumney,West Side Story,2021,Best Sound,94th,no
+Andy,Nelson,West Side Story,2021,Best Sound,94th,no
+Shawn,Murphy,West Side Story,2021,Best Sound,94th,no
+Mark,Weingarten,Top Gun: Maverick,2022,Best Sound,95th,yes
+James,H. Mather,Top Gun: Maverick,2022,Best Sound,95th,yes
+Al,Nelson,Top Gun: Maverick,2022,Best Sound,95th,yes
+Chris,Burdon,Top Gun: Maverick,2022,Best Sound,95th,yes
+Mark,Taylor,Top Gun: Maverick,2022,Best Sound,95th,yes
+Viktor,Prášil,All Quiet on the Western Front,2022,Best Sound,95th,no
+Frank,Kruse,All Quiet on the Western Front,2022,Best Sound,95th,no
+Markus,Stemler,All Quiet on the Western Front,2022,Best Sound,95th,no
+Lars,Ginzel,All Quiet on the Western Front,2022,Best Sound,95th,no
+Stefan,Korte,All Quiet on the Western Front,2022,Best Sound,95th,no
+Julian,Howarth,Avatar: The Way of Water,2022,Best Sound,95th,no
+Gwendolyn,Yates Whittle,Avatar: The Way of Water,2022,Best Sound,95th,no
+Dick,Bernstein,Avatar: The Way of Water,2022,Best Sound,95th,no
+Christopher,Boyes,Avatar: The Way of Water,2022,Best Sound,95th,no
+Gary,Summers,Avatar: The Way of Water,2022,Best Sound,95th,no
+Michael,Hedges,Avatar: The Way of Water,2022,Best Sound,95th,no
+Stuart,Wilson,The Batman,2022,Best Sound,95th,no
+William,Files,The Batman,2022,Best Sound,95th,no
+Douglas,Murray,The Batman,2022,Best Sound,95th,no
+Andy,Nelson,The Batman,2022,Best Sound,95th,no
+David,Lee,Elvis,2022,Best Sound,95th,no
+Wayne,Pashley,Elvis,2022,Best Sound,95th,no
+Andy,Nelson,Elvis,2022,Best Sound,95th,no
+Michael,Keller,Elvis,2022,Best Sound,95th,no
+Tarn,Willers,The Zone of Interest,2023,Best Sound,96th,yes
+Johnnie,Burn,The Zone of Interest,2023,Best Sound,96th,yes
+Ian,Voigt,The Creator,2023,Best Sound,96th,no
+Erik,Aadahl,The Creator,2023,Best Sound,96th,no
+Ethan,Van der Ryn,The Creator,2023,Best Sound,96th,no
+Tom,Ozanich,The Creator,2023,Best Sound,96th,no
+Dean,Zupancic,The Creator,2023,Best Sound,96th,no
+Steven,A. Morrow,Maestro,2023,Best Sound,96th,no
+Richard,King,Maestro,2023,Best Sound,96th,no
+Jason,Ruder,Maestro,2023,Best Sound,96th,no
+Tom,Ozanich,Maestro,2023,Best Sound,96th,no
+Dean,Zupancic,Maestro,2023,Best Sound,96th,no
+Chris,Munro,Mission: Impossible – Dead Reckoning Part One,2023,Best Sound,96th,no
+James,H. Mather,Mission: Impossible – Dead Reckoning Part One,2023,Best Sound,96th,no
+Chris,Burdon,Mission: Impossible – Dead Reckoning Part One,2023,Best Sound,96th,no
+Mark,Taylor,Mission: Impossible – Dead Reckoning Part One,2023,Best Sound,96th,no
+Willie,Burton,Oppenheimer,2023,Best Sound,96th,no
+Richard,King,Oppenheimer,2023,Best Sound,96th,no
+Gary,A. Rizzo,Oppenheimer,2023,Best Sound,96th,no
+Kevin,O'Connell,Oppenheimer,2023,Best Sound,96th,no
+Gareth,John,Dune: Part Two,2024,Best Sound,97th,yes
+Richard,King,Dune: Part Two,2024,Best Sound,97th,yes
+Ron,Bartlett,Dune: Part Two,2024,Best Sound,97th,yes
+Doug,Hemphill,Dune: Part Two,2024,Best Sound,97th,yes
+Tod,A. Maitland,A Complete Unknown,2024,Best Sound,97th,no
+Donald,Sylvester,A Complete Unknown,2024,Best Sound,97th,no
+Ted,Caplan,A Complete Unknown,2024,Best Sound,97th,no
+Paul,Massey,A Complete Unknown,2024,Best Sound,97th,no
+David,Giammarco,A Complete Unknown,2024,Best Sound,97th,no
+Erwan,Kerzanet,Emilia Pérez,2024,Best Sound,97th,no
+Aymeric,Devoldère,Emilia Pérez,2024,Best Sound,97th,no
+Maxence,Dussère,Emilia Pérez,2024,Best Sound,97th,no
+Cyril,Holtz,Emilia Pérez,2024,Best Sound,97th,no
+Niels,Barletta,Emilia Pérez,2024,Best Sound,97th,no
+Simon,Hayes,Wicked,2024,Best Sound,97th,no
+Nancy,Nugent Title,Wicked,2024,Best Sound,97th,no
+Jack,Dolman,Wicked,2024,Best Sound,97th,no
+Andy,Nelson,Wicked,2024,Best Sound,97th,no
+Randy,Thom,The Wild Robot,2024,Best Sound,97th,no
+Brian,Chumney,The Wild Robot,2024,Best Sound,97th,no
+Gary,A. Rizzo,The Wild Robot,2024,Best Sound,97th,no
+Leff,Lefferts,The Wild Robot,2024,Best Sound,97th,no
