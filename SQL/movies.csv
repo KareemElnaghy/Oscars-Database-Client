@@ -1123,7 +1123,7 @@ Paisan,1946,,126,56000000,100000000
 Passport to Pimlico,1949,English,84,276787,104444
 Roller Derby Girl,1949,English,10,,
 Sand,1949,English,78,,1500000
-Saraband for Dead Lovers,1948,English,96,371205,1315516
+Saraband,1948,English,96,371205,1315516
 So Dear to My Heart,1948,English,82,1500000,3700000
 So You Think You're Not Guilty,1950,English,10,,
 The Barkleys of Broadway,1949,English,109,2200000,4400000
@@ -1981,7 +1981,7 @@ An American Dream,1966,English,103,,
 Cowboy,1966,English,,,
 Helicopter Canada,1966,English,50,300000,
 Khartoum,1966,English,134,6,3000000
-Le Volcan interdit,1966,French,80,,
+Le Volcan Interdit,1966,French,80,,
 Loves of a Blonde,1965,Czech,90,,
 Mandragola,1965,Italian,103,,
 Pharaoh,1966,Polish,145,,7000000
@@ -2133,7 +2133,7 @@ The Brothers Karamazov,1969,Russian,232,,
 The Damned,1969,,154,2000000,2638507
 The Wolf Men,1969,English,,,
 Walking,1968,,5,21676,
-Patton,1969,English,172,12600000,62500000
+Patton,1970,English,172,12600000,62500000
 Ryan's Daughter,1970,English,195,13300000,30800000
 Airport,1970,English,137,10200000,128400000
 Love Story,1970,English,101,2200000,173400000
@@ -2187,7 +2187,7 @@ Bedknobs and Broomsticks,1971,English,118,6300000,17900000
 Summer of '42,1971,English,104,1000000,32100000
 Klute,1971,English,114,2500000,12500000
 Shaft,1971,English,100,500000,13000000
-The Garden of the Finzi-Continis,1970,Italian,94,,1590000
+The Garden of the Finzi Continis,1970,Italian,94,,1590000
 The Hospital,1971,English,103,,14100000
 The Crunch Bird,1971,English,2,,
 The Hellstrom Chronicle,1971,English,90,,1500000
@@ -2424,8 +2424,8 @@ Cousin Cousine,1975,French,95,400000,2011394
 Voyage of the Damned,1976,English,155,7300000,1750000
 Carrie,1976,English,98,1800000,33800000
 Face to Face,1976,,114177,,
-King Kong,1976,English,134,23,90600000
-Logan's Run,1976,English,118,7,25000000
+King Kong,1976,English,134,23000000,90600000
+Logan's Run,1976,English,118,7000000,25000000
 The Incredible Sarah,1976,English,106,,
 The Seven-Per-Cent Solution,1976,English,113,5000000,
 American Shoeshine,1975,English,30,,
@@ -2469,7 +2469,7 @@ The Spy Who Loved Me,1977,English,125,13500000,185400000
 A Special Day,1977,Italian,106,,
 Airport '77,1977,English,113,6000000,91100000
 Looking for Mr. Goodbar,1977,English,136,,22500000
-Pete's Dragon,1977,English,129,10000000,36
+Pete's Dragon,1977,English,129,10000000,36000000
 That Obscure Object of Desire,1977,,102,,
 The Slipper and the Rose,1976,English,146,2150000,
 "Agueda Martinez: Our People, Our Country",1977,English,16,,
@@ -2923,7 +2923,7 @@ Empire of the Sun,1987,,154,25000000,66700000
 Fatal Attraction,1987,English,119,14000000,320100000
 Hope and Glory,1987,English,113,9300000,10000000
 Cry Freedom,1987,,157,29000000,15000000
-Au revoir les enfants,1987,,104,,4500000
+Au Revoir Les Enfants,1987,,104,,4500000
 Ironweed,1987,English,143,27000000,7300000
 My Life as a Dog,1985,Swedish,101,,8300000
 Radio Days,1987,English,85,16000000,14800000
@@ -4008,7 +4008,7 @@ Presto,2008,,517,,
 Rachel Getting Married,2008,English,114,12000000,17500000
 Revanche,2008,,122,,192451
 The Baader Meinhof Complex,2008,German,149,13500000,16498827
-The Betrayal – Nerakhoon,2008,English,87,,
+The Betrayal,2008,English,87,,
 The Class,2008,French,128,2500000,29300000
 The Conscience of Nhem En,2008,English,34,,
 The Final Inch,2009,,38,,
@@ -4246,7 +4246,7 @@ The Sessions,2012,English,95,1000000,10700000
 War Witch,2012,,90,,70544
 Wreck-It Ralph,2012,English,101,165000000,496500000
 12 Years a Slave,2013,English,134,20,187700000
-Gravity,2013,English,91,80,723200000
+Gravity,2013,English,91,80000000,723200000
 Dallas Buyers Club,2013,English,117,5000000,55000000
 Frozen,2013,English,102,150000000,1280000000
 The Great Gatsby,2013,English,142,105000000,353600000
@@ -4303,7 +4303,7 @@ The Missing Picture,2013,French,92,,
 The Square,2013,,108,1500000,124244
 The Voorman Problem,2011,English,13,,
 The Wind Rises,2013,Japanese,126,30000000,136500000
-Birdman or (The Unexpected Virtue of Ignorance),2014,English,119,16.5,103200000
+Birdman,2014,English,119,16500000,103200000
 The Grand Budapest Hotel,2014,English,100,25000000,174600000
 Whiplash,2014,English,106,3300000,50400000
 The Imitation Game,2014,English,115,14000000,233600000
@@ -4623,7 +4623,7 @@ Avengers: Endgame,2019,English,181,356,2799000000
 Breakthrough,2019,English,116,14000000,50400000
 Brotherhood,2018,Arabic,25,,330661
 Corpus Christi,2019,Polish,116,1300000,10900000
-Dcera (Daughter),2019,,15,750000,
+Daughter,2019,,15,750000,
 For Sama,2019,,100,,1300000
 Frozen II,2019,English,103,150000000,1453000000
 How to Train Your Dragon: The Hidden World,2019,English,104,129000000,540000000
@@ -4663,7 +4663,7 @@ My Octopus Teacher,2020,English,85,,
 Two Distant Strangers,2020,English,32,,443050
 The Trial of the Chicago 7,2020,English,130,35000000,115709
 News of the World,2020,,118,38000000,12700000
-One Night in Miami,2020,English,114,16900000,
+One Night in Miami...,2020,English,114,16900000,
 Borat Subsequent Moviefilm: Delivery of Prodigious Bribe to American Regime for Make Benefit Once Glorious Nation of Kazakhstan,2020,Englisha,96,10,
 Collective,2019,Romanian,109,,147875
 Emma,2020,English,124,10000000,27400000
@@ -4713,7 +4713,7 @@ Drive My Car,2021,Japanese,179,1300000,15400000
 Encanto,2021,English,102,120,261300000
 No Time to Die,2021,English,163,250,774200000
 Cruella,2021,English,134,100000000,233500000
-"Summer of Soul (...Or, When the Revolution Could Not Be Televised)",2021,English,117,,3700000
+Summer of Soul,2021,English,117,,3700000
 The Long Goodbye,2020,,,,
 The Queen of Basketball,2021,English,22,,
 The Windshield Wiper,2021,,14,,
@@ -4911,3 +4911,19 @@ The Six Triple Eight,2024,English,127,70000000,
 Wallace & Gromit: Vengeance Most Fowl,2024,English,79,,
 Wander to Wonder,2023,English,14,,
 Yuck!,2024,French,13,,
+Fanny and Alexander,1983,Swedish,188,6000000,6700000
+Heaven's Gate,1980,English,219,44000000,3500000
+The Walls of Malapaga,1949,French,95,,
+"Mohammad, Messenger of God",1976,Persian,178,40000000,1400000
+The Devil and Daniel Webster,1941,English,107,,
+Isadora,1968,English,177,1700000,1250000
+Mr. & Mrs. Bridge,1990,English,126,7200000,7700000
+Mrs Brown,1997,English,103,,13200000
+Star Wars: The Last Jedi,2017,English,152,300000000,1334000000
+Star Wars: The Force Awakens,2015,Englihesh,138,245000000,2479000000
+2010,1984,English,116,28000000,40400000
+One of Our Aircraft Is Missing,1942,English,82,70000,479000
+Quiet Please!,1945,English,7,,
+Le Mozart des pickpockets,2007,French,30,,
+The Tonto Woman,2008,English,35,,
+The Door,2009,English,15,,
