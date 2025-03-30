@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 import csv
 import re
 
-url = "https://en.wikipedia.org/wiki/Academy_Award_for_Best_Picture"
+url = "https://en.wikipedia.org/wiki/Academy_Award_for_Best_Film_Editing"
 response = requests.get(url)
 soup = BeautifulSoup(response.content, 'html.parser')
 
@@ -21,15 +21,13 @@ for table in tables:
     for row in rows:
         cols = row.find_all(['td', 'th'])
 
-        if cols[0].name == 'th':
+        if cols and cols[0].name == 'th':
             year_text = cols[0].get_text(strip=True)
             match_year = re.search(r'(\d{4})', year_text)
             match_iteration = re.search(r'\((\d+(?:st|nd|rd|th))\)', year_text)
 
-            if match_year:
-                current_year = int(match_year.group(1))
-            if match_iteration:
-                current_iteration = match_iteration.group(1)
+            current_year = int(match_year.group(1)) if match_year else None
+            current_iteration = match_iteration.group(1) if match_iteration else None
 
             cols.pop(0)
 
@@ -42,52 +40,42 @@ for table in tables:
             continue
 
         film_title_link_tag = film_title_tag.find('a')
-        movie_title = (
-            film_title_link_tag.get_text(strip=True)
-            if film_title_link_tag
-            else film_title_tag.get_text(strip=True)
-        )
+        movie_title = film_title_link_tag.get_text(strip=True) if film_title_link_tag else film_title_tag.get_text(strip=True)
 
-        is_winner = bool(film_cell.find('b'))
-        winner_status = "yes" if is_winner else "no"
+        is_winner = "yes" if "background:#FAEB86" in row.get("style", "") else "no"
 
-        producers_info = []
-        producer_cell = cols[1]
-        producer_links = producer_cell.find_all('a')
+        nominee_cell = cols[1]
+        nominee_links_tags = nominee_cell.find_all('a')
 
-        if producer_links:
-            for link in producer_links:
-                producer_name = link.get_text(strip=True)
-                producer_url = f"https://en.wikipedia.org{link['href']}"
+        nominees_info = []
+        for link in nominee_links_tags:
+            nominee_name = link.get_text(strip=True)
+            nominee_url = f"https://en.wikipedia.org{link['href']}"
+            PeopleLinks.add(nominee_url)
 
-                producers_info.append({
-                    'producerName': producer_name,
-                    'producerLink': producer_url
-                })
-                PeopleLinks.add(producer_url)
-        else:
-            continue
+            nominees_info.append({'nomineeName': nominee_name, 'nomineeLink': nominee_url})
 
         entry_data = {
             'movieTitle': movie_title,
             'releaseYear': current_year,
-            'categoryName': "Best Picture",
+            'categoryName': "Best Film Editing",
             'iteration': current_iteration,
-            'isWinner': winner_status,
-            'producers': producers_info
+            'isWinner': is_winner,
+            'nominees': nominees_info
         }
 
         data.append(entry_data)
 
-with open('best_picture2.csv', mode='w', encoding='utf-8', newline='') as file1:
+with open('../CSVs/best_film_editing.csv', mode='w', encoding='utf-8', newline='') as file1:
     writer1 = csv.writer(file1)
     writer1.writerow(['firstName', 'lastName', 'movieTitle', 'releaseYear',
                       'categoryName', 'iteration', 'isWinner'])
     for entry in data:
-        for producer in entry['producers']:
-            full_name = producer['producerName']
-            name_parts = full_name.split(" ", 1) if " " in full_name else [full_name, ""]
-            first_name, last_name = name_parts[0], name_parts[1]
+        for nominee in entry['nominees']:
+            full_name_parts = nominee['nomineeName'].split(" ", 1)
+            first_name = full_name_parts[0]
+            last_name = full_name_parts[1] if len(full_name_parts) > 1 else ""
+
             writer1.writerow([
                 first_name,
                 last_name,
@@ -98,5 +86,4 @@ with open('best_picture2.csv', mode='w', encoding='utf-8', newline='') as file1:
                 entry['isWinner']
             ])
 
-print("Scraped data saved to two CSV files.")
 print(f"Total unique people links collected: {len(PeopleLinks)}")
