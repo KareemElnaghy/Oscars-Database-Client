@@ -324,7 +324,7 @@ George,Amy,Editor
 Walter,Hannemann,Editor
 John,Walker,Producer
 John,Walker,Actor
-Mike,Smithson,Makeup Artist
+Mike,Smith,Makeup Artist
 Paul,Sylbert,Production Designer
 Paul,Sylbert,Art Director
 Paul,Sylbert,Set Designer
@@ -431,7 +431,7 @@ Ralph,Brinton,Art Director
 Paul,Guilhaume,Cinematographer
 Rod,Steiger,Actor
 Helen,Rose,Costume Designer
-Harry,Carey,Actor
+Harry,Carey Sr.,Actor
 Alice,Rohrwacher,Director
 Alice,Rohrwacher,Screenwriter
 Alice,Rohrwacher,Editor
@@ -1440,13 +1440,13 @@ Colin,Low,Director
 Colin,Low,Producer
 Colin,Low,Animator
 Colin,Low,Editor
-Gus,Sant,Director
-Gus,Sant,Producer
-Gus,Sant,Screenwriter
-Gus,Sant,Editor
-Gus,Sant,Photographer
-Gus,Sant,Painter
-Gus,Sant,Musician
+Gus,Van Sant,Director
+Gus,Van Sant,Producer
+Gus,Van Sant,Screenwriter
+Gus,Van Sant,Editor
+Gus,Van Sant,Photographer
+Gus,Van Sant,Painter
+Gus,Van Sant,Musician
 David,Newman,Screenwriter
 Jeff,Fowler,Director
 Jeff,Fowler,Animator
@@ -1832,8 +1832,8 @@ Christopher,Cross,Musician
 Christopher,Cross,Singer
 Christopher,Cross,Songwriter
 Christopher,Cross,Composer
-Arthur,Johnston,Composer
-Arthur,Johnston,Arranger
+Arthur,Johns,Composer
+Arthur,Johns,Arranger
 Leslie,Howard,Actor
 Leslie,Howard,Director
 Leslie,Howard,Producer
@@ -2112,7 +2112,7 @@ Sam,Jaffe,Actor
 Norman,Jewison,Director
 Norman,Jewison,Producer
 Norman,Jewison,Screenwriter
-John,Sr.,Editor
+John,Link Sr.,Editor
 Aaron,Rochin,Sound Engineer
 Cy,Feuer,Producer
 Cy,Feuer,Director
@@ -2264,7 +2264,7 @@ Steve,James,Producer
 Johnny,Marvin,Singer
 Johnny,Marvin,Musician
 Colleen,Atwood,Costume Designer
-Al,Overton Jr.,Sound Engineer
+Al,Overton,Sound Engineer
 Laura,Pausini,Singer
 Laura,Pausini,Songwriter
 Alex,Gibson,Music Editor
@@ -2295,10 +2295,10 @@ John,Cleese,Comedian
 John,Cleese,Screenwriter
 John,Cleese,Producer
 John,Cleese,Presenter
-Tom,Woodruff Jr.,Actor
-Tom,Woodruff Jr.,Director
-Tom,Woodruff Jr.,Producer
-Tom,Woodruff Jr.,Special Effects Supervisor
+Tom,Wood,Actor
+Tom,Wood,Director
+Tom,Wood,Producer
+Tom,Wood,Special Effects Supervisor
 Ronald,Neame,Director
 Ronald,Neame,Cinematographer
 Ronald,Neame,Producer
@@ -2589,7 +2589,7 @@ Daniel,Blumberg,Musician
 Daniel,Blumberg,Composer
 Daniel,Blumberg,Singer
 Daniel,Blumberg,Songwriter
-Ben,Osmo,Production Sound Mixer
+Ben,Os,Production Sound Mixer
 Judianna,Makovsky,Costume Designer
 Edmund,Hansen,Sound Engineer
 Yves,Piat,Writer
@@ -2933,12 +2933,11 @@ Johnny,Green,Composer
 Johnny,Green,Conductor
 Wiard,Ihnen,Art Director
 Paul,Lerpae,Special Effects Artist
-The,Walden,Producer
 Ken,Watanabe,Actor
 Maite,Alberdi,Filmmaker
 Matthew,McConaughey,Actor
 Robin,Mathews,Makeup Artist
-Andrew,Lloyd Webber,Composer
+Andrew,Webber,Composer
 Sandy,Powell,Costume Designer
 Gordon,Daniel,Sound Editor
 Jeannine,Oppewall,Filmart Director
@@ -3764,7 +3763,7 @@ Lisa,Blount,Producer
 Stephen,Schwartz,Lyricist
 Stephen,Schwartz,Composer
 Neil,Corbould,Special Effects Supervisor
-Donald,MowatCM,Makeup Artist
+Donald,Mowat,Makeup Artist
 Amber,Sibley,Makeup Artist
 David,Silverman,Director
 John,Sturtevant,Set Decorator
@@ -3943,7 +3942,7 @@ Faye,Dunaway,Actress
 Samuel,Jackson,Actor
 Samuel,Jackson,Producer
 Jack,Warden,Actor
-Hervé,Luze,Editor
+Hervé,de Luze,Editor
 Ronald,Harwood,Writer
 Derek,Meddings,Special Effects Designer
 Rudi,Fehr,Editor
@@ -3976,7 +3975,7 @@ Ingmar,Bergman,Screenwriter
 Lee,Minkler,Sound Engineer
 Hans,Dreier,Art Director
 Lesli,Glatter,Director
-Philippe,Broca,Director
+Philippe,de Broca,Director
 Louis,Diage,Set Decorator
 Colin,Chilvers,Video Director
 Colin,Chilvers,Special Effects Coordinator
@@ -4055,7 +4054,7 @@ Assheton,Gorton,Production Designer
 Krysty,Wilson-Cairns,Screenwriter
 Stephen,Goosson,Set Designer
 Mel,Bourne,Production Designer
-John,Mackay,Art Director
+John,Mack,Art Director
 Menahem,Golan,Director
 Menahem,Golan,Producer
 Anne,Rosellini,Producer
@@ -4362,8 +4361,8 @@ Kendrick,Lamar,Rapper
 Kendrick,Lamar,Songwriter
 Kendrick,Lamar,Record Producer
 Sheena,Napier,Costume Designer
-Ennio,Concini,Screenwriter
-Ennio,Concini,Director
+Ennio,De Concini,Screenwriter
+Ennio,De Concini,Director
 Robert,Lopez,Songwriter
 Enya,Bhraonáin,Composer
 Enya,Bhraonáin,Singer
@@ -4514,7 +4513,7 @@ Chazz,Palminteri,Filmmaker
 Chazz,Palminteri,Playwright
 James,Flynn,Producer
 Gérard,James,Set Decorator
-Robert,F. Colesberry,Producer
+Robert,Colesberry,Producer
 Harry,Perry,Cinematographer
 Don,Cheadle,Actor
 Don,Cheadle,Producer
@@ -4600,7 +4599,7 @@ Caroline,Leaf,Screenwriter
 Caroline,Leaf,Painter
 Arthur,Lonergan,Art Director
 Jill,Bilcock,Editor
-Peter,Robb-King,Makeup Artist
+Peter,King,Makeup Artist
 Chris,Waegner,Visual Effects Artist
 Frank,Kruse,Sound Engineer
 Dario,Simoni,Set Decorator
@@ -5348,8 +5347,8 @@ Bruce,Springsteen,Songwriter
 Bruce,Springsteen,Musician
 Glenn,Slater,Lyricist
 Julie,Dartnell,Makeup Artist
-Danilo,Bachelor,Producer
-Danilo,Bachelor,Screenwriter
+Danilo,Bach,Producer
+Danilo,Bach,Screenwriter
 Marion,Cotillard,Actress
 Gene,Allen,Art Director
 A.,Fields,Art Director
@@ -5363,7 +5362,7 @@ Charles,Nelson,Editor
 Wesley,Miller,Sound Engineer
 Darin,Knight,Sound Engineer
 Frederick,Brown,Sound Editor
-John,F. Link Jr.,Editor
+John,Link Jr.,Editor
 Mickey,Rooney,Actor
 Mickey,Rooney,Producer
 Mickey,Rooney,Radio Entertainer
@@ -5537,12 +5536,12 @@ Jonathan,Glazer,Director
 Jonathan,Glazer,Screenwriter
 Lori,McCoy-Bell,Hair Stylist
 Tom,Pedigo,Set Decorator
-Gene,Paul,Pianist
-Gene,Paul,Composer
-Gene,Paul,Songwriter
+Gene,de Paul,Pianist
+Gene,de Paul,Composer
+Gene,de Paul,Songwriter
 Christian,Minkler,Sound Engineer
-W.,Dyke,Director
-W.,Dyke,Writer
+W.,Van Dyke,Director
+W.,Van Dyke,Writer
 Karl,Tunberg,Screenwriter
 Julia,Vernon,Makeup Artist
 Rob,Bottin,Special Make-Up Effects Creator
@@ -5654,9 +5653,9 @@ Frank,Eulner,Sound Editor
 Denys,Coop,Cinematographer
 Joseph,Kelly,Sound Engineer
 Glenn,Williams,Sound Engineer
-Barry,Devorzon,Composer
-Barry,Devorzon,Singer
-Barry,Devorzon,Songwriter
+Barry,De Vorzon,Composer
+Barry,De Vorzon,Singer
+Barry,De Vorzon,Songwriter
 Mike,Hopkins,Sound Editor
 Matt,Charman,Screenwriter
 Matt,Charman,Playwright
@@ -5854,8 +5853,8 @@ Norman,Savage,Editor
 Veronica,Brebner,Makeup Artist
 Greta,Garbo,Actress
 William,Gray,Editor
-Emile,Antonio,Director
-Emile,Antonio,Producer
+Emile,de Antonio,Director
+Emile,de Antonio,Producer
 Johnny,Burke,Lyricist
 Arthur,Schmidt,Editor
 Ingrid,Bergman,Actress
@@ -5920,7 +5919,6 @@ Kevin,Macdonald,Screenwriter
 Kenneth,Utt,Producer
 Kenneth,Utt,Production Manager
 Frank,Van der Veer,Visual Effects Artist
-Hamdan,Ballal,Filmmaker
 Roberto,Rossellini,Director
 Roberto,Rossellini,Producer
 Roberto,Rossellini,Screenwriter
@@ -6165,7 +6163,7 @@ Bradley,Cooper,Screenwriter
 Peter,Devlin,Sound Engineer
 Clarence,Slifer,Special Effects Artist
 Conrad,Nervig,Editor
-John,M. Elliott Jr.,Makeup Artist
+John,Elliott Jr.,Makeup Artist
 Bernard,Brown,Sound Engineer
 Paul,Markwitz,Production Designer
 Raphael,Saadiq,Singer
@@ -6211,12 +6209,12 @@ Gene,Kelly,Director
 Gene,Kelly,Choreographer
 Scarlett,Johansson,Actress
 Scarlett,Johansson,Singer
-David,Rosenbloom,Editor
+David,Rose,Editor
 Bruce,Surtees,Cinematographer
 Henry,LaBounta,Visual Effects Artist
 Henry,LaBounta,Special Effects Artist
 Kristin,Thomas,Actress
-Harry,Stradling Jr.,Cinematographer
+Harry,Stradling,Cinematographer
 Branko,Lustig,Producer
 William,Monahan,Screenwriter
 William,Monahan,Novelist
@@ -6270,7 +6268,7 @@ Neil,Jordan,Screenwriter
 Neil,Jordan,Novelist
 Frédéric,Back,Animator
 Fred,Feitshans Jr.,Editor
-Gareth,Ellis-Unwin,Producer
+Gareth,Unwin,Producer
 Sidney,Poitier,Actor
 Sidney,Poitier,Director
 Walter,Scott,Set Decorator
@@ -6557,11 +6555,11 @@ Linda,DeScenna,Set Decorator
 Kunio,Katō,Animator
 Kunio,Katō,Director
 John,Bonar,Set Decorator
-Ronnie,Carmen,Writer
-Ronnie,Carmen,Director
-Ronnie,Carmen,Storyboard Artist
-Ronnie,Carmen,Illustrator
-Ronnie,Carmen,Voice Actor
+Ronnie,del Carmen,Writer
+Ronnie,del Carmen,Director
+Ronnie,del Carmen,Storyboard Artist
+Ronnie,del Carmen,Illustrator
+Ronnie,del Carmen,Voice Actor
 Joss,Williams,Visual Effects Artist
 Peter,Taylor,Editor
 Hank,Moonjean,Producer
@@ -6850,11 +6848,10 @@ Jonathan,Demme,Producer
 Jonathan,Demme,Screenwriter
 Frank,Borzage,Director
 Frank,Borzage,Actor
-Paul,Greengrass,Director
-Paul,Greengrass,Screenwriter
-Paul,Greengrass,Producer
-The,Walden,Producer
-Maria,Matteis,Costume Designer
+Paul,Green,Director
+Paul,Green,Screenwriter
+Paul,Green,Producer
+Maria,De Matteis,Costume Designer
 Gene,Hackman,Actor
 Ira,Gershwin,Lyricist
 Ruth,Jhabvala,Novelist
@@ -7131,10 +7128,10 @@ William,Snyder,Cinematographer
 Bruno,Bozzetto,Director
 Nelson,Sepulveda-Fauser,Visual Effects Artist
 Julius,Epstein,Screenwriter
-Jean-Xavier,Lestrade,Director
-Jean-Xavier,Lestrade,Producer
-Jean-Xavier,Lestrade,Screenwriter
-Jean-Xavier,Lestrade,Cinematographer
+Jean-Xavier,de Lestrade,Director
+Jean-Xavier,de Lestrade,Producer
+Jean-Xavier,de Lestrade,Screenwriter
+Jean-Xavier,de Lestrade,Cinematographer
 Marvin,March,Set Decorator
 Dustin,Hoffman,Actor
 David,Permut,Producer
@@ -7315,7 +7312,7 @@ David,Hildyard,Sound Engineer
 Caroline,Baron,Filmmaker
 Frank,Perry,Director
 Frank,Perry,Filmmaker
-Richard,Enger,Editor
+Richard,Van Enger,Editor
 Elmer,Raguse,Sound Engineer
 Carol,Connors,Singer
 John,Bramall,Sound Engineer
@@ -8086,7 +8083,7 @@ George,Shaw,Writer
 George,Shaw,Political Activist
 Ari,Sandel,Director
 Ari,Sandel,Screenwriter
-Sarah,Greenwood,Production Designer
+Sarah,Green,Production Designer
 Gloria,Pasqua-Casny,Hairstylist
 Mischa,Auer,Actor
 John,Mathieson,Cinematographer
@@ -8149,7 +8146,7 @@ Tomm,Moore,Illustrator
 Tomm,Moore,Screenwriter
 Tomm,Moore,Character Designer
 Vincenzo,Cerami,Screenwriterpoet
-Jacques,Cousteau,Oceanographer
+Jacques-Yves,Cousteau,Oceanographer
 Caitrin,Rogers,Producer
 Stuart,Craig,Production Designer
 James,Mason,Actor
@@ -8671,8 +8668,8 @@ Paul,Heard,Producer
 Paul,Heard,Director
 Paul,Heard,Scriptwriter
 Martha,Scott,Actress
-Stanley,Nelson Jr.,Director
-Stanley,Nelson Jr.,Producer
+Stanley,Nelson,Director
+Stanley,Nelson,Producer
 Amanda,Knight,Makeup Artist
 Duke,Ellington,Pianist
 Duke,Ellington,Composer
@@ -8711,9 +8708,9 @@ James,Grant,Writer
 Rosana,Sullivan,Director
 Rosana,Sullivan,Screenwriter
 Rosana,Sullivan,Storyboard Artist
-Suzanne,Passe,Executive Producer
-Suzanne,Passe,Producer
-Suzanne,Passe,Screenwriter
+Suzanne,de Passe,Executive Producer
+Suzanne,de Passe,Producer
+Suzanne,de Passe,Screenwriter
 Al,Reinert,Journalist
 Al,Reinert,Director
 Al,Reinert,Producer
@@ -9435,8 +9432,8 @@ Adam,Driver,Actor
 Robert,Ryan,Actor
 Robert,Ryan,Activist
 Stephen,Grimes,Production Designer
-Oscar,II,Producer
-Oscar,II,Director
+Oscar,Hammerstein II,Producer
+Oscar,Hammerstein II,Director
 Frank,Cordell,Composer
 Frank,Cordell,Arranger
 Frank,Cordell,Conductor
@@ -9495,12 +9492,7 @@ Andy,García,Producer
 Andy,García,Musician
 Melanie,Griffith,Actress
 George,Barrie,Producer
-The,Brothers,Screenwriters
-The,Brothers,Filmmaker
-The,Brothers,Producers
-The,Brothers,Actors
-The,Brothers,Comedian
-Robert,Grasse,Cinematographer
+Robert,De Grasse,Cinematographer
 Steve,Gawley,Visual Effects Artist
 Mary,Pickford,Actress
 Mary,Pickford,Producer

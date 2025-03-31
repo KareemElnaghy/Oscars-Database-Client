@@ -62,7 +62,7 @@ Anna Christie,1930,English,89.0,376000.0,1499000.0
 Bulldog Drummond,1929,English,90.0,,
 Romance,1930,English,76.0,,
 Condemned,1929,English,86.0,600000.0,
-Hallelujah,1929,English,109.0,,
+Hallelujah!,1929,English,109.0,,
 Hell's Angels,1930,English,131.0,2800000.0,2500000.0
 Raffles,1930,English,72.0,,
 Sally,1929,English,103.0,647000.0,2198000.0
@@ -859,7 +859,7 @@ The Woman of the Town,1943,English,90.0,,
 Three Russian Girls,1943,English,81.0,,
 Two Girls and a Sailor,1944,English,124.0,1400000.0,4500000.0
 Up in Mabel's Room,1944,English,76.0,,1000000.0
-"Wing and a Prayer, The Story of Carrier X",1944,English,97.0,,2250000.0
+Wing and a Prayer,1944,English,97.0,,2250000.0
 The Lost Weekend,1945,English,101.0,1250000.0,11000000.0
 National Velvet,1944,English,123.0,2770000.0,5840000.0
 The Bells of St. Mary's,1945,English,126.0,1300000.0,21300000.0
@@ -1401,7 +1401,7 @@ Them!,1954,English,94.0,,2200000.0
 White Christmas,1954,English,120.0,2000000.0,30000000.0
 The Little Kidnappers,1953,English,93.0,,
 Marty,1955,English,93.0,350000.0,2000000.0
-Love Is a Many-Splendored Thing,1955,English,102.0,1780000.0,4000000.0
+Love is a Many-Splendored Thing,1955,English,102.0,1780000.0,4000000.0
 The Rose Tattoo,1955,,117.0,,4200000.0
 Picnic,1955,English,115.0,3000000.0,9000000.0
 Oklahoma!,1955,English,148.0,5900000.0,7100000.0
@@ -1577,7 +1577,7 @@ Cowboy,1958,English,92.0,,1600000.0
 Damn Yankees!,1958,English,111.0,,2600000.0
 Desire Under the Elms,1958,English,111.0,,1000000.0
 Employees Only,1958,English,,,
-La venganza,1958,Spanish,122.0,,
+La Venganza,1958,Spanish,122.0,,
 Lonelyhearts,1958,English,100.0,,
 Mardi Gras,1958,English,107.0,1690000.0,2500000.0
 Marjorie Morningstar,1958,English,123.0,2000000.0,3000000.0
@@ -1637,7 +1637,7 @@ The Gazebo,1959,English,100.0,1218000.0,3310000.0
 The Great War,1959,Italian,135.0,,
 The Hanging Tree,1959,English,107.0,,2200000.0
 The Race for Space,1959,English,55.0,,
-The Running Jumping & Standing Still Film,1959,English,11.0,70000000.0,
+"The Running, Jumping and Standing-Still Film",1959,English,11.0,70000000.0,
 The Village on the River,1958,Dutch,92.0,,
 The Young Land,1959,English,89.0,,
 Wild Strawberries,1957,Swedish,91.0,,
@@ -1852,7 +1852,7 @@ The Night of the Iguana,1964,English,125.0,3000000.0,12000000.0
 Father Goose,1964,English,118.0,,12500000.0
 Casals Conducts: 1964,1964,English,20.0,,
 Goldfinger,1964,English,110.0,3000000.0,125000000.0
-Jacques-Yves Coustrau's World Without Sun,1964,French,93.0,,
+Jacques-Yves Cousteau's World Without Sun,1964,French,93.0,,
 Nine from Little Rock,1964,English,20.0,,
 The Pink Phink,1964,,6.0,,
 Topkapi,1964,English,120.0,,7000000.0
@@ -1880,7 +1880,7 @@ Four Days in November,1964,English,122.0,,
 Help! My Snowman's Burning Down,1964,English,10.0,,
 Kisses for My President,1964,English,113.0,,
 Marriage Italian Style,1964,,102.0,,3700000.0
-Nudnik #2,1965,,,,
+Here's Nudnik,1964,,,
 "One Potato, Two Potato",1964,English,83.0,,
 Raven's End,1963,Swedish,101.0,,
 Sallah Shabati,1964,Hebrew,110.0,400000.0,
@@ -2033,7 +2033,7 @@ Monument to the Dream,1967,English,,,
 Paddle to the Sea,1966,English,27.0,70913.0,
 Portrait of Chieko,1967,Japanese,125.0,,
 See You at the Pillar,1967,English,17.0,,
-Stop Look and Listen,1967,English,105.0,,
+"Stop, Look and Listen",1967,English,105.0,,
 The Happiest Millionaire,1967,English,164.0,5000000.0,5000000.0
 The Jungle Book,1967,English,78.0,4000000.0,378000000.0
 The War Is Over,1966,French,121.0,,
@@ -2256,7 +2256,7 @@ Malcolm X,1972,English,91.0,,
 Man of La Mancha,1972,English,132.0,12000000.0,11500000.0
 Manson,1973,English,83.0,,
 Murmur of the Heart,1971,French,118.0,,1100000.0
-My Dearest Senorita,1972,Spanish,80.0,,
+My Dearest Señorita,1972,Spanish,80.0,,
 Napoleon and Samantha,1972,English,92.0,,
 Selling Out,1972,English,32.0,,
 The Dawns Here Are Quiet,1972,Russian,188.0,,
@@ -2410,7 +2410,7 @@ Rocky,1976,English,119.0,1100000.0,225000000.0
 Network,1976,English,121.0,3800000.0,23700000.0
 All the President's Men,1976,English,138.0,8500000.0,70600000.0
 Bound for Glory,1976,English,147.0,10000000.0,
-A Star is Born,1976,English,142.0,6000000.0,80000000.0
+A Star Is Born,1976,English,142.0,6000000.0,80000000.0
 Fellini's Casanova,1976,,155.0,,
 The Omen,1976,English,111.0,2800000.0,60900000.0
 Black and White in Color,1976,French,90.0,,
@@ -2420,7 +2420,7 @@ Leisure,1976,English,14.0,,
 Number Our Days,1976,English,28.0,,
 Seven Beauties,1975,Italian,115.0,,1400000.0
 Taxi Driver,1976,English,114.0,1900000.0,28600000.0
-Cousin Cousine,1975,French,95.0,400000.0,2011394.0
+"Cousin, Cousine",1975,French,95.0,400000.0,2011394.0
 Voyage of the Damned,1976,English,155.0,7300000.0,1750000.0
 Carrie,1976,English,98.0,1800000.0,33800000.0
 Face to Face,1976,,114.0,,
@@ -2533,7 +2533,7 @@ Strange Fruit,1979,English,,,
 The Brink's Job,1978,English,104.0,16400000.0,14500000.0
 The Divided Trail: A Native American Odyssey,1978,English,33.0,,
 The Glass Cell,1978,German,93.0,,
-The Lovers' Wind (Le vent des amoureux),1978,French,71.0,,
+The Lovers' Wind,1978,French,71.0,,
 The Magic of Lassie,1978,English,100.0,3000000.0,
 The Swarm,1978,English,116.0,11500000.0,7700000.0
 Viva Italia!,1977,Italian,115.0,,
@@ -2847,7 +2847,7 @@ Sweet Dreams,1985,English,115.0,13500000.0,9100000.0
 The Big Snit,1985,English,10.0,,
 The Courage to Care,1985,English,,,
 The Journey of Natty Gann,1985,English,101.0,8000000.0,9700000.0
-The Mothers of Plaza de Mayo,1985,Spanish,64.0,,
+Las Madres: The Mothers of Plaza de Mayo,1985,Spanish,64.0,,
 The Purple Rose of Cairo,1985,English,82.0,15000000.0,10600000.0
 The Statue of Liberty,1985,English,60.0,,
 The Wizard of the Strings,1985,English,27.0,,
@@ -3005,7 +3005,7 @@ Technological Threat,1988,English,5.0,,
 Tequila Sunrise,1988,English,115.0,23000000.0,105900000.0
 The Cat Came Back,1988,English,8.0,,
 The Children's Storefront,1988,English,14.0,,
-The Cry of Reason: Beyers Naude - An Afrikaner Speaks Out,1988,English,58.0,,
+The Cry of Reason – Beyers Naudé: An Afrikaner Speaks Out,1988,English,58.0,,
 The Last Temptation of Christ,1988,English,163.0,7000000.0,33800000.0
 The Music Teacher,1988,French,99.0,,
 Who Killed Vincent Chin?,1987,,87.0,,
@@ -3091,7 +3091,7 @@ Dear Rosie,1990,English,11.0,,
 Edward Scissorhands,1990,English,105.0,20000000.0,86000000.0
 Flatliners,1990,English,114.0,26000000.0,61500000.0
 Forever Activists: Stories from the Veterans of the Abraham Lincoln Brigade,1990,English,60.0,,
-Grasshoppers (Cavallette),1990,Italian,9.0,,
+Grasshoppers,1990,Italian,9.0,,
 Green Card,1990,English,107.0,12500000.0,38000000.0
 Havana,1990,English,144.0,40000000.0,9600000.0
 Henry & June,1990,English,136.0,,11500000.0
@@ -3332,7 +3332,7 @@ Hank Aaron: Chasing the Dream,1995,English,120.0,,
 Jim Dine: A Self-Portrait on the Walls,1995,English,28.0,,
 Little Surprises,1996,English,36.0,,
 Mr. Holland's Opus,1995,,143.0,31000000.0,106300000.0
-"My Family, Mi Familia",1995,,126.0,,11500000.0
+My Family,1995,,126.0,,11500000.0
 Never Give Up: The 20th Century Odyssey of Herbert Zipper,1995,English,40.0,,
 O Quatrilho,1995,,92.0,,
 Rob Roy,1995,English,139.0,28000000.0,58700000.0
@@ -3704,7 +3704,7 @@ Treasure Planet,2002,English,95.0,140000000.0,109600000.0
 Unfaithful,2002,English,124.0,50000000.0,119100000.0
 Why Can't We Be a Family Again?,2002,English,27.0,,
 Winged Migration,2001,,97.0,23600000.0,52800000.0
-Y tu mamá también,2001,Spanish,106.0,5000000.0,33600000.0
+Y Tu Mamá También,2001,Spanish,106.0,5000000.0,33600000.0
 Zus & Zo,2001,Dutch,100.0,,281219.0
 The Lord of the Rings: The Return of the King,2003,English,201.0,94000000.0,1151000000.0
 Master and Commander: The Far Side of the World,2003,English,138.0,150000000.0,211600000.0
@@ -3898,7 +3898,7 @@ Helmer & Son,2006,,,,
 Iraq in Fragments,2006,,94.0,,
 Jesus Camp,2006,English,85.0,,1000000.0
 Lifted,2006,,5.0,,
-Maestro,2005,,,,
+Maestro,2006,,,,
 Monster House,2006,English,91.0,75000000.0,141900000.0
 "My Country, My Country",2006,English,90.0,,
 No Time for Nuts,2006,,7.0,,
@@ -4221,7 +4221,7 @@ Chasing Ice,2012,English,75.0,,1331836.0
 Death of a Shadow,2012,Dutch,20.0,,
 Frankenweenie,2012,English,87.0,39000000.0,81500000.0
 Fresh Guacamole,2012,,1.0,,
-Head over Heels,2012,,10.0,,
+Head Over Heels,2012,,10.0,,
 Henry,2011,French,21.0,,
 Hitchcock,2012,English,98.0,15000000.0,27000000.0
 How to Survive a Plague,2012,English,109.0,,132055.0
@@ -4456,7 +4456,7 @@ Borrowed Time,2015,English,7.0,,
 Captain Fantastic,2016,English,118.0,5000000.0,22800000.0
 Doctor Strange,2016,English,115.0,165000000.0,677800000.0
 Elle,2016,French,130.0,9100000.0,12700000.0
-Ennemis intérieurs,2016,,27.0,,
+Ennemis Intérieurs,2016,,27.0,,
 Extremis,2016,English,24.0,,
 Fire at Sea,2016,Italian,114.0,,1000000.0
 "Hail, Caesar!",2016,English,106.0,22000000.0,63600000.0
@@ -4539,7 +4539,7 @@ The Insult,2017,Arabic,112.0,,1600000.0
 The Square,2017,,151.0,5500000.0,9500000.0
 Traffic Stop,2017,English,30.0,,
 War for the Planet of the Apes,2017,English,140.0,150000000.0,490700000.0
-Watu Wote/All of Us,2017,,22.0,,
+Watu Wote: All of Us,2017,,22.0,,
 Wonder,2017,English,113.0,20000000.0,315000000.0
 Carne y Arena,2017,,7.0,,
 Green Book,2018,English,130.0,23000000.0,321800000.0
@@ -4547,7 +4547,7 @@ Bohemian Rhapsody,2018,English,135.0,50000000.0,910800000.0
 Roma,2018,,135.0,15000000.0,5100000.0
 Black Panther,2018,English,134.0,200000000.0,1350000000.0
 The Favourite,2018,English,120.0,15000000.0,96000000.0
-A Star is Born,2018,English,136.0,36000000.0,436200000.0
+A Star Is Born,2018,English,136.0,36000000.0,436200000.0
 Vice,2018,English,132.0,60000000.0,76100000.0
 BlacKkKlansman,2018,English,135.0,15000000.0,93400000.0
 First Man,2018,English,141.0,70000000.0,105700000.0
@@ -4820,7 +4820,7 @@ Godzilla Minus One,2023,Japanese,125.0,10000000.0,113600000.0
 The Boy and the Heron,2023,Japanese,124.0,,294200000.0
 The Last Repair Shop,2023,English,40.0,,
 The Wonderful Story of Henry Sugar,2023,English,39.0,,
-War Is Over!,2022,,11.0,,
+War Is Over! Inspired by the Music of John & Yoko,2023,,11.0,,
 Killers of the Flower Moon,2023,,206.0,200000000.0,158800000.0
 Maestro,2023,English,129.0,80000000.0,823787.0
 Napoleon,2023,English,157.0,130000000.0,221400000.0
@@ -4839,7 +4839,7 @@ Golda,2023,English,100.0,,7000000.0
 Guardians of the Galaxy Vol. 3,2023,English,150.0,250000000.0,845600000.0
 Indiana Jones and the Dial of Destiny,2023,English,154.0,295000000.0,384000000.0
 Invincible,2022,French,30.0,,
-Io capitano,2023,,121.0,11000000.0,7600000.0
+Io Capitano,2023,,121.0,11000000.0,7600000.0
 Island in Between,2023,,,,
 Knight of Fortune,2023,Danish,24.0,,
 Letter to a Pig,2022,Hebrew,17.0,,
@@ -4927,3 +4927,198 @@ Quiet Please!,1945,English,7.0,,
 Le Mozart des pickpockets,2007,French,30.0,,
 The Tonto Woman,2008,English,35.0,,
 The Door,2009,English,15.0,,
+Little Isles of Freedom,1942,,,
+Desert Killer,1952
+Sunflower,1970
+"Cousin, Cousine",1976
+The Poet and Peasant,1945
+9 to 5,1980
+Gadgets Galore,1955
+Partners,1993
+Crazy Mixed Up Pup,1954
+We Refuse to Die,1942
+Automania 2000,1963
+T Is for Tumbleweed,1958
+Trouble Indemnity,1950
+3rd Ave. El,1955
+The Rehearsal,1971
+Harp of Burma,1956
+The Jury Goes Round 'N' Round,1945
+Juke Box Jamboree,1942
+The Great Cognito,1982
+Turkey the Bridge,1966
+Snow Carnival,1949
+Islands of the Sea,1960
+"Dog, Cat and Canary",1944
+Smart as a Fox,1946
+Scent of a Woman,1975
+Climb,1974
+Jasper and the Beanstalk,1945
+"Oh Brother, My Brother",1979
+Desiree,1954
+Solly's Diner,1979
+The Dutch Master,1993
+The Creation,1981
+Mandy's Grandmother,1978
+Fish Fry,1944
+Angels and Insects,1996
+Syrup,1994
+War and Peace,1968
+September 5,2024
+Kangaroo Court,1994
+Rhythm in the Ranks,1941
+Brooms,1995
+Meska Sprawa,2001
+Tuesday Morning Ride,1995
+The Silence,1982
+Tales of Meeting and Parting,1984
+The Thieving Magpie,1965
+Christopher Crumpet,1953
+The Game,1963
+"All Out for ""V""",1942
+Sticky My Fingers... Fleet My Feet,1970
+Copy Shop,2001
+Cousin Cousine,1975
+Jolly Roger,1998
+Switzerland,1955
+Cow Dog,1956
+The End,1995
+Imagination,1943
+Goodie-Two-Shoes,1983
+So You Want to Be on the Radio,1948
+Last Breeze of Summer,1991
+Victor,1998
+Trees and Jamaica Daddy,1957
+Three Kisses,1955
+Chase of Death,1949
+Second Class Mail,1985
+Small Talk,1993
+The Concert,1974
+The Morning Spider,1976
+Fifty Percent Grey,2001
+Saria,2019
+My Favorite Wife,1940
+Bewitched Love,1967
+Dive-Hi Champs,1946
+Kama Sutra Rides Again,1972
+Hatch Up Your Troubles,1949
+Jerry's Cousin,1950
+Dawn Flight,1975
+And to Think That I Saw It on Mulberry Street,1944
+"Touché, Pussy Cat!",1954
+Movie Pests,1944
+The First Piano Quartette,1954
+Sure Cures,1946
+On the Twelfth Day,1955
+Siam,1954
+Moon Rockets,1947
+Peace in the Fields,1970
+Screen Play,1992
+Number One,1976
+Screen Snapshots' 50th Anniversary of Motion Pictures,1944
+Ballet Robotique,1982
+La Guerre Est Finie,1967
+The Usual Unidentified Thieves,1958
+The Bead Game,1977
+It's So Nice to Have a Wolf Around the House,1979
+"My Boy, Johnny",1944
+Thar She Blows!,1952
+Main Street Today,1944
+Le Bal,1983
+Robin Hoodlum,1948
+Along the Rainbow Trail,1945
+The Creation of Woman,1960
+The Screw,1993
+Wolfgang,1997
+Nightlife,1976
+Limelight,1972
+Queen Margot,1994
+Of Men and Demons,1969
+The Mermaid,1997
+Triangle,1994
+Prelude,1968
+The Legendary Champions,1968
+Ridin' the Rails,1951
+The Cadillac,1962
+The Canterbury Tales,1998
+Water Trix,1949
+The Childeater,1989
+The Luckiest Guy in the World,1946
+Spills and Chills,1949
+Samoa,1956
+The Magic Pear Tree,1968
+Jimmy the C,1977
+"Over There, 1914–18",1964
+Cinderella Horse,1948
+Windy Day,1968
+Annie Was a Wonder,1948
+Esposados,1996
+On Hope,1994
+Athletes of the Saddle,1952
+The Magic Fluke,1949
+Now You See It,1947
+Please Hold,2021
+By Courier,2000
+The RA Expeditions,1971
+The Garden of the Finzi Continis,1971
+Holiday Romance,1998
+"Boogie Woogie Bugle Boy of Company ""B""",1941
+3 Misses,1999
+Wrong Way Butch,1950
+Notes on the Popular Arts,1977
+Calgary Stampede,1948
+"Reci, Reci, Reci...",1992
+Doctor DeSoto,1984
+The Lady in Waiting,1992
+"Bror, Min Bror",1999
+The Grass Is Always Greener,1949
+Vesuvius Express,1953
+You Can't Win,1948
+Self Defense—For Cowards,1962
+Cadillac Dreams,1988
+To Begin Again,1982
+White Rhapsody,1945
+Waltzing Regitze,1989
+Clay or The Origin of Species,1965
+Portugal,1957
+Pulcinella,1973
+Couples and Robbers,1981
+Story of a Dog,1945
+Joy of Living,1953
+The Violinist,1959
+Rip Van Winkle,1978
+The Bicycle Thief,1949
+Noah's Ark,1959
+Shoeshine,1987
+Exit,1986
+Il Divo,2009
+The Beast in the Heart,2005
+Skyscraper,1959
+Everything in This Country Must,2004
+A Gun in His Hand,1945
+My Country 'Tis of Thee,1950
+Bronx Cheers,1990
+Blue Grass Gentlemen,1944
+Golden Horses,1946
+Amazon Diary,1989
+Éramos Pocos (One Too Many),2006
+Tom Thumb,1958
+Voyage to Next,1974
+Character,1997
+The Strauss Fantasy,1954
+A Doonesbury Special,1977
+Duke of Groove,1995
+Killing Joe,1999
+Down on the Waterfront,1993
+The Hill Farm,1989
+Ersatz,1961
+Good Will to Men,1955
+Home-Made Car,1963
+Screen Snapshots' 25th Anniversary,1945
+(A) Torzija,2003
+Mysteries of the Deep,1959
+Pianissimo,1963
+Ernst & Lyset,1996
+Sweethearts?,1997
+Icarus Montgolfier Wright,1962
+Dr. Jekyll and Mr. Mouse,1947
